@@ -1,0 +1,3 @@
+[submodule "bip44-constants"]
+	path = bip44-constants
+	url = https://github.com/bitcoinjs/bip44-constants
