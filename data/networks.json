@@ -1,0 +1,141 @@
+{
+  "ethereum": {
+    "name": "Ethereum network",
+    "is_test_net": false,
+    "is_ethereum": true,
+    "coin": {
+      "symbol": "ETH",
+      "cmc_id": 1027,
+      "slug": "ether",
+      "name": "ether",
+      "name_plural": "ether",
+      "denominator": 1e-18
+    }
+  },
+  "bitcoin": {
+    "name": "Bitcoin network",
+    "is_test_net": false,
+    "fee_max": 1000000,
+    "fee_min": 1024,
+    "dust_amount": 1000,
+    "coin": {
+      "symbol": "BTC",
+      "symbol_ascii": "\u0e3f",
+      "cmc_id": 1,
+      "slug": "bitcoin",
+      "name": "bitcoin",
+      "name_plural": "bitcoins",
+      "denominator": 1e-08
+    },
+    "bip32": {
+      "purpose": "44'",
+      "bip44": {
+        "cointype": "0'"
+      }
+    },
+    "prefixes": {
+      "p2pkh": "00",
+      "p2sh": "05",
+      "bech32": "bc",
+      "wif": "80"
+    },
+    "keys_wif": [
+      [
+        "0488B21E",
+        "xpub",
+        "public",
+        false,
+        "legacy",
+        "p2pkh"
+      ],
+      [
+        "0488B21E",
+        "xpub",
+        "public",
+        true,
+        "legacy",
+        "p2sh"
+      ],
+      [
+        "0488ADE4",
+        "xprv",
+        "private",
+        false,
+        "legacy",
+        "p2pkh"
+      ],
+      [
+        "0488ADE4",
+        "xprv",
+        "private",
+        true,
+        "legacy",
+        "p2sh"
+      ],
+      [
+        "049D7CB2",
+        "ypub",
+        "public",
+        false,
+        "p2sh-segwit",
+        "p2sh_p2wpkh"
+      ],
+      [
+        "0295B43F",
+        "Ypub",
+        "public",
+        true,
+        "p2sh-segwit",
+        "p2sh_p2wsh"
+      ],
+      [
+        "049D7878",
+        "yprv",
+        "private",
+        false,
+        "p2sh-segwit",
+        "p2sh_p2wpkh"
+      ],
+      [
+        "0295B005",
+        "Yprv",
+        "private",
+        true,
+        "p2sh-segwit",
+        "p2sh_p2wsh"
+      ],
+      [
+        "04B24746",
+        "zpub",
+        "public",
+        false,
+        "segwit",
+        "p2wpkh"
+      ],
+      [
+        "02AA7ED3",
+        "Zpub",
+        "public",
+        true,
+        "segwit",
+        "p2wsh"
+      ],
+      [
+        "04B2430C",
+        "zprv",
+        "private",
+        false,
+        "segwit",
+        "p2wpkh"
+      ],
+      [
+        "02AA7A99",
+        "Zprv",
+        "private",
+        true,
+        "segwit",
+        "p2wsh"
+      ]
+    ]
+  }
+}

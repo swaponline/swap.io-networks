@@ -6,7 +6,6 @@ services:
       - "127.0.0.1:5011:5011"
     volumes:
       - .:/app
-      - ./../data/networks:/data/networks
-      - ./../data/coins:/data/coins
+      - ./../src:/src
     environment:
       FLASK_ENV: development
