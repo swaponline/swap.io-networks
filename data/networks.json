@@ -10,6 +10,12 @@
       "name": "ether",
       "name_plural": "ether",
       "denominator": 1e-18
+    },
+    "bip32": {
+      "purpose": "44'",
+      "bip44": {
+        "cointype": "60'"
+      }
     }
   },
   "bitcoin": {
