@@ -16,6 +16,11 @@
       "bip44": {
         "cointype": "60'"
       }
+    },
+    "prefixes": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "p2pkh": "00",
+      "wif": "80"
     }
   },
   "bitcoin": {
@@ -40,6 +45,7 @@
       }
     },
     "prefixes": {
+      "message": "\u0018Bitcoin Signed Message:\n",
       "p2pkh": "00",
       "p2sh": "05",
       "bech32": "bc",
