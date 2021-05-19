@@ -4,3 +4,6 @@
 [submodule "cryptocurrency-icons"]
 	path = cryptocurrency-icons
 	url = https://github.com/spothq/cryptocurrency-icons.git
+[submodule "bip39"]
+	path = bip39
+	url = https://github.com/iancoleman/bip39

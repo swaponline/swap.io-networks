@@ -1,21 +1,31 @@
+
 {
   "ethereum": {
     "name": "Ethereum network",
-    "is_test_net": false,
+    "is_testnet": false,
     "is_ethereum": true,
+    "priority": 2,
     "coin": {
       "symbol": "ETH",
-      "cmc_id": 1027,
       "slug": "ether",
       "name": "ether",
       "name_plural": "ether",
       "denominator": 1e-18
     },
+    "createKeyPair": {
+    },
     "bip32": {
+      "default": true,
       "purpose": "44'",
-      "bip44": {
-        "cointype": "60'"
-      }
+      "cointype": "60'"
+    },
+    "bip44": {
+      "default": true,
+      "purpose": "44'",
+      "cointype": "60'",
+      "account": "0'",
+      "change": "0",
+      "index": "0'"
     },
     "prefixes": {
       "message": "\u0019Ethereum Signed Message:\n",
@@ -25,22 +35,22 @@
   },
   "bitcoin": {
     "name": "Bitcoin network",
-    "is_test_net": false,
+    "is_testnet": false,
     "fee_max": 1000000,
     "fee_min": 1024,
     "dust_amount": 1000,
+    "priority": 1,
     "coin": {
       "symbol": "BTC",
-      "symbol_ascii": "\u0e3f",
-      "cmc_id": 1,
       "slug": "bitcoin",
       "name": "bitcoin",
       "name_plural": "bitcoins",
       "denominator": 1e-08
     },
     "bip32": {
-      "purpose": "44'",
       "bip44": {
+        "default": true,
+        "purpose": "44'",
         "cointype": "0'"
       }
     },
@@ -149,5 +159,30 @@
         "p2wsh"
       ]
     ]
+  },
+  "binancecoin": {
+    "name": "Binance Smart Chain",
+    "inherit_from": "bitcoin",
+    "is_testnet": false,
+    "is_ethereum": true,
+    "coin": {
+      "symbol": "BNB",
+      "slug": "binance-coin",
+      "name": "binance coin",
+      "name_plural": "binance coins",
+      "denominator": 1e-18
+    },
+    "bip32": {
+      "bip44": {
+        "default": true,
+        "purpose": "44'",
+        "cointype": "60'"
+      }
+    },
+    "prefixes": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "p2pkh": "00",
+      "wif": "80"
+    }
   }
 }
