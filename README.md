@@ -23,7 +23,7 @@ Here is what a bitcoin key-value looks like:
 ```json
 
 {
-...
+
   "ethereum": {
     "name": "Ethereum network",
     "is_test_net": false,
@@ -50,7 +50,6 @@ Here is what a bitcoin key-value looks like:
       "wif": "80"
     }
   },
-...
 }
 ```
 
