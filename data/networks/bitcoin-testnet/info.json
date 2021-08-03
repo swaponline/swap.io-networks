@@ -1,0 +1,41 @@
+{
+  "parent": "bitcoin",
+  "symbol": "bitcoin-testnet",
+  "name": "Bitcoin Testnet",
+  "priority": 2,
+  "rpc": [
+    {
+      "protocol": "http",
+      "user": "user",
+      "pass": "pass",
+      "host": "127.0.0.1",
+      "port": "18333"
+    }
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "1"
+  },
+  "network": {
+    "type": "testnet",
+    "settings": {
+      "port": 18333,
+      "magic": 185665799,
+      "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+      "base58prefix": {
+        "pubKeyHash": 111,
+        "scriptHash": 196,
+        "privateKeyWIF": 239,
+        "publicKeyBIP32": 70617039,
+        "privateKeyBIP32": 70615956
+      }
+    }
+  },
+  "prefix": {
+    "message": "\u0018Bitcoin Signed Message:\n",
+    "p2pkh": "6f",
+    "p2sh": "c4",
+    "bech32": "tb",
+    "wif": "ef"
+  }
+  }
