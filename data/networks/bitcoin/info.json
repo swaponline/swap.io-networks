@@ -5,6 +5,7 @@
   "fee_max": 1000000,
   "fee_min": 1024,
   "dust_amount": 1000,
+  "isTestnet": true,
   "priority": 1,
   "coin": {
     "symbol": "BTC",

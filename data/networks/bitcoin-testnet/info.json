@@ -2,6 +2,7 @@
   "parent": "bitcoin",
   "symbol": "bitcoin-testnet",
   "name": "Bitcoin Testnet",
+  "isTestnet": true,
   "priority": 2,
   "rpc": [
     {

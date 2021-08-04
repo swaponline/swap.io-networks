@@ -2,6 +2,7 @@
   "type": "evm",
   "symbol": "ethereum",
   "name": "Ethereum network",
+  "isTestnet": false,
   "priority": 3,
   "chainId": "0x1",
   "coin": {
