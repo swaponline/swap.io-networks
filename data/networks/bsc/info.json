@@ -12,6 +12,7 @@
     "name_plural": "Binance Coins",
     "denominator": 1e-18
   },
+  "explorers": ["https://bscscan.com/"],
   "rpc": [
     "https://bsc-dataseed.binance.org/",
     "https://bsc-dataseed1.defibit.io/",

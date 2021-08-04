@@ -14,6 +14,11 @@
     "name_plural": "Bitcoins",
     "denominator": 1e-8
   },
+  "explorers": [
+    "https://www.blockchain.com/btc/",
+    "https://live.blockcypher.com/",
+    "https://blockchair.com/bitcoin/"
+  ],
   "rpc": [
     {
       "protocol": "http",

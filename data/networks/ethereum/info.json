@@ -13,6 +13,11 @@
     "name_plural": "Ethers",
     "denominator": 1e-18
   },
+  "explorers": [
+    "https://etherscan.io/",
+    "https://ethplorer.io/",
+    "https://blockchair.com/ethereum"
+  ],
   "rpc": ["https://mainnet.infura.io/v3/5ffc47f65c4042ce847ef66a3fa70d4c"],
   "bip44": {
     "purpose": "44",
