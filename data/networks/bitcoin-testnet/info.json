@@ -1,6 +1,6 @@
 {
   "parent": "bitcoin",
-  "symbol": "bitcoin-testnet",
+  "slug": "bitcoin-testnet",
   "name": "Bitcoin Testnet",
   "isTestnet": true,
   "priority": 2,

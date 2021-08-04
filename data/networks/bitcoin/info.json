@@ -1,7 +1,7 @@
 {
   "type": "utxo",
-  "symbol": "bitcoin",
-  "name": "Bitcoin network",
+  "slug": "bitcoin",
+  "name": "Bitcoin",
   "fee_max": 1000000,
   "fee_min": 1024,
   "dust_amount": 1000,
@@ -10,8 +10,8 @@
   "coin": {
     "symbol": "BTC",
     "slug": "bitcoin",
-    "name": "bitcoin",
-    "name_plural": "bitcoins",
+    "name": "Bitcoin",
+    "name_plural": "Bitcoins",
     "denominator": 1e-8
   },
   "rpc": [

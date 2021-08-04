@@ -1,7 +1,7 @@
 {
   "parent": "ethereum",
-  "symbol": "ethereum-ropsten",
-  "name": "Ethereum network (Ropsten)",
+  "slug": "ethereum-ropsten",
+  "name": "Ethereum (Ropsten)",
   "isTestnet": true,
   "priority": 4,
   "chainId": "0x3",
