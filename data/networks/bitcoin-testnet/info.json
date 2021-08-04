@@ -1,8 +1,14 @@
 {
   "parent": "bitcoin",
-  "symbol": "bitcoin-testnet",
+  "slug": "bitcoin-testnet",
   "name": "Bitcoin Testnet",
+  "isTestnet": true,
   "priority": 2,
+  "explorers": [
+    "https://www.blockchain.com/btc-testnet/",
+    "https://live.blockcypher.com/btc-testnet/",
+    "https://blockchair.com/bitcoin/testnet/"
+  ],
   "rpc": [
     {
       "protocol": "http",

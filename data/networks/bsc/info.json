@@ -1,0 +1,21 @@
+{
+  "parent": "ethereum",
+  "slug": "binance-smart-chain",
+  "name": "Binance Smart Chain",
+  "priority": 5,
+  "chainId": "0x38",
+  "tokensType": "BEP20",
+  "coin": {
+    "symbol": "BNB",
+    "slug": "binance-coin",
+    "name": "Binance Coin",
+    "name_plural": "Binance Coins",
+    "denominator": 1e-18
+  },
+  "explorers": ["https://bscscan.com/"],
+  "rpc": [
+    "https://bsc-dataseed.binance.org/",
+    "https://bsc-dataseed1.defibit.io/",
+    "https://bsc-dataseed1.ninicoin.io/"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "binance-smart-chain",
+  "slug": "binance-smart-chain-testnet",
+  "name": "Binance Smart Chain Testnet",
+  "isTestnet": true,
+  "priority": 6,
+  "chainId": "0x61",
+  "explorers": ["https://testnet.bscscan.com/"],
+  "rpc": [
+    "https://data-seed-prebsc-1-s1.binance.org:8545/",
+    "https://data-seed-prebsc-2-s1.binance.org:8545/",
+    "https://data-seed-prebsc-1-s2.binance.org:8545/",
+    "https://data-seed-prebsc-2-s2.binance.org:8545/"
+  ]
+}

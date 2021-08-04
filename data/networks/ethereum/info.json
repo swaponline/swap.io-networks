@@ -1,16 +1,23 @@
 {
   "type": "evm",
-  "symbol": "ethereum",
-  "name": "Ethereum network",
+  "slug": "ethereum",
+  "name": "Ethereum",
+  "isTestnet": false,
   "priority": 3,
   "chainId": "0x1",
+  "tokensType": "ERC20",
   "coin": {
     "symbol": "ETH",
     "slug": "ether",
-    "name": "ether",
-    "name_plural": "ether",
+    "name": "Ether",
+    "name_plural": "Ethers",
     "denominator": 1e-18
   },
+  "explorers": [
+    "https://etherscan.io/",
+    "https://ethplorer.io/",
+    "https://blockchair.com/ethereum"
+  ],
   "rpc": ["https://mainnet.infura.io/v3/5ffc47f65c4042ce847ef66a3fa70d4c"],
   "bip44": {
     "purpose": "44",
