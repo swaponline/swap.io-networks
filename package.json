@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/swaponline/swap.io-networks#readme",
   "devDependencies": {
+    "@types/node": "^16.4.12",
+    "bignumber.js": "^9.0.1",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
   }
