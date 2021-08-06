@@ -4,7 +4,8 @@
   "description": "The repo contains the network definitions and  metadata for the different cryptocurrencies,   tokens and their networks.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "updateTokens": "ts-node ./scripts/entrypoint/updateTokens"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
     "bignumber.js": "^9.0.1",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "jsondiffpatch": "^0.4.1"
   }
 }
