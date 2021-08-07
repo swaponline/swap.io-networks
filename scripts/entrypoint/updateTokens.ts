@@ -89,7 +89,7 @@ const syncTokensByNetwork = async (network: string) => {
     if (!token.name || !token.symbol || !token.address || !token.decimals || !token.chainId) {
       errors.push(`Token haven't some prop for add to tokens list`)
     }
-    externakTokensIDs.push(`${token.symbol}::${token.address}`)
+    externakTokensIDs.push(`${token.symbol}--${token.address}`)
   })
 
   if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
