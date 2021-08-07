@@ -23,7 +23,7 @@ export const networkFolderAllowedFiles = [
 export const networksPath: string = path.join(process.cwd(), '/networks')
 export const getNetworkPath = (network: string): string => `${networksPath}/${network}`
 export const allNetworks = readDirSync(networksPath)
-export const getNetworkInfoPath = (network: string): string => `${getNetworkPath(network)}`
+export const getNetworkInfoPath = (network: string): string => `${getNetworkPath(network)}/${infoFullName}`
 export const getNetworkLogoPath = (network: string): string => `${getNetworkInfoPath(network)}/${logoFullName}`
 export const getNetworkCoinInfoPath = (network: string): string => `${getNetworkInfoPath(network)}/${infoFullName}`
 export const getNetworkTokensPath = (network: string): string => `${getNetworkPath(network)}/tokens`

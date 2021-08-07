@@ -9,6 +9,7 @@ import {
   tokenFolderAllowedFiles,
   getNetworkFolderFilesList,
   networkFolderAllowedFiles,
+  getNetworkInfoPath,
 } from "../common/repo-structure"
 import {
   readDirSync,
@@ -51,6 +52,10 @@ const syncTokensByNetwork = async (network: string) => {
   const tokenIDs: string[] = []
   const tokens: {}[] = []
 
+  const networkInfo = getNetworkInfo(network)
+
+  console.log('networkInfo', networkInfo)
+
   const tokensPath = getNetworkTokensPath(network)
   if (isPathExistsSync(tokensPath)) {
     tokenIDs.push(...readDirSync(tokensPath))
@@ -76,7 +81,29 @@ const syncTokensByNetwork = async (network: string) => {
   const externalTokensList = await getExternalTokensList('https://api.borgswap.exchange/tokens.json')
 
   console.log('externalTokensList number', externalTokensList.tokens.length)
+  const tokenInfo = {
+    "name": "Tether USD",
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": ["bep20", "custom"]
+  }
 
+
+}
+
+const getNetworkInfo = (network: string) => {
+  const networkPath = getNetworkPath(network)
+  console.log('networkPath', networkPath)
+  if (isPathExistsSync(networkPath)) {
+    const networkInfoPath = getNetworkInfoPath(network)
+    console.log('networkInfoPath', networkInfoPath)
+    return readJsonFile(networkInfoPath)
+  } else {
+    throw new Error(`Can't find ${network} network`)
+  }
 
 }
 
