@@ -1,9 +1,0 @@
-{
-  "name": "BTCB Token",
-  "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-  "type": "BEP20",
-  "symbol": "BTCB",
-  "decimals": 18,
-  "chainId": 56,
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Tether USD",
-  "address": "0x348236484ce96a293e210260b90bbfb228d6d1fc",
-  "type": "BEP20",
-  "symbol": "USDT",
-  "decimals": 6,
-  "chainId": 97,
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-}
