@@ -20,8 +20,8 @@ import axios from "axios"
 
 interface IGetFullNetworkInfoParams {
   network: string,
-  extendedNetworkInfo: { [name:string]: any } | null,
-  cycleExtendDetector: { [network: string]: boolean }
+  extendedNetworkInfo?: { [name: string]: any } | null,
+  cycleExtendDetector?: { [network: string]: boolean }
 }
 
 const main = async () => {
@@ -55,17 +55,17 @@ const syncTokensByNetwork = async (network: string) => {
   const errors: string[] = []
   const warnings: string[] = []
 
-  const tokenIDs: string[] = []
+  const tokensIDs: string[] = []
   const tokens: {}[] = []
 
-  const networkInfo = getFullNetworkInfo({ network, extendedNetworkInfo: null, cycleExtendDetector: {} })
+  const networkInfo = getFullNetworkInfo({ network })
 
   console.log('networkInfo', networkInfo)
 
   const tokensPath = getNetworkTokensPath(network)
   if (isPathExistsSync(tokensPath)) {
-    tokenIDs.push(...readDirSync(tokensPath))
-    tokenIDs.forEach(tokenID => {
+    tokensIDs.push(...readDirSync(tokensPath))
+    tokensIDs.forEach(tokenID => {
       const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
       const logoExists = isPathExistsSync(logoFullPath)
       const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
@@ -79,14 +79,25 @@ const syncTokensByNetwork = async (network: string) => {
     warnings.push(`${network} have not any assets`)
   }
 
-  if (tokenIDs.length) console.log('tokenIDs number', tokenIDs.length)
-  if (tokens.length) console.log('tokens number', tokens.length)
-  if (warnings.length) console.log('warnings', warnings)
-  if (errors.length) console.log('errors', errors)
-
   const externalTokensList = await getExternalTokensList('https://api.borgswap.exchange/tokens.json')
 
   console.log('externalTokensList number', externalTokensList.tokens.length)
+
+  const externakTokensIDs: string[] = []
+
+  externalTokensList.tokens.forEach((token: any) => {
+    if (!token.name || !token.symbol || !token.address || !token.decimals || !token.chainId) {
+      errors.push(`Token haven't some prop for add to tokens list`)
+    }
+    externakTokensIDs.push(`${token.symbol}::${token.address}`)
+  })
+
+  if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
+  if (tokens.length) console.log('tokens number', tokens.length)
+  if (externakTokensIDs.length) console.log('externakTokensIDs', externakTokensIDs)
+  if (warnings.length) console.log('warnings', warnings)
+  if (errors.length) console.log('errors', errors)
+
   const tokenInfo = {
     "name": "Tether USD",
     "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -103,8 +114,8 @@ const syncTokensByNetwork = async (network: string) => {
 const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): any => {
   const {
     network,
-    extendedNetworkInfo,
-    cycleExtendDetector
+    extendedNetworkInfo = null,
+    cycleExtendDetector = {}
   } = params
 
   const networkInfo = extendedNetworkInfo || getNetworkInfo(network)
@@ -157,4 +168,4 @@ const getExternalTokensList = async (url: string) => {
 
 // main()
 
-syncTokensByNetwork('binance-smart-chain-testnet')
+syncTokensByNetwork('binance-smart-chain')

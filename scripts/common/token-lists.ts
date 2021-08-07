@@ -72,14 +72,6 @@ export class Pair {
     }
 }
 
-///// Exclude/Include list token/pair matching
-
-// A token or pair in the force exclude/include list
-export class ForceListPair {
-    token1: string;
-    // second is optional, if empty --> token only, if set --> pair
-    token2: string;
-}
 
 export function createTokensList(titleCoin: string, tokens: TokenItem[], time: string, versionMajor: number, versionMinor = 1, versionPatch = 0): List {
     if (!time) {
