@@ -18,6 +18,12 @@ import {
 import { readJsonFile, formatJson } from "../common/json"
 import axios from "axios"
 
+interface IGetFullNetworkInfoParams {
+  network: string,
+  extendedNetworkInfo: { [name:string]: any } | null,
+  cycleExtendDetector: { [network: string]: boolean }
+}
+
 const main = async () => {
   const errors: string[] = []
   const warnings: string[] = []
@@ -52,7 +58,7 @@ const syncTokensByNetwork = async (network: string) => {
   const tokenIDs: string[] = []
   const tokens: {}[] = []
 
-  const networkInfo = getNetworkInfo(network)
+  const networkInfo = getFullNetworkInfo({ network, extendedNetworkInfo: null, cycleExtendDetector: {} })
 
   console.log('networkInfo', networkInfo)
 
@@ -94,12 +100,45 @@ const syncTokensByNetwork = async (network: string) => {
 
 }
 
-const getNetworkInfo = (network: string) => {
+const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): any => {
+  const {
+    network,
+    extendedNetworkInfo,
+    cycleExtendDetector
+  } = params
+
+  const networkInfo = extendedNetworkInfo || getNetworkInfo(network)
+
+  if (networkInfo.parent) {
+    if (cycleExtendDetector[networkInfo.parent]) {
+      throw new Error(`Cycle extend config detected`)
+    } else {
+      const parentInfo = getNetworkInfo(networkInfo.parent)
+      const extendedInfo = {
+        ...parentInfo,
+        ...networkInfo,
+        parent: parentInfo.parent,
+      }
+      if (extendedInfo.parent) {
+        cycleExtendDetector[networkInfo.parent] = true
+        return getFullNetworkInfo({
+          network: extendedInfo.slug,
+          extendedNetworkInfo: extendedInfo,
+          cycleExtendDetector
+        })
+      } else {
+        return extendedInfo
+      }
+    }
+  } else {
+    return networkInfo
+  }
+}
+
+const getNetworkInfo = (network: string): any => {
   const networkPath = getNetworkPath(network)
-  console.log('networkPath', networkPath)
   if (isPathExistsSync(networkPath)) {
     const networkInfoPath = getNetworkInfoPath(network)
-    console.log('networkInfoPath', networkInfoPath)
     return readJsonFile(networkInfoPath)
   } else {
     throw new Error(`Can't find ${network} network`)
@@ -118,4 +157,4 @@ const getExternalTokensList = async (url: string) => {
 
 // main()
 
-syncTokensByNetwork('binance-smart-chain')
+syncTokensByNetwork('binance-smart-chain-testnet')
