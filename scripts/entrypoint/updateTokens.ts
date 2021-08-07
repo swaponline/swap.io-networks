@@ -25,15 +25,15 @@ const main = async () => {
     const tokensPath = getNetworkTokensPath(network)
     console.log('tokensPath', tokensPath)
     if (isPathExistsSync(tokensPath)) {
-      readDirSync(tokensPath).forEach(symbolAndAddress => {
-        const logoFullPath = getNetworkTokenLogoPath(network, symbolAndAddress)
+      readDirSync(tokensPath).forEach(tokenID => {
+        const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
         const logoExists = isPathExistsSync(logoFullPath)
-        const infoFullPath = getNetworkTokenInfoPath(network, symbolAndAddress)
+        const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
         const infoExists = isPathExistsSync(infoFullPath)
         // Tokens should have a logo and an info file.  Exceptions:
         // - status=spam tokens may have no logo
         // - on some networks some valid tokens have no info (should be fixed)
-        console.log('network and token', network, symbolAndAddress)
+        console.log('network and token', network, tokenID)
         console.log('logoExists', logoExists)
         console.log('infoExists', infoExists)
         const tokenInfo: any = readJsonFile(infoFullPath)
@@ -44,7 +44,7 @@ const main = async () => {
   console.log('errors, warnings', errors, warnings)
 }
 
-const updateNetworkTokens = async (network: string) => {
+const syncTokensByNetwork = async (network: string) => {
   const errors: string[] = []
   const warnings: string[] = []
   const tokens: {}[] = []
@@ -52,12 +52,12 @@ const updateNetworkTokens = async (network: string) => {
   const tokensPath = getNetworkTokensPath(network)
   console.log('tokensPath', tokensPath)
   if (isPathExistsSync(tokensPath)) {
-    const symbolsAndAddresses = readDirSync(tokensPath)
-    console.log('symbolsAndAddresses',symbolsAndAddresses)
-    symbolsAndAddresses.forEach(symbolAndAddress => {
-      const logoFullPath = getNetworkTokenLogoPath(network, symbolAndAddress)
+    const tokenIDs = readDirSync(tokensPath)
+    console.log('tokenIDs',tokenIDs)
+    tokenIDs.forEach(tokenID => {
+      const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
       const logoExists = isPathExistsSync(logoFullPath)
-      const infoFullPath = getNetworkTokenInfoPath(network, symbolAndAddress)
+      const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
         const tokenInfo: any = readJsonFile(infoFullPath)
@@ -68,20 +68,26 @@ const updateNetworkTokens = async (network: string) => {
     warnings.push(`${network} have not any assets`)
   }
 
-  if (tokens.length) console.log('tokens', tokens)
+  if (tokens.length) console.log('tokens number', tokens.length)
   if (warnings.length) console.log('warnings', warnings)
   if (errors.length) console.log('errors', errors)
 
-  try {
-    const response = await axios.get('https://api.borgswap.exchange/tokens.json')
-    console.log(response.data.tokens)
-  } catch (error) {
-    console.error(error)
-  }
+  const externalTokensList = await getExternalTokensList('https://api.borgswap.exchange/tokens.json')
+
+  console.log('externalTokensList number', externalTokensList.tokens.length)
 
 
 }
 
+const getExternalTokensList = async (url: string) => {
+  try {
+    const response = await axios.get(url)
+    return response.data
+  } catch (error) {
+    throw new Error(error)
+  }
+}
+
 // main()
 
-updateNetworkTokens('ethereum-ropsten')
+syncTokensByNetwork('binance-smart-chain')
