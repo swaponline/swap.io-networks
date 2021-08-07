@@ -47,13 +47,13 @@ const main = async () => {
 const syncTokensByNetwork = async (network: string) => {
   const errors: string[] = []
   const warnings: string[] = []
+
+  const tokenIDs: string[] = []
   const tokens: {}[] = []
 
   const tokensPath = getNetworkTokensPath(network)
-  console.log('tokensPath', tokensPath)
   if (isPathExistsSync(tokensPath)) {
-    const tokenIDs = readDirSync(tokensPath)
-    console.log('tokenIDs',tokenIDs)
+    tokenIDs.push(...readDirSync(tokensPath))
     tokenIDs.forEach(tokenID => {
       const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
       const logoExists = isPathExistsSync(logoFullPath)
@@ -68,6 +68,7 @@ const syncTokensByNetwork = async (network: string) => {
     warnings.push(`${network} have not any assets`)
   }
 
+  if (tokenIDs.length) console.log('tokenIDs number', tokenIDs.length)
   if (tokens.length) console.log('tokens number', tokens.length)
   if (warnings.length) console.log('warnings', warnings)
   if (errors.length) console.log('errors', errors)
