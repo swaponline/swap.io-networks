@@ -4,6 +4,6 @@
   "symbol": "USDT",
   "decimals": 18,
   "chainId": 56,
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-  "tags": ["bep20", "custom"]
+  "logo": "./networks/binance-smart-chain/tokens/USDT--0x55d398326f99059ff775485246999027b3197955/logo.svg",
+  "tags": ["bep20"]
 }

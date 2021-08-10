@@ -4,6 +4,6 @@
   "symbol": "WBTC",
   "decimals": 8,
   "chainId": 1,
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-  "tags": ["erc20", "custom"]
+  "logo": "./networks/ethereum/tokens/WBTC--0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.svg",
+  "tags": ["erc20"]
 }

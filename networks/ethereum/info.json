@@ -11,7 +11,8 @@
     "slug": "ether",
     "name": "Ether",
     "name_plural": "Ethers",
-    "denominator": 1e-18
+    "denominator": 1e-18,
+    "logo": "./networks/ethereum/logo.svg"
   },
   "explorers": [
     "https://etherscan.io/",
