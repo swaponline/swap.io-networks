@@ -16,6 +16,7 @@ import {
   readDirSync,
   writeFileSync,
   isPathExistsSync,
+  createDirSync,
   saveLogo
 } from "../common/filesystem"
 import { readJsonFile } from "../common/json"
@@ -99,6 +100,7 @@ const syncTokensByNetwork = async (network: string) => {
     if (tokensIDs.includes(tokenID)) return
 
     const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
+    createDirSync(getAbsolutePath(tokenPath))
 
     let logoPath = ''
     if (logoURI) {
@@ -121,7 +123,7 @@ const syncTokensByNetwork = async (network: string) => {
     externalTokensIDs.push(tokenID)
     externalFilteredTokens[tokenID] = tokenInfo
 
-    writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)
+    writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), JSON.stringify(tokenInfo))
   })
 
   console.log('externalFilteredTokens', externalFilteredTokens)
