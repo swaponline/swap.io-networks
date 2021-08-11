@@ -5,11 +5,11 @@ import {
 import { CheckStepInterface, ActionInterface } from "../common/interface"
 import {
   allNetworks,
-  getNetworkLogoPath,
+  getNetworkLogoPaths,
   getNetworkTokenInfoPath,
   getNetworkTokensPath,
   getNetworkTokenPath,
-  getNetworkTokenLogoPath,
+  getNetworkTokenLogoPaths,
   tokenFolderAllowedFiles,
   getNetworkFolderFilesList,
   networkFolderAllowedFiles,
@@ -48,9 +48,10 @@ export class FoldersFiles implements ActionInterface {
         check: async () => {
           const errors: string[] = []
           await PromiseEach(allNetworks, async (network) => {
-            const networkLogoPath = getNetworkLogoPath(network)
-            if (!isPathExistsSync(networkLogoPath)) {
-              errors.push(`File missing at path "${networkLogoPath}"`)
+            const networkLogoPaths = getNetworkLogoPaths(network)
+            const logoExists = !!networkLogoPaths.filter(networkLogoPath => isPathExistsSync(networkLogoPath)).length
+            if (!logoExists) {
+              errors.push(`File missing at paths: "${networkLogoPaths.join(", ")}"`)
             }
           })
           return [errors, []]
@@ -65,8 +66,8 @@ export class FoldersFiles implements ActionInterface {
             const tokensPath = getNetworkTokensPath(network)
             if (isPathExistsSync(tokensPath)) {
               readDirSync(tokensPath).forEach(address => {
-                const logoFullPath = getNetworkTokenLogoPath(network, address)
-                const logoExists = isPathExistsSync(logoFullPath)
+                const logoFullPaths = getNetworkTokenLogoPaths(network, address)
+                const logoExists = !!logoFullPaths.filter(logoFullPath => isPathExistsSync(logoFullPath)).length
                 const infoFullPath = getNetworkTokenInfoPath(network, address)
                 const infoExists = isPathExistsSync(infoFullPath)
                 // Tokens should have a logo and an info file.  Exceptions:
@@ -87,7 +88,7 @@ export class FoldersFiles implements ActionInterface {
                   if (!logoExists && infoExists) {
                     const info: unknown = readJsonFile(infoFullPath)
                     if (!info['status'] || info['status'] !== 'spam') {
-                      const msg = `Missing logo file for non-spam token '${network}/${address}' -- ${logoFullPath}`
+                      const msg = `Missing logo file for non-spam token '${network}/${address}' -- ${logoFullPaths.join(", ")}`
                       console.log(msg)
                       errors.push(msg)
                     }

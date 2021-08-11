@@ -4,7 +4,7 @@ import { readJsonFile, writeJsonFile } from "../common/json";
 import { diff } from "jsondiffpatch";
 // import { tokenInfoFromTwApi, TokenTwInfo } from "../common/token";
 import {
-    getNetworkTokenLogoPath,
+    getNetworkTokenLogoPaths,
     getNetworkTokenlistPath,
 } from "../common/repo-structure";
 import { isPathExistsSync } from "../common/filesystem";
@@ -129,9 +129,10 @@ async function updateTokenInfo(token: TokenItem): Promise<TokenItem> {
 }
 
 function checkTokenExists(id: string, networkName: string, ): boolean {
-    const logoPath = getNetworkTokenLogoPath(networkName, id);
+    const logoPaths = getNetworkTokenLogoPaths(networkName, id)
+    const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
     // add check info.json
-    if (!isPathExistsSync(logoPath)) {
+    if (logoExists) {
         //console.log("logo file missing", logoPath);
         return false;
     }

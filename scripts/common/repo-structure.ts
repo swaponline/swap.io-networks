@@ -6,17 +6,17 @@ import {
 
 export const logoName = `logo`
 export const infoName = `info`
-export const logoExtension = "svg"
+export const logoExtensions = ["svg", "png"]
 export const jsonExtension = "json"
-export const logoFullName = `${logoName}.${logoExtension}`
+export const logoFullNames = logoExtensions.map(logoExtension => `${logoName}.${logoExtension}`)
 export const infoFullName = `${infoName}.${jsonExtension}`
 const tokenList = `tokenlist.${jsonExtension}`
 
-export const tokenFolderAllowedFiles = [logoFullName, infoFullName]
+export const tokenFolderAllowedFiles = [...logoFullNames, infoFullName]
 export const networkFolderAllowedFiles = [
   "tokens",
   tokenList,
-  logoFullName,
+  ...logoFullNames,
   infoFullName
 ]
 
@@ -24,11 +24,11 @@ export const networksPath: string = path.join(process.cwd(), '/networks')
 export const getNetworkPath = (network: string): string => `${networksPath}/${network}`
 export const allNetworks = readDirSync(networksPath)
 export const getNetworkInfoPath = (network: string): string => `${getNetworkPath(network)}/${infoFullName}`
-export const getNetworkLogoPath = (network: string): string => `${getNetworkInfoPath(network)}/${logoFullName}`
+export const getNetworkLogoPaths = (network: string): string[] => logoFullNames.map(logoFullName => `${getNetworkInfoPath(network)}/${logoFullName}`)
 export const getNetworkCoinInfoPath = (network: string): string => `${getNetworkInfoPath(network)}/${infoFullName}`
 export const getNetworkTokensPath = (network: string): string => `${getNetworkPath(network)}/tokens`
 export const getNetworkTokenPath = (network: string, token: string): string => `${getNetworkTokensPath(network)}/${token}`
-export const getNetworkTokenLogoPath = (network: string, token: string): string => `${getNetworkTokenPath(network, token)}/${logoFullName}`
+export const getNetworkTokenLogoPaths = (network: string, token: string): string[] => logoFullNames.map(logoFullName => `${getNetworkTokenPath(network, token)}/${logoFullName}`)
 export const getNetworkTokenInfoPath = (network: string, token: string): string => `${getNetworkTokenPath(network, token)}/${infoFullName}`
 export const getNetworkTokenlistPath = (network: string): string => `${getNetworkPath(network)}/${tokenList}`
 

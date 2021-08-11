@@ -1,6 +1,7 @@
 import * as fs from "fs"
 import * as path from "path"
 import { execSync } from "child_process"
+import axios from "axios"
 
 export const getFileName = (name: string): string => path.basename(name, path.extname(name))
 export const getFileExt = (name: string): string => name.slice((Math.max(0, name.lastIndexOf(".")) || Infinity) + 1)
@@ -40,4 +41,18 @@ export function findFiles(base: string, ext: string, files: string[] = [], resul
     }
   })
   return result
- }
+}
+
+export const saveLogo = (url: string, imagePath: string) =>
+  axios({
+    url,
+    responseType: 'stream',
+  }).then(
+    response =>
+      new Promise((resolve, reject) => {
+        response.data
+          .pipe(fs.createWriteStream(imagePath))
+          .on('finish', () => resolve('finish'))
+          .on('error', e => reject(e))
+      }),
+  )

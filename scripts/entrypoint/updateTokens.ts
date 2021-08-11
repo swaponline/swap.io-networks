@@ -1,11 +1,11 @@
 import {
   allNetworks,
   getNetworkPath,
-  getNetworkLogoPath,
+  getNetworkLogoPaths,
   getNetworkTokenInfoPath,
   getNetworkTokensPath,
   getNetworkTokenPath,
-  getNetworkTokenLogoPath,
+  getNetworkTokenLogoPaths,
   tokenFolderAllowedFiles,
   getNetworkFolderFilesList,
   networkFolderAllowedFiles,
@@ -29,8 +29,8 @@ const main = async () => {
     console.log('tokensPath', tokensPath)
     if (isPathExistsSync(tokensPath)) {
       readDirSync(tokensPath).forEach(tokenID => {
-        const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
-        const logoExists = isPathExistsSync(logoFullPath)
+        const logoPaths = getNetworkTokenLogoPaths(network, tokenID)
+        const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
         const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
         const infoExists = isPathExistsSync(infoFullPath)
         // Tokens should have a logo and an info file.  Exceptions:
@@ -62,8 +62,8 @@ const syncTokensByNetwork = async (network: string) => {
   if (isPathExistsSync(tokensPath)) {
     tokensIDs.push(...readDirSync(tokensPath))
     tokensIDs.forEach(tokenID => {
-      const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
-      const logoExists = isPathExistsSync(logoFullPath)
+      const logoPaths = getNetworkTokenLogoPaths(network, tokenID)
+      const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
       const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
