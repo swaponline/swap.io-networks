@@ -1,1 +1,11 @@
-{"name":"Wrapped BNB","address":"0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd","symbol":"WBNB","decimals":18,"chainId":97,"logo":"/networks/binance-smart-chain-testnet/tokens/WBNB--0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd/logo.png","tags":["bep20"]}
+{
+  "name": "Wrapped BNB",
+  "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/WBNB--0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

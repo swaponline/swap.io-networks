@@ -1,1 +1,11 @@
-{"name":"BTCB Token","address":"0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8","symbol":"BTCB","decimals":18,"chainId":97,"logo":"/networks/binance-smart-chain-testnet/tokens/BTCB--0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8/logo.png","tags":["bep20"]}
+{
+  "name": "BTCB Token",
+  "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+  "symbol": "BTCB",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/BTCB--0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

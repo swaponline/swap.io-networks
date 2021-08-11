@@ -123,7 +123,7 @@ const syncTokensByNetwork = async (network: string) => {
     externalTokensIDs.push(tokenID)
     externalFilteredTokens[tokenID] = tokenInfo
 
-    writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), JSON.stringify(tokenInfo))
+    writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), JSON.stringify(tokenInfo, null, 2))
   })
 
   console.log('externalFilteredTokens', externalFilteredTokens)

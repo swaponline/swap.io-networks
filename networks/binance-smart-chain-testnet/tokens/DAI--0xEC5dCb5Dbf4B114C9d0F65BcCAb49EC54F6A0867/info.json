@@ -1,1 +1,11 @@
-{"name":"Dai Token","address":"0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867","symbol":"DAI","decimals":18,"chainId":97,"logo":"/networks/binance-smart-chain-testnet/tokens/DAI--0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867/logo.png","tags":["bep20"]}
+{
+  "name": "Dai Token",
+  "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+  "symbol": "DAI",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/DAI--0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}
