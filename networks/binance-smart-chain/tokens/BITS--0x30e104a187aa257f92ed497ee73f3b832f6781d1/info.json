@@ -1,0 +1,11 @@
+{
+  "name": "Bits Finance",
+  "address": "0x30e104a187aa257f92ed497ee73f3b832f6781d1",
+  "symbol": "BITS",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BITS--0x30e104a187aa257f92ed497ee73f3b832f6781d1/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

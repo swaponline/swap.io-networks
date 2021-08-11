@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap",
+  "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+  "symbol": "UNI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/UNI--0xbf5140a22578168fd562dccf235e5d43a02ce9b1/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

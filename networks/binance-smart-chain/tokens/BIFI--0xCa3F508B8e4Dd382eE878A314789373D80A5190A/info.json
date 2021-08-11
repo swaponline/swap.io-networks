@@ -1,0 +1,11 @@
+{
+  "name": "beefy.finance",
+  "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+  "symbol": "BIFI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BIFI--0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Romulans Token",
+  "address": "0x1103ded5171c2f4e920fb95c2b28b8c94006ea6f",
+  "symbol": "ROMS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ROMS--0x1103ded5171c2f4e920fb95c2b28b8c94006ea6f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

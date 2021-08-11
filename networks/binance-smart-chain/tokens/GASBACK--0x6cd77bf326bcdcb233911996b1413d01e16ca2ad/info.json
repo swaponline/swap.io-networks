@@ -1,0 +1,11 @@
+{
+  "name": "GasBack Token",
+  "address": "0x6cd77bf326bcdcb233911996b1413d01e16ca2ad",
+  "symbol": "GASBACK",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/GASBACK--0x6cd77bf326bcdcb233911996b1413d01e16ca2ad/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

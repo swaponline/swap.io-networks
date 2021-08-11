@@ -1,0 +1,11 @@
+{
+  "name": "AUTO Farm",
+  "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+  "symbol": "AUTO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/AUTO--0xa184088a740c695e156f91f5cc086a06bb78b827/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

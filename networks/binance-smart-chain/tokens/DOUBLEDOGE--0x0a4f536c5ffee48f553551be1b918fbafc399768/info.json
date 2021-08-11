@@ -1,0 +1,11 @@
+{
+  "name": "DoubleDoge",
+  "address": "0x0a4f536c5ffee48f553551be1b918fbafc399768",
+  "symbol": "DOUBLEDOGE",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DOUBLEDOGE--0x0a4f536c5ffee48f553551be1b918fbafc399768/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UST Token",
+  "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+  "symbol": "UST",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cF899Ca06c4472205fC903bDB4de249D6fC/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

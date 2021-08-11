@@ -1,0 +1,11 @@
+{
+  "name": "Beacon ETH",
+  "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+  "symbol": "BETH",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BETH--0x250632378e573c6be1ac2f97fcdf00515d0aa91b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

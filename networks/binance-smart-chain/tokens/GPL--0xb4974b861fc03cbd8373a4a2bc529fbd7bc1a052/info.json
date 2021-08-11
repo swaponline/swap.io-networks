@@ -1,0 +1,11 @@
+{
+  "name": "GPL Token",
+  "address": "0xb4974b861fc03cbd8373a4a2bc529fbd7bc1a052",
+  "symbol": "GPL",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/GPL--0xb4974b861fc03cbd8373a4a2bc529fbd7bc1a052/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Venus",
+  "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+  "symbol": "XVS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/XVS--0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

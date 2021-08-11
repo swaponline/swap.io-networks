@@ -1,0 +1,11 @@
+{
+  "name": "Seven of Nine",
+  "address": "0x42005019380e640d2caa523c3e837df5f5c72114",
+  "symbol": "SON",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SON--0x42005019380e640d2caa523c3e837df5f5c72114/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

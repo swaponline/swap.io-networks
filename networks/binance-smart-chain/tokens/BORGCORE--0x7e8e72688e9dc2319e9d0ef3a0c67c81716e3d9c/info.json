@@ -1,0 +1,11 @@
+{
+  "name": "BORGCORE",
+  "address": "0x7e8e72688e9dc2319e9d0ef3a0c67c81716e3d9c",
+  "symbol": "BORGCORE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BORGCORE--0x7e8e72688e9dc2319e9d0ef3a0c67c81716e3d9c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

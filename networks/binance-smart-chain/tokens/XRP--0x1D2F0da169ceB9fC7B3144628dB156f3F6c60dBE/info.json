@@ -1,0 +1,11 @@
+{
+  "name": "XRP Token",
+  "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+  "symbol": "XRP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/XRP--0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

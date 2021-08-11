@@ -1,0 +1,11 @@
+{
+  "name": "Cactus Finance",
+  "address": "0xb1f198ff6e2bcfc42ddd9234974f7025463230f4",
+  "symbol": "CAS",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CAS--0xb1f198ff6e2bcfc42ddd9234974f7025463230f4/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

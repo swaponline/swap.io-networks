@@ -1,0 +1,11 @@
+{
+  "name": "Band Protocol Token",
+  "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+  "symbol": "BAND",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BAND--0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

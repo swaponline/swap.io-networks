@@ -1,0 +1,11 @@
+{
+  "name": "Ferengi Vaults",
+  "address": "0x0EC4B89462557150302AC6e81270a081F2e3BD20",
+  "symbol": "EARS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/EARS--0x0EC4B89462557150302AC6e81270a081F2e3BD20/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

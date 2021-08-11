@@ -1,0 +1,11 @@
+{
+  "name": "Cardassians Token",
+  "address": "0xfba98b36962133dd6d65ef7cc2054be67559d5ac",
+  "symbol": "CAR",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CAR--0xfba98b36962133dd6d65ef7cc2054be67559d5ac/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

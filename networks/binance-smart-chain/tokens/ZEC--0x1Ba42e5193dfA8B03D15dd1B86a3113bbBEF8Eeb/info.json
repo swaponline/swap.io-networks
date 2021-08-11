@@ -1,0 +1,11 @@
+{
+  "name": "Zcash Token",
+  "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+  "symbol": "ZEC",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

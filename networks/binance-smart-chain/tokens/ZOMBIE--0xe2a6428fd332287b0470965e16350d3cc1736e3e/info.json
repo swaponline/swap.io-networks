@@ -1,0 +1,11 @@
+{
+  "name": "Zombie Finance",
+  "address": "0xe2a6428fd332287b0470965e16350d3cc1736e3e",
+  "symbol": "ZOMBIE",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ZOMBIE--0xe2a6428fd332287b0470965e16350d3cc1736e3e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

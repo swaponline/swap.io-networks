@@ -1,0 +1,11 @@
+{
+  "name": "RFIBSC Token",
+  "address": "0x122bf64edc48d1fb0c08f6c2bd7bbee5c3546038",
+  "symbol": "RFIBSC",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/RFIBSC--0x122bf64edc48d1fb0c08f6c2bd7bbee5c3546038/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}
