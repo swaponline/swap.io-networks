@@ -15,14 +15,10 @@ import {
   readDirSync,
   isPathExistsSync
 } from "../common/filesystem"
-import { readJsonFile, formatJson } from "../common/json"
+import { readJsonFile } from "../common/json"
+import { getFullNetworkInfo } from "../common/networks"
 import axios from "axios"
 
-interface IGetFullNetworkInfoParams {
-  network: string,
-  extendedNetworkInfo?: { [name: string]: any } | null,
-  cycleExtendDetector?: { [network: string]: boolean }
-}
 
 const main = async () => {
   const errors: string[] = []
@@ -108,52 +104,6 @@ const syncTokensByNetwork = async (network: string) => {
     "tags": ["bep20", "custom"]
   }
 
-
-}
-
-const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): any => {
-  const {
-    network,
-    extendedNetworkInfo = null,
-    cycleExtendDetector = {}
-  } = params
-
-  const networkInfo = extendedNetworkInfo || getNetworkInfo(network)
-
-  if (networkInfo.parent) {
-    if (cycleExtendDetector[networkInfo.parent]) {
-      throw new Error(`Cycle extend config detected`)
-    } else {
-      const parentInfo = getNetworkInfo(networkInfo.parent)
-      const extendedInfo = {
-        ...parentInfo,
-        ...networkInfo,
-        parent: parentInfo.parent,
-      }
-      if (extendedInfo.parent) {
-        cycleExtendDetector[networkInfo.parent] = true
-        return getFullNetworkInfo({
-          network: extendedInfo.slug,
-          extendedNetworkInfo: extendedInfo,
-          cycleExtendDetector
-        })
-      } else {
-        return extendedInfo
-      }
-    }
-  } else {
-    return networkInfo
-  }
-}
-
-const getNetworkInfo = (network: string): any => {
-  const networkPath = getNetworkPath(network)
-  if (isPathExistsSync(networkPath)) {
-    const networkInfoPath = getNetworkInfoPath(network)
-    return readJsonFile(networkInfoPath)
-  } else {
-    throw new Error(`Can't find ${network} network`)
-  }
 
 }
 
