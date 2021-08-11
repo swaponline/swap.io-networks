@@ -12,7 +12,7 @@
     "name": "Ether",
     "name_plural": "Ethers",
     "denominator": 1e-18,
-    "logo": "./networks/ethereum/logo.svg"
+    "logo": "/networks/ethereum/logo.svg"
   },
   "explorers": [
     "https://etherscan.io/",

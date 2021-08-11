@@ -53,6 +53,6 @@ export const saveLogo = (url: string, imagePath: string) =>
         response.data
           .pipe(fs.createWriteStream(imagePath))
           .on('finish', () => resolve('finish'))
-          .on('error', e => reject(e))
+          .on('error', (e: any) => reject(e))
       }),
   )

@@ -4,6 +4,6 @@
   "symbol": "BTCB",
   "decimals": 18,
   "chainId": 56,
-  "logo": "./networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
+  "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
   "tags": ["bep20"]
 }

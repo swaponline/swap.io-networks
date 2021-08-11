@@ -4,6 +4,6 @@
   "symbol": "USDT",
   "decimals": 6,
   "chainId": 3,
-  "logo": "./networks/ethereum-ropsten/tokens/USDT--0x7c8f2b4d30a98a9abcdeac3cf49d51f92a6dd81d/logo.svg",
+  "logo": "/networks/ethereum-ropsten/tokens/USDT--0x7c8f2b4d30a98a9abcdeac3cf49d51f92a6dd81d/logo.svg",
   "tags": ["erc20"]
 }

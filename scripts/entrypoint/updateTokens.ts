@@ -1,4 +1,5 @@
 import {
+  getAbsolutePath,
   allNetworks,
   getNetworkPath,
   getNetworkLogoPaths,
@@ -13,7 +14,8 @@ import {
 } from "../common/repo-structure"
 import {
   readDirSync,
-  isPathExistsSync
+  isPathExistsSync,
+  saveLogo
 } from "../common/filesystem"
 import { readJsonFile } from "../common/json"
 import { getFullNetworkInfo } from "../common/networks"
@@ -93,20 +95,32 @@ const syncTokensByNetwork = async (network: string) => {
 
     const tokenID = `${symbol}--${address}`
 
-    externalTokensIDs.push(tokenID)
+    if (tokensIDs.includes(tokenID)) return
 
-    externalFilteredTokens[tokenID] = {
+    const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
+
+    let logoPath = ''
+    if (logoURI) {
+      const splitedLogoString = logoURI.split('.')
+      const logoExtension = splitedLogoString[splitedLogoString.length - 1]
+      logoPath = logoURI ? `${tokenPath}/logo.${logoExtension}` : ''
+    }
+
+    const tokenInfo = {
       name,
       address,
       symbol,
       decimals,
       chainId,
-      "logo": "",
-      "tags": []
+      "logo": logoPath,
+      "tags": [networkInfo.tokensType.toLowerCase()]
     }
+
+    externalTokensIDs.push(tokenID)
+    externalFilteredTokens[tokenID] = tokenInfo
   })
 
-  // console.log('externalFilteredTokens', externalFilteredTokens)
+  console.log('externalFilteredTokens', externalFilteredTokens)
 
   const testToken = externalTokensList.tokens[1]
 

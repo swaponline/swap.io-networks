@@ -11,7 +11,7 @@
     "name": "Binance Coin",
     "name_plural": "Binance Coins",
     "denominator": 1e-18,
-    "logo": "./networks/binance-smart-chain/logo.svg"
+    "logo": "/networks/binance-smart-chain/logo.svg"
   },
   "explorers": ["https://bscscan.com/"],
   "rpc": [

@@ -20,6 +20,7 @@ export const networkFolderAllowedFiles = [
   infoFullName
 ]
 
+export const getAbsolutePath = (relativePath: string): string => path.join(process.cwd(), relativePath)
 export const networksPath: string = path.join(process.cwd(), '/networks')
 export const getNetworkPath = (network: string): string => `${networksPath}/${network}`
 export const allNetworks = readDirSync(networksPath)
