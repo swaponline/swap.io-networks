@@ -86,7 +86,7 @@ const syncTokensByNetwork = async (network: string) => {
   const externalTokensIDs: string[] = []
   const externalFilteredTokens: { [name: string]: any } = {}
 
-  externalTokensList.tokens.forEach(async (token: any) => {
+  await Promise.all(externalTokensList.tokens.map(async (token: any) => {
     const { name, address, symbol, decimals, chainId, logoURI } = token
 
     if (!name || !symbol || !address || !decimals || !chainId) {
@@ -124,27 +124,15 @@ const syncTokensByNetwork = async (network: string) => {
     externalFilteredTokens[tokenID] = tokenInfo
 
     writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), JSON.stringify(tokenInfo, null, 2))
-  })
+  }))
 
   console.log('externalFilteredTokens', externalFilteredTokens)
 
-  // if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
-  // if (tokens.length) console.log('tokens number', tokens.length)
-  // if (externalTokensIDs.length) console.log('externalTokensIDs', externalTokensIDs)
-  // if (warnings.length) console.log('warnings', warnings)
-  // if (errors.length) console.log('errors', errors)
-
-  const tokenInfo = {
-    "name": "Tether USD",
-    "address": "0x55d398326f99059ff775485246999027b3197955",
-    "symbol": "USDT",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-    "tags": ["bep20"]
-  }
-
-
+  if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
+  if (tokens.length) console.log('tokens number', tokens.length)
+  if (externalTokensIDs.length) console.log('externalTokensIDs', externalTokensIDs)
+  if (warnings.length) console.log('warnings', warnings)
+  if (errors.length) console.log('errors', errors)
 }
 
 const getExternalTokensList = async (url: string) => {
@@ -158,4 +146,4 @@ const getExternalTokensList = async (url: string) => {
 
 // main()
 
-syncTokensByNetwork('binance-smart-chain-testnet')
+syncTokensByNetwork('binance-smart-chain')
