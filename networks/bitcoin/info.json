@@ -12,7 +12,8 @@
     "slug": "bitcoin",
     "name": "Bitcoin",
     "name_plural": "Bitcoins",
-    "denominator": 1e-8
+    "denominator": 1e-8,
+    "logo": "./networks/bitcoin/logo.svg"
   },
   "explorers": [
     "https://www.blockchain.com/btc/",

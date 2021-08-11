@@ -4,6 +4,6 @@
   "symbol": "BTCB",
   "decimals": 18,
   "chainId": 97,
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-  "tags": ["bep20", "custom"]
+  "logo": "./networks/binance-smart-chain-testnet/tokens/BTCB--0x87b7b0ed5c4a785e4389d8e496a599f7324a709a/logo.svg",
+  "tags": ["bep20"]
 }
