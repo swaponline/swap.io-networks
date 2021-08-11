@@ -77,22 +77,58 @@ const syncTokensByNetwork = async (network: string) => {
 
   const externalTokensList = await getExternalTokensList('https://api.borgswap.exchange/tokens.json')
 
-  console.log('externalTokensList number', externalTokensList.tokens.length)
+  // console.log('externalTokensList number', externalTokensList.tokens.length)
 
-  const externakTokensIDs: string[] = []
+  const externalTokensIDs: string[] = []
+  const externalFilteredTokens: { [name: string]: any } = {}
 
   externalTokensList.tokens.forEach((token: any) => {
-    if (!token.name || !token.symbol || !token.address || !token.decimals || !token.chainId) {
-      errors.push(`Token haven't some prop for add to tokens list`)
+    const { name, address, symbol, decimals, chainId, logoURI } = token
+
+    if (!name || !symbol || !address || !decimals || !chainId) {
+      return errors.push(`Token haven't some prop for add to tokens list: ${token}`)
     }
-    externakTokensIDs.push(`${token.symbol}--${token.address}`)
+
+    if (chainId !== +networkInfo.chainId) return
+
+    const tokenID = `${symbol}--${address}`
+
+    externalTokensIDs.push(tokenID)
+
+    externalFilteredTokens[tokenID] = {
+      name,
+      address,
+      symbol,
+      decimals,
+      chainId,
+      "logo": "",
+      "tags": []
+    }
   })
 
-  if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
-  if (tokens.length) console.log('tokens number', tokens.length)
-  if (externakTokensIDs.length) console.log('externakTokensIDs', externakTokensIDs)
-  if (warnings.length) console.log('warnings', warnings)
-  if (errors.length) console.log('errors', errors)
+  // console.log('externalFilteredTokens', externalFilteredTokens)
+
+  const testToken = externalTokensList.tokens[1]
+
+  console.log('testToken', testToken)
+
+  const testTokenInfo = {
+    "name": testToken.name,
+    "address": testToken.address,
+    "symbol": testToken.symbol,
+    "decimals": testToken.decimals,
+    "chainId": testToken.chainId,
+    "logo": "",
+    "tags": []
+  }
+
+  console.log('testTokenInfo', testTokenInfo)
+
+  // if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
+  // if (tokens.length) console.log('tokens number', tokens.length)
+  // if (externalTokensIDs.length) console.log('externalTokensIDs', externalTokensIDs)
+  // if (warnings.length) console.log('warnings', warnings)
+  // if (errors.length) console.log('errors', errors)
 
   const tokenInfo = {
     "name": "Tether USD",
@@ -101,7 +137,7 @@ const syncTokensByNetwork = async (network: string) => {
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-    "tags": ["bep20", "custom"]
+    "tags": ["bep20"]
   }
 
 
@@ -118,4 +154,4 @@ const getExternalTokensList = async (url: string) => {
 
 // main()
 
-syncTokensByNetwork('binance-smart-chain')
+syncTokensByNetwork('binance-smart-chain-testnet')
