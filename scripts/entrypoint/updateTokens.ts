@@ -14,6 +14,7 @@ import {
 } from "../common/repo-structure"
 import {
   readDirSync,
+  writeFileSync,
   isPathExistsSync,
   saveLogo
 } from "../common/filesystem"
@@ -84,7 +85,7 @@ const syncTokensByNetwork = async (network: string) => {
   const externalTokensIDs: string[] = []
   const externalFilteredTokens: { [name: string]: any } = {}
 
-  externalTokensList.tokens.forEach((token: any) => {
+  externalTokensList.tokens.forEach(async (token: any) => {
     const { name, address, symbol, decimals, chainId, logoURI } = token
 
     if (!name || !symbol || !address || !decimals || !chainId) {
@@ -103,7 +104,8 @@ const syncTokensByNetwork = async (network: string) => {
     if (logoURI) {
       const splitedLogoString = logoURI.split('.')
       const logoExtension = splitedLogoString[splitedLogoString.length - 1]
-      logoPath = logoURI ? `${tokenPath}/logo.${logoExtension}` : ''
+      logoPath = `${tokenPath}/logo.${logoExtension}`
+      await saveLogo(logoURI, getAbsolutePath(logoPath))
     }
 
     const tokenInfo = {
@@ -118,25 +120,11 @@ const syncTokensByNetwork = async (network: string) => {
 
     externalTokensIDs.push(tokenID)
     externalFilteredTokens[tokenID] = tokenInfo
+
+    writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)
   })
 
   console.log('externalFilteredTokens', externalFilteredTokens)
-
-  const testToken = externalTokensList.tokens[1]
-
-  console.log('testToken', testToken)
-
-  const testTokenInfo = {
-    "name": testToken.name,
-    "address": testToken.address,
-    "symbol": testToken.symbol,
-    "decimals": testToken.decimals,
-    "chainId": testToken.chainId,
-    "logo": "",
-    "tags": []
-  }
-
-  console.log('testTokenInfo', testTokenInfo)
 
   // if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
   // if (tokens.length) console.log('tokens number', tokens.length)
