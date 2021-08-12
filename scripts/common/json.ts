@@ -15,11 +15,11 @@ export function isValidJSON(path: string): boolean {
 }
 
 export function formatJson(content: unknown): string {
-  return JSON.stringify(content, null, 4)
+  return JSON.stringify(content, null, 2)
 }
 
 export function formatSortJson(content: unknown[]): string {
-  return JSON.stringify(sortElements(content), null, 4)
+  return JSON.stringify(sortElements(content), null, 2)
 }
 
 // Return if updated
@@ -44,5 +44,5 @@ export function readJsonFile(path: string): unknown {
 }
 
 export function writeJsonFile(path: string, data: unknown): void {
-  writeFileSync(path, JSON.stringify(data, null, 4))
+  writeFileSync(path, JSON.stringify(data, null, 2))
 }

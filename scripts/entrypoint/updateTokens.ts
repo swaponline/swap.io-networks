@@ -14,15 +14,27 @@ import {
 } from "../common/repo-structure"
 import {
   readDirSync,
-  writeFileSync,
   isPathExistsSync,
   createDirSync,
   saveLogo
 } from "../common/filesystem"
-import { readJsonFile } from "../common/json"
+import { readJsonFile, writeJsonFile } from "../common/json"
 import { getFullNetworkInfo } from "../common/networks"
 import { externalTokensLists } from "../constants/externalTokensLists"
+import { diff } from "jsondiffpatch"
 import axios from "axios"
+
+type UniqToken = {
+  name: string,
+  address: string,
+  symbol: string,
+  decimals: number,
+  chainId: number,
+  logoURIs: string[],
+  tags: string[]
+}
+
+type UniqTokensList = {[tokenID: string]: UniqToken}
 
 
 const syncTokensByNetwork = async (network: string) => {
@@ -97,7 +109,7 @@ const syncTokensByNetwork = async (network: string) => {
     externalTokensIDs.push(tokenID)
     externalFilteredTokens[tokenID] = tokenInfo
 
-    writeFileSync(getAbsolutePath(`${tokenPath}/info.json`), JSON.stringify(tokenInfo, null, 2))
+    writeJsonFile(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)
   }))
 
   console.log('externalFilteredTokens', externalFilteredTokens)
@@ -118,17 +130,8 @@ const getExternalTokensList = (url: string) =>
 
 
 const prepareUniqExternalTokensObject = async (externalTokensListsLinks: {[listName: string]: string}) => {
-  type UniqToken = {
-    name: string,
-    address: string,
-    symbol: string,
-    decimals: number,
-    chainId: number,
-    logoURIs: string[],
-    tags: string[]
-  }
 
-  const uniqExternalTokens: {[tokenID: string]: UniqToken} = {}
+  const uniqExternalTokens: UniqTokensList = {}
   const externalTokensLists: {[tokensList: string]: any} = {}
 
   await Promise.all(Object.keys(externalTokensListsLinks).map(async listName => {
@@ -145,8 +148,8 @@ const prepareUniqExternalTokensObject = async (externalTokensListsLinks: {[listN
     externalTokensLists[listName].forEach((token: any) => {
       const { name, address, symbol, decimals, chainId, logoURI } = token
 
-      if (!name || !symbol || !address || !decimals || !chainId || !logoURI) {
-        return console.error(`Token haven't some prop for add to tokens list: ${token}`)
+      if (!name || !symbol || !address || (!decimals && decimals !== 0) || !chainId || !logoURI) {
+        return console.error(`Token haven't some prop for add to tokens list: ${JSON.stringify(token, null, 2)}`)
       }
 
       const tokenID = `${symbol}--${address.toLowerCase()}`
@@ -170,6 +173,30 @@ const prepareUniqExternalTokensObject = async (externalTokensListsLinks: {[listN
 
   console.log('uniqExternalTokens length', Object.keys(uniqExternalTokens).length)
 
+  writeToFileWithUpdate(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`), uniqExternalTokens)
+}
+
+const writeToFileWithUpdate = (filename: string, list: UniqTokensList): void => {
+  let listOld
+  try {
+      listOld = readJsonFile(filename) as UniqTokensList
+  } catch (err) {
+      listOld = undefined
+  }
+  if (listOld !== undefined) { // add logic for diffs tokens
+    const diffs = diffTokenlist(list, listOld)
+    console.log('diffs', diffs)
+  }
+  writeJsonFile(filename, list)
+}
+
+const diffTokenlist = (listOrig1: UniqTokensList, listOrig2: UniqTokensList): unknown => {
+  // deep copy, to avoid changes
+  const list1 = JSON.parse(JSON.stringify(listOrig1))
+  const list2 = JSON.parse(JSON.stringify(listOrig2))
+  // compare
+  const diffs = diff(list1, list2)
+  return diffs
 }
 
 prepareUniqExternalTokensObject(externalTokensLists)
