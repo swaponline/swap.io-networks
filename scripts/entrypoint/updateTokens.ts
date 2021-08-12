@@ -21,35 +21,9 @@ import {
 } from "../common/filesystem"
 import { readJsonFile } from "../common/json"
 import { getFullNetworkInfo } from "../common/networks"
+import { externalTokensLists } from "../constants/externalTokensLists"
 import axios from "axios"
 
-
-const main = async () => {
-  const errors: string[] = []
-  const warnings: string[] = []
-  console.log('im here')
-  allNetworks.forEach(network => {
-    const tokensPath = getNetworkTokensPath(network)
-    console.log('tokensPath', tokensPath)
-    if (isPathExistsSync(tokensPath)) {
-      readDirSync(tokensPath).forEach(tokenID => {
-        const logoPaths = getNetworkTokenLogoPaths(network, tokenID)
-        const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
-        const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
-        const infoExists = isPathExistsSync(infoFullPath)
-        // Tokens should have a logo and an info file.  Exceptions:
-        // - status=spam tokens may have no logo
-        // - on some networks some valid tokens have no info (should be fixed)
-        console.log('network and token', network, tokenID)
-        console.log('logoExists', logoExists)
-        console.log('infoExists', infoExists)
-        const tokenInfo: any = readJsonFile(infoFullPath)
-        console.log('tokenInfo', tokenInfo)
-      })
-    }
-  })
-  console.log('errors, warnings', errors, warnings)
-}
 
 const syncTokensByNetwork = async (network: string) => {
   const errors: string[] = []
@@ -143,7 +117,7 @@ const getExternalTokensList = (url: string) =>
     })
 
 
-const prepareUniqTokensObject = async (urls: string[]) => {
+const prepareUniqExternalTokensObject = async (externalTokensListsLinks: {[listName: string]: string}) => {
   type UniqToken = {
     name: string,
     address: string,
@@ -154,25 +128,50 @@ const prepareUniqTokensObject = async (urls: string[]) => {
     tags: string[]
   }
 
-  const uniqTokens: {[tokenID: string]: UniqToken} = {}
-  const tokensLists: {[tokensList: string]: any} = {}
+  const uniqExternalTokens: {[tokenID: string]: UniqToken} = {}
+  const externalTokensLists: {[tokensList: string]: any} = {}
 
-  await Promise.all(urls.map(async url => {
+  await Promise.all(Object.keys(externalTokensListsLinks).map(async listName => {
     try {
-      const externalTokensList = await getExternalTokensList(url)
-      tokensLists[externalTokensList.name] = externalTokensList.tokens
+      const externalTokensList = await getExternalTokensList(externalTokensListsLinks[listName])
+      externalTokensLists[externalTokensList.name] = externalTokensList.tokens
     } catch (error) {
       console.error(error)
     }
   }))
 
-  Object.keys(tokensLists).forEach(name => {
-    console.log('tokensList: ', name, tokensLists[name].length)
+  Object.keys(externalTokensLists).forEach(listName => {
+    console.log('tokensList: ', listName, externalTokensLists[listName].length)
+    externalTokensLists[listName].forEach((token: any) => {
+      const { name, address, symbol, decimals, chainId, logoURI } = token
+
+      if (!name || !symbol || !address || !decimals || !chainId || !logoURI) {
+        return console.error(`Token haven't some prop for add to tokens list: ${token}`)
+      }
+
+      const tokenID = `${symbol}--${address.toLowerCase()}`
+
+      if (uniqExternalTokens[tokenID]) {
+        uniqExternalTokens[tokenID].logoURIs.push(logoURI)
+        uniqExternalTokens[tokenID].tags.push(listName.toLowerCase())
+      } else {
+        uniqExternalTokens[tokenID] = {
+          name,
+          address,
+          symbol,
+          decimals,
+          chainId,
+          "logoURIs": [logoURI],
+          "tags": [listName.toLowerCase()]
+        }
+      }
+    })
   })
 
+  console.log('uniqExternalTokens length', Object.keys(uniqExternalTokens).length)
 
 }
 
-prepareUniqTokensObject(['https://api.borgswap.exchange/tokens.json', 'https://gateway.pinata.cloud/ipfs/QmdKy1K5TMzSHncLzUXUJdvKi1tHRmJocDRfmCXxW5mshS'])
+prepareUniqExternalTokensObject(externalTokensLists)
 
 // syncTokensByNetwork('binance-smart-chain')
