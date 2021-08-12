@@ -135,15 +135,44 @@ const syncTokensByNetwork = async (network: string) => {
   if (errors.length) console.log('errors', errors)
 }
 
-const getExternalTokensList = async (url: string) => {
-  try {
-    const response = await axios.get(url)
-    return response.data
-  } catch (error) {
-    throw new Error(error)
+const getExternalTokensList = (url: string) =>
+  axios.get(url)
+    .then(response => response.data)
+    .catch(err => {
+      throw new Error(`Can't fetch ${url}, error with message: ${err.message}`)
+    })
+
+
+const prepareUniqTokensObject = async (urls: string[]) => {
+  type UniqToken = {
+    name: string,
+    address: string,
+    symbol: string,
+    decimals: number,
+    chainId: number,
+    logoURIs: string[],
+    tags: string[]
   }
+
+  const uniqTokens: {[tokenID: string]: UniqToken} = {}
+  const tokensLists: {[tokensList: string]: any} = {}
+
+  await Promise.all(urls.map(async url => {
+    try {
+      const externalTokensList = await getExternalTokensList(url)
+      tokensLists[externalTokensList.name] = externalTokensList.tokens
+    } catch (error) {
+      console.error(error)
+    }
+  }))
+
+  Object.keys(tokensLists).forEach(name => {
+    console.log('tokensList: ', name, tokensLists[name].length)
+  })
+
+
 }
 
-// main()
+prepareUniqTokensObject(['https://api.borgswap.exchange/tokens.json', 'https://gateway.pinata.cloud/ipfs/QmdKy1K5TMzSHncLzUXUJdvKi1tHRmJocDRfmCXxW5mshS'])
 
-syncTokensByNetwork('binance-smart-chain')
+// syncTokensByNetwork('binance-smart-chain')
