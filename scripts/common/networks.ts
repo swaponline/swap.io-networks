@@ -29,10 +29,10 @@ export const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): any => {
       const parentInfo = getNetworkInfo(networkInfo.parent)
       const extendedInfo = {
         ...parentInfo,
-        ...networkInfo,
-        parent: parentInfo.parent,
+        ...networkInfo
       }
-      if (extendedInfo.parent) {
+      if (parentInfo.parent) {
+        extendedInfo.parent = parentInfo.parent
         cycleExtendDetector[networkInfo.parent] = true
         return getFullNetworkInfo({
           network: extendedInfo.slug,
@@ -56,5 +56,4 @@ export const getNetworkInfo = (network: string): any => {
   } else {
     throw new Error(`Can't find ${network} network`)
   }
-
 }

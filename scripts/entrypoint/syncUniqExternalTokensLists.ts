@@ -17,7 +17,7 @@ type UniqToken = {
 type UniqTokensList = {[tokenID: string]: UniqToken}
 
 
-export const syncUniqExternalTokensLists = async () => {
+export const syncUniqExternalTokens = async () => {
 
   const uniqExternalTokens: UniqTokensList = {}
   const externalTokensLists: {[tokensList: string]: any} = {}
@@ -67,4 +67,4 @@ export const syncUniqExternalTokensLists = async () => {
 }
 
 
-syncUniqExternalTokensLists()
+syncUniqExternalTokens()
