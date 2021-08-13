@@ -22,14 +22,14 @@ export const syncUniqExternalTokensLists = async () => {
   const uniqExternalTokens: UniqTokensList = {}
   const externalTokensLists: {[tokensList: string]: any} = {}
 
-  await Promise.all(Object.keys(externalTokensListsLinks).map(async listName => {
+  for (const listName of Object.keys(externalTokensListsLinks)) {
     try {
       const externalTokensList = await getExternalTokensList(externalTokensListsLinks[listName])
       externalTokensLists[externalTokensList.name] = externalTokensList.tokens
     } catch (error) {
       console.error(error)
     }
-  }))
+  }
 
   Object.keys(externalTokensLists).forEach(listName => {
     console.log('tokensList: ', listName, externalTokensLists[listName].length)
