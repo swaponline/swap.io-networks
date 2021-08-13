@@ -17,7 +17,7 @@ type UniqToken = {
 type UniqTokensList = {[tokenID: string]: UniqToken}
 
 
-const prepareUniqExternalTokensObject = async () => {
+const syncUniqExternalTokensLists = async () => {
 
   const uniqExternalTokens: UniqTokensList = {}
   const externalTokensLists: {[tokensList: string]: any} = {}
@@ -65,5 +65,4 @@ const prepareUniqExternalTokensObject = async () => {
 }
 
 
-
-prepareUniqExternalTokensObject()
+syncUniqExternalTokensLists()
