@@ -2,7 +2,7 @@
 import { getAbsolutePath } from "../common/repo-structure"
 import { getExternalTokensList } from "../common/token-lists"
 import { writeToFileWithUpdate } from "../common/json"
-import { externalTokensLists } from "../constants/externalTokensLists"
+import { externalTokensListsLinks } from "../constants/externalTokensListsLinks"
 
 type UniqToken = {
   name: string,
@@ -17,7 +17,7 @@ type UniqToken = {
 type UniqTokensList = {[tokenID: string]: UniqToken}
 
 
-const prepareUniqExternalTokensObject = async (externalTokensListsLinks: {[listName: string]: string}) => {
+const prepareUniqExternalTokensObject = async () => {
 
   const uniqExternalTokens: UniqTokensList = {}
   const externalTokensLists: {[tokensList: string]: any} = {}
@@ -66,4 +66,4 @@ const prepareUniqExternalTokensObject = async (externalTokensListsLinks: {[listN
 
 
 
-prepareUniqExternalTokensObject(externalTokensLists)
+prepareUniqExternalTokensObject()
