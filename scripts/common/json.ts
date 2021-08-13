@@ -3,6 +3,7 @@ import {
   writeFileSync
 } from "./filesystem"
 import { sortElements } from "./types"
+import { diff } from "jsondiffpatch"
 
 export function isValidJSON(path: string): boolean {
   try {
@@ -45,4 +46,28 @@ export function readJsonFile(path: string): unknown {
 
 export function writeJsonFile(path: string, data: unknown): void {
   writeFileSync(path, JSON.stringify(data, null, 2))
+}
+
+export const writeToFileWithUpdate = (filePath: string, fileName: string, data: any): void => {
+  const fullFilePath = `${filePath}/${fileName}`
+  let oldData
+  try {
+    oldData = readJsonFile(fullFilePath)
+  } catch (err) {
+    oldData = undefined
+  }
+  if (oldData !== undefined) { // add logic for diffs
+    const diffs = diffData(data, oldData)
+    console.log('diffs', diffs)
+  }
+  writeJsonFile(fullFilePath, data)
+}
+
+export const diffData = (Data1: any, Data2: any): unknown => {
+  // deep copy, to avoid changes
+  const data1 = JSON.parse(JSON.stringify(Data1))
+  const data2 = JSON.parse(JSON.stringify(Data2))
+  // compare
+  const diffs = diff(data1, data2)
+  return diffs
 }
