@@ -1,5 +1,7 @@
 # swap.io-networks
 
+![networks32](https://user-images.githubusercontent.com/22708849/129374679-39debe8e-ff75-46d7-a651-bd831b5646bb.png)
+
 The repo contains the network definitions and
  metadata for the different cryptocurrencies, 
  tokens and their networks.
