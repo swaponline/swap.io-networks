@@ -5,11 +5,11 @@ import { writeToFileWithUpdate } from "../common/json"
 import { externalTokensListsLinks } from "../constants/externalTokensListsLinks"
 
 type UniqToken = {
-  name: string,
+  names: string[],
   address: string,
   symbol: string,
   decimals: number,
-  chainId: number,
+  chainIds: number[],
   logoURIs: string[],
   tags: string[]
 }
@@ -17,7 +17,7 @@ type UniqToken = {
 type UniqTokensList = {[tokenID: string]: UniqToken}
 
 
-const syncUniqExternalTokensLists = async () => {
+export const syncUniqExternalTokensLists = async () => {
 
   const uniqExternalTokens: UniqTokensList = {}
   const externalTokensLists: {[tokensList: string]: any} = {}
@@ -43,15 +43,17 @@ const syncUniqExternalTokensLists = async () => {
       const tokenID = `${symbol}--${address.toLowerCase()}`
 
       if (uniqExternalTokens[tokenID]) {
+        !uniqExternalTokens[tokenID].names.includes(name) && uniqExternalTokens[tokenID].names.push(name)
+        !uniqExternalTokens[tokenID].chainIds.includes(chainId) && uniqExternalTokens[tokenID].chainIds.push(chainId)
         uniqExternalTokens[tokenID].logoURIs.push(logoURI)
         uniqExternalTokens[tokenID].tags.push(listName.toLowerCase())
       } else {
         uniqExternalTokens[tokenID] = {
-          name,
-          address,
+          names: [name],
+          address: address.toLowerCase(),
           symbol,
           decimals,
-          chainId,
+          chainIds: [chainId],
           "logoURIs": [logoURI],
           "tags": [listName.toLowerCase()]
         }

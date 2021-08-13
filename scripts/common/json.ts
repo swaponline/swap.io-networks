@@ -40,13 +40,12 @@ export function formatSortJsonFile(filename: string): void {
   console.log(`Formatted json file ${filename}`)
 }
 
-export function readJsonFile(path: string): unknown {
+export function readJsonFile(path: string): any {
   return JSON.parse(readFileSync(path))
 }
 
-export function writeJsonFile(path: string, data: unknown): void {
+export const writeJsonFile = (path: string, data: any): void =>
   writeFileSync(path, JSON.stringify(data, null, 2))
-}
 
 export const writeToFileWithUpdate = (filePath: string, fileName: string, data: any): void => {
   const fullFilePath = `${filePath}/${fileName}`
@@ -58,12 +57,16 @@ export const writeToFileWithUpdate = (filePath: string, fileName: string, data: 
   }
   if (oldData !== undefined) { // add logic for diffs
     const diffs = diffData(data, oldData)
-    console.log('diffs', diffs)
+    if (diffs) {
+      console.log('diffs', typeof diffs, diffs)
+      const diffsPath = `${filePath}/diffs.json`
+      writeJsonFile(diffsPath, diffs)
+    }
   }
   writeJsonFile(fullFilePath, data)
 }
 
-export const diffData = (Data1: any, Data2: any): unknown => {
+export const diffData = (Data1: any, Data2: any): any => {
   // deep copy, to avoid changes
   const data1 = JSON.parse(JSON.stringify(Data1))
   const data2 = JSON.parse(JSON.stringify(Data2))
