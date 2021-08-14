@@ -1,6 +1,6 @@
 {
   "name": "ChainLink Token",
-  "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+  "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
   "symbol": "LINK",
   "decimals": 18,
   "chainId": 56,

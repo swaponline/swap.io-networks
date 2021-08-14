@@ -1,6 +1,6 @@
 {
   "name": "Cosmos Token",
-  "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+  "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
   "symbol": "ATOM",
   "decimals": 18,
   "chainId": 56,

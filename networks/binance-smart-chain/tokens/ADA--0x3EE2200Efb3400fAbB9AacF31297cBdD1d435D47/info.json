@@ -1,6 +1,6 @@
 {
   "name": "Cardano Token",
-  "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+  "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
   "symbol": "ADA",
   "decimals": 18,
   "chainId": 56,

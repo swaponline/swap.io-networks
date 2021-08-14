@@ -1,6 +1,6 @@
 {
-  "name": "Wrapped BNB",
-  "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "name": "WBNB Token",
+  "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
   "symbol": "WBNB",
   "decimals": 18,
   "chainId": 56,

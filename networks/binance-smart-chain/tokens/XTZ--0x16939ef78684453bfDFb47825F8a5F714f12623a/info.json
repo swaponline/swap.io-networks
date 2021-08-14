@@ -1,6 +1,6 @@
 {
   "name": "Tezos Token",
-  "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+  "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
   "symbol": "XTZ",
   "decimals": 18,
   "chainId": 56,

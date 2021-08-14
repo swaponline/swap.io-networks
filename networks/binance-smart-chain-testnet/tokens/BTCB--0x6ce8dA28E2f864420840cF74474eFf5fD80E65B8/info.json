@@ -1,6 +1,6 @@
 {
   "name": "BTCB Token",
-  "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+  "address": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
   "symbol": "BTCB",
   "decimals": 18,
   "chainId": 97,

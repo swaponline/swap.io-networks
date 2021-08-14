@@ -1,6 +1,6 @@
 {
   "name": "Zcash Token",
-  "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+  "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
   "symbol": "ZEC",
   "decimals": 18,
   "chainId": 56,
