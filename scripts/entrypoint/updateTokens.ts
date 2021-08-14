@@ -110,7 +110,9 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
     createDirSync(tokensPath)
   }
 
-  console.log(`   ${Object.keys(tokens).length} tokens in self folder`)
+  const networkTokensIDs = Object.keys(tokens)
+
+  console.log(`   ${networkTokensIDs.length} tokens in self folder`)
 
   const addedTokens: string[] = []
   const alreadyExistsTokens: string[] = []
@@ -120,17 +122,17 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
 
     if ((!names || !names.length) || !symbol || !address || (!decimals && decimals !== 0) || (!chainIds || !chainIds.length)) {
       console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
-      break
+      continue
     }
 
     if (!chainIds.includes(+networkInfo.chainId)) {
       console.error(`Token ${tokenID} from different network`)
-      break
+      continue
     }
 
-    if (tokensIDs.map(tokensID => tokensID.toLowerCase()).includes(tokenID.toLowerCase())) {
+    if (networkTokensIDs.map(tokensID => tokensID.toLowerCase()).includes(tokenID.toLowerCase())) {
       alreadyExistsTokens.push(tokenID)
-      break // need add logic for exists tokens
+      continue // need add logic for exists tokens
     } else {
       const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
       createDirSync(getAbsolutePath(tokenPath))
@@ -170,90 +172,4 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
   console.log(`   ${alreadyExistsTokens.length} already exists tokens`)
 }
 
-
-const syncTokensByNetwork = async (network: string) => {
-  const errors: string[] = []
-  const warnings: string[] = []
-
-  const tokensIDs: string[] = []
-  const tokens: {}[] = []
-
-  const networkInfo = getFullNetworkInfo({ network })
-
-  console.log('networkInfo', networkInfo)
-
-  const tokensPath = getNetworkTokensPath(network)
-  if (isPathExistsSync(tokensPath)) {
-    tokensIDs.push(...readDirSync(tokensPath))
-    tokensIDs.forEach(tokenID => {
-      const logoPaths = getNetworkTokenLogoPaths(network, tokenID)
-      const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
-      const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
-      const infoExists = isPathExistsSync(infoFullPath)
-      if (infoExists) {
-        const tokenInfo: any = readJsonFile(infoFullPath)
-        tokens.push(tokenInfo)
-      }
-    })
-  } else{
-    warnings.push(`${network} have not any assets`)
-  }
-
-  const externalTokensList = await getExternalTokensList('https://api.borgswap.exchange/tokens.json')
-
-  // console.log('externalTokensList number', externalTokensList.tokens.length)
-
-  const externalTokensIDs: string[] = []
-  const externalFilteredTokens: { [name: string]: any } = {}
-
-  await Promise.all(externalTokensList.tokens.map(async (token: any) => {
-    const { name, address, symbol, decimals, chainId, logoURI } = token
-
-    if (!name || !symbol || !address || !decimals || !chainId) {
-      return errors.push(`Token haven't some prop for add to tokens list: ${token}`)
-    }
-
-    if (chainId !== +networkInfo.chainId) return
-
-    const tokenID = `${symbol}--${address}`
-
-    if (tokensIDs.includes(tokenID)) return
-
-    const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
-    createDirSync(getAbsolutePath(tokenPath))
-
-    let logoPath = ''
-    if (logoURI) {
-      const splitedLogoString = logoURI.split('.')
-      const logoExtension = splitedLogoString[splitedLogoString.length - 1]
-      logoPath = `${tokenPath}/logo.${logoExtension}`
-      await saveLogo(logoURI, getAbsolutePath(logoPath))
-    }
-
-    const tokenInfo: tokenInfo = {
-      name,
-      address,
-      symbol,
-      decimals,
-      chainId,
-      "logo": logoPath,
-      "tags": [networkInfo.tokensType.toLowerCase()]
-    }
-
-    externalTokensIDs.push(tokenID)
-    externalFilteredTokens[tokenID] = tokenInfo
-
-    writeJsonFile(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)
-  }))
-
-  console.log('externalFilteredTokens', externalFilteredTokens)
-
-  if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
-  if (tokens.length) console.log('tokens number', tokens.length)
-  if (externalTokensIDs.length) console.log('externalTokensIDs', externalTokensIDs)
-  if (warnings.length) console.log('warnings', warnings)
-  if (errors.length) console.log('errors', errors)
-}
-
-// syncTokensByNetwork('binance-smart-chain')
 syncUniqTokensWithNetworks()
