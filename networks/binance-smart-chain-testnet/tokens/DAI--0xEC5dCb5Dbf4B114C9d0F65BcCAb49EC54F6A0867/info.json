@@ -4,7 +4,7 @@
   "symbol": "DAI",
   "decimals": 18,
   "chainId": 97,
-  "logo": "/networks/binance-smart-chain-testnet/tokens/DAI--0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867/logo.png",
+  "logo": "/networks/binance-smart-chain-testnet/tokens/DAI--0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867/logo.png",
   "tags": [
     "bep20"
   ]

@@ -4,7 +4,7 @@
   "symbol": "ADA",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/ADA--0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/ADA--0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png",
   "tags": [
     "bep20"
   ]

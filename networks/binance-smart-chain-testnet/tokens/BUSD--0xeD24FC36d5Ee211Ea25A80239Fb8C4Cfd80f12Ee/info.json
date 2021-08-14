@@ -4,7 +4,7 @@
   "symbol": "BUSD",
   "decimals": 18,
   "chainId": 97,
-  "logo": "/networks/binance-smart-chain-testnet/tokens/BUSD--0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee/logo.png",
+  "logo": "/networks/binance-smart-chain-testnet/tokens/BUSD--0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee/logo.png",
   "tags": [
     "bep20"
   ]

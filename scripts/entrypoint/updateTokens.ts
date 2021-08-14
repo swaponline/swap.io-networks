@@ -120,24 +120,24 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
 
     if ((!names || !names.length) || !symbol || !address || (!decimals && decimals !== 0) || (!chainIds || !chainIds.length)) {
       console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
-      continue
+      break
     }
 
     if (!chainIds.includes(+networkInfo.chainId)) {
       console.error(`Token ${tokenID} from different network`)
-      continue
+      break
     }
 
-    if (tokensIDs.includes(tokenID)) {
+    if (tokensIDs.map(tokensID => tokensID.toLowerCase()).includes(tokenID.toLowerCase())) {
       alreadyExistsTokens.push(tokenID)
-      continue // need add logic for exists tokens
+      break // need add logic for exists tokens
     } else {
       const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
       createDirSync(getAbsolutePath(tokenPath))
 
       let logoPath = ''
       if (logoURIs.length) {
-        for (const logoURI in logoURIs) {
+        for (const logoURI of logoURIs) {
           const splitedLogoString = logoURI.split('.')
           const logoExtension = splitedLogoString[splitedLogoString.length - 1]
           logoPath = `${tokenPath}/logo.${logoExtension}`

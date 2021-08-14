@@ -4,7 +4,7 @@
   "symbol": "EOS",
   "decimals": 18,
   "chainId": 97,
-  "logo": "/networks/binance-smart-chain-testnet/tokens/EOS--0x6B043332090a6BE81De1503949Cfc8bac2cA1c33/logo.png",
+  "logo": "/networks/binance-smart-chain-testnet/tokens/EOS--0x6b043332090a6be81de1503949cfc8bac2ca1c33/logo.png",
   "tags": [
     "bep20"
   ]
