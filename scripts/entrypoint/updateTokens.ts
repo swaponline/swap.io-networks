@@ -89,7 +89,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
   console.log(`   ${networkUniqExternalTokensIDs.length} external tokens`)
 
   const tokensIDs: string[] = []
-  const tokens: NetworkTokensListObj = {}
+  const tokens: NetworkTokensListObj = {} // need for update tokens
 
   const tokensPath = getNetworkTokensPath(network)
   if (isPathExistsSync(tokensPath)) {
@@ -115,20 +115,22 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
   const addedTokens: string[] = []
   const alreadyExistsTokens: string[] = []
 
-  await Promise.all(networkUniqExternalTokensIDs.map(async (tokenID) => {
+  for (const tokenID of networkUniqExternalTokensIDs) {
     const { names, address, symbol, decimals, chainIds, logoURIs } = uniqExternalTokens[tokenID]
 
     if ((!names || !names.length) || !symbol || !address || (!decimals && decimals !== 0) || (!chainIds || !chainIds.length)) {
-      return console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
+      console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
+      continue
     }
 
     if (!chainIds.includes(+networkInfo.chainId)) {
-      return console.error(`Token ${tokenID} from different network`)
+      console.error(`Token ${tokenID} from different network`)
+      continue
     }
 
     if (tokensIDs.includes(tokenID)) {
       alreadyExistsTokens.push(tokenID)
-      return // need add logic for exists tokens
+      continue // need add logic for exists tokens
     } else {
       const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
       createDirSync(getAbsolutePath(tokenPath))
@@ -143,7 +145,6 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
             await saveLogo(logoURI, getAbsolutePath(logoPath))
             break
           } catch (error) {
-            console.error(error)
             logoPath = ''
           }
         }
@@ -163,10 +164,10 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
 
       addedTokens.push(tokenID)
     }
+  }
 
-    console.log(`   ${addedTokens.length} added tokens`)
-    console.log(`   ${alreadyExistsTokens.length} already exists tokens`)
-  }))
+  console.log(`   ${addedTokens.length} added tokens`)
+  console.log(`   ${alreadyExistsTokens.length} already exists tokens`)
 }
 
 

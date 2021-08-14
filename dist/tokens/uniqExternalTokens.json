@@ -1390,23 +1390,6 @@
       "pancakeswap default list"
     ]
   },
-  "JNTR/b--0x3c037c4c2296f280bb318d725d0b454b76c199b9": {
-    "names": [
-      "JNTR/b"
-    ],
-    "address": "0x3c037c4c2296f280bb318d725d0b454b76c199b9",
-    "symbol": "JNTR/b",
-    "decimals": 18,
-    "chainIds": [
-      56
-    ],
-    "logoURIs": [
-      "https://exchange.pancakeswap.finance/images/coins/0x3c037c4c2296f280bb318d725d0b454b76c199b9.png"
-    ],
-    "tags": [
-      "pancakeswap default list"
-    ]
-  },
   "SPART--0xe4ae305ebe1abe663f261bc00534067c80ad677c": {
     "names": [
       "SPARTAN PROTOCOL TOKEN"
