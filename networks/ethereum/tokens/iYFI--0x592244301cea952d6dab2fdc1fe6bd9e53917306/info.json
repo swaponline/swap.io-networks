@@ -1,0 +1,11 @@
+{
+  "name": "SynthiYFI",
+  "address": "0x592244301cea952d6dab2fdc1fe6bd9e53917306",
+  "symbol": "iYFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iYFI--0x592244301cea952d6dab2fdc1fe6bd9e53917306/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

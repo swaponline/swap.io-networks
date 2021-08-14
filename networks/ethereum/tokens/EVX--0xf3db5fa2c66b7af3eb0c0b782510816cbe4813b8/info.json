@@ -1,0 +1,11 @@
+{
+  "name": "Everex",
+  "address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+  "symbol": "EVX",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EVX--0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

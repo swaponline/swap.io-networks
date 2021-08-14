@@ -1,0 +1,11 @@
+{
+  "name": "MeasurableDataToken",
+  "address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26",
+  "symbol": "MDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MDT--0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

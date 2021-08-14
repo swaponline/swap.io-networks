@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingWBTC",
+  "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+  "symbol": "aWBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aWBTC--0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

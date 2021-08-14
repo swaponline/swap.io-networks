@@ -1,0 +1,11 @@
+{
+  "name": "BAB",
+  "address": "0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5",
+  "symbol": "BAB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAB--0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

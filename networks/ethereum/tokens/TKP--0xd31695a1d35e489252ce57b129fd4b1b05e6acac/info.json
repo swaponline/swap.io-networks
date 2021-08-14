@@ -1,0 +1,11 @@
+{
+  "name": "TOKPIE",
+  "address": "0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+  "symbol": "TKP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TKP--0xd31695a1d35e489252ce57b129fd4b1b05e6acac/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

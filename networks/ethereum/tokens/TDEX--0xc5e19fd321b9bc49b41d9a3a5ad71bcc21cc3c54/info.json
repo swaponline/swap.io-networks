@@ -1,0 +1,11 @@
+{
+  "name": "TradePower Dex",
+  "address": "0xc5e19fd321b9bc49b41d9a3a5ad71bcc21cc3c54",
+  "symbol": "TDEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TDEX--0xc5e19fd321b9bc49b41d9a3a5ad71bcc21cc3c54/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

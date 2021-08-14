@@ -1,0 +1,11 @@
+{
+  "name": "Divert Finance",
+  "address": "0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e",
+  "symbol": "DEVE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEVE--0xfdb615d6a15f929ddabc6b83a4f1cf9d361b064e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

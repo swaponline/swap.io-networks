@@ -1,0 +1,11 @@
+{
+  "name": "CreamAAVEToken",
+  "address": "0x3225e3c669b39c7c8b3e204a8614bb218c5e31bc",
+  "symbol": "crAAVE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crAAVE--0x3225e3c669b39c7c8b3e204a8614bb218c5e31bc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

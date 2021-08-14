@@ -1,0 +1,11 @@
+{
+  "name": "InMax",
+  "address": "0x018d7d179350f1bb9853d04982820e37cce13a92",
+  "symbol": "INX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/INX--0x018d7d179350f1bb9853d04982820e37cce13a92/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

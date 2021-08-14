@@ -1,0 +1,11 @@
+{
+  "name": "xSNXa",
+  "address": "0x2367012ab9c3da91290f71590d5ce217721eefe4",
+  "symbol": "xSNXa",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/xSNXa--0x2367012ab9c3da91290f71590d5ce217721eefe4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

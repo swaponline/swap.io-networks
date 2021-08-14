@@ -1,0 +1,11 @@
+{
+  "name": "CashTech",
+  "address": "0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c",
+  "symbol": "CATE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CATE--0xa42f266684ac2ad6ecb00df95b1c76efbb6f136c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

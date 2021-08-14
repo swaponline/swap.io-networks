@@ -1,0 +1,11 @@
+{
+  "name": "Rise Protocol",
+  "address": "0x3fa807b6f8d4c407e6e605368f4372d14658b38c",
+  "symbol": "RISE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RISE--0x3fa807b6f8d4c407e6e605368f4372d14658b38c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

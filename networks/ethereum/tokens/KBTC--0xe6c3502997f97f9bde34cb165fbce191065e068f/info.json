@@ -1,0 +1,11 @@
+{
+  "name": "KBTC",
+  "address": "0xe6c3502997f97f9bde34cb165fbce191065e068f",
+  "symbol": "KBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KBTC--0xe6c3502997f97f9bde34cb165fbce191065e068f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

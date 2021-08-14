@@ -1,0 +1,11 @@
+{
+  "name": "RAMPDEFI",
+  "address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
+  "symbol": "RAMP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAMP--0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

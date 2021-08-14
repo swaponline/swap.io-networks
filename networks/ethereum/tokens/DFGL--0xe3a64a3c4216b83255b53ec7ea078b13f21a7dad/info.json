@@ -1,0 +1,11 @@
+{
+  "name": "DeFi Gold",
+  "address": "0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad",
+  "symbol": "DFGL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFGL--0xe3a64a3c4216b83255b53ec7ea078b13f21a7dad/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

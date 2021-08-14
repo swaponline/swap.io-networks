@@ -1,0 +1,11 @@
+{
+  "name": "MYX Network",
+  "address": "0x2129ff6000b95a973236020bcd2b2006b0d8e019",
+  "symbol": "MYX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MYX--0x2129ff6000b95a973236020bcd2b2006b0d8e019/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

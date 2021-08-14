@@ -1,0 +1,11 @@
+{
+  "name": "wormhole finance",
+  "address": "0xe6179bb571d2d69837be731da88c76e377ec4738",
+  "symbol": "WHOLE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WHOLE--0xe6179bb571d2d69837be731da88c76e377ec4738/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Evedo",
+  "address": "0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
+  "symbol": "EVED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EVED--0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Vanilla Network",
+  "address": "0xb97faf860045483e0c7f08c56acb31333084a988",
+  "symbol": "VNLA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VNLA--0xb97faf860045483e0c7f08c56acb31333084a988/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

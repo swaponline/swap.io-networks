@@ -1,0 +1,11 @@
+{
+  "name": "Options Market",
+  "address": "0x9b75848172677042269c63365b57b0a51c21d031",
+  "symbol": "OSM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OSM--0x9b75848172677042269c63365b57b0a51c21d031/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

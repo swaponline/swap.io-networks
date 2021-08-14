@@ -1,0 +1,11 @@
+{
+  "name": "Digg",
+  "address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
+  "symbol": "DIGG",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DIGG--0x798d1be841a82a273720ce31c822c61a67a601c3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

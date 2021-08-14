@@ -1,0 +1,11 @@
+{
+  "name": "Dola USD Stablecoin",
+  "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
+  "symbol": "DOLA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOLA--0x865377367054516e17014ccded1e7d814edc9ce4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

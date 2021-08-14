@@ -1,0 +1,11 @@
+{
+  "name": "EOS TRUST",
+  "address": "0x87210f1d3422ba75b6c40c63c78d79324dabcd55",
+  "symbol": "EOST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EOST--0x87210f1d3422ba75b6c40c63c78d79324dabcd55/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tacos",
+  "address": "0x00d1793d7c3aae506257ba985b34c76aaf642557",
+  "symbol": "TACO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TACO--0x00d1793d7c3aae506257ba985b34c76aaf642557/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

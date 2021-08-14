@@ -1,0 +1,11 @@
+{
+  "name": "Decentralized Vulne",
+  "address": "0x8e30ea2329d95802fd804f4291220b0e2f579812",
+  "symbol": "DVP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DVP--0x8e30ea2329d95802fd804f4291220b0e2f579812/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

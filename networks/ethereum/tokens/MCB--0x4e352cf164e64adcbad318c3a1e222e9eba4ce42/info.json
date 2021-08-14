@@ -1,0 +1,11 @@
+{
+  "name": "MCDEXToken",
+  "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+  "symbol": "MCB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MCB--0x4e352cf164e64adcbad318c3a1e222e9eba4ce42/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

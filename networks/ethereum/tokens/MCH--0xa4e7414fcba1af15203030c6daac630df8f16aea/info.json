@@ -1,0 +1,11 @@
+{
+  "name": "Meme Cash",
+  "address": "0xa4e7414fcba1af15203030c6daac630df8f16aea",
+  "symbol": "MCH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MCH--0xa4e7414fcba1af15203030c6daac630df8f16aea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

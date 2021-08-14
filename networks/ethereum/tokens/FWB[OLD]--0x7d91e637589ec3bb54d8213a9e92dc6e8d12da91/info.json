@@ -1,0 +1,11 @@
+{
+  "name": "Friends With Benefits OLD",
+  "address": "0x7d91e637589ec3bb54d8213a9e92dc6e8d12da91",
+  "symbol": "FWB[OLD]",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Arianee",
+  "address": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
+  "symbol": "ARIA20",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARIA20--0xedf6568618a00c6f0908bf7758a16f76b6e04af9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

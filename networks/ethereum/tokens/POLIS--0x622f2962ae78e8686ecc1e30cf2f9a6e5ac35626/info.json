@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Polis",
+  "address": "0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626",
+  "symbol": "POLIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POLIS--0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

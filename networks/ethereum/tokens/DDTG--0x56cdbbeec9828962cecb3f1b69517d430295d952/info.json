@@ -1,0 +1,11 @@
+{
+  "name": "Davecoin",
+  "address": "0x56cdbbeec9828962cecb3f1b69517d430295d952",
+  "symbol": "DDTG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DDTG--0x56cdbbeec9828962cecb3f1b69517d430295d952/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

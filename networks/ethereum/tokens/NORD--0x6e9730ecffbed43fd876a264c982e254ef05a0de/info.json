@@ -1,0 +1,11 @@
+{
+  "name": "NordToken",
+  "address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+  "symbol": "NORD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NORD--0x6e9730ecffbed43fd876a264c982e254ef05a0de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

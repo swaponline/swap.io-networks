@@ -1,0 +1,11 @@
+{
+  "name": "Raise Token",
+  "address": "0x10ba8c420e912bf07bedac03aa6908720db04e0c",
+  "symbol": "RAISE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAISE--0x10ba8c420e912bf07bedac03aa6908720db04e0c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

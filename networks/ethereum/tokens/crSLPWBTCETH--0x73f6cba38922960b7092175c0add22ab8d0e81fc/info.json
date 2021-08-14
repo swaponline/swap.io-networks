@@ -1,0 +1,11 @@
+{
+  "name": "CreamSushiSwapLPTokenWBTC-ETH",
+  "address": "0x73f6cba38922960b7092175c0add22ab8d0e81fc",
+  "symbol": "crSLPWBTCETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSLPWBTCETH--0x73f6cba38922960b7092175c0add22ab8d0e81fc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

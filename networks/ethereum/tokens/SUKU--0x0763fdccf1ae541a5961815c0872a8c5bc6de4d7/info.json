@@ -1,0 +1,11 @@
+{
+  "name": "SUKU",
+  "address": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7",
+  "symbol": "SUKU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SUKU--0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

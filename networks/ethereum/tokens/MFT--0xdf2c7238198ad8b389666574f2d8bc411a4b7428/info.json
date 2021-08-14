@@ -1,0 +1,11 @@
+{
+  "name": "Mainframe",
+  "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
+  "symbol": "MFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MFT--0xdf2c7238198ad8b389666574f2d8bc411a4b7428/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

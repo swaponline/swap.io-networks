@@ -1,0 +1,11 @@
+{
+  "name": "Noah s Ark",
+  "address": "0xfce94fde7ac091c2f1db00d62f15eeb82b624389",
+  "symbol": "NOAHARK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NOAHARK--0xfce94fde7ac091c2f1db00d62f15eeb82b624389/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

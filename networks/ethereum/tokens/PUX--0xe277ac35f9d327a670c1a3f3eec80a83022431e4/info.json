@@ -1,0 +1,11 @@
+{
+  "name": "PolypuX",
+  "address": "0xe277ac35f9d327a670c1a3f3eec80a83022431e4",
+  "symbol": "PUX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PUX--0xe277ac35f9d327a670c1a3f3eec80a83022431e4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

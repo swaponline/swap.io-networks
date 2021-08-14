@@ -1,0 +1,11 @@
+{
+  "name": "UpToken",
+  "address": "0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+  "symbol": "UP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UP--0x6ba460ab75cd2c56343b3517ffeba60748654d26/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Super Black Hole",
+  "address": "0x03fb52d4ee633ab0d06c833e32efdd8d388f3e6a",
+  "symbol": "HOLE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HOLE--0x03fb52d4ee633ab0d06c833e32efdd8d388f3e6a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mirrored Facebook",
+  "address": "0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b",
+  "symbol": "MFB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MFB--0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

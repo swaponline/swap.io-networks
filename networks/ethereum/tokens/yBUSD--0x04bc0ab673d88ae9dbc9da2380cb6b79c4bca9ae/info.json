@@ -1,0 +1,11 @@
+{
+  "name": "iearnBUSD",
+  "address": "0x04bc0ab673d88ae9dbc9da2380cb6b79c4bca9ae",
+  "symbol": "yBUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yBUSD--0x04bc0ab673d88ae9dbc9da2380cb6b79c4bca9ae/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

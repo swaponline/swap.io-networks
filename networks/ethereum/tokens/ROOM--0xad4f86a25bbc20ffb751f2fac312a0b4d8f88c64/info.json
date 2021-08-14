@@ -1,0 +1,11 @@
+{
+  "name": "OptionRoomToken",
+  "address": "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64",
+  "symbol": "ROOM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROOM--0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

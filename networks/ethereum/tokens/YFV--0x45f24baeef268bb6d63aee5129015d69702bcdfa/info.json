@@ -1,0 +1,11 @@
+{
+  "name": "YFValue",
+  "address": "0x45f24baeef268bb6d63aee5129015d69702bcdfa",
+  "symbol": "YFV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFV--0x45f24baeef268bb6d63aee5129015d69702bcdfa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

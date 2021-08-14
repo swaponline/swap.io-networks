@@ -1,0 +1,11 @@
+{
+  "name": "Cryptolandy",
+  "address": "0x1062fdf250b44697216d07e41df93824519f47aa",
+  "symbol": "CRYPL",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRYPL--0x1062fdf250b44697216d07e41df93824519f47aa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Unilord",
+  "address": "0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74",
+  "symbol": "PEER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PEER--0x5dd115eb39a0fc5da9022e4bbb8e8679ca066a74/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

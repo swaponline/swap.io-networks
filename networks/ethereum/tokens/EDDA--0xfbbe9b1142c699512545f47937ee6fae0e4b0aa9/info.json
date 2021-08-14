@@ -1,0 +1,11 @@
+{
+  "name": "EDDA",
+  "address": "0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9",
+  "symbol": "EDDA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EDDA--0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

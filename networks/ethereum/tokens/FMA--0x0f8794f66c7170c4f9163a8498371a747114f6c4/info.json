@@ -1,0 +1,11 @@
+{
+  "name": "Flama",
+  "address": "0x0f8794f66c7170c4f9163a8498371a747114f6c4",
+  "symbol": "FMA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FMA--0x0f8794f66c7170c4f9163a8498371a747114f6c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

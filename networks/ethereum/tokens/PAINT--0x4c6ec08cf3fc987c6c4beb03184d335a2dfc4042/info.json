@@ -1,0 +1,11 @@
+{
+  "name": "Paint",
+  "address": "0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042",
+  "symbol": "PAINT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PAINT--0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OneInch Token",
+  "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/1INCH--0x111111111117dc0aa78b770fa6a738034120c302/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

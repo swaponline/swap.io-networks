@@ -1,0 +1,11 @@
+{
+  "name": "DuskNetwork",
+  "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+  "symbol": "DUSK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DUSK--0x940a2db1b7008b6c776d4faaca729d6d4a4aa551/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

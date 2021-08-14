@@ -1,0 +1,11 @@
+{
+  "name": "BaconSwap",
+  "address": "0x175ab41e2cedf3919b2e4426c19851223cf51046",
+  "symbol": "BACON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BACON--0x175ab41e2cedf3919b2e4426c19851223cf51046/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

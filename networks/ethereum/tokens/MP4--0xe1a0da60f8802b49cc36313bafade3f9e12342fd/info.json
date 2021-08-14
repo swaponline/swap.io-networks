@@ -1,0 +1,11 @@
+{
+  "name": "MP4",
+  "address": "0xe1a0da60f8802b49cc36313bafade3f9e12342fd",
+  "symbol": "MP4",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MP4--0xe1a0da60f8802b49cc36313bafade3f9e12342fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AavegotchiGHSTToken",
+  "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+  "symbol": "GHST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GHST--0x3f382dbd960e3a9bbceae22651e88158d2791550/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

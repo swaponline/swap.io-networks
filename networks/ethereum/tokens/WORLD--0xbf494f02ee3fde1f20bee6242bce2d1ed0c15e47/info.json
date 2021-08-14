@@ -1,0 +1,11 @@
+{
+  "name": "World Token",
+  "address": "0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47",
+  "symbol": "WORLD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WORLD--0xbf494f02ee3fde1f20bee6242bce2d1ed0c15e47/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

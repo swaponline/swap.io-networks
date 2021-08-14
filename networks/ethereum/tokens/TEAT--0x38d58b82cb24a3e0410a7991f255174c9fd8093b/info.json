@@ -1,0 +1,11 @@
+{
+  "name": "TEAL",
+  "address": "0x38d58b82cb24a3e0410a7991f255174c9fd8093b",
+  "symbol": "TEAT",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TEAT--0x38d58b82cb24a3e0410a7991f255174c9fd8093b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Baguette Token",
+  "address": "0x7a545ed3863221a974f327199ac22f7f12535f11",
+  "symbol": "BGTT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BGTT--0x7a545ed3863221a974f327199ac22f7f12535f11/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

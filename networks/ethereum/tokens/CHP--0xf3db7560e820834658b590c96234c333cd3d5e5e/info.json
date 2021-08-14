@@ -1,0 +1,11 @@
+{
+  "name": "CoinPoker",
+  "address": "0xf3db7560e820834658b590c96234c333cd3d5e5e",
+  "symbol": "CHP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHP--0xf3db7560e820834658b590c96234c333cd3d5e5e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

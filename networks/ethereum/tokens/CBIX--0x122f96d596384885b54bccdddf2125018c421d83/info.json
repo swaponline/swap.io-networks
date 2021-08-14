@@ -1,0 +1,11 @@
+{
+  "name": "Cubiex",
+  "address": "0x122f96d596384885b54bccdddf2125018c421d83",
+  "symbol": "CBIX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CBIX--0x122f96d596384885b54bccdddf2125018c421d83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

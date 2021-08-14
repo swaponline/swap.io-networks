@@ -1,0 +1,11 @@
+{
+  "name": "RaiReflexIndex",
+  "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+  "symbol": "RAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAI--0x03ab458634910aad20ef5f1c8ee96f1d6ac54919/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

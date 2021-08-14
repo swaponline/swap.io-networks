@@ -1,0 +1,11 @@
+{
+  "name": "MobiFi",
+  "address": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544",
+  "symbol": "MOFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MOFI--0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

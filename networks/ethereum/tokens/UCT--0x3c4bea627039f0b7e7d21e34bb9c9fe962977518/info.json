@@ -1,0 +1,11 @@
+{
+  "name": "Ubique Chain of Thi",
+  "address": "0x3c4bea627039f0b7e7d21e34bb9c9fe962977518",
+  "symbol": "UCT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UCT--0x3c4bea627039f0b7e7d21e34bb9c9fe962977518/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

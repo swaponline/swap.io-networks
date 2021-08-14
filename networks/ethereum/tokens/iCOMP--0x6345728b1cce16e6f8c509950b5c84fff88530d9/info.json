@@ -1,0 +1,11 @@
+{
+  "name": "SynthiCOMP",
+  "address": "0x6345728b1cce16e6f8c509950b5c84fff88530d9",
+  "symbol": "iCOMP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iCOMP--0x6345728b1cce16e6f8c509950b5c84fff88530d9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

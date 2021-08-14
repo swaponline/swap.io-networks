@@ -1,0 +1,11 @@
+{
+  "name": "Ymen Finance",
+  "address": "0xd0c59798f986d333554688cd667033d469c2398e",
+  "symbol": "YMEN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YMEN--0xd0c59798f986d333554688cd667033d469c2398e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MorpheusNetwork",
+  "address": "0x7b0c06043468469967dba22d1af33d77d44056c8",
+  "symbol": "MRPH",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MRPH--0x7b0c06043468469967dba22d1af33d77d44056c8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

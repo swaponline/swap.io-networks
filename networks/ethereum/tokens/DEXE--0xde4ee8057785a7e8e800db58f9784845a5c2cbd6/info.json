@@ -1,0 +1,11 @@
+{
+  "name": "Dexe",
+  "address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6",
+  "symbol": "DEXE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEXE--0xde4ee8057785a7e8e800db58f9784845a5c2cbd6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

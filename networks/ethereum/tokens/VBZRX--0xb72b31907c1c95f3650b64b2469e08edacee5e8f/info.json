@@ -1,0 +1,11 @@
+{
+  "name": "bZx Vesting Token",
+  "address": "0xb72b31907c1c95f3650b64b2469e08edacee5e8f",
+  "symbol": "VBZRX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VBZRX--0xb72b31907c1c95f3650b64b2469e08edacee5e8f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

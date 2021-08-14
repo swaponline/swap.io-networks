@@ -1,0 +1,11 @@
+{
+  "name": "DarkBundles",
+  "address": "0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e",
+  "symbol": "DBUND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DBUND--0xc6d19a604fbdb5c2eeb363255fd63c9eea29288e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

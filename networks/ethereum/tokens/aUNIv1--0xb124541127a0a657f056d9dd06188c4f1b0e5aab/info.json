@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingUniswap",
+  "address": "0xb124541127a0a657f056d9dd06188c4f1b0e5aab",
+  "symbol": "aUNIv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aUNIv1--0xb124541127a0a657f056d9dd06188c4f1b0e5aab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

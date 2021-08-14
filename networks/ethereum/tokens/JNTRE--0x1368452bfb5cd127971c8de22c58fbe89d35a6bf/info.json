@@ -1,0 +1,11 @@
+{
+  "name": "JNTR e",
+  "address": "0x1368452bfb5cd127971c8de22c58fbe89d35a6bf",
+  "symbol": "JNTRE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JNTRE--0x1368452bfb5cd127971c8de22c58fbe89d35a6bf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

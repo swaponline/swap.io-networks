@@ -1,0 +1,11 @@
+{
+  "name": "Kassia Home",
+  "address": "0x4cc84b41ececc387244512242eec226eb7948a92",
+  "symbol": "KASSIAHOME",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KASSIAHOME--0x4cc84b41ececc387244512242eec226eb7948a92/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FRMx Token",
+  "address": "0xf6832ea221ebfdc2363729721a146e6745354b14",
+  "symbol": "FRMX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FRMX--0xf6832ea221ebfdc2363729721a146e6745354b14/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

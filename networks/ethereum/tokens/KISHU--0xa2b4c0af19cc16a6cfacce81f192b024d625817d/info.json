@@ -1,0 +1,11 @@
+{
+  "name": "KishuInu",
+  "address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+  "symbol": "KISHU",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KISHU--0xa2b4c0af19cc16a6cfacce81f192b024d625817d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

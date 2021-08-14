@@ -1,0 +1,11 @@
+{
+  "name": "DEUS",
+  "address": "0x3b62f3820e0b035cc4ad602dece6d796bc325325",
+  "symbol": "DEUS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEUS--0x3b62f3820e0b035cc4ad602dece6d796bc325325/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

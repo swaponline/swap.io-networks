@@ -1,0 +1,11 @@
+{
+  "name": "Rivex",
+  "address": "0x91d6f6e9026e43240ce6f06af6a4b33129ebde94",
+  "symbol": "RVX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RVX--0x91d6f6e9026e43240ce6f06af6a4b33129ebde94/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

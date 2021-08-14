@@ -1,0 +1,11 @@
+{
+  "name": "NerveNetwork",
+  "address": "0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13",
+  "symbol": "NVT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NVT--0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

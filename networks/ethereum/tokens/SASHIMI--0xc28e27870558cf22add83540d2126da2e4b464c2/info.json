@@ -1,0 +1,11 @@
+{
+  "name": "SashimiToken",
+  "address": "0xc28e27870558cf22add83540d2126da2e4b464c2",
+  "symbol": "SASHIMI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SASHIMI--0xc28e27870558cf22add83540d2126da2e4b464c2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

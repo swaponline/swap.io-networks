@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingUSDC",
+  "address": "0x9ba00d6856a4edf4665bca2c2309936572473b7e",
+  "symbol": "aUSDCv1",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aUSDCv1--0x9ba00d6856a4edf4665bca2c2309936572473b7e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

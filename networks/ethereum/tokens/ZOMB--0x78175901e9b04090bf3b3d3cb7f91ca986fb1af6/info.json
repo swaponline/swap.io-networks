@@ -1,0 +1,11 @@
+{
+  "name": "Antique Zombie Shar",
+  "address": "0x78175901e9b04090bf3b3d3cb7f91ca986fb1af6",
+  "symbol": "ZOMB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZOMB--0x78175901e9b04090bf3b3d3cb7f91ca986fb1af6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

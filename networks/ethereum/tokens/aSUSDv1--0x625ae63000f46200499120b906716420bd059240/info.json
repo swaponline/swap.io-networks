@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingSUSD",
+  "address": "0x625ae63000f46200499120b906716420bd059240",
+  "symbol": "aSUSDv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aSUSDv1--0x625ae63000f46200499120b906716420bd059240/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SynthiUNI",
+  "address": "0x36a00ff9072570ef4b9292117850b8fe08d96cce",
+  "symbol": "iUNI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iUNI--0x36a00ff9072570ef4b9292117850b8fe08d96cce/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

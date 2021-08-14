@@ -1,0 +1,11 @@
+{
+  "name": "NFTINDEX",
+  "address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+  "symbol": "NFTI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NFTI--0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

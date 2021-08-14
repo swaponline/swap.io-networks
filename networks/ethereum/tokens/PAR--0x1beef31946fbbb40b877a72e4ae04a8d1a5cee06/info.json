@@ -1,0 +1,11 @@
+{
+  "name": "Parachute",
+  "address": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+  "symbol": "PAR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PAR--0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

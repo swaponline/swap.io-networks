@@ -1,0 +1,11 @@
+{
+  "name": "Moonday Finance",
+  "address": "0x1ad606adde97c0c28bd6ac85554176bc55783c01",
+  "symbol": "MOONDAY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MOONDAY--0x1ad606adde97c0c28bd6ac85554176bc55783c01/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "XStable",
+  "address": "0x91383a15c391c142b80045d8b4730c1c37ac0378",
+  "symbol": "XST",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XST--0x91383a15c391c142b80045d8b4730c1c37ac0378/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

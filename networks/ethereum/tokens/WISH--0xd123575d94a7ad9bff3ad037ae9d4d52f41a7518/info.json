@@ -1,0 +1,11 @@
+{
+  "name": "MyWish",
+  "address": "0xd123575d94a7ad9bff3ad037ae9d4d52f41a7518",
+  "symbol": "WISH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WISH--0xd123575d94a7ad9bff3ad037ae9d4d52f41a7518/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

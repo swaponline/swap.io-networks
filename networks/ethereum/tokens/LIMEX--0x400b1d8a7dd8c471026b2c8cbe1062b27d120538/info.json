@@ -1,0 +1,11 @@
+{
+  "name": "Limestone Network",
+  "address": "0x400b1d8a7dd8c471026b2c8cbe1062b27d120538",
+  "symbol": "LIMEX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIMEX--0x400b1d8a7dd8c471026b2c8cbe1062b27d120538/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dragonfly Protocol",
+  "address": "0x70a6d0d1561ba98711e935a76b1c167c612978a2",
+  "symbol": "DFLY",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFLY--0x70a6d0d1561ba98711e935a76b1c167c612978a2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

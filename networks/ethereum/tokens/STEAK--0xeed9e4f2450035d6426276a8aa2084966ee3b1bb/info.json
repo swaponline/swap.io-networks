@@ -1,0 +1,11 @@
+{
+  "name": "Steaks Finance",
+  "address": "0xeed9e4f2450035d6426276a8aa2084966ee3b1bb",
+  "symbol": "STEAK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STEAK--0xeed9e4f2450035d6426276a8aa2084966ee3b1bb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RigoBlock",
+  "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+  "symbol": "GRG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GRG--0x4fbb350052bca5417566f188eb2ebce5b19bc964/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Zero Utility Token",
+  "address": "0x83f873388cd14b83a9f47fabde3c9850b5c74548",
+  "symbol": "ZUT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZUT--0x83f873388cd14b83a9f47fabde3c9850b5c74548/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

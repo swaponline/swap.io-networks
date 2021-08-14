@@ -1,0 +1,11 @@
+{
+  "name": "EnCore",
+  "address": "0xe0e4839e0c7b2773c58764f9ec3b9622d01a0428",
+  "symbol": "ENCORE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ENCORE--0xe0e4839e0c7b2773c58764f9ec3b9622d01a0428/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

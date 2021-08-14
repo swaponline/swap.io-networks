@@ -1,0 +1,11 @@
+{
+  "name": "Dripper",
+  "address": "0x239119c43e3cac84c8a2d45bcba0e46f528e5f77",
+  "symbol": "DRIP",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DRIP--0x239119c43e3cac84c8a2d45bcba0e46f528e5f77/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

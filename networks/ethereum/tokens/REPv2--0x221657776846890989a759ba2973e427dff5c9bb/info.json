@@ -1,0 +1,11 @@
+{
+  "name": "ReputationV2",
+  "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+  "symbol": "REPv2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REPv2--0x221657776846890989a759ba2973e427dff5c9bb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

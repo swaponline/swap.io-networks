@@ -1,0 +1,11 @@
+{
+  "name": "Tribe",
+  "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+  "symbol": "TRIBE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRIBE--0xc7283b66eb1eb5fb86327f08e1b5816b0720212b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

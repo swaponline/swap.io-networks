@@ -1,0 +1,11 @@
+{
+  "name": "Bifrost",
+  "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
+  "symbol": "BFC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BFC--0x0c7d5ae016f806603cb1782bea29ac69471cab9c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

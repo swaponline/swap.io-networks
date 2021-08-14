@@ -1,0 +1,11 @@
+{
+  "name": "SynthsBNB",
+  "address": "0x617aecb6137b5108d1e7d4918e3725c8cebdb848",
+  "symbol": "sBNB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sBNB--0x617aecb6137b5108d1e7d4918e3725c8cebdb848/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

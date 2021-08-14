@@ -1,0 +1,11 @@
+{
+  "name": "Dragonereum GOLD",
+  "address": "0x150b0b96933b75ce27af8b92441f8fb683bf9739",
+  "symbol": "GOLD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GOLD--0x150b0b96933b75ce27af8b92441f8fb683bf9739/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

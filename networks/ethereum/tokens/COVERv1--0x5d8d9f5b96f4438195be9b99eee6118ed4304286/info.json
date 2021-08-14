@@ -1,0 +1,11 @@
+{
+  "name": "CoverProtocol",
+  "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+  "symbol": "COVERv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COVERv1--0x5d8d9f5b96f4438195be9b99eee6118ed4304286/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SAV3",
+  "address": "0x6e10aacb89a28d6fa0fe68790777fec7e7f01890",
+  "symbol": "SAV3",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAV3--0x6e10aacb89a28d6fa0fe68790777fec7e7f01890/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

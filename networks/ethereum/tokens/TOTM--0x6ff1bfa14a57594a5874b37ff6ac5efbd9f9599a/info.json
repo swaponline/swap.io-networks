@@ -1,0 +1,11 @@
+{
+  "name": "Totem",
+  "address": "0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a",
+  "symbol": "TOTM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TOTM--0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

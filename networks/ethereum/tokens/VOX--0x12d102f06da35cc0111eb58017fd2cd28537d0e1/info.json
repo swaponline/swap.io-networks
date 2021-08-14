@@ -1,0 +1,11 @@
+{
+  "name": "Vox.Finance",
+  "address": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1",
+  "symbol": "VOX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VOX--0x12d102f06da35cc0111eb58017fd2cd28537d0e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

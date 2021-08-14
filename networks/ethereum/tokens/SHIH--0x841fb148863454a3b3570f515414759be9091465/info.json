@@ -1,0 +1,11 @@
+{
+  "name": "ShihTzu",
+  "address": "0x841fb148863454a3b3570f515414759be9091465",
+  "symbol": "SHIH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHIH--0x841fb148863454a3b3570f515414759be9091465/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

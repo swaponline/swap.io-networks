@@ -1,0 +1,11 @@
+{
+  "name": "UnoSwap",
+  "address": "0xd18a8abed9274edbeace4b12d86a8633283435da",
+  "symbol": "UNOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNOS--0xd18a8abed9274edbeace4b12d86a8633283435da/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

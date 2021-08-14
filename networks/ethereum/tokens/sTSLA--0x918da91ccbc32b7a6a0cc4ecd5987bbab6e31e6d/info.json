@@ -1,0 +1,11 @@
+{
+  "name": "SynthsTSLA",
+  "address": "0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d",
+  "symbol": "sTSLA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sTSLA--0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

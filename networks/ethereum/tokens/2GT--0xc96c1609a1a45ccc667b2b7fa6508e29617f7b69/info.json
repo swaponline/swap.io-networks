@@ -1,0 +1,11 @@
+{
+  "name": "2GT_token",
+  "address": "0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69",
+  "symbol": "2GT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/2GT--0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

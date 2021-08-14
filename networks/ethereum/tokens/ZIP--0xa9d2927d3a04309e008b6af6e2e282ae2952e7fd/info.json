@@ -1,0 +1,11 @@
+{
+  "name": "Zipper Network",
+  "address": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
+  "symbol": "ZIP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZIP--0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Passport Finance",
+  "address": "0x6c4522f0035bed2180b40f4c5d9dbaab64b41325",
+  "symbol": "PASS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PASS--0x6c4522f0035bed2180b40f4c5d9dbaab64b41325/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

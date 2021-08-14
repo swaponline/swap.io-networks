@@ -1,0 +1,11 @@
+{
+  "name": "Katana Finance",
+  "address": "0xe6410569602124506658ff992f258616ea2d4a3d",
+  "symbol": "KATANA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KATANA--0xe6410569602124506658ff992f258616ea2d4a3d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

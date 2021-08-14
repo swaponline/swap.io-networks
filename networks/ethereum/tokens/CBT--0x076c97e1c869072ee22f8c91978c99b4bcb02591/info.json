@@ -1,0 +1,11 @@
+{
+  "name": "CommerceBlock Token",
+  "address": "0x076c97e1c869072ee22f8c91978c99b4bcb02591",
+  "symbol": "CBT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CBT--0x076c97e1c869072ee22f8c91978c99b4bcb02591/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

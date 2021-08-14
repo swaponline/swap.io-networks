@@ -1,0 +1,11 @@
+{
+  "name": "BDPToken",
+  "address": "0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e",
+  "symbol": "BDP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BDP--0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

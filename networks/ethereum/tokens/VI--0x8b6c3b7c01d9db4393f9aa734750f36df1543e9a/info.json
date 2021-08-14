@@ -1,0 +1,11 @@
+{
+  "name": "Vid",
+  "address": "0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a",
+  "symbol": "VI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VI--0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

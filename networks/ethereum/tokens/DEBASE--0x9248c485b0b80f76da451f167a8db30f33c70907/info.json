@@ -1,0 +1,11 @@
+{
+  "name": "Debase",
+  "address": "0x9248c485b0b80f76da451f167a8db30f33c70907",
+  "symbol": "DEBASE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEBASE--0x9248c485b0b80f76da451f167a8db30f33c70907/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

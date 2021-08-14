@@ -1,0 +1,11 @@
+{
+  "name": "Lottonation",
+  "address": "0x3a73f6156c4fbc71b8fdf38090a9d99401163644",
+  "symbol": "LNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LNT--0x3a73f6156c4fbc71b8fdf38090a9d99401163644/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

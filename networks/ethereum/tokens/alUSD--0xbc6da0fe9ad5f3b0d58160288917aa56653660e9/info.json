@@ -1,0 +1,11 @@
+{
+  "name": "AlchemixUSD",
+  "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+  "symbol": "alUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/alUSD--0xbc6da0fe9ad5f3b0d58160288917aa56653660e9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

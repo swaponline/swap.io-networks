@@ -1,0 +1,11 @@
+{
+  "name": "Brapper Token",
+  "address": "0x56ed2f7dac19243df100bac10364c56df20cb1e9",
+  "symbol": "BRAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BRAP--0x56ed2f7dac19243df100bac10364c56df20cb1e9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QuadrantProtocol",
+  "address": "0xc28e931814725bbeb9e670676fabbcb694fe7df2",
+  "symbol": "EQUAD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EQUAD--0xc28e931814725bbeb9e670676fabbcb694fe7df2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

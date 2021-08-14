@@ -1,0 +1,11 @@
+{
+  "name": "VoucherEthereum",
+  "address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
+  "symbol": "vETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/vETH--0xc3d088842dcf02c13699f936bb83dfbbc6f721ab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

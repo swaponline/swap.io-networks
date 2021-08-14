@@ -1,0 +1,11 @@
+{
+  "name": "Convergence",
+  "address": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
+  "symbol": "CONV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CONV--0xc834fa996fa3bec7aad3693af486ae53d8aa8b50/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

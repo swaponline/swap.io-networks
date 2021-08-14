@@ -1,0 +1,11 @@
+{
+  "name": "SynthsCOIN",
+  "address": "0x9eef4ca7ab9fa8bc0650127341c2d3f707a40f8a",
+  "symbol": "sCOIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sCOIN--0x9eef4ca7ab9fa8bc0650127341c2d3f707a40f8a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

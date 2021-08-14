@@ -1,0 +1,11 @@
+{
+  "name": "Buy Sell",
+  "address": "0xa30189d8255322a2f8b2a77906b000aeb005570c",
+  "symbol": "BSE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BSE--0xa30189d8255322a2f8b2a77906b000aeb005570c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

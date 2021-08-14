@@ -1,0 +1,11 @@
+{
+  "name": "TitanSwap",
+  "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
+  "symbol": "TITAN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TITAN--0x3a8cccb969a61532d1e6005e2ce12c200caece87/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

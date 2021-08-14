@@ -1,0 +1,11 @@
+{
+  "name": "Fetch",
+  "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+  "symbol": "FET",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FET--0xaea46a60368a7bd060eec7df8cba43b7ef41ad85/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

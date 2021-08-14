@@ -1,0 +1,11 @@
+{
+  "name": "Finminity",
+  "address": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c",
+  "symbol": "FMT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FMT--0x99c6e435ec259a7e8d65e1955c9423db624ba54c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

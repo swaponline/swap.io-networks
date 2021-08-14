@@ -1,0 +1,11 @@
+{
+  "name": "INFI",
+  "address": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
+  "symbol": "INFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/INFI--0x159751323a9e0415dd3d6d42a1212fe9f4a0848c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ubex",
+  "address": "0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
+  "symbol": "UBEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UBEX--0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

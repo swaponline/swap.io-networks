@@ -1,0 +1,11 @@
+{
+  "name": "DokiDokiAzuki",
+  "address": "0x910524678c0b1b23ffb9285a81f99c29c11cbaed",
+  "symbol": "AZUKI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AZUKI--0x910524678c0b1b23ffb9285a81f99c29c11cbaed/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

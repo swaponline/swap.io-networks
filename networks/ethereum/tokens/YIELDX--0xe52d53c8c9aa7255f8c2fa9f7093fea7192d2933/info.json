@@ -1,0 +1,11 @@
+{
+  "name": "YieldX",
+  "address": "0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933",
+  "symbol": "YIELDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YIELDX--0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

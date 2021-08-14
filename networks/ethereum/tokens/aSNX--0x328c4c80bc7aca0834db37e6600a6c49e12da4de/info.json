@@ -1,0 +1,11 @@
+{
+  "name": "Aave SNX",
+  "address": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
+  "symbol": "aSNX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

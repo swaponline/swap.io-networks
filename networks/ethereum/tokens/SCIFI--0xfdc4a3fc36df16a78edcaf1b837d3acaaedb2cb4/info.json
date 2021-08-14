@@ -1,0 +1,11 @@
+{
+  "name": "ScifiToken",
+  "address": "0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4",
+  "symbol": "SCIFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SCIFI--0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

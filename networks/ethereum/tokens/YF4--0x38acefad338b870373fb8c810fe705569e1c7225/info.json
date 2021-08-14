@@ -1,0 +1,11 @@
+{
+  "name": "Yearn4 Finance",
+  "address": "0x38acefad338b870373fb8c810fe705569e1c7225",
+  "symbol": "YF4",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YF4--0x38acefad338b870373fb8c810fe705569e1c7225/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

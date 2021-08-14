@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingLINK",
+  "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
+  "symbol": "aLINK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aLINK--0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

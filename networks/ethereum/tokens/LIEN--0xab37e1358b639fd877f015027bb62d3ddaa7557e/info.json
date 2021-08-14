@@ -1,0 +1,11 @@
+{
+  "name": "Lien",
+  "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+  "symbol": "LIEN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIEN--0xab37e1358b639fd877f015027bb62d3ddaa7557e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Quantfury",
+  "address": "0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260",
+  "symbol": "QTF",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QTF--0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

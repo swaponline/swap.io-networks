@@ -1,0 +1,11 @@
+{
+  "name": "Aurox Token",
+  "address": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c",
+  "symbol": "URUS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/URUS--0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

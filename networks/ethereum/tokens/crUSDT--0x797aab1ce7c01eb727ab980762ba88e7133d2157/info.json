@@ -1,0 +1,11 @@
+{
+  "name": "CreamUSDT",
+  "address": "0x797aab1ce7c01eb727ab980762ba88e7133d2157",
+  "symbol": "crUSDT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crUSDT--0x797aab1ce7c01eb727ab980762ba88e7133d2157/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

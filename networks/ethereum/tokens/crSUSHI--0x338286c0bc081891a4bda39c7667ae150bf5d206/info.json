@@ -1,0 +1,11 @@
+{
+  "name": "CreamSushiToken",
+  "address": "0x338286c0bc081891a4bda39c7667ae150bf5d206",
+  "symbol": "crSUSHI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSUSHI--0x338286c0bc081891a4bda39c7667ae150bf5d206/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

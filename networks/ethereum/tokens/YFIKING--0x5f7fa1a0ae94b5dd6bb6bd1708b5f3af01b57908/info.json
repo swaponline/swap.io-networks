@@ -1,0 +1,11 @@
+{
+  "name": "YFIKing Finance",
+  "address": "0x5f7fa1a0ae94b5dd6bb6bd1708b5f3af01b57908",
+  "symbol": "YFIKING",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFIKING--0x5f7fa1a0ae94b5dd6bb6bd1708b5f3af01b57908/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

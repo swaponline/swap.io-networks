@@ -1,0 +1,11 @@
+{
+  "name": "DigiMax",
+  "address": "0x0d4b4da5fb1a7d55e85f8e22f728701ceb6e44c9",
+  "symbol": "DGMT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DGMT--0x0d4b4da5fb1a7d55e85f8e22f728701ceb6e44c9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

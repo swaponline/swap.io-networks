@@ -1,0 +1,11 @@
+{
+  "name": "arcane bear",
+  "address": "0xaf162491c0b21900c01f4cc0f7110238aacdebe7",
+  "symbol": "BEAR",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEAR--0xaf162491c0b21900c01f4cc0f7110238aacdebe7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped WBTC",
+  "address": "0x8fc8bfd80d6a9f17fb98a373023d72531792b431",
+  "symbol": "cyWBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyWBTC--0x8fc8bfd80d6a9f17fb98a373023d72531792b431/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Poodl Token",
+  "address": "0x56a980328aee33aabb540a02e002c8323326bf36",
+  "symbol": "POODL",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POODL--0x56a980328aee33aabb540a02e002c8323326bf36/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

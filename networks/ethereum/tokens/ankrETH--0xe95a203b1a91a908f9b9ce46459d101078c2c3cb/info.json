@@ -1,0 +1,11 @@
+{
+  "name": "Ankr ETH",
+  "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+  "symbol": "ankrETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ankrETH--0xe95a203b1a91a908f9b9ce46459d101078c2c3cb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

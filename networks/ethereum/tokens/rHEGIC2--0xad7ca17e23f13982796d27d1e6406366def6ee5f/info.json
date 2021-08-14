@@ -1,0 +1,11 @@
+{
+  "name": "HEGICTokenIOU Phase II",
+  "address": "0xad7ca17e23f13982796d27d1e6406366def6ee5f",
+  "symbol": "rHEGIC2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/rHEGIC2--0xad7ca17e23f13982796d27d1e6406366def6ee5f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

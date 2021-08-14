@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum Cloud",
+  "address": "0x5acd07353106306a6530ac4d49233271ec372963",
+  "symbol": "ETY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETY--0x5acd07353106306a6530ac4d49233271ec372963/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

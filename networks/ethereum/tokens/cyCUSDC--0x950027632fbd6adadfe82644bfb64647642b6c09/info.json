@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped CUSDC",
+  "address": "0x950027632fbd6adadfe82644bfb64647642b6c09",
+  "symbol": "cyCUSDC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyCUSDC--0x950027632fbd6adadfe82644bfb64647642b6c09/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

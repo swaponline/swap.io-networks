@@ -1,0 +1,11 @@
+{
+  "name": "Staker DAO",
+  "address": "0x89dcff5fd892f2bfc8b75dba12804b651f769579",
+  "symbol": "STKR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STKR--0x89dcff5fd892f2bfc8b75dba12804b651f769579/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

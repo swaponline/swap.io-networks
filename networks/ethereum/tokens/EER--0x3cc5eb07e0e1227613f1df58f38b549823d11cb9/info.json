@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum eRush",
+  "address": "0x3cc5eb07e0e1227613f1df58f38b549823d11cb9",
+  "symbol": "EER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EER--0x3cc5eb07e0e1227613f1df58f38b549823d11cb9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SIREN",
+  "address": "0xd23ac27148af6a2f339bd82d0e3cff380b5093de",
+  "symbol": "SI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SI--0xd23ac27148af6a2f339bd82d0e3cff380b5093de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

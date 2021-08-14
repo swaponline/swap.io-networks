@@ -1,0 +1,11 @@
+{
+  "name": "AFRICUNIA BANK",
+  "address": "0xb8a5dba52fe8a0dd737bf15ea5043cea30c7e30b",
+  "symbol": "AFCASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AFCASH--0xb8a5dba52fe8a0dd737bf15ea5043cea30c7e30b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

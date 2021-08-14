@@ -1,0 +1,11 @@
+{
+  "name": "YFI Business",
+  "address": "0x47632da9227e322eda59f9e7691eacc6430ac87c",
+  "symbol": "YFIB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFIB--0x47632da9227e322eda59f9e7691eacc6430ac87c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

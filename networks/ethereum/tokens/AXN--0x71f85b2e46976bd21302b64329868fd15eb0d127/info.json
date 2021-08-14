@@ -1,0 +1,11 @@
+{
+  "name": "Axion",
+  "address": "0x71f85b2e46976bd21302b64329868fd15eb0d127",
+  "symbol": "AXN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AXN--0x71f85b2e46976bd21302b64329868fd15eb0d127/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

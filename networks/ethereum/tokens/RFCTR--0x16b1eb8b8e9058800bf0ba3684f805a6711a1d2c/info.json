@@ -1,0 +1,11 @@
+{
+  "name": "Reflector Finance",
+  "address": "0x16b1eb8b8e9058800bf0ba3684f805a6711a1d2c",
+  "symbol": "RFCTR",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RFCTR--0x16b1eb8b8e9058800bf0ba3684f805a6711a1d2c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

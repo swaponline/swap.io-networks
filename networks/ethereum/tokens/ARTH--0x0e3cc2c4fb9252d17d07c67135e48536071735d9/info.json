@@ -1,0 +1,11 @@
+{
+  "name": "ARTH",
+  "address": "0x0e3cc2c4fb9252d17d07c67135e48536071735d9",
+  "symbol": "ARTH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARTH--0x0e3cc2c4fb9252d17d07c67135e48536071735d9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rebasing Liquidity",
+  "address": "0xfcfc434ee5bff924222e084a8876eee74ea7cfba",
+  "symbol": "DELTARLP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DELTARLP--0xfcfc434ee5bff924222e084a8876eee74ea7cfba/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

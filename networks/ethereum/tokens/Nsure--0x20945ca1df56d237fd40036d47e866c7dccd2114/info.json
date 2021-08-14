@@ -1,0 +1,11 @@
+{
+  "name": "NsureNetworkToken",
+  "address": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
+  "symbol": "Nsure",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/Nsure--0x20945ca1df56d237fd40036d47e866c7dccd2114/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

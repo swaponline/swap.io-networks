@@ -1,0 +1,11 @@
+{
+  "name": "Good Boy Points",
+  "address": "0x0cf58006b2400ebec3eb8c05b73170138a340563",
+  "symbol": "GBP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GBP--0x0cf58006b2400ebec3eb8c05b73170138a340563/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

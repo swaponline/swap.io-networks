@@ -1,0 +1,11 @@
+{
+  "name": "SPANK",
+  "address": "0x42d6622dece394b54999fbd73d108123806f6a18",
+  "symbol": "SPANK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SPANK--0x42d6622dece394b54999fbd73d108123806f6a18/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

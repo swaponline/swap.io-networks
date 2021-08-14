@@ -1,0 +1,11 @@
+{
+  "name": "Shopping.io",
+  "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+  "symbol": "SPI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SPI--0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

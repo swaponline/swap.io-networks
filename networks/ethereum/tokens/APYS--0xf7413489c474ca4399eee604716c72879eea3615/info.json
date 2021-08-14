@@ -1,0 +1,11 @@
+{
+  "name": "APYSwap",
+  "address": "0xf7413489c474ca4399eee604716c72879eea3615",
+  "symbol": "APYS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/APYS--0xf7413489c474ca4399eee604716c72879eea3615/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

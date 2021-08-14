@@ -1,0 +1,11 @@
+{
+  "name": "H3X",
+  "address": "0x85eba557c06c348395fd49e35d860f58a4f7c95a",
+  "symbol": "H3X",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/H3X--0x85eba557c06c348395fd49e35d860f58a4f7c95a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

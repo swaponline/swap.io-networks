@@ -1,0 +1,11 @@
+{
+  "name": "SEFI",
+  "address": "0x773258b03c730f84af10dfcb1bfaa7487558b8ac",
+  "symbol": "SEFI",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SEFI--0x773258b03c730f84af10dfcb1bfaa7487558b8ac/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

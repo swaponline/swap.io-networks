@@ -1,0 +1,11 @@
+{
+  "name": "Shill",
+  "address": "0x685aea4f02e39e5a5bb7f7117e88db1151f38364",
+  "symbol": "POSH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POSH--0x685aea4f02e39e5a5bb7f7117e88db1151f38364/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

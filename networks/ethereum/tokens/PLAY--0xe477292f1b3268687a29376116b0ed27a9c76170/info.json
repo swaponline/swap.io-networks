@@ -1,0 +1,11 @@
+{
+  "name": "HEROcoin",
+  "address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
+  "symbol": "PLAY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PLAY--0xe477292f1b3268687a29376116b0ed27a9c76170/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

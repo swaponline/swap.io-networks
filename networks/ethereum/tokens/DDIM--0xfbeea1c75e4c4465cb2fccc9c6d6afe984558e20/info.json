@@ -1,0 +1,11 @@
+{
+  "name": "DuckDaoDime",
+  "address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+  "symbol": "DDIM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DDIM--0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

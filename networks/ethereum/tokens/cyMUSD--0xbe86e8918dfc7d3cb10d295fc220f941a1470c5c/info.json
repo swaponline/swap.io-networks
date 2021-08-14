@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped MUSD",
+  "address": "0xbe86e8918dfc7d3cb10d295fc220f941a1470c5c",
+  "symbol": "cyMUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyMUSD--0xbe86e8918dfc7d3cb10d295fc220f941a1470c5c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

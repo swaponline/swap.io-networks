@@ -1,0 +1,11 @@
+{
+  "name": "AlphaDex",
+  "address": "0x3516415161c478df10adbb8bb884cc83fbd5f11a",
+  "symbol": "DEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEX--0x3516415161c478df10adbb8bb884cc83fbd5f11a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

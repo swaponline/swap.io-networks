@@ -1,0 +1,11 @@
+{
+  "name": "Warlord Token",
+  "address": "0xb7bc7b0a32455f7e7a924f832ca4f0a0ac3b6b88",
+  "symbol": "WLT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WLT--0xb7bc7b0a32455f7e7a924f832ca4f0a0ac3b6b88/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

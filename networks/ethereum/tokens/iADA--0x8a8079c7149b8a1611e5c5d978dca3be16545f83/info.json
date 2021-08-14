@@ -1,0 +1,11 @@
+{
+  "name": "SynthiADA",
+  "address": "0x8a8079c7149b8a1611e5c5d978dca3be16545f83",
+  "symbol": "iADA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iADA--0x8a8079c7149b8a1611e5c5d978dca3be16545f83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

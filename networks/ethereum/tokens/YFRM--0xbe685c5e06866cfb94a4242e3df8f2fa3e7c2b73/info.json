@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance Red M",
+  "address": "0xbe685c5e06866cfb94a4242e3df8f2fa3e7c2b73",
+  "symbol": "YFRM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFRM--0xbe685c5e06866cfb94a4242e3df8f2fa3e7c2b73/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

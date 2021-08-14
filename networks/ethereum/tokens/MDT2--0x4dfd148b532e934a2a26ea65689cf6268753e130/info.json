@@ -1,0 +1,11 @@
+{
+  "name": "GovernancetokenMonolithosDAO",
+  "address": "0x4dfd148b532e934a2a26ea65689cf6268753e130",
+  "symbol": "MDT2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MDT2--0x4dfd148b532e934a2a26ea65689cf6268753e130/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

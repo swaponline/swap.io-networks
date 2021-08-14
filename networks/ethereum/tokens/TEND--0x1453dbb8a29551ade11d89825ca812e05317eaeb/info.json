@@ -1,0 +1,11 @@
+{
+  "name": "TendiesToken",
+  "address": "0x1453dbb8a29551ade11d89825ca812e05317eaeb",
+  "symbol": "TEND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TEND--0x1453dbb8a29551ade11d89825ca812e05317eaeb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

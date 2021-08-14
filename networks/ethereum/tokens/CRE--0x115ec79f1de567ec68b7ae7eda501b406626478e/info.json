@@ -1,0 +1,11 @@
+{
+  "name": "Carry",
+  "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
+  "symbol": "CRE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRE--0x115ec79f1de567ec68b7ae7eda501b406626478e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

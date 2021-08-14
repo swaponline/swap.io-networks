@@ -1,0 +1,11 @@
+{
+  "name": "XCredit",
+  "address": "0x6be7e93e45740c314c89a3be52473a0ddf2450fe",
+  "symbol": "XFYI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XFYI--0x6be7e93e45740c314c89a3be52473a0ddf2450fe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

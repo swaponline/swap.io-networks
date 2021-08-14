@@ -1,0 +1,11 @@
+{
+  "name": "OpiumcDAIJuniorTranche",
+  "address": "0x7a3eb5727e33a8000030718e82481f33bc20c4e3",
+  "symbol": "OPIUMLPa55e",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OPIUMLPa55e--0x7a3eb5727e33a8000030718e82481f33bc20c4e3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

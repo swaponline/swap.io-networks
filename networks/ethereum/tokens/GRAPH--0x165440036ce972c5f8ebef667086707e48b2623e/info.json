@@ -1,0 +1,11 @@
+{
+  "name": "UniGraph",
+  "address": "0x165440036ce972c5f8ebef667086707e48b2623e",
+  "symbol": "GRAPH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GRAPH--0x165440036ce972c5f8ebef667086707e48b2623e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

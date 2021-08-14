@@ -1,0 +1,11 @@
+{
+  "name": "DxSale Network",
+  "address": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589",
+  "symbol": "SALE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SALE--0xf063fe1ab7a291c5d06a86e14730b00bf24cb589/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

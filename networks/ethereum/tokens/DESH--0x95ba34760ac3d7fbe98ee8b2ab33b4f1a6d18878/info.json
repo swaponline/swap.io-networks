@@ -1,0 +1,11 @@
+{
+  "name": "DeCash",
+  "address": "0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878",
+  "symbol": "DESH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DESH--0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

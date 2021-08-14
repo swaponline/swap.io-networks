@@ -1,0 +1,11 @@
+{
+  "name": "Jibrel Network",
+  "address": "0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+  "symbol": "JNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JNT--0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

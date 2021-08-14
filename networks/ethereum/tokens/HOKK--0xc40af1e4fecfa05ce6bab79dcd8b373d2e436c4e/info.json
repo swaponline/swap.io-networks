@@ -1,0 +1,11 @@
+{
+  "name": "HokkaiduInu",
+  "address": "0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e",
+  "symbol": "HOKK",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HOKK--0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

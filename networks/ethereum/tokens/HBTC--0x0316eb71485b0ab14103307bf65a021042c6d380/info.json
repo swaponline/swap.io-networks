@@ -1,0 +1,11 @@
+{
+  "name": "HuobiBTC",
+  "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+  "symbol": "HBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HBTC--0x0316eb71485b0ab14103307bf65a021042c6d380/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AlpaToken",
+  "address": "0x7ca4408137eb639570f8e647d9bd7b7e8717514a",
+  "symbol": "ALPA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALPA--0x7ca4408137eb639570f8e647d9bd7b7e8717514a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

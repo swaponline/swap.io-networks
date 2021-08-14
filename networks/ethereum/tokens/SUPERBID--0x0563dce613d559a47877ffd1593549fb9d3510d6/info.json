@@ -1,0 +1,11 @@
+{
+  "name": "SuperBid",
+  "address": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
+  "symbol": "SUPERBID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SUPERBID--0x0563dce613d559a47877ffd1593549fb9d3510d6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

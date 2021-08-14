@@ -1,0 +1,11 @@
+{
+  "name": "CreamBasisCash",
+  "address": "0x460ea730d204c822ce709f00a8e5959921715adc",
+  "symbol": "crBAC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crBAC--0x460ea730d204c822ce709f00a8e5959921715adc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

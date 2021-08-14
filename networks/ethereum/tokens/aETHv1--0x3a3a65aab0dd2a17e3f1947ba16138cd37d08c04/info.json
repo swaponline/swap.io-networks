@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingETH",
+  "address": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
+  "symbol": "aETHv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aETHv1--0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

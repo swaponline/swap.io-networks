@@ -1,0 +1,11 @@
+{
+  "name": "xBTC",
+  "address": "0xecbf566944250dde88322581024e611419715f7a",
+  "symbol": "XBTC",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XBTC--0xecbf566944250dde88322581024e611419715f7a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

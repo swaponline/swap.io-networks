@@ -1,0 +1,11 @@
+{
+  "name": "Finswap",
+  "address": "0x3b78dc5736a49bd297dd2e4d62daa83d35a22749",
+  "symbol": "FNSP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FNSP--0x3b78dc5736a49bd297dd2e4d62daa83d35a22749/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

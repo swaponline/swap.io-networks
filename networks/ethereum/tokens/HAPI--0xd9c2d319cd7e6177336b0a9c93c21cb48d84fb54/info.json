@@ -1,0 +1,11 @@
+{
+  "name": "HAPI",
+  "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+  "symbol": "HAPI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HAPI--0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

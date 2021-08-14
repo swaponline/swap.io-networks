@@ -1,0 +1,11 @@
+{
+  "name": "veCRV-DAO yVault",
+  "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
+  "symbol": "yveCRV-DAO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yveCRV-DAO--0xc5bddf9843308380375a611c18b50fb9341f502a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

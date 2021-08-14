@@ -1,0 +1,11 @@
+{
+  "name": "YMPL",
+  "address": "0xb7ba8461664de526a3ae44189727dfc768625902",
+  "symbol": "YMPL",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YMPL--0xb7ba8461664de526a3ae44189727dfc768625902/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

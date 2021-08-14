@@ -1,0 +1,11 @@
+{
+  "name": "EmptySetDollar",
+  "address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+  "symbol": "ESD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ESD--0x36f3fd68e7325a35eb768f1aedaae9ea0689d723/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

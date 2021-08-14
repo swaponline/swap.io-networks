@@ -1,0 +1,11 @@
+{
+  "name": "Liquidity Network",
+  "address": "0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4",
+  "symbol": "LQD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LQD--0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

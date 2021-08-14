@@ -1,0 +1,11 @@
+{
+  "name": "DigitalRand",
+  "address": "0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c",
+  "symbol": "DZAR",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DZAR--0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

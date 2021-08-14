@@ -20,7 +20,6 @@ import {
 } from "../common/filesystem"
 import { readJsonFile, writeJsonFile } from "../common/json"
 import { getFullNetworkInfo } from "../common/networks"
-import { getExternalTokensList } from "../common/token-lists"
 
 type UniqToken = {
   names: string[],
@@ -73,7 +72,7 @@ const syncUniqTokensWithNetworks = async () => {
   })
 
   for (const network of Object.keys(networksWithTokensIDs)) {
-    if (network === "ethereum" || !networksWithTokensIDs[network].length) continue
+    if (!networksWithTokensIDs[network].length) continue
     try {
       await updateTokensByNetwork(evmNetworksFullInfo[networksIndexesBySlug[network]], networksWithTokensIDs[network], uniqExternalTokens)
     } catch (error) {

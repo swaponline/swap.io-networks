@@ -1,0 +1,11 @@
+{
+  "name": "Utrin",
+  "address": "0x99f2b69ee2468c834a634ff50d930ae64e3e500f",
+  "symbol": "UTRIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UTRIN--0x99f2b69ee2468c834a634ff50d930ae64e3e500f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

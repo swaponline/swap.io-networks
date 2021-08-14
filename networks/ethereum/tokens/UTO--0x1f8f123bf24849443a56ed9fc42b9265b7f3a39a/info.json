@@ -1,0 +1,11 @@
+{
+  "name": "UniTopia Token",
+  "address": "0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a",
+  "symbol": "UTO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UTO--0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

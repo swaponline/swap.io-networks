@@ -1,0 +1,11 @@
+{
+  "name": "Alpha Token",
+  "address": "0xffc63b9146967a1ba33066fb057ee3722221acf0",
+  "symbol": "A",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/A--0xffc63b9146967a1ba33066fb057ee3722221acf0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

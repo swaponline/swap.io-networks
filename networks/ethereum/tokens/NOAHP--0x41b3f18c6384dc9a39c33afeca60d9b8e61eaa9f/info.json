@@ -1,0 +1,11 @@
+{
+  "name": "Noah Decentralized ",
+  "address": "0x41b3f18c6384dc9a39c33afeca60d9b8e61eaa9f",
+  "symbol": "NOAHP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NOAHP--0x41b3f18c6384dc9a39c33afeca60d9b8e61eaa9f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

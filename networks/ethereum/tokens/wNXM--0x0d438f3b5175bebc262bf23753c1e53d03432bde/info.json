@@ -1,0 +1,11 @@
+{
+  "name": "WrappedNXM",
+  "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+  "symbol": "wNXM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/wNXM--0x0d438f3b5175bebc262bf23753c1e53d03432bde/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

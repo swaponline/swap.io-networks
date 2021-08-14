@@ -1,0 +1,11 @@
+{
+  "name": "MUSH",
+  "address": "0xea6412fb370e8d1605e6aeeaa21ad07c3c7e9f24",
+  "symbol": "MUSH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MUSH--0xea6412fb370e8d1605e6aeeaa21ad07c3c7e9f24/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

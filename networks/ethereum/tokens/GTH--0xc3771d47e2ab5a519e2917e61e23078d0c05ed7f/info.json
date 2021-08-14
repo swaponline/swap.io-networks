@@ -1,0 +1,11 @@
+{
+  "name": "Gather",
+  "address": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f",
+  "symbol": "GTH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GTH--0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

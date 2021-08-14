@@ -1,0 +1,11 @@
+{
+  "name": "Bloody Token",
+  "address": "0x892f5a0b08bb7b1eecccc63ef3916ff201c93664",
+  "symbol": "BLOODY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BLOODY--0x892f5a0b08bb7b1eecccc63ef3916ff201c93664/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

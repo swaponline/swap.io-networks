@@ -1,0 +1,11 @@
+{
+  "name": "CEEKVR",
+  "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+  "symbol": "CEEK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CEEK--0xb056c38f6b7dc4064367403e26424cd2c60655e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

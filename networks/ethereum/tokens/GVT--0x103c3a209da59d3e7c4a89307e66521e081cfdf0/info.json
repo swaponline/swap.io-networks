@@ -1,0 +1,11 @@
+{
+  "name": "GenesisVision",
+  "address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+  "symbol": "GVT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GVT--0x103c3a209da59d3e7c4a89307e66521e081cfdf0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

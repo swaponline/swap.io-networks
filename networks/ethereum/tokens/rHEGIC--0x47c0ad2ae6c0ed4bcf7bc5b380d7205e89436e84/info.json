@@ -1,0 +1,11 @@
+{
+  "name": "HEGICTokenIOU",
+  "address": "0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84",
+  "symbol": "rHEGIC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/rHEGIC--0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

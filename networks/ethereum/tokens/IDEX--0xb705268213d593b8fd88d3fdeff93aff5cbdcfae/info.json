@@ -1,0 +1,11 @@
+{
+  "name": "IDEXToken",
+  "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+  "symbol": "IDEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IDEX--0xb705268213d593b8fd88d3fdeff93aff5cbdcfae/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

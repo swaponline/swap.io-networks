@@ -1,0 +1,11 @@
+{
+  "name": "Akropolis",
+  "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+  "symbol": "AKRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AKRO--0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

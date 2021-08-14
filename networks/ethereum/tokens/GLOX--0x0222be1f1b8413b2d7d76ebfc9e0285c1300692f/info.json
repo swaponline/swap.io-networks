@@ -1,0 +1,11 @@
+{
+  "name": "Glox Finance",
+  "address": "0x0222be1f1b8413b2d7d76ebfc9e0285c1300692f",
+  "symbol": "GLOX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GLOX--0x0222be1f1b8413b2d7d76ebfc9e0285c1300692f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

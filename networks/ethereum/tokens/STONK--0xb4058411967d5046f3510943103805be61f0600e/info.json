@@ -1,0 +1,11 @@
+{
+  "name": "STONK",
+  "address": "0xb4058411967d5046f3510943103805be61f0600e",
+  "symbol": "STONK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STONK--0xb4058411967d5046f3510943103805be61f0600e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

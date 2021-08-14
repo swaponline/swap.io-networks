@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped WETH",
+  "address": "0x41c84c0e2ee0b740cf0d31f63f3b6f627dc6b393",
+  "symbol": "cyWETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyWETH--0x41c84c0e2ee0b740cf0d31f63f3b6f627dc6b393/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

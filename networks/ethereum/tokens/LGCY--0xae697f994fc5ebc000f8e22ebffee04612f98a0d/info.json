@@ -1,0 +1,11 @@
+{
+  "name": "LGCYNetwork",
+  "address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
+  "symbol": "LGCY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LGCY--0xae697f994fc5ebc000f8e22ebffee04612f98a0d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

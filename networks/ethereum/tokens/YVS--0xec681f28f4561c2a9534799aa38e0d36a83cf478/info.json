@@ -1,0 +1,11 @@
+{
+  "name": "YVS.Finance",
+  "address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+  "symbol": "YVS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YVS--0xec681f28f4561c2a9534799aa38e0d36a83cf478/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

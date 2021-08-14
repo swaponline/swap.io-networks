@@ -1,0 +1,11 @@
+{
+  "name": "8PAYNetwork",
+  "address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+  "symbol": "8PAY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/8PAY--0xfeea0bdd3d07eb6fe305938878c0cadbfa169042/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

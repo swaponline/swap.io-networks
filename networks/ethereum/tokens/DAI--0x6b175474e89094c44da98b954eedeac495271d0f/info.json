@@ -1,0 +1,11 @@
+{
+  "name": "DaiStablecoin",
+  "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+  "symbol": "DAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DAI--0x6b175474e89094c44da98b954eedeac495271d0f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

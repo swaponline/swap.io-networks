@@ -1,0 +1,11 @@
+{
+  "name": "CreamEthLendToken",
+  "address": "0x8b86e0598616a8d4f1fdae8b59e55fb5bc33d0d6",
+  "symbol": "crLEND",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crLEND--0x8b86e0598616a8d4f1fdae8b59e55fb5bc33d0d6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

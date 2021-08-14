@@ -1,0 +1,11 @@
+{
+  "name": "Freight Trust Netwo",
+  "address": "0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e",
+  "symbol": "EDI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EDI--0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

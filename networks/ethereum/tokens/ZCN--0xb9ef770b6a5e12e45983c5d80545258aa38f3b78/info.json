@@ -1,0 +1,11 @@
+{
+  "name": "0chain",
+  "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+  "symbol": "ZCN",
+  "decimals": 10,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZCN--0xb9ef770b6a5e12e45983c5d80545258aa38f3b78/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

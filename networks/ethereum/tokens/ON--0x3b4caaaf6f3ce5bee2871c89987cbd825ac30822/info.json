@@ -1,0 +1,11 @@
+{
+  "name": "OFIN TOKEN",
+  "address": "0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822",
+  "symbol": "ON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ON--0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

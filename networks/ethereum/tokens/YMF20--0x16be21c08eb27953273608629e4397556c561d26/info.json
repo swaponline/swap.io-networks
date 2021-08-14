@@ -1,0 +1,11 @@
+{
+  "name": "Yearn20Moon Finance",
+  "address": "0x16be21c08eb27953273608629e4397556c561d26",
+  "symbol": "YMF20",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YMF20--0x16be21c08eb27953273608629e4397556c561d26/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

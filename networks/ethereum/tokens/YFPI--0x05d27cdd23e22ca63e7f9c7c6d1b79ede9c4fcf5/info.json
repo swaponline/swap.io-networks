@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance Passi",
+  "address": "0x05d27cdd23e22ca63e7f9c7c6d1b79ede9c4fcf5",
+  "symbol": "YFPI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFPI--0x05d27cdd23e22ca63e7f9c7c6d1b79ede9c4fcf5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

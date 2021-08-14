@@ -1,0 +1,11 @@
+{
+  "name": "Leverj",
+  "address": "0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+  "symbol": "LEV",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LEV--0x0f4ca92660efad97a9a70cb0fe969c755439772c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

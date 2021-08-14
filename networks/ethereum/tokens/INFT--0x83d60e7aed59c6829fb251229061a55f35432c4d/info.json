@@ -1,0 +1,11 @@
+{
+  "name": "Infinito",
+  "address": "0x83d60e7aed59c6829fb251229061a55f35432c4d",
+  "symbol": "INFT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/INFT--0x83d60e7aed59c6829fb251229061a55f35432c4d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

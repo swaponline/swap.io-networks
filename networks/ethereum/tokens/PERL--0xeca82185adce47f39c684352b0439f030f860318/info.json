@@ -1,0 +1,11 @@
+{
+  "name": "Perlin",
+  "address": "0xeca82185adce47f39c684352b0439f030f860318",
+  "symbol": "PERL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PERL--0xeca82185adce47f39c684352b0439f030f860318/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

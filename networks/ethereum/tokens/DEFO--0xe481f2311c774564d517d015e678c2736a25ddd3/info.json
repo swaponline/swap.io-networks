@@ -1,0 +1,11 @@
+{
+  "name": "DefHold",
+  "address": "0xe481f2311c774564d517d015e678c2736a25ddd3",
+  "symbol": "DEFO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEFO--0xe481f2311c774564d517d015e678c2736a25ddd3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DynamicSetDollar",
+  "address": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+  "symbol": "DSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DSD--0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

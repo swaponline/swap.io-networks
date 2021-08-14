@@ -1,0 +1,11 @@
+{
+  "name": "FinNexus",
+  "address": "0xef9cd7882c067686691b6ff49e650b43afbbcc6b",
+  "symbol": "FNX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FNX--0xef9cd7882c067686691b6ff49e650b43afbbcc6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

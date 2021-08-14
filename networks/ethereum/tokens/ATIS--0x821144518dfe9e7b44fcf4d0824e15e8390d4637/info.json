@@ -1,0 +1,11 @@
+{
+  "name": "ATISToken",
+  "address": "0x821144518dfe9e7b44fcf4d0824e15e8390d4637",
+  "symbol": "ATIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ATIS--0x821144518dfe9e7b44fcf4d0824e15e8390d4637/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

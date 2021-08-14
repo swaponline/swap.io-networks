@@ -1,0 +1,11 @@
+{
+  "name": "NFT Rehab",
+  "address": "0x6c93c838d362656430d81e150cdbe9b69ba8efc4",
+  "symbol": "REHAB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REHAB--0x6c93c838d362656430d81e150cdbe9b69ba8efc4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

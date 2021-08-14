@@ -1,0 +1,11 @@
+{
+  "name": "BlackFisk",
+  "address": "0x417ffdbc285dd2c4dc00937798ab901634137caa",
+  "symbol": "BLFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BLFI--0x417ffdbc285dd2c4dc00937798ab901634137caa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

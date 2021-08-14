@@ -1,0 +1,11 @@
+{
+  "name": "ZUM TOKEN",
+  "address": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+  "symbol": "ZUM",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZUM--0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

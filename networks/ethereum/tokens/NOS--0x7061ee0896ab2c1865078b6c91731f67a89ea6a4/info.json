@@ -1,0 +1,11 @@
+{
+  "name": "Nitrous Finance",
+  "address": "0x7061ee0896ab2c1865078b6c91731f67a89ea6a4",
+  "symbol": "NOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NOS--0x7061ee0896ab2c1865078b6c91731f67a89ea6a4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

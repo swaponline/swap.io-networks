@@ -1,0 +1,11 @@
+{
+  "name": "APIX",
+  "address": "0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78",
+  "symbol": "APIX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/APIX--0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

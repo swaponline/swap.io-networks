@@ -1,0 +1,11 @@
+{
+  "name": "WAXEconomicToken",
+  "address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+  "symbol": "WAXE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WAXE--0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

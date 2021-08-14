@@ -1,0 +1,11 @@
+{
+  "name": "Tranche Finance",
+  "address": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+  "symbol": "SLICE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SLICE--0x0aee8703d34dd9ae107386d3eff22ae75dd616d1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

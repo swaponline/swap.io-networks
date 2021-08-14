@@ -1,0 +1,11 @@
+{
+  "name": "Prosper",
+  "address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+  "symbol": "PROS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PROS--0x8642a849d0dcb7a15a974794668adcfbe4794b56/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

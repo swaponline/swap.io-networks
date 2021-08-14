@@ -1,0 +1,11 @@
+{
+  "name": "iearnUSDCv3",
+  "address": "0x26ea744e5b887e5205727f55dfbe8685e3b21951",
+  "symbol": "yUSDCv3",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yUSDCv3--0x26ea744e5b887e5205727f55dfbe8685e3b21951/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

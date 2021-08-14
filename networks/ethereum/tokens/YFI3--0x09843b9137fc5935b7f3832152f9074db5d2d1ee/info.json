@@ -1,0 +1,11 @@
+{
+  "name": "YFI3 money",
+  "address": "0x09843b9137fc5935b7f3832152f9074db5d2d1ee",
+  "symbol": "YFI3",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFI3--0x09843b9137fc5935b7f3832152f9074db5d2d1ee/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LP-sCurve",
+  "address": "0xc25a3a3b969415c80451098fa907ec722572917f",
+  "symbol": "sUSDCurve",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

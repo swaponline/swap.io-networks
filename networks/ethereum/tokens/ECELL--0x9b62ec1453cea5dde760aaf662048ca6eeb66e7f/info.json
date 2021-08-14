@@ -1,0 +1,11 @@
+{
+  "name": "Consensus Cell Netw",
+  "address": "0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f",
+  "symbol": "ECELL",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ECELL--0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

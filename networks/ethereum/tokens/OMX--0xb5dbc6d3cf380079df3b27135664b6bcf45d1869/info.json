@@ -1,0 +1,11 @@
+{
+  "name": "Project SHIVOM",
+  "address": "0xb5dbc6d3cf380079df3b27135664b6bcf45d1869",
+  "symbol": "OMX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OMX--0xb5dbc6d3cf380079df3b27135664b6bcf45d1869/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

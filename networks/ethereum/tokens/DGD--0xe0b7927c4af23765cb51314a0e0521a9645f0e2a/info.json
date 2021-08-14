@@ -1,0 +1,11 @@
+{
+  "name": "DigixDAO",
+  "address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+  "symbol": "DGD",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DGD--0xe0b7927c4af23765cb51314a0e0521a9645f0e2a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

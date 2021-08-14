@@ -1,0 +1,11 @@
+{
+  "name": "YMAX",
+  "address": "0x062f90480551379791fbe2ed74c1fe69821b30d3",
+  "symbol": "YMAX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YMAX--0x062f90480551379791fbe2ed74c1fe69821b30d3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

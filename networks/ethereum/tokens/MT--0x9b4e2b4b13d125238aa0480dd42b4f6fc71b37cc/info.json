@@ -1,0 +1,11 @@
+{
+  "name": "MyToken",
+  "address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+  "symbol": "MT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MT--0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

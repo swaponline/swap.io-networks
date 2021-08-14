@@ -1,0 +1,11 @@
+{
+  "name": "CoinSharesGoldandCryptoassetsIndexLite",
+  "address": "0xada0a1202462085999652dc5310a7a9e2bf3ed42",
+  "symbol": "CGI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CGI--0xada0a1202462085999652dc5310a7a9e2bf3ed42/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Thorncoin",
+  "address": "0x35a735b7d1d811887966656855f870c05fd0a86d",
+  "symbol": "THRN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/THRN--0x35a735b7d1d811887966656855f870c05fd0a86d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

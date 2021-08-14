@@ -1,0 +1,11 @@
+{
+  "name": "Heart Number",
+  "address": "0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619",
+  "symbol": "HTN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HTN--0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

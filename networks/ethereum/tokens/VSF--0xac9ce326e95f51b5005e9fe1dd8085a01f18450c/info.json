@@ -1,0 +1,11 @@
+{
+  "name": "VeriSafe",
+  "address": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
+  "symbol": "VSF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VSF--0xac9ce326e95f51b5005e9fe1dd8085a01f18450c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

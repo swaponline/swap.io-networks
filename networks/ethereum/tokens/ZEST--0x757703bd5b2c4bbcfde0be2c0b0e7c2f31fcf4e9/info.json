@@ -1,0 +1,11 @@
+{
+  "name": "Zest Token",
+  "address": "0x757703bd5b2c4bbcfde0be2c0b0e7c2f31fcf4e9",
+  "symbol": "ZEST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZEST--0x757703bd5b2c4bbcfde0be2c0b0e7c2f31fcf4e9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

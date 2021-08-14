@@ -1,0 +1,11 @@
+{
+  "name": "Badger Sett Badger",
+  "address": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+  "symbol": "BBADGER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BBADGER--0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

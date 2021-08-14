@@ -1,0 +1,11 @@
+{
+  "name": "PowerLedger",
+  "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+  "symbol": "POWR",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POWR--0x595832f8fc6bf59c85c527fec3740a1b7a361269/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

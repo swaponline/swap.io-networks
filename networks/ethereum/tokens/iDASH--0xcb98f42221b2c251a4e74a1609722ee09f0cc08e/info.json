@@ -1,0 +1,11 @@
+{
+  "name": "SynthiDASH",
+  "address": "0xcb98f42221b2c251a4e74a1609722ee09f0cc08e",
+  "symbol": "iDASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iDASH--0xcb98f42221b2c251a4e74a1609722ee09f0cc08e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

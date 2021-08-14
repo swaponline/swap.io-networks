@@ -1,0 +1,11 @@
+{
+  "name": " ICK Mask",
+  "address": "0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad",
+  "symbol": "ICK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ICK--0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

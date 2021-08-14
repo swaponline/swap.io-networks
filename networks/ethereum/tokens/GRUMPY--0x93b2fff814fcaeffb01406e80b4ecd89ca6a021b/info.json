@@ -1,0 +1,11 @@
+{
+  "name": "Grumpy.finance",
+  "address": "0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b",
+  "symbol": "GRUMPY",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GRUMPY--0x93b2fff814fcaeffb01406e80b4ecd89ca6a021b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

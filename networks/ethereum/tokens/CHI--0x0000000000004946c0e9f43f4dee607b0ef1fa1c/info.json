@@ -1,0 +1,11 @@
+{
+  "name": "ChiGastokenby1inch",
+  "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+  "symbol": "CHI",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHI--0x0000000000004946c0e9f43f4dee607b0ef1fa1c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

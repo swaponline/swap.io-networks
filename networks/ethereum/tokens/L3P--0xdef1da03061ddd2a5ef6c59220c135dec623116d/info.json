@@ -1,0 +1,11 @@
+{
+  "name": "Lepricon",
+  "address": "0xdef1da03061ddd2a5ef6c59220c135dec623116d",
+  "symbol": "L3P",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/L3P--0xdef1da03061ddd2a5ef6c59220c135dec623116d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

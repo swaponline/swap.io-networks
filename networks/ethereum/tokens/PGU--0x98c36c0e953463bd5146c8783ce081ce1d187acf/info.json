@@ -1,0 +1,11 @@
+{
+  "name": "Polyient Games Unit",
+  "address": "0x98c36c0e953463bd5146c8783ce081ce1d187acf",
+  "symbol": "PGU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PGU--0x98c36c0e953463bd5146c8783ce081ce1d187acf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

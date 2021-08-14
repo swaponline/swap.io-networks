@@ -1,0 +1,11 @@
+{
+  "name": "FingerPrint",
+  "address": "0xd9a8cfe21c232d485065cb62a96866799d4645f7",
+  "symbol": "FGP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FGP--0xd9a8cfe21c232d485065cb62a96866799d4645f7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

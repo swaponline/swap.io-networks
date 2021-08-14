@@ -1,0 +1,11 @@
+{
+  "name": "DeFiat",
+  "address": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
+  "symbol": "DFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFT--0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

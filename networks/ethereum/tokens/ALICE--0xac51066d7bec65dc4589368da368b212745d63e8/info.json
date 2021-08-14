@@ -1,0 +1,11 @@
+{
+  "name": "My Neigbor Alice",
+  "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+  "symbol": "ALICE",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALICE--0xac51066d7bec65dc4589368da368b212745d63e8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

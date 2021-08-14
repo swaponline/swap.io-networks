@@ -1,0 +1,11 @@
+{
+  "name": "Evolution",
+  "address": "0xefbd6d7def37ffae990503ecdb1291b2f7e38788",
+  "symbol": "EVO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EVO--0xefbd6d7def37ffae990503ecdb1291b2f7e38788/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

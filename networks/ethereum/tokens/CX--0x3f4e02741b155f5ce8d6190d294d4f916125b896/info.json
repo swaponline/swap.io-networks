@@ -1,0 +1,11 @@
+{
+  "name": "CircleEx",
+  "address": "0x3f4e02741b155f5ce8d6190d294d4f916125b896",
+  "symbol": "CX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CX--0x3f4e02741b155f5ce8d6190d294d4f916125b896/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

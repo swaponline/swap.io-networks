@@ -1,0 +1,11 @@
+{
+  "name": "SOLVE",
+  "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
+  "symbol": "SOLVE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOLVE--0x446c9033e7516d820cc9a2ce2d0b7328b579406f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

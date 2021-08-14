@@ -1,0 +1,11 @@
+{
+  "name": "JuggernautDeFi",
+  "address": "0x73374ea518de7addd4c2b624c0e8b113955ee041",
+  "symbol": "JGN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JGN--0x73374ea518de7addd4c2b624c0e8b113955ee041/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

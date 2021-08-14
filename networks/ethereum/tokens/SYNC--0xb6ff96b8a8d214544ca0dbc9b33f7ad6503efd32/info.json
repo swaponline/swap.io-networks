@@ -1,0 +1,11 @@
+{
+  "name": "SYNC",
+  "address": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32",
+  "symbol": "SYNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SYNC--0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

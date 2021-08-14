@@ -1,0 +1,11 @@
+{
+  "name": "Nexo",
+  "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+  "symbol": "NEXO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NEXO--0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

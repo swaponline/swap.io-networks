@@ -1,0 +1,11 @@
+{
+  "name": "YeaFinance",
+  "address": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec",
+  "symbol": "YEA",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YEA--0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

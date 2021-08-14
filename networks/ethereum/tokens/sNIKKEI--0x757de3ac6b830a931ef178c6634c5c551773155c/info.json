@@ -1,0 +1,11 @@
+{
+  "name": "SynthsNIKKEI",
+  "address": "0x757de3ac6b830a931ef178c6634c5c551773155c",
+  "symbol": "sNIKKEI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sNIKKEI--0x757de3ac6b830a931ef178c6634c5c551773155c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

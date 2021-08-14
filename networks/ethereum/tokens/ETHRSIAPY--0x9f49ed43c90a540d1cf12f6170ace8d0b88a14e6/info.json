@@ -1,0 +1,11 @@
+{
+  "name": "ETHRSI6040YieldII",
+  "address": "0x9f49ed43c90a540d1cf12f6170ace8d0b88a14e6",
+  "symbol": "ETHRSIAPY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHRSIAPY--0x9f49ed43c90a540d1cf12f6170ace8d0b88a14e6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

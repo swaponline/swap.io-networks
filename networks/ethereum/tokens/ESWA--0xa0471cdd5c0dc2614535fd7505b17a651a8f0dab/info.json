@@ -1,0 +1,11 @@
+{
+  "name": "EasySwap",
+  "address": "0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab",
+  "symbol": "ESWA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ESWA--0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Debunk",
+  "address": "0xacbed9726ffd232b59d3ca86a0f5c856e2abef29",
+  "symbol": "DBNK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DBNK--0xacbed9726ffd232b59d3ca86a0f5c856e2abef29/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

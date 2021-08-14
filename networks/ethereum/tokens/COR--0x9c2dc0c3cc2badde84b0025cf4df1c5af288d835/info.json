@@ -1,0 +1,11 @@
+{
+  "name": "Coreto",
+  "address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+  "symbol": "COR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COR--0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

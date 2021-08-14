@@ -1,0 +1,11 @@
+{
+  "name": "BoostedFinance",
+  "address": "0x3e780920601d61cedb860fe9c4a90c9ea6a35e78",
+  "symbol": "BOOST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOOST--0x3e780920601d61cedb860fe9c4a90c9ea6a35e78/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

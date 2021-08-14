@@ -1,0 +1,11 @@
+{
+  "name": "Cryptid",
+  "address": "0x4599836c212cd988eaccc54c820ee9261cdaac71",
+  "symbol": "CID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CID--0x4599836c212cd988eaccc54c820ee9261cdaac71/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

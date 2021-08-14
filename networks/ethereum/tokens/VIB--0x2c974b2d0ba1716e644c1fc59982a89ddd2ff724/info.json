@@ -1,0 +1,11 @@
+{
+  "name": "Viberate",
+  "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+  "symbol": "VIB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VIB--0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

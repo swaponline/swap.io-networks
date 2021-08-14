@@ -1,0 +1,11 @@
+{
+  "name": "YFUEL",
+  "address": "0xbd301be09eb78df47019aa833d29edc5d815d838",
+  "symbol": "YFUEL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFUEL--0xbd301be09eb78df47019aa833d29edc5d815d838/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

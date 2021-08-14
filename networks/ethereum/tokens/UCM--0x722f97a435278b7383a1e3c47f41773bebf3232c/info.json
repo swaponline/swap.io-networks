@@ -1,0 +1,11 @@
+{
+  "name": "UCROWDME",
+  "address": "0x722f97a435278b7383a1e3c47f41773bebf3232c",
+  "symbol": "UCM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UCM--0x722f97a435278b7383a1e3c47f41773bebf3232c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

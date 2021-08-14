@@ -1,0 +1,11 @@
+{
+  "name": "yAxis",
+  "address": "0xb1dc9124c395c1e97773ab855d66e879f053a289",
+  "symbol": "YAX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YAX--0xb1dc9124c395c1e97773ab855d66e879f053a289/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

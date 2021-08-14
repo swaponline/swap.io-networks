@@ -1,0 +1,11 @@
+{
+  "name": "Futureswap",
+  "address": "0x0e192d382a36de7011f795acc4391cd302003606",
+  "symbol": "FST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

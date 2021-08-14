@@ -1,0 +1,11 @@
+{
+  "name": "Yearn finance Infra",
+  "address": "0x454cb9d0845bb4a28462f98c21a4fafd16ceb25f",
+  "symbol": "YLAB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YLAB--0x454cb9d0845bb4a28462f98c21a4fafd16ceb25f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

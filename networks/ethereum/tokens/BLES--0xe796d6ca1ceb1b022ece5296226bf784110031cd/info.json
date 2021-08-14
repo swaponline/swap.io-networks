@@ -1,0 +1,11 @@
+{
+  "name": "BlindBoxesToken",
+  "address": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
+  "symbol": "BLES",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BLES--0xe796d6ca1ceb1b022ece5296226bf784110031cd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Nodeseeds",
+  "address": "0x747f564d258612ec5c4e24742c5fd4110bcbe46b",
+  "symbol": "NDS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NDS--0x747f564d258612ec5c4e24742c5fd4110bcbe46b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OVR",
+  "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
+  "symbol": "OVR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OVR--0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

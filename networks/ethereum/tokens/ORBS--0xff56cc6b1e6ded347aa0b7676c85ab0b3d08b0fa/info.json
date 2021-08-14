@@ -1,0 +1,11 @@
+{
+  "name": "Orbs",
+  "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+  "symbol": "ORBS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ORBS--0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

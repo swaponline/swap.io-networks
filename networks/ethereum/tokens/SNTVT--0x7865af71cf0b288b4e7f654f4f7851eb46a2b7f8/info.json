@@ -1,0 +1,11 @@
+{
+  "name": "Sentivate",
+  "address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+  "symbol": "SNTVT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SNTVT--0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

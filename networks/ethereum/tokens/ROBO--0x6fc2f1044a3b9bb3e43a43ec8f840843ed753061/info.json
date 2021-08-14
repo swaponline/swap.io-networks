@@ -1,0 +1,11 @@
+{
+  "name": "Robo Token",
+  "address": "0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061",
+  "symbol": "ROBO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROBO--0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

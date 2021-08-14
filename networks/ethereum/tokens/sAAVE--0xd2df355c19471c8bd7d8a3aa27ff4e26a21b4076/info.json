@@ -1,0 +1,11 @@
+{
+  "name": "SynthsAAVE",
+  "address": "0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076",
+  "symbol": "sAAVE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sAAVE--0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Meta",
+  "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+  "symbol": "MTA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MTA--0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

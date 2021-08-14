@@ -1,0 +1,11 @@
+{
+  "name": "VELO Token",
+  "address": "0x98ad9b32dd10f8d8486927d846d4df8baf39abe2",
+  "symbol": "VLO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VLO--0x98ad9b32dd10f8d8486927d846d4df8baf39abe2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

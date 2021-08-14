@@ -1,0 +1,11 @@
+{
+  "name": "GET",
+  "address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+  "symbol": "GET",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GET--0x8a854288a5976036a725879164ca3e91d30c6a1b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

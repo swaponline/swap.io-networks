@@ -1,0 +1,11 @@
+{
+  "name": "LINK ETH RSI Ratio ",
+  "address": "0x8933ea1ce67b946bdf2436ce860ffbb53ce814d2",
+  "symbol": "LINKETHRSI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LINKETHRSI--0x8933ea1ce67b946bdf2436ce860ffbb53ce814d2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

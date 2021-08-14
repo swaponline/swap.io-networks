@@ -1,0 +1,11 @@
+{
+  "name": "Holyheld",
+  "address": "0x39eae99e685906ff1c11a962a743440d0a1a6e09",
+  "symbol": "HOLY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HOLY--0x39eae99e685906ff1c11a962a743440d0a1a6e09/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

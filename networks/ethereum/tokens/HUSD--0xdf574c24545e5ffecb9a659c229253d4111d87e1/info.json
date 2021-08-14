@@ -1,0 +1,11 @@
+{
+  "name": "HUSD",
+  "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+  "symbol": "HUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HUSD--0xdf574c24545e5ffecb9a659c229253d4111d87e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UnisocksEdition0",
+  "address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
+  "symbol": "SOCKS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOCKS--0x23b608675a2b2fb1890d3abbd85c5775c51691d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

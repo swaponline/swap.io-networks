@@ -1,0 +1,11 @@
+{
+  "name": "AC eXchange Token",
+  "address": "0x7be00ed6796b21656732e8f739fc1b8f1c53da0d",
+  "symbol": "ACXT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ACXT--0x7be00ed6796b21656732e8f739fc1b8f1c53da0d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

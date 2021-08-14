@@ -1,0 +1,11 @@
+{
+  "name": "BaseProtocol",
+  "address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+  "symbol": "BASE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BASE--0x07150e919b4de5fd6a63de1f9384828396f25fdc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

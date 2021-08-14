@@ -1,0 +1,11 @@
+{
+  "name": "PrimeDAO",
+  "address": "0xe59064a8185ed1fca1d17999621efedfab4425c9",
+  "symbol": "PRIME",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRIME--0xe59064a8185ed1fca1d17999621efedfab4425c9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

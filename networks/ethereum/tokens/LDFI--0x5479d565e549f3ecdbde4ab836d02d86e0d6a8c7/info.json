@@ -1,0 +1,11 @@
+{
+  "name": "LenDeFi Token",
+  "address": "0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7",
+  "symbol": "LDFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LDFI--0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

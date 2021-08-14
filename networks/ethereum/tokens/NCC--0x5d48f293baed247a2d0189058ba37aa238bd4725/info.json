@@ -1,0 +1,11 @@
+{
+  "name": "NeuroChain",
+  "address": "0x5d48f293baed247a2d0189058ba37aa238bd4725",
+  "symbol": "NCC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NCC--0x5d48f293baed247a2d0189058ba37aa238bd4725/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

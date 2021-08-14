@@ -1,0 +1,11 @@
+{
+  "name": "SURF.Finance",
+  "address": "0xea319e87cf06203dae107dd8e5672175e3ee976c",
+  "symbol": "SURF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SURF--0xea319e87cf06203dae107dd8e5672175e3ee976c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bit Public Talent N",
+  "address": "0x6c22b815904165f3599f0a4a092d458966bd8024",
+  "symbol": "BPTN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BPTN--0x6c22b815904165f3599f0a4a092d458966bd8024/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

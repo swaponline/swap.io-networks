@@ -1,0 +1,11 @@
+{
+  "name": "CreamtBTC",
+  "address": "0xf047d4be569fb770db143a6a90ef203fc1295922",
+  "symbol": "crTBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crTBTC--0xf047d4be569fb770db143a6a90ef203fc1295922/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

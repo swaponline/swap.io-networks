@@ -1,0 +1,11 @@
+{
+  "name": "SynthsETC",
+  "address": "0x22602469d704bffb0936c7a7cfcd18f7aa269375",
+  "symbol": "sETC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sETC--0x22602469d704bffb0936c7a7cfcd18f7aa269375/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Farm Defi",
+  "address": "0x6a8c66cab4f766e5e30b4e9445582094303cc322",
+  "symbol": "PFARM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PFARM--0x6a8c66cab4f766e5e30b4e9445582094303cc322/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

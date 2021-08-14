@@ -1,0 +1,11 @@
+{
+  "name": "Wing Shop",
+  "address": "0xcb3df3108635932d912632ef7132d03ecfc39080",
+  "symbol": "WING",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WING--0xcb3df3108635932d912632ef7132d03ecfc39080/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

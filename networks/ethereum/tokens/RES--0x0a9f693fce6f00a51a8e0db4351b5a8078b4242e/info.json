@@ -1,0 +1,11 @@
+{
+  "name": "Resfinex Token",
+  "address": "0x0a9f693fce6f00a51a8e0db4351b5a8078b4242e",
+  "symbol": "RES",
+  "decimals": 5,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RES--0x0a9f693fce6f00a51a8e0db4351b5a8078b4242e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

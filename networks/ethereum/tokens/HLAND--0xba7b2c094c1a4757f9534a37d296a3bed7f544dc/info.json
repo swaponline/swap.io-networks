@@ -1,0 +1,11 @@
+{
+  "name": "HLand Token",
+  "address": "0xba7b2c094c1a4757f9534a37d296a3bed7f544dc",
+  "symbol": "HLAND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HLAND--0xba7b2c094c1a4757f9534a37d296a3bed7f544dc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

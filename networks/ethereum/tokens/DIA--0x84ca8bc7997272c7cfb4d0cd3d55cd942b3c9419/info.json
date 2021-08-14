@@ -1,0 +1,11 @@
+{
+  "name": "DIAToken",
+  "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+  "symbol": "DIA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DIA--0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

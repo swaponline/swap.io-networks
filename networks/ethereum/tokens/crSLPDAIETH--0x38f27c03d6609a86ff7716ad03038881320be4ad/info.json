@@ -1,0 +1,11 @@
+{
+  "name": "CreamSushiSwapLPTokenDAI-ETH",
+  "address": "0x38f27c03d6609a86ff7716ad03038881320be4ad",
+  "symbol": "crSLPDAIETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSLPDAIETH--0x38f27c03d6609a86ff7716ad03038881320be4ad/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SynthiXRP",
+  "address": "0x27269b3e45a4d3e79a3d6bfee0c8fb13d0d711a6",
+  "symbol": "iXRP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iXRP--0x27269b3e45a4d3e79a3d6bfee0c8fb13d0d711a6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

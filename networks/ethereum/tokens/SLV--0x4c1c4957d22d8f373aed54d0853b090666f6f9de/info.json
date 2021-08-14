@@ -1,0 +1,11 @@
+{
+  "name": "Silverway",
+  "address": "0x4c1c4957d22d8f373aed54d0853b090666f6f9de",
+  "symbol": "SLV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SLV--0x4c1c4957d22d8f373aed54d0853b090666f6f9de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

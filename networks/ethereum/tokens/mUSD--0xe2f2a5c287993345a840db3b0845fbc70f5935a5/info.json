@@ -1,0 +1,11 @@
+{
+  "name": "mStableUSD",
+  "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+  "symbol": "mUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mUSD--0xe2f2a5c287993345a840db3b0845fbc70f5935a5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

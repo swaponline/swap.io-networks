@@ -1,0 +1,11 @@
+{
+  "name": "Mask",
+  "address": "0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f",
+  "symbol": "MASK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MASK--0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

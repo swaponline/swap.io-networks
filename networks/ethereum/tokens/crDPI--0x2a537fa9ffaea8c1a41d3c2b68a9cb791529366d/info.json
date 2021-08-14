@@ -1,0 +1,11 @@
+{
+  "name": "CreamDefiPulseIndex",
+  "address": "0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d",
+  "symbol": "crDPI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crDPI--0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

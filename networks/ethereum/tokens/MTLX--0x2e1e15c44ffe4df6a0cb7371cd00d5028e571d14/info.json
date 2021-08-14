@@ -1,0 +1,11 @@
+{
+  "name": "Mettalex",
+  "address": "0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14",
+  "symbol": "MTLX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MTLX--0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

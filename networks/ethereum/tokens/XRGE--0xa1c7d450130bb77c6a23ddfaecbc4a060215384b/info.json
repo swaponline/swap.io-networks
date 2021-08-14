@@ -1,0 +1,11 @@
+{
+  "name": "RougeCoin",
+  "address": "0xa1c7d450130bb77c6a23ddfaecbc4a060215384b",
+  "symbol": "XRGE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XRGE--0xa1c7d450130bb77c6a23ddfaecbc4a060215384b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

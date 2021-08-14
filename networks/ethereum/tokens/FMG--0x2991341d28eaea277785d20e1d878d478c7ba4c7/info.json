@@ -1,0 +1,11 @@
+{
+  "name": "FM Gallery",
+  "address": "0x2991341d28eaea277785d20e1d878d478c7ba4c7",
+  "symbol": "FMG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FMG--0x2991341d28eaea277785d20e1d878d478c7ba4c7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

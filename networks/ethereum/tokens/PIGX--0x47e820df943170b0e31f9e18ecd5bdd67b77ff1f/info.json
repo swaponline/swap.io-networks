@@ -1,0 +1,11 @@
+{
+  "name": "PIGX",
+  "address": "0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
+  "symbol": "PIGX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PIGX--0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

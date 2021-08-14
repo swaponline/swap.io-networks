@@ -1,0 +1,11 @@
+{
+  "name": "CreamSushiSwapLPTokenSUSHI-ETH",
+  "address": "0x6ba0c66c48641e220cf78177c144323b3838d375",
+  "symbol": "crSLPSUSHIETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSLPSUSHIETH--0x6ba0c66c48641e220cf78177c144323b3838d375/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

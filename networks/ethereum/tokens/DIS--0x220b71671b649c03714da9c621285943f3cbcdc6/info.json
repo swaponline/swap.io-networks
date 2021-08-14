@@ -1,0 +1,11 @@
+{
+  "name": "TosDis",
+  "address": "0x220b71671b649c03714da9c621285943f3cbcdc6",
+  "symbol": "DIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DIS--0x220b71671b649c03714da9c621285943f3cbcdc6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

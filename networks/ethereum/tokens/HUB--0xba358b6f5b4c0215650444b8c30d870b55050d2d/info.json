@@ -1,0 +1,11 @@
+{
+  "name": "Hub Token",
+  "address": "0xba358b6f5b4c0215650444b8c30d870b55050d2d",
+  "symbol": "HUB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HUB--0xba358b6f5b4c0215650444b8c30d870b55050d2d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

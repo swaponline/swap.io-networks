@@ -1,0 +1,11 @@
+{
+  "name": "Nyan V2",
+  "address": "0xbf4a9a37ecfc21825011285222c36ab35de51f14",
+  "symbol": "NYAN-2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NYAN-2--0xbf4a9a37ecfc21825011285222c36ab35de51f14/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

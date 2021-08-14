@@ -1,0 +1,11 @@
+{
+  "name": "Amun Ether 3x Daily",
+  "address": "0x239b0fa917d85c21cf6435464c2c6aa3d45f6720",
+  "symbol": "ETH3L",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETH3L--0x239b0fa917d85c21cf6435464c2c6aa3d45f6720/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

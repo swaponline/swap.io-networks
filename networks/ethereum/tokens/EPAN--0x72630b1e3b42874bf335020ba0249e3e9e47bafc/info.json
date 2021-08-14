@@ -1,0 +1,11 @@
+{
+  "name": "PaypolitanToken",
+  "address": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
+  "symbol": "EPAN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EPAN--0x72630b1e3b42874bf335020ba0249e3e9e47bafc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

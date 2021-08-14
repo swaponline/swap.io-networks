@@ -1,0 +1,11 @@
+{
+  "name": "Netkoin Liquid",
+  "address": "0xac2385e183d9301dd5e2bb08da932cbf9800dc9c",
+  "symbol": "LIQUID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIQUID--0xac2385e183d9301dd5e2bb08da932cbf9800dc9c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

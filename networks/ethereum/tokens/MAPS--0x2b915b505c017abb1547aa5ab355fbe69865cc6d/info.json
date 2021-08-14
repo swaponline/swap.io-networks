@@ -1,0 +1,11 @@
+{
+  "name": "Maps.meToken",
+  "address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+  "symbol": "MAPS",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MAPS--0x2b915b505c017abb1547aa5ab355fbe69865cc6d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

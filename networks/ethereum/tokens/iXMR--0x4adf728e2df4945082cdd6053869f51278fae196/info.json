@@ -1,0 +1,11 @@
+{
+  "name": "SynthiXMR",
+  "address": "0x4adf728e2df4945082cdd6053869f51278fae196",
+  "symbol": "iXMR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iXMR--0x4adf728e2df4945082cdd6053869f51278fae196/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

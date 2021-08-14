@@ -1,0 +1,11 @@
+{
+  "name": "SynthsDOT",
+  "address": "0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6",
+  "symbol": "sDOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sDOT--0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

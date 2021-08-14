@@ -1,0 +1,11 @@
+{
+  "name": "CRYPTO20",
+  "address": "0x26e75307fc0c021472feb8f727839531f112f317",
+  "symbol": "C20",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/C20--0x26e75307fc0c021472feb8f727839531f112f317/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

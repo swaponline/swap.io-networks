@@ -1,0 +1,11 @@
+{
+  "name": "QunQun",
+  "address": "0x264dc2dedcdcbb897561a57cba5085ca416fb7b4",
+  "symbol": "QUN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QUN--0x264dc2dedcdcbb897561a57cba5085ca416fb7b4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

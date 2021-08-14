@@ -1,0 +1,11 @@
+{
+  "name": "DigitalReserveCurrency",
+  "address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606",
+  "symbol": "DRC2",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DRC2--0xa150db9b1fa65b44799d4dd949d922c0a33ee606/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

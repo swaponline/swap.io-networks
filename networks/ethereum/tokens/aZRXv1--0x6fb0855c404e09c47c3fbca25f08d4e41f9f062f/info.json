@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingZRX",
+  "address": "0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f",
+  "symbol": "aZRXv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aZRXv1--0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

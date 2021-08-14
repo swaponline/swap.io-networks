@@ -1,0 +1,11 @@
+{
+  "name": "FerrumNetworkToken",
+  "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+  "symbol": "FRM",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FRM--0xe5caef4af8780e59df925470b050fb23c43ca68c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

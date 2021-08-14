@@ -1,0 +1,11 @@
+{
+  "name": "Transmute",
+  "address": "0xbc81bf5b3173bccdbe62dba5f5b695522ad63559",
+  "symbol": "XPB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XPB--0xbc81bf5b3173bccdbe62dba5f5b695522ad63559/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

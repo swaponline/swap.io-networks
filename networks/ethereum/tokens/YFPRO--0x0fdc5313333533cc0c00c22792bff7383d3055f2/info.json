@@ -1,0 +1,11 @@
+{
+  "name": "YFPRO Finance",
+  "address": "0x0fdc5313333533cc0c00c22792bff7383d3055f2",
+  "symbol": "YFPRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFPRO--0x0fdc5313333533cc0c00c22792bff7383d3055f2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

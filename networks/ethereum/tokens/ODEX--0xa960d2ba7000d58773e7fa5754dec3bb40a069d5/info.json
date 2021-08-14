@@ -1,0 +1,11 @@
+{
+  "name": "One DEX",
+  "address": "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5",
+  "symbol": "ODEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ODEX--0xa960d2ba7000d58773e7fa5754dec3bb40a069d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

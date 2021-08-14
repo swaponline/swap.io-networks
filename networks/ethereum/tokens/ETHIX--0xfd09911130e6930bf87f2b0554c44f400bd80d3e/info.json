@@ -1,0 +1,11 @@
+{
+  "name": "EthicHub",
+  "address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
+  "symbol": "ETHIX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHIX--0xfd09911130e6930bf87f2b0554c44f400bd80d3e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

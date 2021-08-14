@@ -1,0 +1,11 @@
+{
+  "name": "Stox",
+  "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+  "symbol": "STX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STX--0x006bea43baa3f7a6f765f14f10a1a1b08334ef45/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

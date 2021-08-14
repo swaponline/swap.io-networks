@@ -1,0 +1,11 @@
+{
+  "name": "Ampleforth",
+  "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+  "symbol": "AMPL",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AMPL--0xd46ba6d942050d489dbd938a2c909a5d5039a161/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

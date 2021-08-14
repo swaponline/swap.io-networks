@@ -1,0 +1,11 @@
+{
+  "name": "Bancor",
+  "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "symbol": "BNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BNT--0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

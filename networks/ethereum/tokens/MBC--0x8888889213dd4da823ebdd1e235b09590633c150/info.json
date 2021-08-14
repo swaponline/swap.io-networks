@@ -1,0 +1,11 @@
+{
+  "name": "Marblecoin",
+  "address": "0x8888889213dd4da823ebdd1e235b09590633c150",
+  "symbol": "MBC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MBC--0x8888889213dd4da823ebdd1e235b09590633c150/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

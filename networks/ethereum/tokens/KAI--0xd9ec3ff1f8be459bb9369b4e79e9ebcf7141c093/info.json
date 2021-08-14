@@ -1,0 +1,11 @@
+{
+  "name": "KardiaChainToken",
+  "address": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093",
+  "symbol": "KAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KAI--0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

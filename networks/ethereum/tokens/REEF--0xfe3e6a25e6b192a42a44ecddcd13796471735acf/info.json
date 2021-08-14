@@ -1,0 +1,11 @@
+{
+  "name": "Reef.finance",
+  "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+  "symbol": "REEF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REEF--0xfe3e6a25e6b192a42a44ecddcd13796471735acf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

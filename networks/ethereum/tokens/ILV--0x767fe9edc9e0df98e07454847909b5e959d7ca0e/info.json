@@ -1,0 +1,11 @@
+{
+  "name": "Illuvium",
+  "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+  "symbol": "ILV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ILV--0x767fe9edc9e0df98e07454847909b5e959d7ca0e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CorionX",
+  "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
+  "symbol": "CORX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CORX--0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

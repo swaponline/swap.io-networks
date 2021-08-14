@@ -1,0 +1,11 @@
+{
+  "name": "Vether",
+  "address": "0x4ba6ddd7b89ed838fed25d208d4f644106e34279",
+  "symbol": "VETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VETH--0x4ba6ddd7b89ed838fed25d208d4f644106e34279/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

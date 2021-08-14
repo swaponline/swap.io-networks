@@ -1,0 +1,11 @@
+{
+  "name": "Flixxo",
+  "address": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+  "symbol": "FLIXX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLIXX--0xf04a8ac553fcedb5ba99a64799155826c136b0be/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

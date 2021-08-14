@@ -1,0 +1,11 @@
+{
+  "name": "Vybe",
+  "address": "0x3a1c1d1c06be03cddc4d3332f7c20e1b37c97ce9",
+  "symbol": "VYBE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VYBE--0x3a1c1d1c06be03cddc4d3332f7c20e1b37c97ce9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

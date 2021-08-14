@@ -1,0 +1,11 @@
+{
+  "name": "HPLUS",
+  "address": "0xff744f2315c9d61d825b581c973576055c3da07e",
+  "symbol": "HPLUS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HPLUS--0xff744f2315c9d61d825b581c973576055c3da07e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

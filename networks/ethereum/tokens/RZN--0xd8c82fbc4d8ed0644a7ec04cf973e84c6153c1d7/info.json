@@ -1,0 +1,11 @@
+{
+  "name": "Rizen Coin",
+  "address": "0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7",
+  "symbol": "RZN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RZN--0xd8c82fbc4d8ed0644a7ec04cf973e84c6153c1d7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

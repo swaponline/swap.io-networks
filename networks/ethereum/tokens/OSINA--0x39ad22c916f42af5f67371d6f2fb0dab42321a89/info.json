@@ -1,0 +1,11 @@
+{
+  "name": "OSINA",
+  "address": "0x39ad22c916f42af5f67371d6f2fb0dab42321a89",
+  "symbol": "OSINA",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OSINA--0x39ad22c916f42af5f67371d6f2fb0dab42321a89/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

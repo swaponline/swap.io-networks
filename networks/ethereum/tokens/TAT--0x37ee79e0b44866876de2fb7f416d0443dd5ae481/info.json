@@ -1,0 +1,11 @@
+{
+  "name": "Tatcoin",
+  "address": "0x37ee79e0b44866876de2fb7f416d0443dd5ae481",
+  "symbol": "TAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TAT--0x37ee79e0b44866876de2fb7f416d0443dd5ae481/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

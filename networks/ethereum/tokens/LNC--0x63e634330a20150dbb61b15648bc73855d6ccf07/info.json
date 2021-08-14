@@ -1,0 +1,11 @@
+{
+  "name": "Blocklancer",
+  "address": "0x63e634330a20150dbb61b15648bc73855d6ccf07",
+  "symbol": "LNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LNC--0x63e634330a20150dbb61b15648bc73855d6ccf07/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SPLYTSHOPX",
+  "address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+  "symbol": "SHOPX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHOPX--0x7bef710a5759d197ec0bf621c3df802c2d60d848/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

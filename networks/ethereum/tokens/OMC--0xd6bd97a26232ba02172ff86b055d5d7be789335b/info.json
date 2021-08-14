@@ -1,0 +1,11 @@
+{
+  "name": "Ormeus Cash",
+  "address": "0xd6bd97a26232ba02172ff86b055d5d7be789335b",
+  "symbol": "OMC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OMC--0xd6bd97a26232ba02172ff86b055d5d7be789335b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

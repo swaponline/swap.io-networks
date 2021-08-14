@@ -1,0 +1,11 @@
+{
+  "name": "HUNT",
+  "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+  "symbol": "HUNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HUNT--0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

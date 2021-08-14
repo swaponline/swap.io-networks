@@ -1,0 +1,11 @@
+{
+  "name": "MIS",
+  "address": "0x4b4d2e899658fb59b1d518b68fe836b100ee8958",
+  "symbol": "MIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MIS--0x4b4d2e899658fb59b1d518b68fe836b100ee8958/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Penguin Party Fish",
+  "address": "0x30bcd71b8d21fe830e493b30e90befba29de9114",
+  "symbol": "FISH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FISH--0x30bcd71b8d21fe830e493b30e90befba29de9114/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

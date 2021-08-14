@@ -1,0 +1,11 @@
+{
+  "name": "PYRToken",
+  "address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
+  "symbol": "PYR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PYR--0x9534ad65fb398e27ac8f4251dae1780b989d136e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

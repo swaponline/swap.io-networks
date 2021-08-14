@@ -1,0 +1,11 @@
+{
+  "name": "Waves",
+  "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+  "symbol": "WAVES",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WAVES--0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

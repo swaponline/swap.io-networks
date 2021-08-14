@@ -1,0 +1,11 @@
+{
+  "name": "DAOhaus",
+  "address": "0xf2051511b9b121394fa75b8f7d4e7424337af687",
+  "symbol": "HAUS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HAUS--0xf2051511b9b121394fa75b8f7d4e7424337af687/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

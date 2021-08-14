@@ -1,0 +1,11 @@
+{
+  "name": "Answer Governance",
+  "address": "0xc1ad269f10bf36d6972ee30827051b59d0d2456b",
+  "symbol": "AGOV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AGOV--0xc1ad269f10bf36d6972ee30827051b59d0d2456b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

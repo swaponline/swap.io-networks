@@ -1,0 +1,11 @@
+{
+  "name": "JUL",
+  "address": "0x5580ab97f226c324c671746a1787524aef42e415",
+  "symbol": "JUL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JUL--0x5580ab97f226c324c671746a1787524aef42e415/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

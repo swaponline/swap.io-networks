@@ -1,0 +1,11 @@
+{
+  "name": "Antimatter.FinanceGovernanceToken",
+  "address": "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+  "symbol": "MATTER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MATTER--0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

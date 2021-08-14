@@ -1,0 +1,11 @@
+{
+  "name": "Oracle Top 5 Tokens",
+  "address": "0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+  "symbol": "ORCL5",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ORCL5--0xd6cb2adf47655b1babddc214d79257348cbc39a7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

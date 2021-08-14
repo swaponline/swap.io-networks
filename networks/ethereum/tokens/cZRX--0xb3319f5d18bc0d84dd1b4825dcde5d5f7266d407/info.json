@@ -1,0 +1,11 @@
+{
+  "name": "Compound0x",
+  "address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+  "symbol": "cZRX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cZRX--0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

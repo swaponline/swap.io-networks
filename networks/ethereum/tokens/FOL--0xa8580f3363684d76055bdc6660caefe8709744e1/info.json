@@ -1,0 +1,11 @@
+{
+  "name": "Folder Protocol",
+  "address": "0xa8580f3363684d76055bdc6660caefe8709744e1",
+  "symbol": "FOL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FOL--0xa8580f3363684d76055bdc6660caefe8709744e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

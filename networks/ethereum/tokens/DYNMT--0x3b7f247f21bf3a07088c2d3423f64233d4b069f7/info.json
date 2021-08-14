@@ -1,0 +1,11 @@
+{
+  "name": "DYNAMITE Token",
+  "address": "0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
+  "symbol": "DYNMT",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DYNMT--0x3b7f247f21bf3a07088c2d3423f64233d4b069f7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

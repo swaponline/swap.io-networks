@@ -1,0 +1,11 @@
+{
+  "name": "Interest Bearing Tether USD v2",
+  "address": "0x020edc614187f9937a1efeee007656c6356fb13a",
+  "symbol": "ibUSDTv2",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UniLendFinanceToken",
+  "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
+  "symbol": "UFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UFT--0x0202be363b8a4820f3f4de7faf5224ff05943ab1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MMToken",
+  "address": "0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304",
+  "symbol": "MM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MM--0xa283aa7cfbb27ef0cfbcb2493dd9f4330e0fd304/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DCTDAO",
+  "address": "0xb566e883555aebf5b1db211070b530ab00a4b18a",
+  "symbol": "DCTD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DCTD--0xb566e883555aebf5b1db211070b530ab00a4b18a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

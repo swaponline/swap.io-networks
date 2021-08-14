@@ -1,0 +1,11 @@
+{
+  "name": "MarlinPOND",
+  "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+  "symbol": "POND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POND--0x57b946008913b82e4df85f501cbaed910e58d26c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

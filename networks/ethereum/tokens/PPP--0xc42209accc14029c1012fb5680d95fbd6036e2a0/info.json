@@ -1,0 +1,11 @@
+{
+  "name": "PayPie",
+  "address": "0xc42209accc14029c1012fb5680d95fbd6036e2a0",
+  "symbol": "PPP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PPP--0xc42209accc14029c1012fb5680d95fbd6036e2a0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

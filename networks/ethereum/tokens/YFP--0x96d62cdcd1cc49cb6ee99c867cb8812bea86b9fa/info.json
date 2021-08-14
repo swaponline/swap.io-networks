@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance Proto",
+  "address": "0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa",
+  "symbol": "YFP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFP--0x96d62cdcd1cc49cb6ee99c867cb8812bea86b9fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

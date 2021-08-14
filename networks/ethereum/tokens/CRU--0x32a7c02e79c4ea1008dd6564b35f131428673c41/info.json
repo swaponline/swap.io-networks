@@ -1,0 +1,11 @@
+{
+  "name": "CRUST",
+  "address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
+  "symbol": "CRU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRU--0x32a7c02e79c4ea1008dd6564b35f131428673c41/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

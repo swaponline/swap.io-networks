@@ -1,0 +1,11 @@
+{
+  "name": "Spheroid",
+  "address": "0xa0cf46eb152656c7090e769916eb44a138aaa406",
+  "symbol": "SPH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SPH--0xa0cf46eb152656c7090e769916eb44a138aaa406/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

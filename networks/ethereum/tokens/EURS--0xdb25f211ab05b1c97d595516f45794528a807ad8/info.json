@@ -1,0 +1,11 @@
+{
+  "name": "STASISEURS",
+  "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+  "symbol": "EURS",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EURS--0xdb25f211ab05b1c97d595516f45794528a807ad8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

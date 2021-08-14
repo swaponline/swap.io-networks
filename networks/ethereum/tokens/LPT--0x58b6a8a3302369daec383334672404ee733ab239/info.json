@@ -1,0 +1,11 @@
+{
+  "name": "LivepeerToken",
+  "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+  "symbol": "LPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LPT--0x58b6a8a3302369daec383334672404ee733ab239/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Trinity Protocol",
+  "address": "0xc299004a310303d1c0005cb14c70ccc02863924d",
+  "symbol": "TRI",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRI--0xc299004a310303d1c0005cb14c70ccc02863924d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

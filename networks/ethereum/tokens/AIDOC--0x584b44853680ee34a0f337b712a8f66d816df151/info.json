@@ -1,0 +1,11 @@
+{
+  "name": "AI Doctor",
+  "address": "0x584b44853680ee34a0f337b712a8f66d816df151",
+  "symbol": "AIDOC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AIDOC--0x584b44853680ee34a0f337b712a8f66d816df151/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

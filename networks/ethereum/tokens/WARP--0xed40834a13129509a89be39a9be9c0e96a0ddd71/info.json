@@ -1,0 +1,11 @@
+{
+  "name": "WarpToken",
+  "address": "0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+  "symbol": "WARP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WARP--0xed40834a13129509a89be39a9be9c0e96a0ddd71/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

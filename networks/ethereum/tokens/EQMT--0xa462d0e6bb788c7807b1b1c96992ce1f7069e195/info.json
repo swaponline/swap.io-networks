@@ -1,0 +1,11 @@
+{
+  "name": "EQUUSMiningToken",
+  "address": "0xa462d0e6bb788c7807b1b1c96992ce1f7069e195",
+  "symbol": "EQMT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EQMT--0xa462d0e6bb788c7807b1b1c96992ce1f7069e195/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

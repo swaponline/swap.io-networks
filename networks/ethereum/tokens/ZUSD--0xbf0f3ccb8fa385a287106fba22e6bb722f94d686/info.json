@@ -1,0 +1,11 @@
+{
+  "name": "Zytara Dollar",
+  "address": "0xbf0f3ccb8fa385a287106fba22e6bb722f94d686",
+  "symbol": "ZUSD",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZUSD--0xbf0f3ccb8fa385a287106fba22e6bb722f94d686/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

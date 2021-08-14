@@ -1,0 +1,11 @@
+{
+  "name": "BIKI",
+  "address": "0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930",
+  "symbol": "BIKI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BIKI--0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ALIS",
+  "address": "0xea610b1153477720748dc13ed378003941d84fab",
+  "symbol": "ALIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALIS--0xea610b1153477720748dc13ed378003941d84fab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

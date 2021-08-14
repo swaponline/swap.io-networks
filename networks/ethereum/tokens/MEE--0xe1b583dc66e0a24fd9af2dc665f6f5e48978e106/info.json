@@ -1,0 +1,11 @@
+{
+  "name": "Mercurity Finance",
+  "address": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106",
+  "symbol": "MEE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MEE--0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

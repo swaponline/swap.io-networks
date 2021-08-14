@@ -1,0 +1,11 @@
+{
+  "name": "Universal Protocol ",
+  "address": "0x6ca88cc8d9288f5cad825053b6a1b179b05c76fc",
+  "symbol": "UPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UPT--0x6ca88cc8d9288f5cad825053b6a1b179b05c76fc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

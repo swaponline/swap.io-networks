@@ -1,0 +1,11 @@
+{
+  "name": "SENTinel",
+  "address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
+  "symbol": "SENT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SENT--0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

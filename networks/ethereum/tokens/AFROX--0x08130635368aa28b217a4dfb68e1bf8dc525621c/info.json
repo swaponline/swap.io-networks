@@ -1,0 +1,11 @@
+{
+  "name": "AfroDex",
+  "address": "0x08130635368aa28b217a4dfb68e1bf8dc525621c",
+  "symbol": "AFROX",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AFROX--0x08130635368aa28b217a4dfb68e1bf8dc525621c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

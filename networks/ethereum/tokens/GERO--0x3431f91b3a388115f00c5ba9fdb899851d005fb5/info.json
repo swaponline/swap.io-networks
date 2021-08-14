@@ -1,0 +1,11 @@
+{
+  "name": "GeroWallet",
+  "address": "0x3431f91b3a388115f00c5ba9fdb899851d005fb5",
+  "symbol": "GERO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GERO--0x3431f91b3a388115f00c5ba9fdb899851d005fb5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

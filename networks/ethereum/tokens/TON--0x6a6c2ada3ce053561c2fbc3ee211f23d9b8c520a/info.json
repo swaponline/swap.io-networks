@@ -1,0 +1,11 @@
+{
+  "name": "TONToken",
+  "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+  "symbol": "TON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TON--0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

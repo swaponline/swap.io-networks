@@ -1,0 +1,11 @@
+{
+  "name": "Gallery Finance",
+  "address": "0x47fd85128312ee72aa0e0382a531a8f848b8b2cb",
+  "symbol": "GLF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GLF--0x47fd85128312ee72aa0e0382a531a8f848b8b2cb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

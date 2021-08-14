@@ -1,0 +1,11 @@
+{
+  "name": "Percent",
+  "address": "0xbc16da9df0a22f01a16bc0620a27e7d6d6488550",
+  "symbol": "PCT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PCT--0xbc16da9df0a22f01a16bc0620a27e7d6d6488550/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DEUS Synthetic Coinbase IOU",
+  "address": "0x4185cf99745b2a20727b37ee798193dd4a56cdfa",
+  "symbol": "wCOINBASE-IOU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/wCOINBASE-IOU--0x4185cf99745b2a20727b37ee798193dd4a56cdfa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

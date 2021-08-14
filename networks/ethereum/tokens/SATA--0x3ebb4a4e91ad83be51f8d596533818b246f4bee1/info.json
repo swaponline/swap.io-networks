@@ -1,0 +1,11 @@
+{
+  "name": "Signata",
+  "address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
+  "symbol": "SATA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SATA--0x3ebb4a4e91ad83be51f8d596533818b246f4bee1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

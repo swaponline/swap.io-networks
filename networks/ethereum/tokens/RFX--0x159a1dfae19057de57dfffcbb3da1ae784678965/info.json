@@ -1,0 +1,11 @@
+{
+  "name": "Reflex",
+  "address": "0x159a1dfae19057de57dfffcbb3da1ae784678965",
+  "symbol": "RFX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RFX--0x159a1dfae19057de57dfffcbb3da1ae784678965/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

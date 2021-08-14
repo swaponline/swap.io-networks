@@ -1,0 +1,11 @@
+{
+  "name": "Minty Art",
+  "address": "0xb6c6920327b33f8eec26786c7462c5f4098d47e3",
+  "symbol": "MINTY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MINTY--0xb6c6920327b33f8eec26786c7462c5f4098d47e3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "XWC Dice Token",
+  "address": "0x5f9d86fa0454ffd6a59ccc485e689b0a832313db",
+  "symbol": "XDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XDT--0x5f9d86fa0454ffd6a59ccc485e689b0a832313db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

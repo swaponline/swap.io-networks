@@ -1,0 +1,11 @@
+{
+  "name": "CreamSynthsUSD",
+  "address": "0x25555933a8246ab67cbf907ce3d1949884e82b55",
+  "symbol": "crSUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSUSD--0x25555933a8246ab67cbf907ce3d1949884e82b55/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

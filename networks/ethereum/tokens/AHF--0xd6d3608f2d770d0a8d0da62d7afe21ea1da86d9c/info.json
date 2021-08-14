@@ -1,0 +1,11 @@
+{
+  "name": "AmericanHorror Fina",
+  "address": "0xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c",
+  "symbol": "AHF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AHF--0xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

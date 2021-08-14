@@ -1,0 +1,11 @@
+{
+  "name": "BOA",
+  "address": "0xf9c36c7ad7fa0f0862589c919830268d1a2581a1",
+  "symbol": "BOA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOA--0xf9c36c7ad7fa0f0862589c919830268d1a2581a1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

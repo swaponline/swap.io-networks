@@ -1,0 +1,11 @@
+{
+  "name": "UnlockDiscountToken",
+  "address": "0x90de74265a416e1393a450752175aed98fe11517",
+  "symbol": "UDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UDT--0x90de74265a416e1393a450752175aed98fe11517/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

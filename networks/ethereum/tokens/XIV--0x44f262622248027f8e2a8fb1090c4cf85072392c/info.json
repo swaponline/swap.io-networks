@@ -1,0 +1,11 @@
+{
+  "name": "Project Inverse",
+  "address": "0x44f262622248027f8e2a8fb1090c4cf85072392c",
+  "symbol": "XIV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XIV--0x44f262622248027f8e2a8fb1090c4cf85072392c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DeFiner",
+  "address": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
+  "symbol": "FIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FIN--0x054f76beed60ab6dbeb23502178c52d6c5debe40/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

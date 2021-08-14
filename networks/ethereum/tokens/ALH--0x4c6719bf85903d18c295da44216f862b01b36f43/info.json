@@ -1,0 +1,11 @@
+{
+  "name": "AlloHash",
+  "address": "0x4c6719bf85903d18c295da44216f862b01b36f43",
+  "symbol": "ALH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALH--0x4c6719bf85903d18c295da44216f862b01b36f43/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

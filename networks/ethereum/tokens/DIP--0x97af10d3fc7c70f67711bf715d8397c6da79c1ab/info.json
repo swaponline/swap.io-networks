@@ -1,0 +1,11 @@
+{
+  "name": "DipperNetwork",
+  "address": "0x97af10d3fc7c70f67711bf715d8397c6da79c1ab",
+  "symbol": "DIP",
+  "decimals": 12,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DIP--0x97af10d3fc7c70f67711bf715d8397c6da79c1ab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

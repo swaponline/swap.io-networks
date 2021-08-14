@@ -1,0 +1,11 @@
+{
+  "name": "LUKSO Token",
+  "address": "0xa8b919680258d369114910511cc87595aec0be6d",
+  "symbol": "LYXE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LYXE--0xa8b919680258d369114910511cc87595aec0be6d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

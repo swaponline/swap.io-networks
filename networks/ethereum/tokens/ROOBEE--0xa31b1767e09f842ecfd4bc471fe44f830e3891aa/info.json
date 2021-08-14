@@ -1,0 +1,11 @@
+{
+  "name": "ROOBEE",
+  "address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+  "symbol": "ROOBEE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROOBEE--0xa31b1767e09f842ecfd4bc471fe44f830e3891aa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CreamEmptySetDollar",
+  "address": "0x3c6c553a95910f9fc81c98784736bd628636d296",
+  "symbol": "crESD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crESD--0x3c6c553a95910f9fc81c98784736bd628636d296/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

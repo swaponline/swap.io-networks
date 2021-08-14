@@ -1,0 +1,11 @@
+{
+  "name": "Banca",
+  "address": "0x998b3b82bc9dba173990be7afb772788b5acb8bd",
+  "symbol": "BANCA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BANCA--0x998b3b82bc9dba173990be7afb772788b5acb8bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

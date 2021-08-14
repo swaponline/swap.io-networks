@@ -1,0 +1,11 @@
+{
+  "name": "Hegic",
+  "address": "0x584bc13c7d411c00c01a62e8019472de68768430",
+  "symbol": "HEGIC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HEGIC--0x584bc13c7d411c00c01a62e8019472de68768430/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

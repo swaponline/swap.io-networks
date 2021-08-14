@@ -1,0 +1,11 @@
+{
+  "name": "OpiumxDAIOmniBridgeProtection",
+  "address": "0x0cab5a7dcab521af5404fa604b85113267d38444",
+  "symbol": "OPIUMLP1c60",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OPIUMLP1c60--0x0cab5a7dcab521af5404fa604b85113267d38444/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

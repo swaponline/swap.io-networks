@@ -1,0 +1,11 @@
+{
+  "name": "BTC2xFlexibleLeverageIndex",
+  "address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+  "symbol": "BTC2xFLI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTC2xFLI--0x0b498ff89709d3838a063f1dfa463091f9801c2b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

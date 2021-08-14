@@ -1,0 +1,11 @@
+{
+  "name": "UTUCoin",
+  "address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+  "symbol": "UTU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UTU--0xa58a4f5c4bb043d2cc1e170613b74e767c94189b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

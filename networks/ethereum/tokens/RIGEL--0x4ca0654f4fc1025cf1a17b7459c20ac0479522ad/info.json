@@ -1,0 +1,11 @@
+{
+  "name": "RigelFinance",
+  "address": "0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad",
+  "symbol": "RIGEL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RIGEL--0x4ca0654f4fc1025cf1a17b7459c20ac0479522ad/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

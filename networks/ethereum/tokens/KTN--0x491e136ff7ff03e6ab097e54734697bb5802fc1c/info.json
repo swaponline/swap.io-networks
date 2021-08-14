@@ -1,0 +1,11 @@
+{
+  "name": "Kattana",
+  "address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+  "symbol": "KTN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KTN--0x491e136ff7ff03e6ab097e54734697bb5802fc1c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

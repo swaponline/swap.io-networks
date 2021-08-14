@@ -1,0 +1,11 @@
+{
+  "name": "Clover",
+  "address": "0x22222c03318440305ac3e8a7820563d6a9fd777f",
+  "symbol": "CLV",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CLV--0x22222c03318440305ac3e8a7820563d6a9fd777f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

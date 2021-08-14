@@ -1,0 +1,11 @@
+{
+  "name": "Drep",
+  "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
+  "symbol": "DREP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DREP--0x22de9912cd3d74953b1cd1f250b825133cc2c1b3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

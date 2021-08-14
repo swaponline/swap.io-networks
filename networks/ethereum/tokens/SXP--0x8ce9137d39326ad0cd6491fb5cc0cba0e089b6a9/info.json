@@ -1,0 +1,11 @@
+{
+  "name": "Swipe",
+  "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+  "symbol": "SXP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SXP--0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

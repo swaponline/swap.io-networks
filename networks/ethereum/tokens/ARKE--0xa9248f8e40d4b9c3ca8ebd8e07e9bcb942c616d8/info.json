@@ -1,0 +1,11 @@
+{
+  "name": "ARKE",
+  "address": "0xa9248f8e40d4b9c3ca8ebd8e07e9bcb942c616d8",
+  "symbol": "ARKE",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARKE--0xa9248f8e40d4b9c3ca8ebd8e07e9bcb942c616d8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

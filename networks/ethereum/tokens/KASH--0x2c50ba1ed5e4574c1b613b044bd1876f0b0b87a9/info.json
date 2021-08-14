@@ -1,0 +1,11 @@
+{
+  "name": "Kids Cash",
+  "address": "0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9",
+  "symbol": "KASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KASH--0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

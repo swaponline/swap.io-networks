@@ -1,0 +1,11 @@
+{
+  "name": "PolkastarterToken",
+  "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+  "symbol": "POLS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POLS--0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

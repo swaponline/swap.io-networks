@@ -1,0 +1,11 @@
+{
+  "name": "FireProtocol",
+  "address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
+  "symbol": "FIRE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FIRE--0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

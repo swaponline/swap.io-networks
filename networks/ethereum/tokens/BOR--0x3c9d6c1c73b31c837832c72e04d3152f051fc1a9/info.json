@@ -1,0 +1,11 @@
+{
+  "name": "BoringDAO",
+  "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+  "symbol": "BOR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOR--0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

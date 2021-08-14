@@ -1,0 +1,11 @@
+{
+  "name": "Menlo One",
+  "address": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392",
+  "symbol": "ONE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONE--0x4d807509aece24c0fa5a102b6a3b059ec6e14392/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

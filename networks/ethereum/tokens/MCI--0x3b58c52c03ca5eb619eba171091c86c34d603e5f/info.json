@@ -1,0 +1,11 @@
+{
+  "name": "MCI Coin",
+  "address": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f",
+  "symbol": "MCI",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MCI--0x3b58c52c03ca5eb619eba171091c86c34d603e5f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gameswap.org",
+  "address": "0xaac41ec512808d64625576eddd580e7ea40ef8b2",
+  "symbol": "GSWAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GSWAP--0xaac41ec512808d64625576eddd580e7ea40ef8b2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

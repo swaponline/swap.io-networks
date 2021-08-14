@@ -1,0 +1,11 @@
+{
+  "name": "iFARM",
+  "address": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
+  "symbol": "iFARM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iFARM--0x1571ed0bed4d987fe2b498ddbae7dfa19519f651/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VideoGamesToken",
+  "address": "0xb52fc0f17df38ad76f290467aab57cabaeeada14",
+  "symbol": "VGTN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VGTN--0xb52fc0f17df38ad76f290467aab57cabaeeada14/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

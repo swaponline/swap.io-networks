@@ -1,0 +1,11 @@
+{
+  "name": "BeeKan   Beenews",
+  "address": "0x6a27348483d59150ae76ef4c0f3622a78b0ca698",
+  "symbol": "BKBT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BKBT--0x6a27348483d59150ae76ef4c0f3622a78b0ca698/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

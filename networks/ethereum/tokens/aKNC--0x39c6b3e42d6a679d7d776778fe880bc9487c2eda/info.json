@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingKNC",
+  "address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+  "symbol": "aKNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aKNC--0x39c6b3e42d6a679d7d776778fe880bc9487c2eda/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TRUSTDAO",
+  "address": "0x57700244b20f84799a31c6c96dadff373ca9d6c5",
+  "symbol": "TRUST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRUST--0x57700244b20f84799a31c6c96dadff373ca9d6c5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

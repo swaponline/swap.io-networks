@@ -1,0 +1,11 @@
+{
+  "name": "YFII.finance",
+  "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
+  "symbol": "YFII",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFII--0xa1d0e215a23d7030842fc67ce582a6afa3ccab83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

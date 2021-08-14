@@ -1,0 +1,11 @@
+{
+  "name": "SoraToken",
+  "address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+  "symbol": "XOR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XOR--0x40fd72257597aa14c7231a7b1aaa29fce868f677/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

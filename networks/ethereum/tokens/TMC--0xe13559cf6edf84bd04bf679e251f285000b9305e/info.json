@@ -1,0 +1,11 @@
+{
+  "name": "TMC NiftyGotchi",
+  "address": "0xe13559cf6edf84bd04bf679e251f285000b9305e",
+  "symbol": "TMC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TMC--0xe13559cf6edf84bd04bf679e251f285000b9305e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

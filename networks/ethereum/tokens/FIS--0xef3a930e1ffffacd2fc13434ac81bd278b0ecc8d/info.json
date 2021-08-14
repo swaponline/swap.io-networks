@@ -1,0 +1,11 @@
+{
+  "name": "StaFi",
+  "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
+  "symbol": "FIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FIS--0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

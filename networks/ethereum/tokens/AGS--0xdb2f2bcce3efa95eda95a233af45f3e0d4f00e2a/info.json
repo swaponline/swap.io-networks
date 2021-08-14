@@ -1,0 +1,11 @@
+{
+  "name": "Aegis",
+  "address": "0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a",
+  "symbol": "AGS",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AGS--0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

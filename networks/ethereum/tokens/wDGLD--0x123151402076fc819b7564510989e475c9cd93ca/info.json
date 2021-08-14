@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped DGLD",
+  "address": "0x123151402076fc819b7564510989e475c9cd93ca",
+  "symbol": "WDGLD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WDGLD--0x123151402076fc819b7564510989e475c9cd93ca/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

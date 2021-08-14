@@ -1,0 +1,11 @@
+{
+  "name": "BerezkaDynamic",
+  "address": "0xdc76450fd7e6352733fe8550efabff750b2de0e3",
+  "symbol": "DYNA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DYNA--0xdc76450fd7e6352733fe8550efabff750b2de0e3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

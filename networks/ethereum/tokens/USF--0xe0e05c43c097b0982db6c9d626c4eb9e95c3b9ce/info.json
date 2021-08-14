@@ -1,0 +1,11 @@
+{
+  "name": "Unslashed Finance",
+  "address": "0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce",
+  "symbol": "USF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USF--0xe0e05c43c097b0982db6c9d626c4eb9e95c3b9ce/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

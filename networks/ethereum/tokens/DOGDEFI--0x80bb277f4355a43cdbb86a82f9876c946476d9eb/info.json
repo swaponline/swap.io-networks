@@ -1,0 +1,11 @@
+{
+  "name": "DogDeFiCoin",
+  "address": "0x80bb277f4355a43cdbb86a82f9876c946476d9eb",
+  "symbol": "DOGDEFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOGDEFI--0x80bb277f4355a43cdbb86a82f9876c946476d9eb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

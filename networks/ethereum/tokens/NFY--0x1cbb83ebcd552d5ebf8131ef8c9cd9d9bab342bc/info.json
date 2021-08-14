@@ -1,0 +1,11 @@
+{
+  "name": "Non-FungibleYearn",
+  "address": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+  "symbol": "NFY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NFY--0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

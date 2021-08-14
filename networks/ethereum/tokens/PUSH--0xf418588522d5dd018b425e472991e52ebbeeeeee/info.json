@@ -1,0 +1,11 @@
+{
+  "name": "EthereumPushNotificationService",
+  "address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+  "symbol": "PUSH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PUSH--0xf418588522d5dd018b425e472991e52ebbeeeeee/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ShareToken",
+  "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+  "symbol": "SHR",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHR--0xd98f75b1a3261dab9eed4956c93f33749027a964/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

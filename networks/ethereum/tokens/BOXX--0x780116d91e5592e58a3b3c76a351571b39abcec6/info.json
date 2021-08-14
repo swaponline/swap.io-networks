@@ -1,0 +1,11 @@
+{
+  "name": "Blockparty",
+  "address": "0x780116d91e5592e58a3b3c76a351571b39abcec6",
+  "symbol": "BOXX",
+  "decimals": 15,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOXX--0x780116d91e5592e58a3b3c76a351571b39abcec6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

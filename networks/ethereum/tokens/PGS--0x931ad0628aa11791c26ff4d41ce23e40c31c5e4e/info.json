@@ -1,0 +1,11 @@
+{
+  "name": "Pegasus",
+  "address": "0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e",
+  "symbol": "PGS",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PGS--0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

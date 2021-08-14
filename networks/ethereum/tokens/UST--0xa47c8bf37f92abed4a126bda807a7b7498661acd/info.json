@@ -1,0 +1,11 @@
+{
+  "name": "WrappedUSTToken",
+  "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+  "symbol": "UST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UST--0xa47c8bf37f92abed4a126bda807a7b7498661acd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

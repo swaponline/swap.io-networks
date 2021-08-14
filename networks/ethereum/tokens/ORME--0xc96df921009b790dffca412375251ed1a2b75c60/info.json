@@ -1,0 +1,11 @@
+{
+  "name": "Ormeus Coin",
+  "address": "0xc96df921009b790dffca412375251ed1a2b75c60",
+  "symbol": "ORME",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ORME--0xc96df921009b790dffca412375251ed1a2b75c60/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

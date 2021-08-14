@@ -1,0 +1,11 @@
+{
+  "name": "FoundryLogisticsToken",
+  "address": "0x6c972b70c533e2e045f333ee28b9ffb8d717be69",
+  "symbol": "FRY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FRY--0x6c972b70c533e2e045f333ee28b9ffb8d717be69/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

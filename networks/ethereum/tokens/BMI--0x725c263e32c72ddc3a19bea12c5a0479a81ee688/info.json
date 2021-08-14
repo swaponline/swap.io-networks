@@ -1,0 +1,11 @@
+{
+  "name": "BridgeMutual",
+  "address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+  "symbol": "BMI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BMI--0x725c263e32c72ddc3a19bea12c5a0479a81ee688/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MIC",
+  "address": "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51",
+  "symbol": "MIC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MIC--0x368b3a58b5f49392e5c9e4c998cb0bb966752e51/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

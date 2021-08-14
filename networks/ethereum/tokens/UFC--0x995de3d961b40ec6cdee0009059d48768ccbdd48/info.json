@@ -1,0 +1,11 @@
+{
+  "name": "Union Fair Coin",
+  "address": "0x995de3d961b40ec6cdee0009059d48768ccbdd48",
+  "symbol": "UFC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UFC--0x995de3d961b40ec6cdee0009059d48768ccbdd48/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

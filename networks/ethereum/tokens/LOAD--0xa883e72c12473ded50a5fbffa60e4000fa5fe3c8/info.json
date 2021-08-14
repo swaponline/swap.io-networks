@@ -1,0 +1,11 @@
+{
+  "name": "LOAD Network",
+  "address": "0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8",
+  "symbol": "LOAD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LOAD--0xa883e72c12473ded50a5fbffa60e4000fa5fe3c8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

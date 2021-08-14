@@ -1,0 +1,11 @@
+{
+  "name": "European Coin Allia",
+  "address": "0xfab25d4469444f28023075db5932497d70094601",
+  "symbol": "ECA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ECA--0xfab25d4469444f28023075db5932497d70094601/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

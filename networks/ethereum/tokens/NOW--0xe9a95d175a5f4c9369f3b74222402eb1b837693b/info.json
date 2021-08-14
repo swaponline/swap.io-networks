@@ -1,0 +1,11 @@
+{
+  "name": "ChangeNOW",
+  "address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+  "symbol": "NOW",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NOW--0xe9a95d175a5f4c9369f3b74222402eb1b837693b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

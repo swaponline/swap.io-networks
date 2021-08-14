@@ -1,0 +1,11 @@
+{
+  "name": "MMAON",
+  "address": "0x8315472bae77f9a2b856a67eb0796480aafcd51c",
+  "symbol": "MMAON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MMAON--0x8315472bae77f9a2b856a67eb0796480aafcd51c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

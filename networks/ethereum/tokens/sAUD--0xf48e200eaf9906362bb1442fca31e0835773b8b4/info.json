@@ -1,0 +1,11 @@
+{
+  "name": "SynthsAUD",
+  "address": "0xf48e200eaf9906362bb1442fca31e0835773b8b4",
+  "symbol": "sAUD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sAUD--0xf48e200eaf9906362bb1442fca31e0835773b8b4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OriginDollar",
+  "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+  "symbol": "OUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OUSD--0x2a8e1e676ec238d8a992307b495b45b3feaa5e86/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

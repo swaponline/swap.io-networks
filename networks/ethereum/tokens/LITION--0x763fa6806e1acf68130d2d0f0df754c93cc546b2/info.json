@@ -1,0 +1,11 @@
+{
+  "name": "Lition",
+  "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+  "symbol": "LITION",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LITION--0x763fa6806e1acf68130d2d0f0df754c93cc546b2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

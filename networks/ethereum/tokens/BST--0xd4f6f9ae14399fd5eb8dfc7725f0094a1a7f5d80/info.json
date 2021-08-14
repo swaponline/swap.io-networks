@@ -1,0 +1,11 @@
+{
+  "name": "Bitsten Token",
+  "address": "0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
+  "symbol": "BST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BST--0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

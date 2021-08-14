@@ -1,0 +1,11 @@
+{
+  "name": "Punk",
+  "address": "0x9cea2ed9e47059260c97d697f82b8a14efa61ea5",
+  "symbol": "PUNK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PUNK--0x9cea2ed9e47059260c97d697f82b8a14efa61ea5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dawn Protocol",
+  "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+  "symbol": "DAWN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DAWN--0x580c8520deda0a441522aeae0f9f7a5f29629afa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

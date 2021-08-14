@@ -1,0 +1,11 @@
+{
+  "name": "Hue",
+  "address": "0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5",
+  "symbol": "HUE",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HUE--0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

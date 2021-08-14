@@ -1,0 +1,11 @@
+{
+  "name": "Beyond Finance",
+  "address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+  "symbol": "BYN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BYN--0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

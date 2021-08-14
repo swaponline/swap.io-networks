@@ -1,0 +1,11 @@
+{
+  "name": "BasketDAOGov",
+  "address": "0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb",
+  "symbol": "BASK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BASK--0x44564d0bd94343f72e3c8a0d22308b7fa71db0bb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

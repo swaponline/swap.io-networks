@@ -1,0 +1,11 @@
+{
+  "name": "USDQ",
+  "address": "0x4954db6391f4feb5468b6b943d4935353596aec9",
+  "symbol": "USDQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDQ--0x4954db6391f4feb5468b6b943d4935353596aec9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

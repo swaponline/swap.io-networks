@@ -1,0 +1,11 @@
+{
+  "name": "decentral.games",
+  "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+  "symbol": "DG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DG--0xee06a81a695750e71a662b51066f2c74cf4478a0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

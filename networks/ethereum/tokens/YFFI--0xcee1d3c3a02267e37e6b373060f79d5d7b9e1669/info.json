@@ -1,0 +1,11 @@
+{
+  "name": "yffi.finance",
+  "address": "0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669",
+  "symbol": "YFFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFFI--0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

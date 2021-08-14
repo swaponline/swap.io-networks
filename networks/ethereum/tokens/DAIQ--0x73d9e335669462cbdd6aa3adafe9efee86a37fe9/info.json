@@ -1,0 +1,11 @@
+{
+  "name": "Daiquilibrium",
+  "address": "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9",
+  "symbol": "DAIQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DAIQ--0x73d9e335669462cbdd6aa3adafe9efee86a37fe9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

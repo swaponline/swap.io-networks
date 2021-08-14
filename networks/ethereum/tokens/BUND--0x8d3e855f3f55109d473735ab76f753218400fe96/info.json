@@ -1,0 +1,11 @@
+{
+  "name": "Bundles",
+  "address": "0x8d3e855f3f55109d473735ab76f753218400fe96",
+  "symbol": "BUND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BUND--0x8d3e855f3f55109d473735ab76f753218400fe96/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

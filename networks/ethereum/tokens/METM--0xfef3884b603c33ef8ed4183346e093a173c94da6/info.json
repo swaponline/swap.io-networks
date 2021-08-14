@@ -1,0 +1,11 @@
+{
+  "name": "MetaMorph",
+  "address": "0xfef3884b603c33ef8ed4183346e093a173c94da6",
+  "symbol": "METM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/METM--0xfef3884b603c33ef8ed4183346e093a173c94da6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

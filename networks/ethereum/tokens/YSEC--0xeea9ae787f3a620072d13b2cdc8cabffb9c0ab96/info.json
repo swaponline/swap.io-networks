@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Secure",
+  "address": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96",
+  "symbol": "YSEC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YSEC--0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

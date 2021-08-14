@@ -1,0 +1,11 @@
+{
+  "name": "Ignite",
+  "address": "0xde9d41a01bb11a9f41e709242824e54c3917084e",
+  "symbol": "IGN",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IGN--0xde9d41a01bb11a9f41e709242824e54c3917084e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BondlyToken",
+  "address": "0xd2dda223b2617cb616c1580db421e4cfae6a8a85",
+  "symbol": "BONDLY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BONDLY--0xd2dda223b2617cb616c1580db421e4cfae6a8a85/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

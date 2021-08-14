@@ -1,0 +1,11 @@
+{
+  "name": "YFIX finance",
+  "address": "0xa4f779074850d320b5553c9db5fc6a8ab15bd34a",
+  "symbol": "YFIX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFIX--0xa4f779074850d320b5553c9db5fc6a8ab15bd34a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

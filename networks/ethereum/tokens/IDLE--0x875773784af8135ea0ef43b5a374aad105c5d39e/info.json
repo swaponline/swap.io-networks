@@ -1,0 +1,11 @@
+{
+  "name": "Idle",
+  "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+  "symbol": "IDLE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IDLE--0x875773784af8135ea0ef43b5a374aad105c5d39e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flexacoin",
+  "address": "0x4a57e687b9126435a9b19e4a802113e266adebde",
+  "symbol": "FXC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FXC--0x4a57e687b9126435a9b19e4a802113e266adebde/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

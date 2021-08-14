@@ -1,0 +1,11 @@
+{
+  "name": "XinFin",
+  "address": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+  "symbol": "XDCE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XDCE--0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

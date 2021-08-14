@@ -1,0 +1,11 @@
+{
+  "name": "Gasgains",
+  "address": "0xc58467b855401ef3ff8fda9216f236e29f0d6277",
+  "symbol": "GASG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GASG--0xc58467b855401ef3ff8fda9216f236e29f0d6277/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

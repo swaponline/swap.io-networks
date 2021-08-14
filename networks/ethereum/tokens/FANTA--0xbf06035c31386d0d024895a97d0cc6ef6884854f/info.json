@@ -1,0 +1,11 @@
+{
+  "name": "Fanta Finance",
+  "address": "0xbf06035c31386d0d024895a97d0cc6ef6884854f",
+  "symbol": "FANTA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FANTA--0xbf06035c31386d0d024895a97d0cc6ef6884854f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

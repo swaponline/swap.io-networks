@@ -1,0 +1,11 @@
+{
+  "name": "Gifto",
+  "address": "0xc5bbae50781be1669306b9e001eff57a2957b09d",
+  "symbol": "GTO",
+  "decimals": 5,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GTO--0xc5bbae50781be1669306b9e001eff57a2957b09d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

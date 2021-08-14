@@ -1,0 +1,11 @@
+{
+  "name": "BananoDOS",
+  "address": "0x1706c33b9a5b12aeb85b862215378dee9480eb95",
+  "symbol": "YBAN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YBAN--0x1706c33b9a5b12aeb85b862215378dee9480eb95/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Truebit",
+  "address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
+  "symbol": "TRUTruebit",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRUTruebit--0xf65b5c5104c4fafd4b709d9d60a185eae063276c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

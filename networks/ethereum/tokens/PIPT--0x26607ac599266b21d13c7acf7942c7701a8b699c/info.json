@@ -1,0 +1,11 @@
+{
+  "name": "PowerIndexPoolToken",
+  "address": "0x26607ac599266b21d13c7acf7942c7701a8b699c",
+  "symbol": "PIPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PIPT--0x26607ac599266b21d13c7acf7942c7701a8b699c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

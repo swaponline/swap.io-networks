@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ECOMI",
+  "address": "0x04969cd041c0cafb6ac462bd65b536a5bdb3a670",
+  "symbol": "WOMI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WOMI--0x04969cd041c0cafb6ac462bd65b536a5bdb3a670/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

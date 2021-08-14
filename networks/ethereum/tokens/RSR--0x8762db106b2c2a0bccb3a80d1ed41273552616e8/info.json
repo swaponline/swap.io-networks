@@ -1,0 +1,11 @@
+{
+  "name": "ReserveRights",
+  "address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+  "symbol": "RSR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RSR--0x8762db106b2c2a0bccb3a80d1ed41273552616e8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

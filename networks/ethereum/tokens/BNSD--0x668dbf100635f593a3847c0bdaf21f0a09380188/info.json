@@ -1,0 +1,11 @@
+{
+  "name": "BNSD Finance",
+  "address": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+  "symbol": "BNSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BNSD--0x668dbf100635f593a3847c0bdaf21f0a09380188/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

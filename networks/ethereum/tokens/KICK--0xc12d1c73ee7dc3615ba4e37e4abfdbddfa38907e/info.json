@@ -1,0 +1,11 @@
+{
+  "name": "KickToken",
+  "address": "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",
+  "symbol": "KICK",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

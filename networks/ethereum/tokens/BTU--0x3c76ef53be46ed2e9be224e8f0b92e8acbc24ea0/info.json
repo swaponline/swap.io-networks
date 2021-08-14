@@ -1,0 +1,11 @@
+{
+  "name": "Bitsou",
+  "address": "0x3c76ef53be46ed2e9be224e8f0b92e8acbc24ea0",
+  "symbol": "BTU",
+  "decimals": 3,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTU--0x3c76ef53be46ed2e9be224e8f0b92e8acbc24ea0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

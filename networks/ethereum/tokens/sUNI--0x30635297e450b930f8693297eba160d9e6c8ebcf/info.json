@@ -1,0 +1,11 @@
+{
+  "name": "SynthsUNI",
+  "address": "0x30635297e450b930f8693297eba160d9e6c8ebcf",
+  "symbol": "sUNI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sUNI--0x30635297e450b930f8693297eba160d9e6c8ebcf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

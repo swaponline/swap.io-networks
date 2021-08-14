@@ -1,0 +1,11 @@
+{
+  "name": "UniCrypt",
+  "address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
+  "symbol": "UNCX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNCX--0xadb2437e6f65682b85f814fbc12fec0508a7b1d0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "3CRV",
+  "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+  "symbol": "3PoolCurve",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

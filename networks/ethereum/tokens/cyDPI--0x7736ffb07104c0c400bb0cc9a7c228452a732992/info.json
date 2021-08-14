@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped DPI",
+  "address": "0x7736ffb07104c0c400bb0cc9a7c228452a732992",
+  "symbol": "cyDPI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyDPI--0x7736ffb07104c0c400bb0cc9a7c228452a732992/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

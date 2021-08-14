@@ -1,0 +1,11 @@
+{
+  "name": "yearnTetherUSD",
+  "address": "0x2f08119c6f07c006695e079aafc638b8789faf18",
+  "symbol": "yUSDT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yUSDT--0x2f08119c6f07c006695e079aafc638b8789faf18/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

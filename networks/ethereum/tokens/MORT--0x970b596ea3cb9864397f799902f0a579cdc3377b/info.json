@@ -1,0 +1,11 @@
+{
+  "name": "Morph Tracker",
+  "address": "0x970b596ea3cb9864397f799902f0a579cdc3377b",
+  "symbol": "MORT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MORT--0x970b596ea3cb9864397f799902f0a579cdc3377b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

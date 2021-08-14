@@ -1,0 +1,11 @@
+{
+  "name": "YFIONE",
+  "address": "0xac0c8da4a4748d8d821a0973d00b157aa78c473d",
+  "symbol": "YFO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFO--0xac0c8da4a4748d8d821a0973d00b157aa78c473d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

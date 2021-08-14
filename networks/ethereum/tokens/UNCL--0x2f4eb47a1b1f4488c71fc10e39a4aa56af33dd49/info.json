@@ -1,0 +1,11 @@
+{
+  "name": "UNCL",
+  "address": "0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49",
+  "symbol": "UNCL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNCL--0x2f4eb47a1b1f4488c71fc10e39a4aa56af33dd49/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RARE.UNIQUE",
+  "address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
+  "symbol": "RARE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RARE--0x93dfaf57d986b9ca77df9376c50878e013d9c7c8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

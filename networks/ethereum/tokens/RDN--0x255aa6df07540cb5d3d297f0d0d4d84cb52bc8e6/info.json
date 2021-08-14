@@ -1,0 +1,11 @@
+{
+  "name": "RaidenNetworkToken",
+  "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+  "symbol": "RDN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RDN--0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

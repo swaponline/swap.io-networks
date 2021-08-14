@@ -1,0 +1,11 @@
+{
+  "name": "Digital Fitness",
+  "address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+  "symbol": "DEFIT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEFIT--0x84cffa78b2fbbeec8c37391d2b12a04d2030845e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

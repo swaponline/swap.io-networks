@@ -1,0 +1,11 @@
+{
+  "name": "Route",
+  "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+  "symbol": "ROUTE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROUTE--0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

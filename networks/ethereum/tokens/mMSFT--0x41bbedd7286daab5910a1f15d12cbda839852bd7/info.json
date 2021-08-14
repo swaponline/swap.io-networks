@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror MSFT Token",
+  "address": "0x41bbedd7286daab5910a1f15d12cbda839852bd7",
+  "symbol": "mMSFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mMSFT--0x41bbedd7286daab5910a1f15d12cbda839852bd7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

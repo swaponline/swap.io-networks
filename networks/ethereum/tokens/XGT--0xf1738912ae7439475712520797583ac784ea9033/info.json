@@ -1,0 +1,11 @@
+{
+  "name": "Xion Global Token",
+  "address": "0xf1738912ae7439475712520797583ac784ea9033",
+  "symbol": "XGT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XGT--0xf1738912ae7439475712520797583ac784ea9033/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

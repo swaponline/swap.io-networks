@@ -1,0 +1,11 @@
+{
+  "name": "Phantasma Energy",
+  "address": "0x14eb60f5f270b059b0c788de0ddc51da86f8a06d",
+  "symbol": "KCAL",
+  "decimals": 10,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KCAL--0x14eb60f5f270b059b0c788de0ddc51da86f8a06d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "StabilizeToken",
+  "address": "0xb987d48ed8f2c468d52d6405624eadba5e76d723",
+  "symbol": "STBZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STBZ--0xb987d48ed8f2c468d52d6405624eadba5e76d723/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

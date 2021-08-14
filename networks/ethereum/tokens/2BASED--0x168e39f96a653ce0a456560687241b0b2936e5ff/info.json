@@ -1,0 +1,11 @@
+{
+  "name": "2Based Finance",
+  "address": "0x168e39f96a653ce0a456560687241b0b2936e5ff",
+  "symbol": "2BASED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/2BASED--0x168e39f96a653ce0a456560687241b0b2936e5ff/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BBB",
+  "address": "0x69e8b9528cabda89fe846c67675b5d73d463a916",
+  "symbol": "OPEN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OPEN--0x69e8b9528cabda89fe846c67675b5d73d463a916/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

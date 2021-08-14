@@ -1,0 +1,11 @@
+{
+  "name": "district0xNetworkToken",
+  "address": "0x0abdace70d3790235af448c88547603b945604ea",
+  "symbol": "DNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DNT--0x0abdace70d3790235af448c88547603b945604ea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

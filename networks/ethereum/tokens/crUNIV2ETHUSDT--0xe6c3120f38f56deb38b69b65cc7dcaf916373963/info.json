@@ -1,0 +1,11 @@
+{
+  "name": "CreamUniswapV2ETH-USDT",
+  "address": "0xe6c3120f38f56deb38b69b65cc7dcaf916373963",
+  "symbol": "crUNIV2ETHUSDT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crUNIV2ETHUSDT--0xe6c3120f38f56deb38b69b65cc7dcaf916373963/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

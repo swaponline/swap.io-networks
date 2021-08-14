@@ -1,0 +1,11 @@
+{
+  "name": "Interest Bearing Dai Stablecoin v2",
+  "address": "0xee8389d235e092b2945fe363e97cdbed121a0439",
+  "symbol": "ibDAIv2",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

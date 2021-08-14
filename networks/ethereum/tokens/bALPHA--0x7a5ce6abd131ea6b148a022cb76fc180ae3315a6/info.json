@@ -1,0 +1,11 @@
+{
+  "name": "bAlpha",
+  "address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
+  "symbol": "BALPHA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BALPHA--0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

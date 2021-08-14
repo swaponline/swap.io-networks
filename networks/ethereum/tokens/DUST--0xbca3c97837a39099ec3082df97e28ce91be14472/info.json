@@ -1,0 +1,11 @@
+{
+  "name": "DUST Token",
+  "address": "0xbca3c97837a39099ec3082df97e28ce91be14472",
+  "symbol": "DUST",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DUST--0xbca3c97837a39099ec3082df97e28ce91be14472/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Antiample",
+  "address": "0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27",
+  "symbol": "XAMP",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XAMP--0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

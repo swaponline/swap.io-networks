@@ -1,0 +1,11 @@
+{
+  "name": "ZooToken",
+  "address": "0x1341a2257fa7b770420ef70616f888056f90926c",
+  "symbol": "ZOOT",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZOOT--0x1341a2257fa7b770420ef70616f888056f90926c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

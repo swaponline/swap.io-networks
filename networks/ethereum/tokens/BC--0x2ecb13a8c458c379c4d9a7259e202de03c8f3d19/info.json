@@ -1,0 +1,11 @@
+{
+  "name": "Block chain com",
+  "address": "0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19",
+  "symbol": "BC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BC--0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

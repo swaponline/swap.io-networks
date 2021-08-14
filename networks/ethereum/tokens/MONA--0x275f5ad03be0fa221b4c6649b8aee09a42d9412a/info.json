@@ -1,0 +1,11 @@
+{
+  "name": "Monavale",
+  "address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
+  "symbol": "MONA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MONA--0x275f5ad03be0fa221b4c6649b8aee09a42d9412a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

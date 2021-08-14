@@ -1,0 +1,11 @@
+{
+  "name": "renDGB",
+  "address": "0xe3cb486f3f5c639e98ccbaf57d95369375687f80",
+  "symbol": "renDGB",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

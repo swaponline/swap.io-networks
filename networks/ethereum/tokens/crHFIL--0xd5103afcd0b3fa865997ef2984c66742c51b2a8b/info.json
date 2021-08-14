@@ -1,0 +1,11 @@
+{
+  "name": "CreamHuobiFIL",
+  "address": "0xd5103afcd0b3fa865997ef2984c66742c51b2a8b",
+  "symbol": "crHFIL",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crHFIL--0xd5103afcd0b3fa865997ef2984c66742c51b2a8b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

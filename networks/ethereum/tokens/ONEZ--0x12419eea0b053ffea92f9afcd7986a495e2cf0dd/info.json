@@ -1,0 +1,11 @@
+{
+  "name": "The Nifty ONEz",
+  "address": "0x12419eea0b053ffea92f9afcd7986a495e2cf0dd",
+  "symbol": "ONEZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONEZ--0x12419eea0b053ffea92f9afcd7986a495e2cf0dd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tapcoin",
+  "address": "0x9f599410d207f3d2828a8712e5e543ac2e040382",
+  "symbol": "TTT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TTT--0x9f599410d207f3d2828a8712e5e543ac2e040382/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CompoundUSDCoin",
+  "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+  "symbol": "cUSDC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cUSDC--0x39aa39c021dfbae8fac545936693ac917d5e7563/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

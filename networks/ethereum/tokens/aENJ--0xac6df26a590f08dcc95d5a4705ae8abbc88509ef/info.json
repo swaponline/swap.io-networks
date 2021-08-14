@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingENJ",
+  "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+  "symbol": "aENJ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aENJ--0xac6df26a590f08dcc95d5a4705ae8abbc88509ef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

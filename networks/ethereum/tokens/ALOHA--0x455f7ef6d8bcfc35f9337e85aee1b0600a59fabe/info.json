@@ -1,0 +1,11 @@
+{
+  "name": "Aloha",
+  "address": "0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe",
+  "symbol": "ALOHA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALOHA--0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

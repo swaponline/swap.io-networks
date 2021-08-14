@@ -1,0 +1,11 @@
+{
+  "name": "Vanilla",
+  "address": "0x1017b147b05942ead495e2ad6d606ef3c94b8fd0",
+  "symbol": "VNL",
+  "decimals": 12,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VNL--0x1017b147b05942ead495e2ad6d606ef3c94b8fd0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BotOcean",
+  "address": "0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
+  "symbol": "BOTS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOTS--0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

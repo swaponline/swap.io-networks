@@ -1,0 +1,11 @@
+{
+  "name": "Bast",
+  "address": "0x47eb79217f42f92dbd741add1b1a6783a2c873cf",
+  "symbol": "BAST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAST--0x47eb79217f42f92dbd741add1b1a6783a2c873cf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

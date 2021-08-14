@@ -1,0 +1,11 @@
+{
+  "name": "SMPL Foundation",
+  "address": "0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b",
+  "symbol": "SMPL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SMPL--0x8bf92cad232f72a7c61eb42e9185e8d0ea470f6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

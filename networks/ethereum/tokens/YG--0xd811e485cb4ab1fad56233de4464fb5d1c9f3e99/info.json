@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Global",
+  "address": "0xd811e485cb4ab1fad56233de4464fb5d1c9f3e99",
+  "symbol": "YG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YG--0xd811e485cb4ab1fad56233de4464fb5d1c9f3e99/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

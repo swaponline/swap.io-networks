@@ -1,0 +1,11 @@
+{
+  "name": "LUSDStablecoin",
+  "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+  "symbol": "LUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LUSD--0x5f98805a4e8be255a32880fdec7f6728c6568ba0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

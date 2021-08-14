@@ -1,0 +1,11 @@
+{
+  "name": "Tulip Seed",
+  "address": "0x3d1be3fef769399cce7e504e85324d622f23cf85",
+  "symbol": "STLP",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STLP--0x3d1be3fef769399cce7e504e85324d622f23cf85/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

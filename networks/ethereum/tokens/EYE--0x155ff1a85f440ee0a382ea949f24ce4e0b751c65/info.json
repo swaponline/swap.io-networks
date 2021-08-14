@@ -1,0 +1,11 @@
+{
+  "name": "Behodler",
+  "address": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65",
+  "symbol": "EYE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EYE--0x155ff1a85f440ee0a382ea949f24ce4e0b751c65/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

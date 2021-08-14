@@ -1,0 +1,11 @@
+{
+  "name": "CreamUSDCoin",
+  "address": "0x44fbebd2f576670a6c33f6fc0b00aa8c5753b322",
+  "symbol": "crUSDC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crUSDC--0x44fbebd2f576670a6c33f6fc0b00aa8c5753b322/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

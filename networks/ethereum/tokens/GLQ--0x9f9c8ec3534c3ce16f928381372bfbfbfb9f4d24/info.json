@@ -1,0 +1,11 @@
+{
+  "name": "GraphLinq",
+  "address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+  "symbol": "GLQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GLQ--0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

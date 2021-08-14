@@ -1,0 +1,11 @@
+{
+  "name": "RMPL",
+  "address": "0xe17f017475a709de58e976081eb916081ff4c9d5",
+  "symbol": "RMPL",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RMPL--0xe17f017475a709de58e976081eb916081ff4c9d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

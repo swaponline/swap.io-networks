@@ -1,0 +1,11 @@
+{
+  "name": "KittenFinance",
+  "address": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
+  "symbol": "KIF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KIF--0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

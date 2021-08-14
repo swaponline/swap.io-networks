@@ -1,0 +1,11 @@
+{
+  "name": "Qcore Finance",
+  "address": "0x82866b4a71ba9d930fe338c386b6a45a7133eb36",
+  "symbol": "QCORE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QCORE--0x82866b4a71ba9d930fe338c386b6a45a7133eb36/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

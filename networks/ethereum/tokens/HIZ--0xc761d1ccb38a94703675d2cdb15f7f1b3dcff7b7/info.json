@@ -1,0 +1,11 @@
+{
+  "name": "Hiz Finance",
+  "address": "0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7",
+  "symbol": "HIZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HIZ--0xc761d1ccb38a94703675d2cdb15f7f1b3dcff7b7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Instadapp",
+  "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+  "symbol": "INST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/INST--0x6f40d4a6237c257fff2db00fa0510deeecd303eb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

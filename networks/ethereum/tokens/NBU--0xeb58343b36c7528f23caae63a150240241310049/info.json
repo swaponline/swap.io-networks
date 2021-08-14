@@ -1,0 +1,11 @@
+{
+  "name": "Nimbus",
+  "address": "0xeb58343b36c7528f23caae63a150240241310049",
+  "symbol": "NBU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NBU--0xeb58343b36c7528f23caae63a150240241310049/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

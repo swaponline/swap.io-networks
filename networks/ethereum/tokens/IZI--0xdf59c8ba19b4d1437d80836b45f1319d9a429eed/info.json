@@ -1,0 +1,11 @@
+{
+  "name": "IZIChain",
+  "address": "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed",
+  "symbol": "IZI",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IZI--0xdf59c8ba19b4d1437d80836b45f1319d9a429eed/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

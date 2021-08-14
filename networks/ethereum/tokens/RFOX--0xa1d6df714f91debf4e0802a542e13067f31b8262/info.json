@@ -1,0 +1,11 @@
+{
+  "name": "RFOX",
+  "address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+  "symbol": "RFOX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RFOX--0xa1d6df714f91debf4e0802a542e13067f31b8262/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

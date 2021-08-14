@@ -1,0 +1,11 @@
+{
+  "name": "TrustSwapToken",
+  "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+  "symbol": "SWAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SWAP--0xcc4304a31d09258b0029ea7fe63d032f52e44efe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

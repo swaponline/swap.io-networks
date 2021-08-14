@@ -1,0 +1,11 @@
+{
+  "name": "DMme",
+  "address": "0x9556f8ee795d991ff371f547162d5efb2769425f",
+  "symbol": "DMME",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DMME--0x9556f8ee795d991ff371f547162d5efb2769425f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

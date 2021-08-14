@@ -1,0 +1,11 @@
+{
+  "name": "ChaiToken",
+  "address": "0x06af07097c9eeb7fd685c692751d5c66db49c215",
+  "symbol": "CHAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHAI--0x06af07097c9eeb7fd685c692751d5c66db49c215/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

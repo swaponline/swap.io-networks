@@ -1,0 +1,11 @@
+{
+  "name": "WrappedLUNAToken",
+  "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+  "symbol": "LUNA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LUNA--0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

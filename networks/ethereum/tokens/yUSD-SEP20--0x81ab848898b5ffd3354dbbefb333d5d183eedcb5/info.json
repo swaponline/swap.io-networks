@@ -1,0 +1,11 @@
+{
+  "name": "yUSD Synthetic Token Expiring 1 Septembe",
+  "address": "0x81ab848898b5ffd3354dbbefb333d5d183eedcb5",
+  "symbol": "yUSD-SEP20",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yUSD-SEP20--0x81ab848898b5ffd3354dbbefb333d5d183eedcb5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

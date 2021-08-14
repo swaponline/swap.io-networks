@@ -1,0 +1,11 @@
+{
+  "name": "IDEX Membership",
+  "address": "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea",
+  "symbol": "IDXM",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IDXM--0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

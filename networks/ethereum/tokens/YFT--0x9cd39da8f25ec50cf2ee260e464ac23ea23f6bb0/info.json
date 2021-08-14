@@ -1,0 +1,11 @@
+{
+  "name": "TOSHIFY.FINANCE",
+  "address": "0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0",
+  "symbol": "YFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFT--0x9cd39da8f25ec50cf2ee260e464ac23ea23f6bb0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Maki Finance",
+  "address": "0x270d09cb4be817c98e84feffde03d5cd45e30a27",
+  "symbol": "MAKI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MAKI--0x270d09cb4be817c98e84feffde03d5cd45e30a27/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

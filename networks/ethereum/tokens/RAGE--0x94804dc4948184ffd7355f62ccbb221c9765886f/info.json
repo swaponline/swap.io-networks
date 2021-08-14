@@ -1,0 +1,11 @@
+{
+  "name": "Rage Fan",
+  "address": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
+  "symbol": "RAGE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAGE--0x94804dc4948184ffd7355f62ccbb221c9765886f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hubii Network",
+  "address": "0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+  "symbol": "HBT-HUBII",
+  "decimals": 15,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HBT-HUBII--0xdd6c68bb32462e01705011a4e2ad1a60740f217f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

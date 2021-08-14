@@ -1,0 +1,11 @@
+{
+  "name": "USDPStablecoin",
+  "address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+  "symbol": "USDP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDP--0x1456688345527be1f37e9e627da0837d6f08c925/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

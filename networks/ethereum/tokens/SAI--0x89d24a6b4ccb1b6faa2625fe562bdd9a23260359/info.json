@@ -1,0 +1,11 @@
+{
+  "name": "SaiStablecoin",
+  "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+  "symbol": "SAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAI--0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

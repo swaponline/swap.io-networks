@@ -1,0 +1,11 @@
+{
+  "name": "SAFE2",
+  "address": "0x250a3500f48666561386832f1f1f1019b89a2699",
+  "symbol": "SAFE2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAFE2--0x250a3500f48666561386832f1f1f1019b89a2699/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

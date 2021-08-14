@@ -1,0 +1,11 @@
+{
+  "name": "zzz.finance",
+  "address": "0xc75f15ada581219c95485c578e124df3985e4ce0",
+  "symbol": "ZZZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZZZ--0xc75f15ada581219c95485c578e124df3985e4ce0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

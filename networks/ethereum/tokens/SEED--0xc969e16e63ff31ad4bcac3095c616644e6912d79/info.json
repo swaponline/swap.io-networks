@@ -1,0 +1,11 @@
+{
+  "name": "Seed Venture",
+  "address": "0xc969e16e63ff31ad4bcac3095c616644e6912d79",
+  "symbol": "SEED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SEED--0xc969e16e63ff31ad4bcac3095c616644e6912d79/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

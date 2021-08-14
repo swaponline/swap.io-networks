@@ -1,0 +1,11 @@
+{
+  "name": "Singular J",
+  "address": "0x249f71f8d9da86c60f485e021b509a206667a079",
+  "symbol": "SNGJ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SNGJ--0x249f71f8d9da86c60f485e021b509a206667a079/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

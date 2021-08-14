@@ -1,0 +1,11 @@
+{
+  "name": "FlashToken",
+  "address": "0xb4467e8d621105312a914f1d42f10770c0ffe3c8",
+  "symbol": "FLASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLASH--0xb4467e8d621105312a914f1d42f10770c0ffe3c8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

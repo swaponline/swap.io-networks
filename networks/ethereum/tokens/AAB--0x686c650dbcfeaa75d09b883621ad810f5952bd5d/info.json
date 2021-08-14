@@ -1,0 +1,11 @@
+{
+  "name": "AAX Token",
+  "address": "0x686c650dbcfeaa75d09b883621ad810f5952bd5d",
+  "symbol": "AAB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AAB--0x686c650dbcfeaa75d09b883621ad810f5952bd5d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

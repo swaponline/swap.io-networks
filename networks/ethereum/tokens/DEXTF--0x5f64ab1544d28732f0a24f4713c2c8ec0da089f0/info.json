@@ -1,0 +1,11 @@
+{
+  "name": "DEXTFToken",
+  "address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+  "symbol": "DEXTF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEXTF--0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

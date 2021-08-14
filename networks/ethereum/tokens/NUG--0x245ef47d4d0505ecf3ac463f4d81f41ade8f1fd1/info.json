@@ -1,0 +1,11 @@
+{
+  "name": "Nuggets",
+  "address": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1",
+  "symbol": "NUG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NUG--0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

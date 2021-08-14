@@ -1,0 +1,11 @@
+{
+  "name": "Dukascoin",
+  "address": "0x73f2651ea38d48b3b808ffddbd398fd600ab5ba7",
+  "symbol": "DUK+",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DUK+--0x73f2651ea38d48b3b808ffddbd398fd600ab5ba7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

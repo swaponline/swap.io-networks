@@ -1,0 +1,11 @@
+{
+  "name": "bZxProtocolToken",
+  "address": "0x56d811088235f11c8920698a204a5010a788f4b3",
+  "symbol": "BZRX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BZRX--0x56d811088235f11c8920698a204a5010a788f4b3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dXIOT",
+  "address": "0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714",
+  "symbol": "DXIOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DXIOT--0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sports Betting Mark",
+  "address": "0x2579bb08387f0de7ab135edd6c2a985a3f577b6b",
+  "symbol": "SBX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SBX--0x2579bb08387f0de7ab135edd6c2a985a3f577b6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

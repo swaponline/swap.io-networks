@@ -1,0 +1,11 @@
+{
+  "name": "Small Love Potion",
+  "address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+  "symbol": "SLP",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SLP--0x37236cd05b34cc79d3715af2383e96dd7443dcf1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

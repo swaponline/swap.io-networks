@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Origin Axie",
+  "address": "0xec0a0915a7c3443862b678b0d4721c7ab133fdcf",
+  "symbol": "WOA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WOA--0xec0a0915a7c3443862b678b0d4721c7ab133fdcf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

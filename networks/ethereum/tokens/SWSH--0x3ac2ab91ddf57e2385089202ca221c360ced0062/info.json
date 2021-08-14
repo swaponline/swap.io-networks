@@ -1,0 +1,11 @@
+{
+  "name": "SwapShip",
+  "address": "0x3ac2ab91ddf57e2385089202ca221c360ced0062",
+  "symbol": "SWSH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SWSH--0x3ac2ab91ddf57e2385089202ca221c360ced0062/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

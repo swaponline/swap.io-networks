@@ -1,0 +1,11 @@
+{
+  "name": "BlockBurn",
+  "address": "0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd",
+  "symbol": "BURN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BURN--0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

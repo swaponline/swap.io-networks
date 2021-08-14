@@ -1,0 +1,11 @@
+{
+  "name": "VisionNetwork",
+  "address": "0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff",
+  "symbol": "VSN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VSN--0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

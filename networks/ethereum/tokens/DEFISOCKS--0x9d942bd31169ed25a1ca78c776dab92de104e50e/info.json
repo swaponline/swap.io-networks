@@ -1,0 +1,11 @@
+{
+  "name": "DeFISocks2020",
+  "address": "0x9d942bd31169ed25a1ca78c776dab92de104e50e",
+  "symbol": "DEFISOCKS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEFISOCKS--0x9d942bd31169ed25a1ca78c776dab92de104e50e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

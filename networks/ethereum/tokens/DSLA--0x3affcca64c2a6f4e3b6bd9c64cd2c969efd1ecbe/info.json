@@ -1,0 +1,11 @@
+{
+  "name": "DSLA",
+  "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+  "symbol": "DSLA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DSLA--0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

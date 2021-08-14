@@ -1,0 +1,11 @@
+{
+  "name": "RariGovernanceToken",
+  "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+  "symbol": "RGT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RGT--0xd291e7a03283640fdc51b121ac401383a46cc623/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

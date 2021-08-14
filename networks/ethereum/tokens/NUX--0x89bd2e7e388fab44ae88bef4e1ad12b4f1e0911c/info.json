@@ -1,0 +1,11 @@
+{
+  "name": "NUXPeanut.trade",
+  "address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+  "symbol": "NUX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NUX--0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

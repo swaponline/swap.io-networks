@@ -1,0 +1,11 @@
+{
+  "name": "COCOS BCX",
+  "address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+  "symbol": "COCOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COCOS--0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

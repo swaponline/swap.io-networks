@@ -1,0 +1,11 @@
+{
+  "name": "MetaFactory",
+  "address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+  "symbol": "ROBOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROBOT--0xfb5453340c03db5ade474b27e68b6a9c6b2823eb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

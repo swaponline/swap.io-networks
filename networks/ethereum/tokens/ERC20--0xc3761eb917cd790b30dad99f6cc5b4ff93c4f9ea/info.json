@@ -1,0 +1,11 @@
+{
+  "name": "ERC20",
+  "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+  "symbol": "ERC20",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ERC20--0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

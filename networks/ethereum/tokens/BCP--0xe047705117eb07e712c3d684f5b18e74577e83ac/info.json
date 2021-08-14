@@ -1,0 +1,11 @@
+{
+  "name": "BitcashPay",
+  "address": "0xe047705117eb07e712c3d684f5b18e74577e83ac",
+  "symbol": "BCP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BCP--0xe047705117eb07e712c3d684f5b18e74577e83ac/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

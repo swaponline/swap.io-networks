@@ -1,0 +1,11 @@
+{
+  "name": "renBTC",
+  "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+  "symbol": "renBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

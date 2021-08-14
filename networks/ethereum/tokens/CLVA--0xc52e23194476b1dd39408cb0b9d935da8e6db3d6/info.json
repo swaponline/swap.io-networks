@@ -1,0 +1,11 @@
+{
+  "name": "Clever DeFi",
+  "address": "0xc52e23194476b1dd39408cb0b9d935da8e6db3d6",
+  "symbol": "CLVA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CLVA--0xc52e23194476b1dd39408cb0b9d935da8e6db3d6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

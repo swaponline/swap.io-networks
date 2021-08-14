@@ -1,0 +1,11 @@
+{
+  "name": "GOVI",
+  "address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+  "symbol": "GOVI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GOVI--0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

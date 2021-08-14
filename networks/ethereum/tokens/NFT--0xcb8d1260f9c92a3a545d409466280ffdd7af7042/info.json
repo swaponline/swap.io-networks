@@ -1,0 +1,11 @@
+{
+  "name": "NFT Protocol",
+  "address": "0xcb8d1260f9c92a3a545d409466280ffdd7af7042",
+  "symbol": "NFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NFT--0xcb8d1260f9c92a3a545d409466280ffdd7af7042/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Unibomb",
+  "address": "0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6",
+  "symbol": "UBOMB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UBOMB--0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

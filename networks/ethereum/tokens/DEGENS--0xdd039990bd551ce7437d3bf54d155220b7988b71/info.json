@@ -1,0 +1,11 @@
+{
+  "name": "Degens",
+  "address": "0xdd039990bd551ce7437d3bf54d155220b7988b71",
+  "symbol": "DEGENS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEGENS--0xdd039990bd551ce7437d3bf54d155220b7988b71/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

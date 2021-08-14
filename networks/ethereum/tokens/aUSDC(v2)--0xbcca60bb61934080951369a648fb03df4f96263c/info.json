@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing USDC",
+  "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+  "symbol": "aUSDC(v2)",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

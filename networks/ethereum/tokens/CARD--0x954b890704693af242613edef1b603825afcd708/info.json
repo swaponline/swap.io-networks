@@ -1,0 +1,11 @@
+{
+  "name": "Cardstack",
+  "address": "0x954b890704693af242613edef1b603825afcd708",
+  "symbol": "CARD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CARD--0x954b890704693af242613edef1b603825afcd708/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

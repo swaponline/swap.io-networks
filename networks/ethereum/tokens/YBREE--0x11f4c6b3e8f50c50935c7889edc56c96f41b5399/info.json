@@ -1,0 +1,11 @@
+{
+  "name": "Yield Breeder DAO",
+  "address": "0x11f4c6b3e8f50c50935c7889edc56c96f41b5399",
+  "symbol": "YBREE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YBREE--0x11f4c6b3e8f50c50935c7889edc56c96f41b5399/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

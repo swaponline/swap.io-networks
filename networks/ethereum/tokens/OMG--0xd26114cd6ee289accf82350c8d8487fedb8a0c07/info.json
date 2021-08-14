@@ -1,0 +1,11 @@
+{
+  "name": "OmiseGO",
+  "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+  "symbol": "OMG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OMG--0xd26114cd6ee289accf82350c8d8487fedb8a0c07/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

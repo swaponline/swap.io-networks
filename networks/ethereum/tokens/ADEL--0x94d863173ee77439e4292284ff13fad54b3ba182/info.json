@@ -1,0 +1,11 @@
+{
+  "name": "AkropolisDelphi",
+  "address": "0x94d863173ee77439e4292284ff13fad54b3ba182",
+  "symbol": "ADEL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ADEL--0x94d863173ee77439e4292284ff13fad54b3ba182/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Printer Finance",
+  "address": "0x54b8c98268da0055971652a95f2bfd3a9349a38c",
+  "symbol": "PRINT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRINT--0x54b8c98268da0055971652a95f2bfd3a9349a38c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "KIMCHI finance",
+  "address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+  "symbol": "KIMCHI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KIMCHI--0x1e18821e69b9faa8e6e75dffe54e7e25754beda0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

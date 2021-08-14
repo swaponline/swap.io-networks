@@ -1,0 +1,11 @@
+{
+  "name": "Medicalchain",
+  "address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+  "symbol": "MTN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MTN--0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

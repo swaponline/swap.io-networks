@@ -1,0 +1,11 @@
+{
+  "name": "InnovaMinex",
+  "address": "0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4",
+  "symbol": "MINX",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MINX--0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

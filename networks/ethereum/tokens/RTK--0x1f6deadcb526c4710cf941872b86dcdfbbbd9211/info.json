@@ -1,0 +1,11 @@
+{
+  "name": "Ruletka",
+  "address": "0x1f6deadcb526c4710cf941872b86dcdfbbbd9211",
+  "symbol": "RTK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RTK--0x1f6deadcb526c4710cf941872b86dcdfbbbd9211/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

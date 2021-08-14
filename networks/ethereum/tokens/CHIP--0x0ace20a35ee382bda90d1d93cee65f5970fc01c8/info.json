@@ -1,0 +1,11 @@
+{
+  "name": "Chip",
+  "address": "0x0ace20a35ee382bda90d1d93cee65f5970fc01c8",
+  "symbol": "CHIP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHIP--0x0ace20a35ee382bda90d1d93cee65f5970fc01c8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

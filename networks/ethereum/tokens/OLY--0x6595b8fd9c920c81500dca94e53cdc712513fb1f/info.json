@@ -1,0 +1,11 @@
+{
+  "name": "Olyseum",
+  "address": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
+  "symbol": "OLY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OLY--0x6595b8fd9c920c81500dca94e53cdc712513fb1f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SERGS",
+  "address": "0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000",
+  "symbol": "SERGS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SERGS--0x79ba92dda26fce15e1e9af47d5cfdfd2a093e000/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

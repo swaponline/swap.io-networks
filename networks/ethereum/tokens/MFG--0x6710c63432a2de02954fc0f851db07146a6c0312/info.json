@@ -1,0 +1,11 @@
+{
+  "name": "SyncFab",
+  "address": "0x6710c63432a2de02954fc0f851db07146a6c0312",
+  "symbol": "MFG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MFG--0x6710c63432a2de02954fc0f851db07146a6c0312/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

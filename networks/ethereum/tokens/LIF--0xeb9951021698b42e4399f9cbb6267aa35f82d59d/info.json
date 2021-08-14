@@ -1,0 +1,11 @@
+{
+  "name": "Lif",
+  "address": "0xeb9951021698b42e4399f9cbb6267aa35f82d59d",
+  "symbol": "LIF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIF--0xeb9951021698b42e4399f9cbb6267aa35f82d59d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

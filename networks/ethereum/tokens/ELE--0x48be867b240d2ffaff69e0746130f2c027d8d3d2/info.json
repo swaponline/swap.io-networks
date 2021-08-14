@@ -1,0 +1,11 @@
+{
+  "name": "Elevate",
+  "address": "0x48be867b240d2ffaff69e0746130f2c027d8d3d2",
+  "symbol": "ELE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ELE--0x48be867b240d2ffaff69e0746130f2c027d8d3d2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

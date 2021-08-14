@@ -1,0 +1,11 @@
+{
+  "name": "Polkainsure Finance",
+  "address": "0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c",
+  "symbol": "PIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PIS--0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

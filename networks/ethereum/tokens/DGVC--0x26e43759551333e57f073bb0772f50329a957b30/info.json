@@ -1,0 +1,11 @@
+{
+  "name": "DegenVC",
+  "address": "0x26e43759551333e57f073bb0772f50329a957b30",
+  "symbol": "DGVC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DGVC--0x26e43759551333e57f073bb0772f50329a957b30/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

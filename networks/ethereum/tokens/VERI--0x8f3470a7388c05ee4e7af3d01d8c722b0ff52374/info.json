@@ -1,0 +1,11 @@
+{
+  "name": "Veritaseum",
+  "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+  "symbol": "VERI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VERI--0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

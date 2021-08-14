@@ -1,0 +1,11 @@
+{
+  "name": "TenSpeed Finance",
+  "address": "0x776ca7ded9474829ea20ad4a5ab7a6ffdb64c796",
+  "symbol": "TENS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TENS--0x776ca7ded9474829ea20ad4a5ab7a6ffdb64c796/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

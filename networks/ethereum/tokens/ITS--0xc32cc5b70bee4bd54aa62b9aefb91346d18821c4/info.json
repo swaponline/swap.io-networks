@@ -1,0 +1,11 @@
+{
+  "name": "Iteration Syndicate",
+  "address": "0xc32cc5b70bee4bd54aa62b9aefb91346d18821c4",
+  "symbol": "ITS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ITS--0xc32cc5b70bee4bd54aa62b9aefb91346d18821c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

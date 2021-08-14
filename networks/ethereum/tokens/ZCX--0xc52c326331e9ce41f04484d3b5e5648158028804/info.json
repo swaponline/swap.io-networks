@@ -1,0 +1,11 @@
+{
+  "name": "ZENExchangeToken",
+  "address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+  "symbol": "ZCX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZCX--0xc52c326331e9ce41f04484d3b5e5648158028804/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

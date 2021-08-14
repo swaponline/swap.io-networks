@@ -1,0 +1,11 @@
+{
+  "name": "CreamyyCRV",
+  "address": "0x4ee15f44c6f0d8d1136c83efd2e8e4ac768954c6",
+  "symbol": "crYYCRV",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crYYCRV--0x4ee15f44c6f0d8d1136c83efd2e8e4ac768954c6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

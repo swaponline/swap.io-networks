@@ -1,0 +1,11 @@
+{
+  "name": "Algory",
+  "address": "0x16b0a1a87ae8af5c792fabc429c4fe248834842b",
+  "symbol": "ALG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALG--0x16b0a1a87ae8af5c792fabc429c4fe248834842b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

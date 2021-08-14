@@ -1,0 +1,11 @@
+{
+  "name": "BCS",
+  "address": "0x03066da434e5264ef0b32f787923f974a5726fdc",
+  "symbol": "BCS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BCS--0x03066da434e5264ef0b32f787923f974a5726fdc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

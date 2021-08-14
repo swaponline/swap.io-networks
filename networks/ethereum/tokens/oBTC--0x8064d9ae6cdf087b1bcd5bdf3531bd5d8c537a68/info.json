@@ -1,0 +1,11 @@
+{
+  "name": "BoringDAO BTC",
+  "address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
+  "symbol": "oBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/oBTC--0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

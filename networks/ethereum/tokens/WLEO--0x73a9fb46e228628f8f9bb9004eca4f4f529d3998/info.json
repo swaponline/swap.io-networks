@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped LEO",
+  "address": "0x73a9fb46e228628f8f9bb9004eca4f4f529d3998",
+  "symbol": "WLEO",
+  "decimals": 3,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WLEO--0x73a9fb46e228628f8f9bb9004eca4f4f529d3998/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

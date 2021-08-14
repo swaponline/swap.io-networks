@@ -1,0 +1,11 @@
+{
+  "name": "Decentr",
+  "address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+  "symbol": "DEC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEC--0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

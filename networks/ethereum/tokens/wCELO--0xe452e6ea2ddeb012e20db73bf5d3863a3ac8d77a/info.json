@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Celo",
+  "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+  "symbol": "wCELO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/wCELO--0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hype Finance",
+  "address": "0x610c67be018a5c5bdc70acd8dc19688a11421073",
+  "symbol": "HYPE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HYPE--0x610c67be018a5c5bdc70acd8dc19688a11421073/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

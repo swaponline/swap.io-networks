@@ -1,0 +1,11 @@
+{
+  "name": "AtariToken",
+  "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
+  "symbol": "ATRI",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ATRI--0xdacd69347de42babfaecd09dc88958378780fb62/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

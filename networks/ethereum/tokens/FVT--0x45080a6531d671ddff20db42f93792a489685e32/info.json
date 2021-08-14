@@ -1,0 +1,11 @@
+{
+  "name": "Finance Vote",
+  "address": "0x45080a6531d671ddff20db42f93792a489685e32",
+  "symbol": "FVT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FVT--0x45080a6531d671ddff20db42f93792a489685e32/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

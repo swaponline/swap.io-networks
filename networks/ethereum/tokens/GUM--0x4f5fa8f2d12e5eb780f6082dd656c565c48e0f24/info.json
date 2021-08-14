@@ -1,0 +1,11 @@
+{
+  "name": "GourmetGalaxy",
+  "address": "0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
+  "symbol": "GUM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GUM--0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

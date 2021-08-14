@@ -1,0 +1,11 @@
+{
+  "name": "Uquid Coin",
+  "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+  "symbol": "UQC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UQC--0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

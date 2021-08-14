@@ -1,0 +1,11 @@
+{
+  "name": "CreamCRV",
+  "address": "0xc7fd8dcee4697ceef5a2fd4608a7bd6a94c77480",
+  "symbol": "crCRV",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crCRV--0xc7fd8dcee4697ceef5a2fd4608a7bd6a94c77480/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

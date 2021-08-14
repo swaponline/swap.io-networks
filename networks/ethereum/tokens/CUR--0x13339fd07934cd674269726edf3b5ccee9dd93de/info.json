@@ -1,0 +1,11 @@
+{
+  "name": "CurToken",
+  "address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
+  "symbol": "CUR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CUR--0x13339fd07934cd674269726edf3b5ccee9dd93de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

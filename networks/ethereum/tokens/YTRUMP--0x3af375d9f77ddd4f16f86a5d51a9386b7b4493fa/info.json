@@ -1,0 +1,11 @@
+{
+  "name": "YES Trump Augur Pre",
+  "address": "0x3af375d9f77ddd4f16f86a5d51a9386b7b4493fa",
+  "symbol": "YTRUMP",
+  "decimals": 15,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YTRUMP--0x3af375d9f77ddd4f16f86a5d51a9386b7b4493fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

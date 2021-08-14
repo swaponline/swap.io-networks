@@ -1,0 +1,11 @@
+{
+  "name": "Bmining Token",
+  "address": "0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192",
+  "symbol": "BMT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BMT--0xf205d2d65205711b6f6aae3fcb7ebdbc8573f192/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

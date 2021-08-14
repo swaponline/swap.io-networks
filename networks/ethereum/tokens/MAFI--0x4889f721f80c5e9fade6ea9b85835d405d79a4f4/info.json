@@ -1,0 +1,11 @@
+{
+  "name": "Mafia Network",
+  "address": "0x4889f721f80c5e9fade6ea9b85835d405d79a4f4",
+  "symbol": "MAFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MAFI--0x4889f721f80c5e9fade6ea9b85835d405d79a4f4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

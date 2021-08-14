@@ -1,0 +1,11 @@
+{
+  "name": "LCX",
+  "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+  "symbol": "LCX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LCX--0x037a54aab062628c9bbae1fdb1583c195585fe41/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

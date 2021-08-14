@@ -1,0 +1,11 @@
+{
+  "name": "DeFi Omega",
+  "address": "0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
+  "symbol": "DFIO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFIO--0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

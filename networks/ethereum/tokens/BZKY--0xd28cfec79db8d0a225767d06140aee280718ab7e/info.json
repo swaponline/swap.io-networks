@@ -1,0 +1,11 @@
+{
+  "name": "Bizkey",
+  "address": "0xd28cfec79db8d0a225767d06140aee280718ab7e",
+  "symbol": "BZKY",
+  "decimals": 16,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BZKY--0xd28cfec79db8d0a225767d06140aee280718ab7e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

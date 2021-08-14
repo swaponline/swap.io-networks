@@ -1,0 +1,11 @@
+{
+  "name": "True Seigniorage Dollar",
+  "address": "0x4846239fdf4d4c1aeb26729fa064b0205aca90e1",
+  "symbol": "TSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TSD--0x4846239fdf4d4c1aeb26729fa064b0205aca90e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

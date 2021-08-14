@@ -1,0 +1,11 @@
+{
+  "name": "OBR",
+  "address": "0x595643d83b35df38e29058976c04000acfa31570",
+  "symbol": "OBR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OBR--0x595643d83b35df38e29058976c04000acfa31570/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

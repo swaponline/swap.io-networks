@@ -1,0 +1,11 @@
+{
+  "name": "Internxt",
+  "address": "0xa8006c4ca56f24d6836727d106349320db7fef82",
+  "symbol": "INXT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/INXT--0xa8006c4ca56f24d6836727d106349320db7fef82/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

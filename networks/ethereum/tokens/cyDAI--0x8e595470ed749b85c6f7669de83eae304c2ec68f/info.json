@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped DAI",
+  "address": "0x8e595470ed749b85c6f7669de83eae304c2ec68f",
+  "symbol": "cyDAI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyDAI--0x8e595470ed749b85c6f7669de83eae304c2ec68f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Typhoon",
+  "address": "0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc",
+  "symbol": "PHOON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PHOON--0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

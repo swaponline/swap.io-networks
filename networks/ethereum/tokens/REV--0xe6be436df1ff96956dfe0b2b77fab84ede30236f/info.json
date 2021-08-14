@@ -1,0 +1,11 @@
+{
+  "name": "Revelation coin",
+  "address": "0xe6be436df1ff96956dfe0b2b77fab84ede30236f",
+  "symbol": "REV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REV--0xe6be436df1ff96956dfe0b2b77fab84ede30236f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

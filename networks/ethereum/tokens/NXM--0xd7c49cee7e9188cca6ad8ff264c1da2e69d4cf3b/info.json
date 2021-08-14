@@ -1,0 +1,11 @@
+{
+  "name": "NXM",
+  "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+  "symbol": "NXM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NXM--0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

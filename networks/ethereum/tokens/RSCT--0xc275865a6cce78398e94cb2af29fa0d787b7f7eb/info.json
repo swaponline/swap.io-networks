@@ -1,0 +1,11 @@
+{
+  "name": "RiseCoin Token",
+  "address": "0xc275865a6cce78398e94cb2af29fa0d787b7f7eb",
+  "symbol": "RSCT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RSCT--0xc275865a6cce78398e94cb2af29fa0d787b7f7eb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror BABA Token",
+  "address": "0x56aa298a19c93c6801fdde870fa63ef75cc0af72",
+  "symbol": "mBABA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mBABA--0x56aa298a19c93c6801fdde870fa63ef75cc0af72/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

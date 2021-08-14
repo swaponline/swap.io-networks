@@ -1,0 +1,11 @@
+{
+  "name": "Alex",
+  "address": "0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315",
+  "symbol": "ALEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALEX--0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

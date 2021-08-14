@@ -1,0 +1,11 @@
+{
+  "name": "Stacy",
+  "address": "0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327",
+  "symbol": "STACY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STACY--0xf12ec0d3dab64ddefbdc96474bde25af3fe1b327/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Deflacoin",
+  "address": "0x4ec2efb9cbd374786a03261e46ffce1a67756f3b",
+  "symbol": "DEFL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEFL--0x4ec2efb9cbd374786a03261e46ffce1a67756f3b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

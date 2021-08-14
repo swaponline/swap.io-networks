@@ -1,0 +1,11 @@
+{
+  "name": "Aced",
+  "address": "0x885e127aba09bf8fae058a2895c221b37697c9be",
+  "symbol": "ACED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ACED--0x885e127aba09bf8fae058a2895c221b37697c9be/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

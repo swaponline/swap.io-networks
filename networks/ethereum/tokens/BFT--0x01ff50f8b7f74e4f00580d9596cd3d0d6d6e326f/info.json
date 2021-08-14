@@ -1,0 +1,11 @@
+{
+  "name": "BnkToTheFuture",
+  "address": "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+  "symbol": "BFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BFT--0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

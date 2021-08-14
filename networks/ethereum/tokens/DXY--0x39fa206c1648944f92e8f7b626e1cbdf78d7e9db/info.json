@@ -1,0 +1,11 @@
+{
+  "name": "DXY Finance",
+  "address": "0x39fa206c1648944f92e8f7b626e1cbdf78d7e9db",
+  "symbol": "DXY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DXY--0x39fa206c1648944f92e8f7b626e1cbdf78d7e9db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stakedXEM",
+  "address": "0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
+  "symbol": "STXEM",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STXEM--0x0c63cae5fcc2ca3dde60a35e50362220651ebec8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

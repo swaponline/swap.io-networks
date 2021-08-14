@@ -1,0 +1,11 @@
+{
+  "name": "YFTether",
+  "address": "0x94f31ac896c9823d81cf9c2c93feceed4923218f",
+  "symbol": "YFTE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFTE--0x94f31ac896c9823d81cf9c2c93feceed4923218f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

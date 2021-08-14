@@ -1,0 +1,11 @@
+{
+  "name": "Geminidollar",
+  "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "symbol": "GUSD",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GUSD--0x056fd409e1d7a124bd7017459dfea2f387b6d5cd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Unilayer",
+  "address": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b",
+  "symbol": "LAYER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LAYER--0x0ff6ffcfda92c53f615a4a75d982f399c989366b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

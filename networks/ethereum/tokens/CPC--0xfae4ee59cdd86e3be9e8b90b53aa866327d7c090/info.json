@@ -1,0 +1,11 @@
+{
+  "name": "CPChain",
+  "address": "0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+  "symbol": "CPC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CPC--0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

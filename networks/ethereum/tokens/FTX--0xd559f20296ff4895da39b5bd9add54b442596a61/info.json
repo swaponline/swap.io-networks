@@ -1,0 +1,11 @@
+{
+  "name": "FintruX",
+  "address": "0xd559f20296ff4895da39b5bd9add54b442596a61",
+  "symbol": "FTX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FTX--0xd559f20296ff4895da39b5bd9add54b442596a61/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

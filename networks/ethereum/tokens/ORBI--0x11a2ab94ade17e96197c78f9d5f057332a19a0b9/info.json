@@ -1,0 +1,11 @@
+{
+  "name": "Orbicular",
+  "address": "0x11a2ab94ade17e96197c78f9d5f057332a19a0b9",
+  "symbol": "ORBI",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ORBI--0x11a2ab94ade17e96197c78f9d5f057332a19a0b9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

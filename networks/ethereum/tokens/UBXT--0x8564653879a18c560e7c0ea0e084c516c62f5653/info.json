@@ -1,0 +1,11 @@
+{
+  "name": "UpBots",
+  "address": "0x8564653879a18c560e7c0ea0e084c516c62f5653",
+  "symbol": "UBXT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UBXT--0x8564653879a18c560e7c0ea0e084c516c62f5653/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

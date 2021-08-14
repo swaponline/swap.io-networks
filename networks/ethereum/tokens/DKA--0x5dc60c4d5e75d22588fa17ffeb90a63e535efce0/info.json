@@ -1,0 +1,11 @@
+{
+  "name": "dKargo",
+  "address": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0",
+  "symbol": "DKA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DKA--0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "One Cash",
+  "address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc",
+  "symbol": "ONC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONC--0xd90e69f67203ebe02c917b5128629e77b4cd92dc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

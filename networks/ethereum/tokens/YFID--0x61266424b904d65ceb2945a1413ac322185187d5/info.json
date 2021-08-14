@@ -1,0 +1,11 @@
+{
+  "name": "YFIDapp",
+  "address": "0x61266424b904d65ceb2945a1413ac322185187d5",
+  "symbol": "YFID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFID--0x61266424b904d65ceb2945a1413ac322185187d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

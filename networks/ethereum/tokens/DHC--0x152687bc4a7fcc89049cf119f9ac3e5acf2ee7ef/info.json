@@ -1,0 +1,11 @@
+{
+  "name": "DeltaHub Community",
+  "address": "0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef",
+  "symbol": "DHC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DHC--0x152687bc4a7fcc89049cf119f9ac3e5acf2ee7ef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

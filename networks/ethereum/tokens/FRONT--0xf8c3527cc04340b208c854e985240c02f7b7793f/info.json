@@ -1,0 +1,11 @@
+{
+  "name": "FrontierToken",
+  "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+  "symbol": "FRONT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FRONT--0xf8c3527cc04340b208c854e985240c02f7b7793f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

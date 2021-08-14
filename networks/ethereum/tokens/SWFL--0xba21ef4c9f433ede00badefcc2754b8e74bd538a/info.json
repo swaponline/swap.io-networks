@@ -1,0 +1,11 @@
+{
+  "name": "Swapfolio",
+  "address": "0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+  "symbol": "SWFL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SWFL--0xba21ef4c9f433ede00badefcc2754b8e74bd538a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FractalProtocolToken",
+  "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+  "symbol": "FCL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FCL--0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

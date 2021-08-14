@@ -1,0 +1,11 @@
+{
+  "name": "MelonToken",
+  "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+  "symbol": "MLN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MLN--0xec67005c4e498ec7f55e092bd1d35cbc47c91892/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

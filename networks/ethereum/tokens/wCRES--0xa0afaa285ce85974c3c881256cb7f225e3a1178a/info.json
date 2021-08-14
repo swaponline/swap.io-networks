@@ -1,0 +1,11 @@
+{
+  "name": "WrappedCRES",
+  "address": "0xa0afaa285ce85974c3c881256cb7f225e3a1178a",
+  "symbol": "wCRES",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/wCRES--0xa0afaa285ce85974c3c881256cb7f225e3a1178a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

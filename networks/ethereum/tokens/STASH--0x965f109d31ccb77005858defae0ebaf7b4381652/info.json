@@ -1,0 +1,11 @@
+{
+  "name": "BitStash Marketplac",
+  "address": "0x965f109d31ccb77005858defae0ebaf7b4381652",
+  "symbol": "STASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STASH--0x965f109d31ccb77005858defae0ebaf7b4381652/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YYFI Protocol",
+  "address": "0xaf20b44c1c651d1d29cfb916ee2a0630b828eb7a",
+  "symbol": "YYFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YYFI--0xaf20b44c1c651d1d29cfb916ee2a0630b828eb7a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

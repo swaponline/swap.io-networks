@@ -1,0 +1,11 @@
+{
+  "name": "Atlant",
+  "address": "0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+  "symbol": "ATL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ATL--0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

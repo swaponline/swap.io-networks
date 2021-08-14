@@ -1,0 +1,11 @@
+{
+  "name": "ARPA Chain",
+  "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+  "symbol": "ARPA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARPA--0xba50933c268f567bdc86e1ac131be072c6b0b71a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

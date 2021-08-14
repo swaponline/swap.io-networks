@@ -1,0 +1,11 @@
+{
+  "name": "TVT",
+  "address": "0x98e0438d3ee1404fea48e38e92853bb08cfa68bd",
+  "symbol": "TVT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TVT--0x98e0438d3ee1404fea48e38e92853bb08cfa68bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Blockcloud",
+  "address": "0x6f919d67967a97ea36195a2346d9244e60fe0ddb",
+  "symbol": "BLOC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BLOC--0x6f919d67967a97ea36195a2346d9244e60fe0ddb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

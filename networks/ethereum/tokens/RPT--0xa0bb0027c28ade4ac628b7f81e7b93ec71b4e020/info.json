@@ -1,0 +1,11 @@
+{
+  "name": "Rug Proof",
+  "address": "0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020",
+  "symbol": "RPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RPT--0xa0bb0027c28ade4ac628b7f81e7b93ec71b4e020/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

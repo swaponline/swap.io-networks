@@ -1,0 +1,11 @@
+{
+  "name": "Catex Token",
+  "address": "0x6e605c269e0c92e70beeb85486f1fc550f9380bd",
+  "symbol": "CATT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CATT--0x6e605c269e0c92e70beeb85486f1fc550f9380bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

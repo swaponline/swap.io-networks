@@ -1,0 +1,11 @@
+{
+  "name": "DEOR",
+  "address": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+  "symbol": "DEOR",
+  "decimals": 10,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEOR--0x63726dae7c57d25e90ec829ce9a5c745ffd984d3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

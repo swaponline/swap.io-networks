@@ -1,0 +1,11 @@
+{
+  "name": "Transcodium",
+  "address": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
+  "symbol": "TNS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TNS--0xb0280743b44bf7db4b6be482b2ba7b75e5da096c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

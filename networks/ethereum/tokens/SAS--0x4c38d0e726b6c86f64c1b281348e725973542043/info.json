@@ -1,0 +1,11 @@
+{
+  "name": "Stand Share",
+  "address": "0x4c38d0e726b6c86f64c1b281348e725973542043",
+  "symbol": "SAS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAS--0x4c38d0e726b6c86f64c1b281348e725973542043/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

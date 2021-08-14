@@ -1,0 +1,11 @@
+{
+  "name": "CreamOriginToken",
+  "address": "0x59089279987dd76fc65bf94cb40e186b96e03cb3",
+  "symbol": "crOGN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crOGN--0x59089279987dd76fc65bf94cb40e186b96e03cb3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

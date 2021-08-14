@@ -1,0 +1,11 @@
+{
+  "name": "Skull Candy Shards",
+  "address": "0x50eb346fc29a80d97563a50146c3fcf9423b5538",
+  "symbol": "CANDY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CANDY--0x50eb346fc29a80d97563a50146c3fcf9423b5538/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

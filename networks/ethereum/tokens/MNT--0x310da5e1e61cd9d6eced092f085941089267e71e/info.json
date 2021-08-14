@@ -1,0 +1,11 @@
+{
+  "name": "Money Token",
+  "address": "0x310da5e1e61cd9d6eced092f085941089267e71e",
+  "symbol": "MNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MNT--0x310da5e1e61cd9d6eced092f085941089267e71e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

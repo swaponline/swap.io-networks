@@ -1,0 +1,11 @@
+{
+  "name": "Tribute",
+  "address": "0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+  "symbol": "TRBT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRBT--0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Filecoin",
+  "address": "0x6e1a19f235be7ed8e3369ef73b196c07257494de",
+  "symbol": "WFIL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WFIL--0x6e1a19f235be7ed8e3369ef73b196c07257494de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

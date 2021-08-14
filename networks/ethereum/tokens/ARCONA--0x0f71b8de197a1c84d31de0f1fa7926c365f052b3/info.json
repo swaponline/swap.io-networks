@@ -1,0 +1,11 @@
+{
+  "name": "ArconaDistributionContract",
+  "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
+  "symbol": "ARCONA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARCONA--0x0f71b8de197a1c84d31de0f1fa7926c365f052b3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

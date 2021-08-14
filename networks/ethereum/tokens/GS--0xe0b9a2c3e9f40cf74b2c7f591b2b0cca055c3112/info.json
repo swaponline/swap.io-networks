@@ -1,0 +1,11 @@
+{
+  "name": "GenShards",
+  "address": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112",
+  "symbol": "GS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GS--0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

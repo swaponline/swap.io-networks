@@ -1,0 +1,11 @@
+{
+  "name": "UREEQAToken",
+  "address": "0x1735db6ab5baa19ea55d0adceed7bcdc008b3136",
+  "symbol": "URQA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/URQA--0x1735db6ab5baa19ea55d0adceed7bcdc008b3136/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

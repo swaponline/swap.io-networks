@@ -1,0 +1,11 @@
+{
+  "name": "CreamKeep3rV1",
+  "address": "0x903560b1cce601794c584f58898da8a8b789fc5d",
+  "symbol": "crKP3R",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crKP3R--0x903560b1cce601794c584f58898da8a8b789fc5d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

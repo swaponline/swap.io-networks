@@ -1,0 +1,11 @@
+{
+  "name": "SynthiBTC",
+  "address": "0xd6014ea05bde904448b743833ddf07c3c7837481",
+  "symbol": "iBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iBTC--0xd6014ea05bde904448b743833ddf07c3c7837481/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

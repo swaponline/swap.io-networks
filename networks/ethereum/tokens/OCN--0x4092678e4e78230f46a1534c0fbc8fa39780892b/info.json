@@ -1,0 +1,11 @@
+{
+  "name": "Odyssey",
+  "address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+  "symbol": "OCN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OCN--0x4092678e4e78230f46a1534c0fbc8fa39780892b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

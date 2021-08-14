@@ -1,0 +1,11 @@
+{
+  "name": "EURBASE",
+  "address": "0xa689dcea8f7ad59fb213be4bc624ba5500458dc6",
+  "symbol": "EBASE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EBASE--0xa689dcea8f7ad59fb213be4bc624ba5500458dc6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

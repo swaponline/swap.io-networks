@@ -1,0 +1,11 @@
+{
+  "name": " AAPL",
+  "address": "0x41efc0253ee7ea44400abb5f907fdbfdebc82bec",
+  "symbol": "AAPL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AAPL--0x41efc0253ee7ea44400abb5f907fdbfdebc82bec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

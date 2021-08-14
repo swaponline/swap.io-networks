@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped SEUR",
+  "address": "0xca55f9c4e77f7b8524178583b0f7c798de17fd54",
+  "symbol": "cySEUR",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cySEUR--0xca55f9c4e77f7b8524178583b0f7c798de17fd54/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ARMTOKEN",
+  "address": "0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6",
+  "symbol": "TARM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TARM--0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

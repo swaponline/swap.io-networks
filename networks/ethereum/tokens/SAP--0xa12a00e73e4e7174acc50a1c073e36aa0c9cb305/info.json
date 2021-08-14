@@ -1,0 +1,11 @@
+{
+  "name": "Swaap Stablecoin",
+  "address": "0xa12a00e73e4e7174acc50a1c073e36aa0c9cb305",
+  "symbol": "SAP",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAP--0xa12a00e73e4e7174acc50a1c073e36aa0c9cb305/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

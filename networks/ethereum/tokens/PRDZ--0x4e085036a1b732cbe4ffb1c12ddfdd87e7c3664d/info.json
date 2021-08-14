@@ -1,0 +1,11 @@
+{
+  "name": "Predictz",
+  "address": "0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d",
+  "symbol": "PRDZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRDZ--0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

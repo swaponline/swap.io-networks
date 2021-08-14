@@ -1,0 +1,11 @@
+{
+  "name": "yearnTrueUSD",
+  "address": "0x37d19d1c4e1fa9dc47bd1ea12f742a0887eda74a",
+  "symbol": "yTUSD2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yTUSD2--0x37d19d1c4e1fa9dc47bd1ea12f742a0887eda74a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

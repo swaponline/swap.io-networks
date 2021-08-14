@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped BUSD",
+  "address": "0x09bdcce2593f0bef0991188c25fb744897b6572d",
+  "symbol": "cyBUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyBUSD--0x09bdcce2593f0bef0991188c25fb744897b6572d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

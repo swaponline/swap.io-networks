@@ -1,0 +1,11 @@
+{
+  "name": "EXRNchain",
+  "address": "0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+  "symbol": "EXRN",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EXRN--0xe469c4473af82217b30cf17b10bcdb6c8c796e75/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

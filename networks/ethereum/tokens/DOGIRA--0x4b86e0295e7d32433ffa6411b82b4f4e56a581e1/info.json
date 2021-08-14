@@ -1,0 +1,11 @@
+{
+  "name": "Dogira",
+  "address": "0x4b86e0295e7d32433ffa6411b82b4f4e56a581e1",
+  "symbol": "DOGIRA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOGIRA--0x4b86e0295e7d32433ffa6411b82b4f4e56a581e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

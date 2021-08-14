@@ -1,0 +1,11 @@
+{
+  "name": "ESSENTIA",
+  "address": "0xfc05987bd2be489accf0f509e44b0145d68240f7",
+  "symbol": "ESS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ESS--0xfc05987bd2be489accf0f509e44b0145d68240f7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

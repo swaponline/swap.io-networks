@@ -1,0 +1,11 @@
+{
+  "name": "CreamCream",
+  "address": "0x892b14321a4fcba80669ae30bd0cd99a7ecf6ac0",
+  "symbol": "crCream",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crCream--0x892b14321a4fcba80669ae30bd0cd99a7ecf6ac0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

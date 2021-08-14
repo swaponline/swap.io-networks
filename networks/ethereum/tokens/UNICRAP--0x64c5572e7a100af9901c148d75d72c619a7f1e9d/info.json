@@ -1,0 +1,11 @@
+{
+  "name": "UniCrapToken xyz",
+  "address": "0x64c5572e7a100af9901c148d75d72c619a7f1e9d",
+  "symbol": "UNICRAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNICRAP--0x64c5572e7a100af9901c148d75d72c619a7f1e9d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

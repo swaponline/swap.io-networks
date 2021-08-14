@@ -1,0 +1,11 @@
+{
+  "name": "AskobarNetwork",
+  "address": "0xeeee2a622330e6d2036691e983dee87330588603",
+  "symbol": "ASKO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ASKO--0xeeee2a622330e6d2036691e983dee87330588603/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

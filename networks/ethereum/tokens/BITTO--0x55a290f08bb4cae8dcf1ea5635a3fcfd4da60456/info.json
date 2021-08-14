@@ -1,0 +1,11 @@
+{
+  "name": "BITTO",
+  "address": "0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456",
+  "symbol": "BITTO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BITTO--0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reflect.finance",
+  "address": "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+  "symbol": "RFI",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RFI--0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

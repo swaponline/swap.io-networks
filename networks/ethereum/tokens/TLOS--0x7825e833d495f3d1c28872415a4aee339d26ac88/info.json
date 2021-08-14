@@ -1,0 +1,11 @@
+{
+  "name": "Telos",
+  "address": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+  "symbol": "TLOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TLOS--0x7825e833d495f3d1c28872415a4aee339d26ac88/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

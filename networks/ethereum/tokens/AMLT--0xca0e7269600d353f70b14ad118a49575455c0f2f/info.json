@@ -1,0 +1,11 @@
+{
+  "name": "AMLT",
+  "address": "0xca0e7269600d353f70b14ad118a49575455c0f2f",
+  "symbol": "AMLT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AMLT--0xca0e7269600d353f70b14ad118a49575455c0f2f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unagii_Dai Stablecoin",
+  "address": "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376",
+  "symbol": "uDAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/uDAI--0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

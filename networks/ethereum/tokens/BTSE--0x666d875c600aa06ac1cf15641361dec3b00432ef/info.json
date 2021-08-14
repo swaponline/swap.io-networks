@@ -1,0 +1,11 @@
+{
+  "name": "BTSE Token",
+  "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+  "symbol": "BTSE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTSE--0x666d875c600aa06ac1cf15641361dec3b00432ef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

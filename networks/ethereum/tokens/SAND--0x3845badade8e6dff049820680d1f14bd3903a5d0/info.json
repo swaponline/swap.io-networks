@@ -1,0 +1,11 @@
+{
+  "name": "SAND",
+  "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+  "symbol": "SAND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAND--0x3845badade8e6dff049820680d1f14bd3903a5d0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

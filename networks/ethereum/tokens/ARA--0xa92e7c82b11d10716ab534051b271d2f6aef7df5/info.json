@@ -1,0 +1,11 @@
+{
+  "name": "AraToken",
+  "address": "0xa92e7c82b11d10716ab534051b271d2f6aef7df5",
+  "symbol": "ARA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARA--0xa92e7c82b11d10716ab534051b271d2f6aef7df5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

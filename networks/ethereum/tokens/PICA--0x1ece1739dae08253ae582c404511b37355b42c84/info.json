@@ -1,0 +1,11 @@
+{
+  "name": "PICA",
+  "address": "0x1ece1739dae08253ae582c404511b37355b42c84",
+  "symbol": "PICA",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PICA--0x1ece1739dae08253ae582c404511b37355b42c84/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Eternal Cash",
+  "address": "0xf0196985601598a35a48606b643fd2c34fb861e1",
+  "symbol": "EC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EC--0xf0196985601598a35a48606b643fd2c34fb861e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

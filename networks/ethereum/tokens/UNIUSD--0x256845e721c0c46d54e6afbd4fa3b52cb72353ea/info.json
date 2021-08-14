@@ -1,0 +1,11 @@
+{
+  "name": "UniDollar",
+  "address": "0x256845e721c0c46d54e6afbd4fa3b52cb72353ea",
+  "symbol": "UNIUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNIUSD--0x256845e721c0c46d54e6afbd4fa3b52cb72353ea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

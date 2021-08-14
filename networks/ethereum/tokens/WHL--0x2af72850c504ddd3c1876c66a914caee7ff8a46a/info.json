@@ -1,0 +1,11 @@
+{
+  "name": "WhaleRoom",
+  "address": "0x2af72850c504ddd3c1876c66a914caee7ff8a46a",
+  "symbol": "WHL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WHL--0x2af72850c504ddd3c1876c66a914caee7ff8a46a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

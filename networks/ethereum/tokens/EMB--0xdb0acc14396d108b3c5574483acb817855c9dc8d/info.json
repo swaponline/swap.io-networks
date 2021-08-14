@@ -1,0 +1,11 @@
+{
+  "name": "Emblem",
+  "address": "0xdb0acc14396d108b3c5574483acb817855c9dc8d",
+  "symbol": "EMB",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EMB--0xdb0acc14396d108b3c5574483acb817855c9dc8d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

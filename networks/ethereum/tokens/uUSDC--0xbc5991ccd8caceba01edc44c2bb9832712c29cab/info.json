@@ -1,0 +1,11 @@
+{
+  "name": "unagii_USD Coin",
+  "address": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
+  "symbol": "uUSDC",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/uUSDC--0xbc5991ccd8caceba01edc44c2bb9832712c29cab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

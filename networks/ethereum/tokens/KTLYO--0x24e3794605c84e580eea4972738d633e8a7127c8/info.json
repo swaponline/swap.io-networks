@@ -1,0 +1,11 @@
+{
+  "name": "Katalyo",
+  "address": "0x24e3794605c84e580eea4972738d633e8a7127c8",
+  "symbol": "KTLYO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KTLYO--0x24e3794605c84e580eea4972738d633e8a7127c8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

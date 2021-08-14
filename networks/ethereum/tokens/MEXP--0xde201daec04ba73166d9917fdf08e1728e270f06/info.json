@@ -1,0 +1,11 @@
+{
+  "name": "MOJI Experience Poi",
+  "address": "0xde201daec04ba73166d9917fdf08e1728e270f06",
+  "symbol": "MEXP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MEXP--0xde201daec04ba73166d9917fdf08e1728e270f06/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

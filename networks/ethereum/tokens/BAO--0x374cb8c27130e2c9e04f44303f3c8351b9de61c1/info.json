@@ -1,0 +1,11 @@
+{
+  "name": "BaoToken",
+  "address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+  "symbol": "BAO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAO--0x374cb8c27130e2c9e04f44303f3c8351b9de61c1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

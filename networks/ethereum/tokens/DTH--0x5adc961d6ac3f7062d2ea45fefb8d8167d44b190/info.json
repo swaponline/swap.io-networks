@@ -1,0 +1,11 @@
+{
+  "name": "Dether",
+  "address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+  "symbol": "DTH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DTH--0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

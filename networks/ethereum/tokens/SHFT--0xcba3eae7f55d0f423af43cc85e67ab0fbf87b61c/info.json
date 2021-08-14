@@ -1,0 +1,11 @@
+{
+  "name": "Shyft Network",
+  "address": "0xcba3eae7f55d0f423af43cc85e67ab0fbf87b61c",
+  "symbol": "SHFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHFT--0xcba3eae7f55d0f423af43cc85e67ab0fbf87b61c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

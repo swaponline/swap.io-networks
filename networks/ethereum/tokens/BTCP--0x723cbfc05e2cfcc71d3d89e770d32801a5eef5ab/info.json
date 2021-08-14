@@ -1,0 +1,11 @@
+{
+  "name": "Bitcoin Pro",
+  "address": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
+  "symbol": "BTCP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTCP--0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

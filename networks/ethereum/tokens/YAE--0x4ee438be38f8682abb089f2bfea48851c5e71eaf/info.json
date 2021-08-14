@@ -1,0 +1,11 @@
+{
+  "name": "Cryptonovae",
+  "address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
+  "symbol": "YAE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YAE--0x4ee438be38f8682abb089f2bfea48851c5e71eaf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UniWhales.io",
+  "address": "0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5",
+  "symbol": "UWL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UWL--0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

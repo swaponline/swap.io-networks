@@ -1,0 +1,11 @@
+{
+  "name": "ExNetwork Token",
+  "address": "0xd6c67b93a7b248df608a653d82a100556144c5da",
+  "symbol": "EXNT",
+  "decimals": 16,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EXNT--0xd6c67b93a7b248df608a653d82a100556144c5da/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

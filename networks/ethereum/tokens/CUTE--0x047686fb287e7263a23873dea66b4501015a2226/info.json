@@ -1,0 +1,11 @@
+{
+  "name": "Blockchain Cuties U",
+  "address": "0x047686fb287e7263a23873dea66b4501015a2226",
+  "symbol": "CUTE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CUTE--0x047686fb287e7263a23873dea66b4501015a2226/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

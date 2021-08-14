@@ -1,0 +1,11 @@
+{
+  "name": "SAINT FAME  Genesis",
+  "address": "0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2",
+  "symbol": "FAME",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FAME--0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Xdef Finance",
+  "address": "0x5166d4ce79b9bf7df477da110c560ce3045aa889",
+  "symbol": "XDEF2",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XDEF2--0x5166d4ce79b9bf7df477da110c560ce3045aa889/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dego.finance",
+  "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+  "symbol": "DEGO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEGO--0x88ef27e69108b2633f8e1c184cc37940a075cc02/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

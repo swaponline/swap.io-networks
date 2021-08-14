@@ -1,0 +1,11 @@
+{
+  "name": "DigixGoldToken",
+  "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+  "symbol": "DGX",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DGX--0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

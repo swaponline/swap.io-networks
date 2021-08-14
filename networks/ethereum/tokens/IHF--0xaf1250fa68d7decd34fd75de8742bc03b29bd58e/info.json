@@ -1,0 +1,11 @@
+{
+  "name": "Invictus Hyperion Fund",
+  "address": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e",
+  "symbol": "IHF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IHF--0xaf1250fa68d7decd34fd75de8742bc03b29bd58e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

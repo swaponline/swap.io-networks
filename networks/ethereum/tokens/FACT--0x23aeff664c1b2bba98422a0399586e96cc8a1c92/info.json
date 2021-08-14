@@ -1,0 +1,11 @@
+{
+  "name": "Fee Active Collater",
+  "address": "0x23aeff664c1b2bba98422a0399586e96cc8a1c92",
+  "symbol": "FACT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FACT--0x23aeff664c1b2bba98422a0399586e96cc8a1c92/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

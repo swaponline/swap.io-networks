@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingTUSD",
+  "address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
+  "symbol": "aTUSDv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aTUSDv1--0x4da9b813057d04baef4e5800e36083717b4a0341/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

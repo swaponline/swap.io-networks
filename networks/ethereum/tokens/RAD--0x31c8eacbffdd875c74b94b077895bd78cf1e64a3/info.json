@@ -1,0 +1,11 @@
+{
+  "name": "Radicle",
+  "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+  "symbol": "RAD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAD--0x31c8eacbffdd875c74b94b077895bd78cf1e64a3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YFMoonshot",
+  "address": "0xfef3bef71a5eb97e097039038776fd967ae5b106",
+  "symbol": "YFMS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFMS--0xfef3bef71a5eb97e097039038776fd967ae5b106/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

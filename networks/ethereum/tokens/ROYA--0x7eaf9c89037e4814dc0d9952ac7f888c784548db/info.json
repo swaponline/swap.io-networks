@@ -1,0 +1,11 @@
+{
+  "name": "Royale",
+  "address": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+  "symbol": "ROYA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROYA--0x7eaf9c89037e4814dc0d9952ac7f888c784548db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

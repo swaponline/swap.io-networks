@@ -1,0 +1,11 @@
+{
+  "name": "Blaze DeFi",
+  "address": "0x68e0a48d3bff6633a31d1d100b70f93c3859218b",
+  "symbol": "BNFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BNFI--0x68e0a48d3bff6633a31d1d100b70f93c3859218b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

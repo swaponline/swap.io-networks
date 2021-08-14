@@ -1,0 +1,11 @@
+{
+  "name": "SynthiLINK",
+  "address": "0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01",
+  "symbol": "iLINK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iLINK--0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

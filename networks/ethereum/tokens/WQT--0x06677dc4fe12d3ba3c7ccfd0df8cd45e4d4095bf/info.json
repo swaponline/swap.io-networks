@@ -1,0 +1,11 @@
+{
+  "name": "Work Quest",
+  "address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+  "symbol": "WQT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WQT--0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

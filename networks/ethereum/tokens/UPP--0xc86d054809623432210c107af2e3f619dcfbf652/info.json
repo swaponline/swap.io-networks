@@ -1,0 +1,11 @@
+{
+  "name": "Sentinel Protocol",
+  "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
+  "symbol": "UPP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UPP--0xc86d054809623432210c107af2e3f619dcfbf652/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

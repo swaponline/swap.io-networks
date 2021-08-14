@@ -1,0 +1,11 @@
+{
+  "name": "CompoundAugur",
+  "address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+  "symbol": "cREP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cREP--0x158079ee67fce2f58472a96584a73c7ab9ac95c1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Parsiq Boost",
+  "address": "0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9",
+  "symbol": "PRQBOOST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRQBOOST--0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

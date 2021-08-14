@@ -1,0 +1,11 @@
+{
+  "name": "BASED",
+  "address": "0x68a118ef45063051eac49c7e647ce5ace48a68a5",
+  "symbol": "BASED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BASED--0x68a118ef45063051eac49c7e647ce5ace48a68a5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Giftedhands",
+  "address": "0x3b544e6fcf6c8dce9d8b45a4fdf21c9b02f9fda9",
+  "symbol": "GHD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GHD--0x3b544e6fcf6c8dce9d8b45a4fdf21c9b02f9fda9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

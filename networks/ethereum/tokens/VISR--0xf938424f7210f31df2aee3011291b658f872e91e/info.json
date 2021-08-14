@@ -1,0 +1,11 @@
+{
+  "name": "VISOR",
+  "address": "0xf938424f7210f31df2aee3011291b658f872e91e",
+  "symbol": "VISR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VISR--0xf938424f7210f31df2aee3011291b658f872e91e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

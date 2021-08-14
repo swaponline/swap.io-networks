@@ -1,0 +1,11 @@
+{
+  "name": "X8X Token",
+  "address": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
+  "symbol": "X8X",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/X8X--0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

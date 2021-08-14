@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BIND",
+  "address": "0x15334dcb171e8b65d6650321581dca83be870115",
+  "symbol": "WBIND",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WBIND--0x15334dcb171e8b65d6650321581dca83be870115/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

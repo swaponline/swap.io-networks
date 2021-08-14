@@ -1,0 +1,11 @@
+{
+  "name": "XSGD",
+  "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+  "symbol": "XSGD",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XSGD--0x70e8de73ce538da2beed35d14187f6959a8eca96/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

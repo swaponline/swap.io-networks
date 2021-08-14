@@ -1,0 +1,11 @@
+{
+  "name": "VNDC",
+  "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+  "symbol": "VNDC",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VNDC--0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Barter",
+  "address": "0xf0acf8949e705e0ebb6cb42c2164b0b986454223",
+  "symbol": "BRTR",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BRTR--0xf0acf8949e705e0ebb6cb42c2164b0b986454223/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Quickswap",
+  "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+  "symbol": "QUICK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QUICK--0x6c28aef8977c9b773996d0e8376d2ee379446f2f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

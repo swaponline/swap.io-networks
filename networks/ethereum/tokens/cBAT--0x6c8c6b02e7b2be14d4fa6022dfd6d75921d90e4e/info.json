@@ -1,0 +1,11 @@
+{
+  "name": "CompoundBasicAttentionToken",
+  "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+  "symbol": "cBAT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cBAT--0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

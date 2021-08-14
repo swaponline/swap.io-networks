@@ -1,0 +1,11 @@
+{
+  "name": "MargiX",
+  "address": "0x1412f6aa5adc77c620715bb2a020aa690b85f68a",
+  "symbol": "MGX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MGX--0x1412f6aa5adc77c620715bb2a020aa690b85f68a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

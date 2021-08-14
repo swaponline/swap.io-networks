@@ -1,0 +1,11 @@
+{
+  "name": "Stand Cash",
+  "address": "0xacd8f2523a4613eee78904354187c81bb05ae2b8",
+  "symbol": "SAC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAC--0xacd8f2523a4613eee78904354187c81bb05ae2b8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

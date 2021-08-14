@@ -1,0 +1,11 @@
+{
+  "name": "CreamYUSD",
+  "address": "0x1d09144f3479bb805cb7c92346987420bcbdc10c",
+  "symbol": "cyUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyUSD--0x1d09144f3479bb805cb7c92346987420bcbdc10c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

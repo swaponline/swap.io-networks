@@ -1,0 +1,11 @@
+{
+  "name": "Hut34 Entropy",
+  "address": "0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3",
+  "symbol": "ENTRP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ENTRP--0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

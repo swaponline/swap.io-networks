@@ -1,0 +1,11 @@
+{
+  "name": "Civitas Protocol",
+  "address": "0x88930072f583936f506ce1f1d5fe69290c2d6a2a",
+  "symbol": "CVT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CVT--0x88930072f583936f506ce1f1d5fe69290c2d6a2a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

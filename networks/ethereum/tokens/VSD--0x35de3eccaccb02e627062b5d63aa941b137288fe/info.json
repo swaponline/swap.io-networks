@@ -1,0 +1,11 @@
+{
+  "name": "Value Set Dollar",
+  "address": "0x35de3eccaccb02e627062b5d63aa941b137288fe",
+  "symbol": "VSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VSD--0x35de3eccaccb02e627062b5d63aa941b137288fe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hydro",
+  "address": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc",
+  "symbol": "HYDRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HYDRO--0xebbdf302c940c6bfd49c6b165f457fdb324649bc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CBIIndex7",
+  "address": "0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2",
+  "symbol": "CBIX7",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CBIX7--0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

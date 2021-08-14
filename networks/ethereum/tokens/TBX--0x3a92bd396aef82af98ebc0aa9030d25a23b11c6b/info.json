@@ -1,0 +1,11 @@
+{
+  "name": "Tokenbox",
+  "address": "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+  "symbol": "TBX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TBX--0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

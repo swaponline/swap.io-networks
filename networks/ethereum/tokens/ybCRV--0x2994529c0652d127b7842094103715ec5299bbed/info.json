@@ -1,0 +1,11 @@
+{
+  "name": "yearnCurve.fiyDAIyUSDCyUSDTyBUSD",
+  "address": "0x2994529c0652d127b7842094103715ec5299bbed",
+  "symbol": "ybCRV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ybCRV--0x2994529c0652d127b7842094103715ec5299bbed/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

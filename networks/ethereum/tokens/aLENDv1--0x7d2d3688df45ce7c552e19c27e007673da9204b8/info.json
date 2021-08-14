@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingLEND",
+  "address": "0x7d2d3688df45ce7c552e19c27e007673da9204b8",
+  "symbol": "aLENDv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aLENDv1--0x7d2d3688df45ce7c552e19c27e007673da9204b8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

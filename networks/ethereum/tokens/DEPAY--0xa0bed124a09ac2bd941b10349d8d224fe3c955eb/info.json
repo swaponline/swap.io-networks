@@ -1,0 +1,11 @@
+{
+  "name": "DePay",
+  "address": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+  "symbol": "DEPAY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEPAY--0xa0bed124a09ac2bd941b10349d8d224fe3c955eb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

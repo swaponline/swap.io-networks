@@ -1,0 +1,11 @@
+{
+  "name": "DAFIToken",
+  "address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+  "symbol": "DAFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DAFI--0xfc979087305a826c2b2a0056cfaba50aad3e6439/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

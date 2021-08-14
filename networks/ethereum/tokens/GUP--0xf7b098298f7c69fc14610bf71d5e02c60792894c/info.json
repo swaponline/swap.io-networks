@@ -1,0 +1,11 @@
+{
+  "name": "Guppy",
+  "address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+  "symbol": "GUP",
+  "decimals": 3,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GUP--0xf7b098298f7c69fc14610bf71d5e02c60792894c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

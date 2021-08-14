@@ -1,0 +1,11 @@
+{
+  "name": "Civil",
+  "address": "0x01fa555c97d7958fa6f771f3bbd5ccd508f81e22",
+  "symbol": "CVL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CVL--0x01fa555c97d7958fa6f771f3bbd5ccd508f81e22/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

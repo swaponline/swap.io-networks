@@ -1,0 +1,11 @@
+{
+  "name": "Zippie",
+  "address": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+  "symbol": "ZIPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZIPT--0xedd7c94fd7b4971b916d15067bc454b9e1bad980/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

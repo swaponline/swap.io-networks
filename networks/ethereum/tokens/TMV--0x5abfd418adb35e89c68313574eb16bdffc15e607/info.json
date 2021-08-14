@@ -1,0 +1,11 @@
+{
+  "name": "Timvi",
+  "address": "0x5abfd418adb35e89c68313574eb16bdffc15e607",
+  "symbol": "TMV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TMV--0x5abfd418adb35e89c68313574eb16bdffc15e607/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

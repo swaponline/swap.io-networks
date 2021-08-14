@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingBAT",
+  "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
+  "symbol": "aBAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aBAT--0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

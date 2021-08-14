@@ -1,0 +1,11 @@
+{
+  "name": "JPYQ Stablecoin by ",
+  "address": "0x558a069a3a1a1e72398607b9e3577fce1c67ea63",
+  "symbol": "JPYQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JPYQ--0x558a069a3a1a1e72398607b9e3577fce1c67ea63/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

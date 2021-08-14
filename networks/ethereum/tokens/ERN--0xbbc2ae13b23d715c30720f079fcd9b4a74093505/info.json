@@ -1,0 +1,11 @@
+{
+  "name": "EthernityChainERNToken",
+  "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+  "symbol": "ERN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ERN--0xbbc2ae13b23d715c30720f079fcd9b4a74093505/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

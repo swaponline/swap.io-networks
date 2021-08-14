@@ -1,0 +1,11 @@
+{
+  "name": "iearnTUSD",
+  "address": "0x73a052500105205d34daf004eab301916da8190f",
+  "symbol": "yTUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yTUSD--0x73a052500105205d34daf004eab301916da8190f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

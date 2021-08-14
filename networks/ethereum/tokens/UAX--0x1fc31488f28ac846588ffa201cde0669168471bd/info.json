@@ -1,0 +1,11 @@
+{
+  "name": "UAX",
+  "address": "0x1fc31488f28ac846588ffa201cde0669168471bd",
+  "symbol": "UAX",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UAX--0x1fc31488f28ac846588ffa201cde0669168471bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

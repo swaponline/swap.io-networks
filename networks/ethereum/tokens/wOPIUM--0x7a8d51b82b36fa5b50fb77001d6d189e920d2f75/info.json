@@ -1,0 +1,11 @@
+{
+  "name": "WrappedOpiumGovernanceToken",
+  "address": "0x7a8d51b82b36fa5b50fb77001d6d189e920d2f75",
+  "symbol": "wOPIUM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/wOPIUM--0x7a8d51b82b36fa5b50fb77001d6d189e920d2f75/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

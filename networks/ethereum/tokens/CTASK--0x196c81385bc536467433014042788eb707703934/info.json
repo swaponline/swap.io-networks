@@ -1,0 +1,11 @@
+{
+  "name": "CTASKToken",
+  "address": "0x196c81385bc536467433014042788eb707703934",
+  "symbol": "CTASK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CTASK--0x196c81385bc536467433014042788eb707703934/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

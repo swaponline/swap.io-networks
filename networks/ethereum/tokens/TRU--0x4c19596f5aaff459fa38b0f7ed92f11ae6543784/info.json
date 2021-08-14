@@ -1,0 +1,11 @@
+{
+  "name": "TrustToken",
+  "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+  "symbol": "TRU",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRU--0x4c19596f5aaff459fa38b0f7ed92f11ae6543784/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

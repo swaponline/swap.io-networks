@@ -1,0 +1,11 @@
+{
+  "name": "CoinMetro",
+  "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+  "symbol": "XCM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XCM--0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

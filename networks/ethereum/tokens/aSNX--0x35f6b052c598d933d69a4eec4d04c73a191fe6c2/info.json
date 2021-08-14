@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingSNX",
+  "address": "0x35f6b052c598d933d69a4eec4d04c73a191fe6c2",
+  "symbol": "aSNX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aSNX--0x35f6b052c598d933d69a4eec4d04c73a191fe6c2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

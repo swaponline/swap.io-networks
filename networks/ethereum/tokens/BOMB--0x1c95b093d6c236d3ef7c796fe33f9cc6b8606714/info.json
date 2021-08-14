@@ -1,0 +1,11 @@
+{
+  "name": "BOMB",
+  "address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714",
+  "symbol": "BOMB",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOMB--0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

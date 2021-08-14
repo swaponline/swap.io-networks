@@ -1,0 +1,11 @@
+{
+  "name": "ZAC Finance",
+  "address": "0x98a90499b62ae48e151a66b0f647570b5a473b1c",
+  "symbol": "ZAC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZAC--0x98a90499b62ae48e151a66b0f647570b5a473b1c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

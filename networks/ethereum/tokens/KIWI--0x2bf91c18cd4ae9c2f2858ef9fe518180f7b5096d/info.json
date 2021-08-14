@@ -1,0 +1,11 @@
+{
+  "name": "KIWI Token",
+  "address": "0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
+  "symbol": "KIWI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KIWI--0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

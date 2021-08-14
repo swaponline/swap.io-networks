@@ -1,0 +1,11 @@
+{
+  "name": "USDCoin",
+  "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "symbol": "USDC",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDC--0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UniversalBasicIncome",
+  "address": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
+  "symbol": "UBI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UBI--0xdd1ad9a21ce722c151a836373babe42c868ce9a4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

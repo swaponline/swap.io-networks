@@ -1,0 +1,11 @@
+{
+  "name": "MONEY PARTY",
+  "address": "0x314bd765cab4774b2e547eb0aa15013e03ff74d2",
+  "symbol": "PARTY",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PARTY--0x314bd765cab4774b2e547eb0aa15013e03ff74d2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

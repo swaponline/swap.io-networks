@@ -1,0 +1,11 @@
+{
+  "name": "Prime DAI",
+  "address": "0x9043d4d51c9d2e31e3f169de4551e416970c27ef",
+  "symbol": "PDAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PDAI--0x9043d4d51c9d2e31e3f169de4551e416970c27ef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

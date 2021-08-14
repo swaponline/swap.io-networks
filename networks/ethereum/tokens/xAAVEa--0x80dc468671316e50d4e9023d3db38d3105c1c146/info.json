@@ -1,0 +1,11 @@
+{
+  "name": "xAAVEa",
+  "address": "0x80dc468671316e50d4e9023d3db38d3105c1c146",
+  "symbol": "xAAVEa",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/xAAVEa--0x80dc468671316e50d4e9023d3db38d3105c1c146/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

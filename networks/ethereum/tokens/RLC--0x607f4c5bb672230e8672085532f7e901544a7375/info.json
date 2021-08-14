@@ -1,0 +1,11 @@
+{
+  "name": "iExecRLC",
+  "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+  "symbol": "RLC",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RLC--0x607f4c5bb672230e8672085532f7e901544a7375/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

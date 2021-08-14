@@ -1,0 +1,11 @@
+{
+  "name": "SynLev",
+  "address": "0x1695936d6a953df699c38ca21c2140d497c08bd9",
+  "symbol": "SYN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SYN--0x1695936d6a953df699c38ca21c2140d497c08bd9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}
