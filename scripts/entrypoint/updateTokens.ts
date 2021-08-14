@@ -32,8 +32,6 @@ type UniqToken = {
   tags: string[]
 }
 
-type UniqTokensList = {[tokenID: string]: UniqToken}
-
 type tokenInfo = {
   name: string,
   address: string,
@@ -44,17 +42,22 @@ type tokenInfo = {
   "tags": string[]
 }
 
+type UniqTokensListObj = {[tokenID: string]: UniqToken}
+type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
+
 const syncUniqTokensWithNetworks = async () => {
   const evmNetworksFullInfo = allNetworks
     .map(network => getFullNetworkInfo({ network }))
     .filter(network => network.type === 'evm')
 
-  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`)) as UniqTokensList
+  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`)) as UniqTokensListObj
   const uniqExternalTokensIDs = Object.keys(uniqExternalTokens)
   const networksWithTokensIDs: {[network: string]: string[]} = {}
+  const networksIndexesBySlug: {[network: string]: number} = {}
 
-  evmNetworksFullInfo.forEach(networkInfo => {
+  evmNetworksFullInfo.forEach((networkInfo, index) => {
     networksWithTokensIDs[networkInfo.slug] = []
+    networksIndexesBySlug[networkInfo.slug] = index
   })
 
   if (!uniqExternalTokensIDs.length)
@@ -69,8 +72,101 @@ const syncUniqTokensWithNetworks = async () => {
     })
   })
 
-  Object.keys(networksWithTokensIDs).forEach(network => console.log(`${network} have ${networksWithTokensIDs[network].length} tokens`))
+  for (const network of Object.keys(networksWithTokensIDs)) {
+    if (network === "ethereum" || !networksWithTokensIDs[network].length) continue
+    try {
+      await updateTokensByNetwork(evmNetworksFullInfo[networksIndexesBySlug[network]], networksWithTokensIDs[network], uniqExternalTokens)
+    } catch (error) {
+      console.error(error)
+    }
+  }
 
+}
+
+const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokensIDs: string[], uniqExternalTokens: UniqTokensListObj) => {
+  const network = networkInfo.slug
+  console.log(`${networkInfo.name} have:`)
+  console.log(`   ${networkUniqExternalTokensIDs.length} external tokens`)
+
+  const tokensIDs: string[] = []
+  const tokens: NetworkTokensListObj = {}
+
+  const tokensPath = getNetworkTokensPath(network)
+  if (isPathExistsSync(tokensPath)) {
+    tokensIDs.push(...readDirSync(tokensPath))
+    tokensIDs.forEach(tokenID => {
+      const logoPaths = getNetworkTokenLogoPaths(network, tokenID)
+      const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
+      const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
+      const infoExists = isPathExistsSync(infoFullPath)
+      if (infoExists) {
+        const tokenInfo = readJsonFile(infoFullPath) as tokenInfo
+        if (!logoExists) tokenInfo.logo = ''
+        tokens[tokenID] = tokenInfo
+      }
+    })
+  } else{
+    console.log(`${network} have not tokens folder. Script creates it...`)
+    createDirSync(tokensPath)
+  }
+
+  console.log(`   ${Object.keys(tokens).length} tokens in self folder`)
+
+  const addedTokens: string[] = []
+  const alreadyExistsTokens: string[] = []
+
+  await Promise.all(networkUniqExternalTokensIDs.map(async (tokenID) => {
+    const { names, address, symbol, decimals, chainIds, logoURIs } = uniqExternalTokens[tokenID]
+
+    if ((!names || !names.length) || !symbol || !address || (!decimals && decimals !== 0) || (!chainIds || !chainIds.length)) {
+      return console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
+    }
+
+    if (!chainIds.includes(+networkInfo.chainId)) {
+      return console.error(`Token ${tokenID} from different network`)
+    }
+
+    if (tokensIDs.includes(tokenID)) {
+      alreadyExistsTokens.push(tokenID)
+      return // need add logic for exists tokens
+    } else {
+      const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
+      createDirSync(getAbsolutePath(tokenPath))
+
+      let logoPath = ''
+      if (logoURIs.length) {
+        for (const logoURI in logoURIs) {
+          const splitedLogoString = logoURI.split('.')
+          const logoExtension = splitedLogoString[splitedLogoString.length - 1]
+          logoPath = `${tokenPath}/logo.${logoExtension}`
+          try {
+            await saveLogo(logoURI, getAbsolutePath(logoPath))
+            break
+          } catch (error) {
+            console.error(error)
+            logoPath = ''
+          }
+        }
+      }
+
+      const tokenInfo: tokenInfo = {
+        name: names[0],
+        address,
+        symbol,
+        decimals,
+        chainId: +networkInfo.chainId,
+        "logo": logoPath,
+        "tags": [networkInfo.tokensType.toLowerCase()]
+      }
+
+      writeJsonFile(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)
+
+      addedTokens.push(tokenID)
+    }
+
+    console.log(`   ${addedTokens.length} added tokens`)
+    console.log(`   ${alreadyExistsTokens.length} already exists tokens`)
+  }))
 }
 
 
