@@ -57,7 +57,7 @@ const syncUniqTokensWithNetworks = async () => {
       return network
     })
 
-  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`)) as UniqTokensListObj
+  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/cache/uniqExternalTokens.json`)) as UniqTokensListObj
   const uniqExternalTokensIDs = Object.keys(uniqExternalTokens)
 
   if (!uniqExternalTokensIDs.length)
