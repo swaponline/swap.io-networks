@@ -1,0 +1,11 @@
+{
+  "name": "b.earnfi",
+  "address": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b",
+  "symbol": "BFI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BFI--0x81859801b01764d4f0fa5e64729f5a6c3b91435b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mirror NFLX Token",
+  "address": "0xa04f060077d90fe2647b61e4da4ad1f97d6649dc",
+  "symbol": "mNFLX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/mNFLX--0xa04f060077d90fe2647b61e4da4ad1f97d6649dc/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

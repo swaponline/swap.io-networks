@@ -1,0 +1,11 @@
+{
+  "name": "Tau Bitcoin",
+  "address": "0x2cd1075682b0fccaadd0ca629e138e64015ba11c",
+  "symbol": "tBTC",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/tBTC--0x2cd1075682b0fccaadd0ca629e138e64015ba11c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

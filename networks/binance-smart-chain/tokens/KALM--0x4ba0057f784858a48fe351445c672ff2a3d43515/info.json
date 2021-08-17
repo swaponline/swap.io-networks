@@ -1,0 +1,11 @@
+{
+  "name": "Kalmar",
+  "address": "0x4ba0057f784858a48fe351445c672ff2a3d43515",
+  "symbol": "KALM",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/KALM--0x4ba0057f784858a48fe351445c672ff2a3d43515/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

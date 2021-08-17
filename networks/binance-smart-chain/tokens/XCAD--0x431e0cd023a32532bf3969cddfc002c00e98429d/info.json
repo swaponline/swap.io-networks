@@ -1,0 +1,11 @@
+{
+  "name": "Xcademy",
+  "address": "0x431e0cd023a32532bf3969cddfc002c00e98429d",
+  "symbol": "XCAD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/XCAD--0x431e0cd023a32532bf3969cddfc002c00e98429d/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

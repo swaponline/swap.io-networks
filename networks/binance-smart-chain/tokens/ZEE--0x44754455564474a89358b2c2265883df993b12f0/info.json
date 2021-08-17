@@ -1,0 +1,11 @@
+{
+  "name": "ZeroSwapToken",
+  "address": "0x44754455564474a89358b2c2265883df993b12f0",
+  "symbol": "ZEE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ZEE--0x44754455564474a89358b2c2265883df993b12f0/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

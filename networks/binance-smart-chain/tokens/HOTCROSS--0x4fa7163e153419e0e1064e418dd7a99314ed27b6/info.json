@@ -1,0 +1,11 @@
+{
+  "name": "Hot Cross Token",
+  "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+  "symbol": "HOTCROSS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HOTCROSS--0x4fa7163e153419e0e1064e418dd7a99314ed27b6/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

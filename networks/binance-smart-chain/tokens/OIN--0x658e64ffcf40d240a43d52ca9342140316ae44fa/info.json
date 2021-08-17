@@ -1,0 +1,11 @@
+{
+  "name": "Oin Finance",
+  "address": "0x658e64ffcf40d240a43d52ca9342140316ae44fa",
+  "symbol": "OIN",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/OIN--0x658e64ffcf40d240a43d52ca9342140316ae44fa/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

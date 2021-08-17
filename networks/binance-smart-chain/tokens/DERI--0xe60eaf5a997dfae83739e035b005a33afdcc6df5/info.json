@@ -1,0 +1,11 @@
+{
+  "name": "Deri",
+  "address": "0xe60eaf5a997dfae83739e035b005a33afdcc6df5",
+  "symbol": "DERI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DERI--0xe60eaf5a997dfae83739e035b005a33afdcc6df5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TokoCrypto",
+  "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+  "symbol": "TKO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TKO--0x9f589e3eabe42ebc94a44727b3f3531c0c877809/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

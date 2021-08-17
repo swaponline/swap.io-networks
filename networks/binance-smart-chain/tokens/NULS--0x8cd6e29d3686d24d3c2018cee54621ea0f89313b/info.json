@@ -1,0 +1,11 @@
+{
+  "name": "Nuls",
+  "address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+  "symbol": "NULS",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/NULS--0x8cd6e29d3686d24d3c2018cee54621ea0f89313b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

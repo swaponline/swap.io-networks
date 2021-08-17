@@ -1,0 +1,11 @@
+{
+  "name": "TitanSwap",
+  "address": "0xe898edc43920f357a93083f1d4460437de6daec2",
+  "symbol": "TITAN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TITAN--0xe898edc43920f357a93083f1d4460437de6daec2/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

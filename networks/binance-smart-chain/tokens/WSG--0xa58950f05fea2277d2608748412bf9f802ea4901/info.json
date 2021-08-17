@@ -1,0 +1,11 @@
+{
+  "name": "Wall Street Games",
+  "address": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+  "symbol": "WSG",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/WSG--0xa58950f05fea2277d2608748412bf9f802ea4901/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SWGToken",
+  "address": "0xe792f64c582698b8572aaf765bdc426ac3aefb6b",
+  "symbol": "SWG",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SWG--0xe792f64c582698b8572aaf765bdc426ac3aefb6b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bittrue",
+  "address": "0x5a16e8ce8ca316407c6e6307095dc9540a8d62b3",
+  "symbol": "BTR",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BTR--0x5a16e8ce8ca316407c6e6307095dc9540a8d62b3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

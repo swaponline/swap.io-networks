@@ -1,0 +1,11 @@
+{
+  "name": "pBTC",
+  "address": "0xed28a457a5a76596ac48d87c0f577020f6ea1c4c",
+  "symbol": "pBTC",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/pBTC--0xed28a457a5a76596ac48d87c0f577020f6ea1c4c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

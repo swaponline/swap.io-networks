@@ -1,0 +1,11 @@
+{
+  "name": "The Orbs Network",
+  "address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
+  "symbol": "ORBS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ORBS--0xebd49b26169e1b52c04cfd19fcf289405df55f80/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

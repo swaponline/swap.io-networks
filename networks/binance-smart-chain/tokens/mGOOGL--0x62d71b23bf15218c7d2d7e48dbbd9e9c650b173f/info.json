@@ -1,0 +1,11 @@
+{
+  "name": "Mirror GOOGL Token",
+  "address": "0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f",
+  "symbol": "mGOOGL",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/mGOOGL--0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

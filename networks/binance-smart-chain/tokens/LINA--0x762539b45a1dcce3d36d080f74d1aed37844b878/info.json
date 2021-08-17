@@ -1,0 +1,11 @@
+{
+  "name": "Linear Finance",
+  "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+  "symbol": "LINA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/LINA--0x762539b45a1dcce3d36d080f74d1aed37844b878/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

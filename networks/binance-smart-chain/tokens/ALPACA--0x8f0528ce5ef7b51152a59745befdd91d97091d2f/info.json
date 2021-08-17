@@ -1,0 +1,11 @@
+{
+  "name": "Alpaca",
+  "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+  "symbol": "ALPACA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ALPACA--0x8f0528ce5ef7b51152a59745befdd91d97091d2f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

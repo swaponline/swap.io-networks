@@ -1,0 +1,11 @@
+{
+  "name": "QIAN second generation dollar",
+  "address": "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2",
+  "symbol": "QSD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/QSD--0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

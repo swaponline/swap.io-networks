@@ -1,0 +1,11 @@
+{
+  "name": "Nyanswop Token",
+  "address": "0xbfa0841f7a90c4ce6643f651756ee340991f99d5",
+  "symbol": "NYA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/NYA--0xbfa0841f7a90c4ce6643f651756ee340991f99d5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

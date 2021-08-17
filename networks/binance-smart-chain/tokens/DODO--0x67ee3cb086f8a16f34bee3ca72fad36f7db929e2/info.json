@@ -1,0 +1,11 @@
+{
+  "name": "Dodo",
+  "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+  "symbol": "DODO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DODO--0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Unmarshal",
+  "address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+  "symbol": "MARSH",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/MARSH--0x2fa5daf6fe0708fbd63b1a7d1592577284f52256/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Belt",
+  "address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+  "symbol": "BELT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BELT--0xe0e514c71282b6f4e823703a39374cf58dc3ea4f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

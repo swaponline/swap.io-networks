@@ -1,0 +1,11 @@
+{
+  "name": "Dego.Finance",
+  "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc",
+  "symbol": "DEGO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DEGO--0x3fda9383a84c05ec8f7630fe10adf1fac13241cc/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

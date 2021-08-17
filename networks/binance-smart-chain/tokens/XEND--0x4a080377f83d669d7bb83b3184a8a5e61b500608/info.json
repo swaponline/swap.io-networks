@@ -1,0 +1,11 @@
+{
+  "name": "XEND",
+  "address": "0x4a080377f83d669d7bb83b3184a8a5e61b500608",
+  "symbol": "XEND",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/XEND--0x4a080377f83d669d7bb83b3184a8a5e61b500608/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

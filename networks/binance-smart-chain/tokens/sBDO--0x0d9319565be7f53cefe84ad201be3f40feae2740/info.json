@@ -1,0 +1,11 @@
+{
+  "name": "bDollar Share",
+  "address": "0x0d9319565be7f53cefe84ad201be3f40feae2740",
+  "symbol": "sBDO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/sBDO--0x0d9319565be7f53cefe84ad201be3f40feae2740/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

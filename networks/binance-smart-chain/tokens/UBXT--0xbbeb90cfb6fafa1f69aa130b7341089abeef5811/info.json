@@ -1,0 +1,11 @@
+{
+  "name": "UpBots",
+  "address": "0xbbeb90cfb6fafa1f69aa130b7341089abeef5811",
+  "symbol": "UBXT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/UBXT--0xbbeb90cfb6fafa1f69aa130b7341089abeef5811/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

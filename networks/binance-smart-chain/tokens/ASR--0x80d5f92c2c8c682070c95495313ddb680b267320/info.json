@@ -1,0 +1,11 @@
+{
+  "name": "AS Roma",
+  "address": "0x80d5f92c2c8c682070c95495313ddb680b267320",
+  "symbol": "ASR",
+  "decimals": 2,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ASR--0x80d5f92c2c8c682070c95495313ddb680b267320/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

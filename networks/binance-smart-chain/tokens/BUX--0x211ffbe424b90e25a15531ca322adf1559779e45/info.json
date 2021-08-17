@@ -1,0 +1,11 @@
+{
+  "name": "BUX",
+  "address": "0x211ffbe424b90e25a15531ca322adf1559779e45",
+  "symbol": "BUX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BUX--0x211ffbe424b90e25a15531ca322adf1559779e45/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

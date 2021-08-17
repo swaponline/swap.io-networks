@@ -1,0 +1,11 @@
+{
+  "name": "Cyclone",
+  "address": "0x810ee35443639348adbbc467b33310d2ab43c168",
+  "symbol": "CYC",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CYC--0x810ee35443639348adbbc467b33310d2ab43c168/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

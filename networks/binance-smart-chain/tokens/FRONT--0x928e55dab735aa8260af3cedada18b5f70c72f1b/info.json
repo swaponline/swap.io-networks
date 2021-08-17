@@ -1,0 +1,11 @@
+{
+  "name": "Frontier Token",
+  "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+  "symbol": "FRONT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/FRONT--0x928e55dab735aa8260af3cedada18b5f70c72f1b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

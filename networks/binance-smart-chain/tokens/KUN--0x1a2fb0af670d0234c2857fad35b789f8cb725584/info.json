@@ -1,0 +1,11 @@
+{
+  "name": "Qian Governance Token",
+  "address": "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
+  "symbol": "KUN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/KUN--0x1a2fb0af670d0234c2857fad35b789f8cb725584/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

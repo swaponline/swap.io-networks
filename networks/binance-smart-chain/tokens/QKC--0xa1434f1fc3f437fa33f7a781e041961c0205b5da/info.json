@@ -1,0 +1,11 @@
+{
+  "name": "QuarkChain Token",
+  "address": "0xa1434f1fc3f437fa33f7a781e041961c0205b5da",
+  "symbol": "QKC",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/QKC--0xa1434f1fc3f437fa33f7a781e041961c0205b5da/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ditto",
+  "address": "0x233d91a0713155003fc4dce0afa871b508b3b715",
+  "symbol": "DITTO",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DITTO--0x233d91a0713155003fc4dce0afa871b508b3b715/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

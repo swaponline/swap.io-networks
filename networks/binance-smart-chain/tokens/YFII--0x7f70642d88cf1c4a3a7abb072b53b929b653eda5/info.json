@@ -1,0 +1,11 @@
+{
+  "name": "YFII.finance Token",
+  "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+  "symbol": "YFII",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/YFII--0x7f70642d88cf1c4a3a7abb072b53b929b653eda5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

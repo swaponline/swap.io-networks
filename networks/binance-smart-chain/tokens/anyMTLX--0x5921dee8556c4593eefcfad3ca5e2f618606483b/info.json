@@ -1,0 +1,11 @@
+{
+  "name": "anyMTLX",
+  "address": "0x5921dee8556c4593eefcfad3ca5e2f618606483b",
+  "symbol": "anyMTLX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/anyMTLX--0x5921dee8556c4593eefcfad3ca5e2f618606483b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

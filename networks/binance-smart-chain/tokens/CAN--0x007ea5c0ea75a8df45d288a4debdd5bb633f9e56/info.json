@@ -1,0 +1,11 @@
+{
+  "name": "CanYaCoin",
+  "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+  "symbol": "CAN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CAN--0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

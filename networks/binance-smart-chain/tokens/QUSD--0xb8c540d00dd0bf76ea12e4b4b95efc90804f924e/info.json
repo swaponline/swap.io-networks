@@ -1,0 +1,11 @@
+{
+  "name": "QUSD Stablecoin",
+  "address": "0xb8c540d00dd0bf76ea12e4b4b95efc90804f924e",
+  "symbol": "QUSD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/QUSD--0xb8c540d00dd0bf76ea12e4b4b95efc90804f924e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

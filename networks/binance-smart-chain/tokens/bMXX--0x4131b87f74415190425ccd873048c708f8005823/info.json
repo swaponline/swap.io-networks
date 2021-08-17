@@ -1,0 +1,11 @@
+{
+  "name": "Multiplier",
+  "address": "0x4131b87f74415190425ccd873048c708f8005823",
+  "symbol": "bMXX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/bMXX--0x4131b87f74415190425ccd873048c708f8005823/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

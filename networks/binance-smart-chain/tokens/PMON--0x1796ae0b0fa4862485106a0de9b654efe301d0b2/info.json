@@ -1,0 +1,11 @@
+{
+  "name": "Polkamon",
+  "address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+  "symbol": "PMON",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PMON--0x1796ae0b0fa4862485106a0de9b654efe301d0b2/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

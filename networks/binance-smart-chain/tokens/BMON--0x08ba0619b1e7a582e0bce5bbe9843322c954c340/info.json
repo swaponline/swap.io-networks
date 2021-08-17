@@ -1,0 +1,11 @@
+{
+  "name": "Binamon",
+  "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+  "symbol": "BMON",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BMON--0x08ba0619b1e7a582e0bce5bbe9843322c954c340/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

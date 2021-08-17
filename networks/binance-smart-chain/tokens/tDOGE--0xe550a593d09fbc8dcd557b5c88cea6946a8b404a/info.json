@@ -1,0 +1,11 @@
+{
+  "name": "Tau DOGE",
+  "address": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a",
+  "symbol": "tDOGE",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/tDOGE--0xe550a593d09fbc8dcd557b5c88cea6946a8b404a/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

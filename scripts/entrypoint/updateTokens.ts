@@ -133,7 +133,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       continue
     }
 
-    if (networkTokensIDs.includes(tokenID.toLowerCase())) {
+    if (networkTokensIDs.includes(tokenID)) {
       alreadyExistsTokens.push(tokenID)
       continue // need add logic for exists tokens
     } else {

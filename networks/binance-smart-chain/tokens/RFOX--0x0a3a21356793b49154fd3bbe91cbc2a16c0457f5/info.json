@@ -1,0 +1,11 @@
+{
+  "name": "RFOX",
+  "address": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5",
+  "symbol": "RFOX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/RFOX--0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

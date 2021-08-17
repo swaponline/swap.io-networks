@@ -1,0 +1,11 @@
+{
+  "name": "BitWell Token",
+  "address": "0xf07a32eb035b786898c00bb1c64d8c6f8e7a46d5",
+  "symbol": "WELL",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/WELL--0xf07a32eb035b786898c00bb1c64d8c6f8e7a46d5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

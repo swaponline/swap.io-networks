@@ -1,0 +1,11 @@
+{
+  "name": "Lympo Market Token",
+  "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
+  "symbol": "LMT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/LMT--0x9617857e191354dbea0b714d78bc59e57c411087/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

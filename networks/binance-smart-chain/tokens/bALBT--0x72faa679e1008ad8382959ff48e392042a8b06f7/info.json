@@ -1,0 +1,11 @@
+{
+  "name": "AllianceBlock",
+  "address": "0x72faa679e1008ad8382959ff48e392042a8b06f7",
+  "symbol": "bALBT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/bALBT--0x72faa679e1008ad8382959ff48e392042a8b06f7/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

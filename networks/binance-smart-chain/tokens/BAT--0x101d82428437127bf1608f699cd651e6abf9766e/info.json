@@ -1,0 +1,11 @@
+{
+  "name": "Basic Attention Token",
+  "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+  "symbol": "BAT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BAT--0x101d82428437127bf1608f699cd651e6abf9766e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "NerveNetwork",
+  "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5",
+  "symbol": "NVT",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/NVT--0xf0e406c49c63abf358030a299c0e00118c4c6ba5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hedget",
+  "address": "0xc7d8d35eba58a0935ff2d5a33df105dd9f071731",
+  "symbol": "HGET",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HGET--0xc7d8d35eba58a0935ff2d5a33df105dd9f071731/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

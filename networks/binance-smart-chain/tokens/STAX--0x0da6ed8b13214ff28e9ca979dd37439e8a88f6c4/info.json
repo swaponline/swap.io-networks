@@ -1,0 +1,11 @@
+{
+  "name": "StableXSwap",
+  "address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
+  "symbol": "STAX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/STAX--0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

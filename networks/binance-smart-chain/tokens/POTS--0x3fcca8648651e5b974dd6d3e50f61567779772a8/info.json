@@ -1,0 +1,11 @@
+{
+  "name": "Moonpot",
+  "address": "0x3fcca8648651e5b974dd6d3e50f61567779772a8",
+  "symbol": "POTS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/POTS--0x3fcca8648651e5b974dd6d3e50f61567779772a8/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

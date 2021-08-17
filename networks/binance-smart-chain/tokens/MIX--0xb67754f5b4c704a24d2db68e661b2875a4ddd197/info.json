@@ -1,0 +1,11 @@
+{
+  "name": "Mix",
+  "address": "0xb67754f5b4c704a24d2db68e661b2875a4ddd197",
+  "symbol": "MIX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/MIX--0xb67754f5b4c704a24d2db68e661b2875a4ddd197/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

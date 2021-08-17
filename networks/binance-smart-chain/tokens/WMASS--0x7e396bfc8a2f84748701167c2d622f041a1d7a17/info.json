@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped MASS",
+  "address": "0x7e396bfc8a2f84748701167c2d622f041a1d7a17",
+  "symbol": "WMASS",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/WMASS--0x7e396bfc8a2f84748701167c2d622f041a1d7a17/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

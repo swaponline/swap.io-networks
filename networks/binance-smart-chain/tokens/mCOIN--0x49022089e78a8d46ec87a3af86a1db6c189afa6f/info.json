@@ -1,0 +1,11 @@
+{
+  "name": "Mirror COIN",
+  "address": "0x49022089e78a8d46ec87a3af86a1db6c189afa6f",
+  "symbol": "mCOIN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/mCOIN--0x49022089e78a8d46ec87a3af86a1db6c189afa6f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

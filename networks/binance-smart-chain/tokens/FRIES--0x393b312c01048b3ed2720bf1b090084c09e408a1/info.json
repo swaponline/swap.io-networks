@@ -1,0 +1,11 @@
+{
+  "name": "fry.world",
+  "address": "0x393b312c01048b3ed2720bf1b090084c09e408a1",
+  "symbol": "FRIES",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/FRIES--0x393b312c01048b3ed2720bf1b090084c09e408a1/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

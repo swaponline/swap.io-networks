@@ -1,0 +1,11 @@
+{
+  "name": "Unifi Token",
+  "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
+  "symbol": "UNFI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/UNFI--0x728c5bac3c3e370e372fc4671f9ef6916b814d8b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

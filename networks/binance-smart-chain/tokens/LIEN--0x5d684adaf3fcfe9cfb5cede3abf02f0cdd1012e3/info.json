@@ -1,0 +1,11 @@
+{
+  "name": "Lien",
+  "address": "0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3",
+  "symbol": "LIEN",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/LIEN--0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

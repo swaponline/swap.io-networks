@@ -1,0 +1,11 @@
+{
+  "name": "PNT",
+  "address": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92",
+  "symbol": "PNT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PNT--0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

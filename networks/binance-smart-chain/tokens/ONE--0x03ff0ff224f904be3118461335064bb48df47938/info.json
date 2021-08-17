@@ -1,0 +1,11 @@
+{
+  "name": "Harmony One",
+  "address": "0x03ff0ff224f904be3118461335064bb48df47938",
+  "symbol": "ONE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ONE--0x03ff0ff224f904be3118461335064bb48df47938/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

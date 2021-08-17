@@ -1,0 +1,11 @@
+{
+  "name": "Juventus",
+  "address": "0xc40c9a843e1c6d01b7578284a9028854f6683b1b",
+  "symbol": "JUV",
+  "decimals": 2,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/JUV--0xc40c9a843e1c6d01b7578284a9028854f6683b1b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

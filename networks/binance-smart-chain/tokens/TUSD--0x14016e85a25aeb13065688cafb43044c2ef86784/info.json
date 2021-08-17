@@ -1,0 +1,11 @@
+{
+  "name": "True USD",
+  "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+  "symbol": "TUSD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

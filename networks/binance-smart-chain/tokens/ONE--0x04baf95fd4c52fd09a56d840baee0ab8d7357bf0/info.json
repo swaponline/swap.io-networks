@@ -1,0 +1,11 @@
+{
+  "name": "BigOne Token",
+  "address": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0",
+  "symbol": "ONE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ONE--0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

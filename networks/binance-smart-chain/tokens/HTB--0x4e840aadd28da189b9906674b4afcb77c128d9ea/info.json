@@ -1,0 +1,11 @@
+{
+  "name": "Hotbit",
+  "address": "0x4e840aadd28da189b9906674b4afcb77c128d9ea",
+  "symbol": "HTB",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HTB--0x4e840aadd28da189b9906674b4afcb77c128d9ea/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Refinable",
+  "address": "0x4e6415a5727ea08aae4580057187923aec331227",
+  "symbol": "FINE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/FINE--0x4e6415a5727ea08aae4580057187923aec331227/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}
