@@ -63,7 +63,7 @@ export const syncUniqExternalTokens = async () => {
 
   console.log('uniqExternalTokens length', Object.keys(uniqExternalTokens).length)
 
-  writeToFileWithUpdate(getAbsolutePath(`/dist/tokens`), 'uniqExternalTokens.json', uniqExternalTokens)
+  writeToFileWithUpdate(getAbsolutePath(`/cache`), 'uniqExternalTokens.json', uniqExternalTokens)
 }
 
 
