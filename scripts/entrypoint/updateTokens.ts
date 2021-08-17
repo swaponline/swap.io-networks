@@ -45,19 +45,20 @@ type UniqTokensListObj = {[tokenID: string]: UniqToken}
 type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
 
 const syncUniqTokensWithNetworks = async () => {
-  const evmNetworksFullInfo = allNetworks
-    .map(network => getFullNetworkInfo({ network }))
-    .filter(network => network.type === 'evm')
-
-  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`)) as UniqTokensListObj
-  const uniqExternalTokensIDs = Object.keys(uniqExternalTokens)
   const networksWithTokensIDs: {[network: string]: string[]} = {}
   const networksIndexesBySlug: {[network: string]: number} = {}
 
-  evmNetworksFullInfo.forEach((networkInfo, index) => {
-    networksWithTokensIDs[networkInfo.slug] = []
-    networksIndexesBySlug[networkInfo.slug] = index
-  })
+  const evmNetworksFullInfo = allNetworks
+    .map(network => getFullNetworkInfo({ network }))
+    .filter(network => network.type === 'evm')
+    .map((network, index) => {
+      networksWithTokensIDs[network.slug] = []
+      networksIndexesBySlug[network.slug] = index
+      return network
+    })
+
+  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`)) as UniqTokensListObj
+  const uniqExternalTokensIDs = Object.keys(uniqExternalTokens)
 
   if (!uniqExternalTokensIDs.length)
     throw new Error('Firstly, you need run "npm run syncExternalTokens" script in terminal for fetching uniqExternalTokens')
@@ -109,7 +110,10 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
     createDirSync(tokensPath)
   }
 
-  const networkTokensIDs = Object.keys(tokens)
+  const networkTokensIDs = Object.keys(tokens).map(tokensID => {
+    const [symbol, address] = tokensID.split("--")
+    return `${symbol}--${address.toLowerCase()}`
+  })
 
   console.log(`   ${networkTokensIDs.length} tokens in self folder`)
 
@@ -129,7 +133,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       continue
     }
 
-    if (networkTokensIDs.map(tokensID => tokensID.toLowerCase()).includes(tokenID.toLowerCase())) {
+    if (networkTokensIDs.includes(tokenID.toLowerCase())) {
       alreadyExistsTokens.push(tokenID)
       continue // need add logic for exists tokens
     } else {
