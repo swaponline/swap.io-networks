@@ -1,0 +1,11 @@
+{
+  "name": "Trendering",
+  "address": "0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb",
+  "symbol": "TRND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRND--0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

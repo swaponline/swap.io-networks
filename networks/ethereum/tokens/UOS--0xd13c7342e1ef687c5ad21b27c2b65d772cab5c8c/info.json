@@ -1,0 +1,11 @@
+{
+  "name": "UltraToken",
+  "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+  "symbol": "UOS",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UOS--0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

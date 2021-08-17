@@ -1,0 +1,11 @@
+{
+  "name": "CreamPickleToken",
+  "address": "0xc68251421edda00a10815e273fa4b1191fac651b",
+  "symbol": "crPICKLE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crPICKLE--0xc68251421edda00a10815e273fa4b1191fac651b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

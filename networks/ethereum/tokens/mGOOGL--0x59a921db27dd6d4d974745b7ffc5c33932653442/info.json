@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror GOOGL Token",
+  "address": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
+  "symbol": "mGOOGL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mGOOGL--0x59a921db27dd6d4d974745b7ffc5c33932653442/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

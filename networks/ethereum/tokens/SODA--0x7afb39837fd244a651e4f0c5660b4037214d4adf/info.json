@@ -1,0 +1,11 @@
+{
+  "name": "Soda Token",
+  "address": "0x7afb39837fd244a651e4f0c5660b4037214d4adf",
+  "symbol": "SODA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SODA--0x7afb39837fd244a651e4f0c5660b4037214d4adf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

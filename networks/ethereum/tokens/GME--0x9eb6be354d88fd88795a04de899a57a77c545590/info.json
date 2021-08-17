@@ -1,0 +1,11 @@
+{
+  "name": "GameStop.Finance",
+  "address": "0x9eb6be354d88fd88795a04de899a57a77c545590",
+  "symbol": "GME",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GME--0x9eb6be354d88fd88795a04de899a57a77c545590/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

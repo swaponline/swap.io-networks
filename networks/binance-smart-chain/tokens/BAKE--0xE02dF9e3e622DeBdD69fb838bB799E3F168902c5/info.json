@@ -1,0 +1,11 @@
+{
+  "name": "Bakery Token",
+  "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+  "symbol": "BAKE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BAKE--0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

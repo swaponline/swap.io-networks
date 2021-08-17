@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingREP",
+  "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
+  "symbol": "aREPv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aREPv1--0x71010a9d003445ac60c4e6a7017c1e89a477b438/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

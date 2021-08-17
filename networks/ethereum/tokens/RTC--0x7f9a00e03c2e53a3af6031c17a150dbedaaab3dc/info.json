@@ -1,0 +1,11 @@
+{
+  "name": "Read This Contract",
+  "address": "0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc",
+  "symbol": "RTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RTC--0x7f9a00e03c2e53a3af6031c17a150dbedaaab3dc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

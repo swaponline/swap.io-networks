@@ -1,11 +1,12 @@
 import {
+  getAbsolutePath,
   allNetworks,
   getNetworkPath,
-  getNetworkLogoPath,
+  getNetworkLogoPaths,
   getNetworkTokenInfoPath,
   getNetworkTokensPath,
   getNetworkTokenPath,
-  getNetworkTokenLogoPath,
+  getNetworkTokenLogoPaths,
   tokenFolderAllowedFiles,
   getNetworkFolderFilesList,
   networkFolderAllowedFiles,
@@ -13,159 +14,165 @@ import {
 } from "../common/repo-structure"
 import {
   readDirSync,
-  isPathExistsSync
+  isPathExistsSync,
+  createDirSync,
+  saveLogo
 } from "../common/filesystem"
-import { readJsonFile, formatJson } from "../common/json"
-import axios from "axios"
+import { readJsonFile, writeJsonFile } from "../common/json"
+import { getFullNetworkInfo } from "../common/networks"
 
-interface IGetFullNetworkInfoParams {
-  network: string,
-  extendedNetworkInfo?: { [name: string]: any } | null,
-  cycleExtendDetector?: { [network: string]: boolean }
+type UniqToken = {
+  names: string[],
+  address: string,
+  symbol: string,
+  decimals: number,
+  chainIds: number[],
+  logoURIs: string[],
+  tags: string[]
 }
 
-const main = async () => {
-  const errors: string[] = []
-  const warnings: string[] = []
-  console.log('im here')
-  allNetworks.forEach(network => {
-    const tokensPath = getNetworkTokensPath(network)
-    console.log('tokensPath', tokensPath)
-    if (isPathExistsSync(tokensPath)) {
-      readDirSync(tokensPath).forEach(tokenID => {
-        const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
-        const logoExists = isPathExistsSync(logoFullPath)
-        const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
-        const infoExists = isPathExistsSync(infoFullPath)
-        // Tokens should have a logo and an info file.  Exceptions:
-        // - status=spam tokens may have no logo
-        // - on some networks some valid tokens have no info (should be fixed)
-        console.log('network and token', network, tokenID)
-        console.log('logoExists', logoExists)
-        console.log('infoExists', infoExists)
-        const tokenInfo: any = readJsonFile(infoFullPath)
-        console.log('tokenInfo', tokenInfo)
-      })
-    }
+type tokenInfo = {
+  name: string,
+  address: string,
+  symbol: string,
+  decimals: number,
+  chainId: number,
+  "logo": string,
+  "tags": string[]
+}
+
+type UniqTokensListObj = {[tokenID: string]: UniqToken}
+type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
+
+const syncUniqTokensWithNetworks = async () => {
+  const networksWithTokensIDs: {[network: string]: string[]} = {}
+  const networksIndexesBySlug: {[network: string]: number} = {}
+
+  const evmNetworksFullInfo = allNetworks
+    .map(network => getFullNetworkInfo({ network }))
+    .filter(network => network.type === 'evm')
+    .map((network, index) => {
+      networksWithTokensIDs[network.slug] = []
+      networksIndexesBySlug[network.slug] = index
+      return network
+    })
+
+  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/dist/tokens/uniqExternalTokens.json`)) as UniqTokensListObj
+  const uniqExternalTokensIDs = Object.keys(uniqExternalTokens)
+
+  if (!uniqExternalTokensIDs.length)
+    throw new Error('Firstly, you need run "npm run syncExternalTokens" script in terminal for fetching uniqExternalTokens')
+
+  uniqExternalTokensIDs.forEach(tokenID => {
+    const { chainIds } = uniqExternalTokens[tokenID]
+    chainIds.forEach(chainId => {
+      const networkIndex = evmNetworksFullInfo.findIndex(network => +network.chainId === chainId)
+      const tokenNetwork = networkIndex !== -1 && evmNetworksFullInfo[networkIndex]
+      if (tokenNetwork) networksWithTokensIDs[tokenNetwork.slug].push(tokenID)
+    })
   })
-  console.log('errors, warnings', errors, warnings)
+
+  for (const network of Object.keys(networksWithTokensIDs)) {
+    if (!networksWithTokensIDs[network].length) continue
+    try {
+      await updateTokensByNetwork(evmNetworksFullInfo[networksIndexesBySlug[network]], networksWithTokensIDs[network], uniqExternalTokens)
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
 }
 
-const syncTokensByNetwork = async (network: string) => {
-  const errors: string[] = []
-  const warnings: string[] = []
+const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokensIDs: string[], uniqExternalTokens: UniqTokensListObj) => {
+  const network = networkInfo.slug
+  console.log(`${networkInfo.name} have:`)
+  console.log(`   ${networkUniqExternalTokensIDs.length} external tokens`)
 
   const tokensIDs: string[] = []
-  const tokens: {}[] = []
-
-  const networkInfo = getFullNetworkInfo({ network })
-
-  console.log('networkInfo', networkInfo)
+  const tokens: NetworkTokensListObj = {} // need for update tokens
 
   const tokensPath = getNetworkTokensPath(network)
   if (isPathExistsSync(tokensPath)) {
     tokensIDs.push(...readDirSync(tokensPath))
     tokensIDs.forEach(tokenID => {
-      const logoFullPath = getNetworkTokenLogoPath(network, tokenID)
-      const logoExists = isPathExistsSync(logoFullPath)
+      const logoPaths = getNetworkTokenLogoPaths(network, tokenID)
+      const logoExists = !!logoPaths.filter(logoPath => isPathExistsSync(logoPath)).length
       const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
-        const tokenInfo: any = readJsonFile(infoFullPath)
-        tokens.push(tokenInfo)
+        const tokenInfo = readJsonFile(infoFullPath) as tokenInfo
+        if (!logoExists) tokenInfo.logo = ''
+        tokens[tokenID] = tokenInfo
       }
     })
   } else{
-    warnings.push(`${network} have not any assets`)
+    console.log(`${network} have not tokens folder. Script creates it...`)
+    createDirSync(tokensPath)
   }
 
-  const externalTokensList = await getExternalTokensList('https://api.borgswap.exchange/tokens.json')
-
-  console.log('externalTokensList number', externalTokensList.tokens.length)
-
-  const externakTokensIDs: string[] = []
-
-  externalTokensList.tokens.forEach((token: any) => {
-    if (!token.name || !token.symbol || !token.address || !token.decimals || !token.chainId) {
-      errors.push(`Token haven't some prop for add to tokens list`)
-    }
-    externakTokensIDs.push(`${token.symbol}--${token.address}`)
+  const networkTokensIDs = Object.keys(tokens).map(tokensID => {
+    const [symbol, address] = tokensID.split("--")
+    return `${symbol}--${address.toLowerCase()}`
   })
 
-  if (tokensIDs.length) console.log('tokensIDs number', tokensIDs.length)
-  if (tokens.length) console.log('tokens number', tokens.length)
-  if (externakTokensIDs.length) console.log('externakTokensIDs', externakTokensIDs)
-  if (warnings.length) console.log('warnings', warnings)
-  if (errors.length) console.log('errors', errors)
+  console.log(`   ${networkTokensIDs.length} tokens in self folder`)
 
-  const tokenInfo = {
-    "name": "Tether USD",
-    "address": "0x55d398326f99059ff775485246999027b3197955",
-    "symbol": "USDT",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-    "tags": ["bep20", "custom"]
-  }
+  const addedTokens: string[] = []
+  const alreadyExistsTokens: string[] = []
 
+  for (const tokenID of networkUniqExternalTokensIDs) {
+    const { names, address, symbol, decimals, chainIds, logoURIs } = uniqExternalTokens[tokenID]
 
-}
-
-const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): any => {
-  const {
-    network,
-    extendedNetworkInfo = null,
-    cycleExtendDetector = {}
-  } = params
-
-  const networkInfo = extendedNetworkInfo || getNetworkInfo(network)
-
-  if (networkInfo.parent) {
-    if (cycleExtendDetector[networkInfo.parent]) {
-      throw new Error(`Cycle extend config detected`)
-    } else {
-      const parentInfo = getNetworkInfo(networkInfo.parent)
-      const extendedInfo = {
-        ...parentInfo,
-        ...networkInfo,
-        parent: parentInfo.parent,
-      }
-      if (extendedInfo.parent) {
-        cycleExtendDetector[networkInfo.parent] = true
-        return getFullNetworkInfo({
-          network: extendedInfo.slug,
-          extendedNetworkInfo: extendedInfo,
-          cycleExtendDetector
-        })
-      } else {
-        return extendedInfo
-      }
+    if ((!names || !names.length) || !symbol || !address || (!decimals && decimals !== 0) || (!chainIds || !chainIds.length)) {
+      console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
+      continue
     }
-  } else {
-    return networkInfo
+
+    if (!chainIds.includes(+networkInfo.chainId)) {
+      console.error(`Token ${tokenID} from different network`)
+      continue
+    }
+
+    if (networkTokensIDs.includes(tokenID)) {
+      alreadyExistsTokens.push(tokenID)
+      continue // need add logic for exists tokens
+    } else {
+      const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
+      createDirSync(getAbsolutePath(tokenPath))
+
+      let logoPath = ''
+      if (logoURIs.length) {
+        for (const logoURI of logoURIs) {
+          const splitedLogoString = logoURI.split('.')
+          const logoExtension = splitedLogoString[splitedLogoString.length - 1]
+          logoPath = `${tokenPath}/logo.${logoExtension}`
+          try {
+            await saveLogo(logoURI, getAbsolutePath(logoPath))
+            break
+          } catch (error) {
+            logoPath = ''
+          }
+        }
+      }
+
+      const tokenInfo: tokenInfo = {
+        name: names[0],
+        address,
+        symbol,
+        decimals,
+        chainId: +networkInfo.chainId,
+        "logo": logoPath,
+        "tags": [networkInfo.tokensType.toLowerCase()]
+      }
+
+      writeJsonFile(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)
+
+      addedTokens.push(tokenID)
+    }
   }
+
+  console.log(`   ${addedTokens.length} added tokens`)
+  console.log(`   ${alreadyExistsTokens.length} already exists tokens`)
 }
 
-const getNetworkInfo = (network: string): any => {
-  const networkPath = getNetworkPath(network)
-  if (isPathExistsSync(networkPath)) {
-    const networkInfoPath = getNetworkInfoPath(network)
-    return readJsonFile(networkInfoPath)
-  } else {
-    throw new Error(`Can't find ${network} network`)
-  }
-
-}
-
-const getExternalTokensList = async (url: string) => {
-  try {
-    const response = await axios.get(url)
-    return response.data
-  } catch (error) {
-    throw new Error(error)
-  }
-}
-
-// main()
-
-syncTokensByNetwork('binance-smart-chain')
+syncUniqTokensWithNetworks()

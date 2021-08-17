@@ -1,0 +1,11 @@
+{
+  "name": "WirexToken",
+  "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+  "symbol": "WXT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WXT--0xa02120696c7b8fe16c09c749e4598819b2b0e915/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

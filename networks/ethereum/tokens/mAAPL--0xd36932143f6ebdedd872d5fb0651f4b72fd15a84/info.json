@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror AAPL Token",
+  "address": "0xd36932143f6ebdedd872d5fb0651f4b72fd15a84",
+  "symbol": "mAAPL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mAAPL--0xd36932143f6ebdedd872d5fb0651f4b72fd15a84/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

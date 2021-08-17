@@ -1,0 +1,11 @@
+{
+  "name": "Helmet.insure",
+  "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+  "symbol": "Helmet",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/Helmet--0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

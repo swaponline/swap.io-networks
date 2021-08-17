@@ -1,0 +1,11 @@
+{
+  "name": "Elynet Token",
+  "address": "0x881a7e25d44591c467a37da96adf3c3705e7251b",
+  "symbol": "ELYX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ELYX--0x881a7e25d44591c467a37da96adf3c3705e7251b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

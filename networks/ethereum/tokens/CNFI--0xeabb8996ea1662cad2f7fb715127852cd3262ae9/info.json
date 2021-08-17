@@ -1,0 +1,11 @@
+{
+  "name": "ConnectFinancial",
+  "address": "0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+  "symbol": "CNFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CNFI--0xeabb8996ea1662cad2f7fb715127852cd3262ae9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

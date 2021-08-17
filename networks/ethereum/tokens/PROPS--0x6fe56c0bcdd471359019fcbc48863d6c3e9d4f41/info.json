@@ -1,0 +1,11 @@
+{
+  "name": "PropsToken",
+  "address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+  "symbol": "PROPS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PROPS--0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YieldFarmingToken",
+  "address": "0x26b3038a7fc10b36c426846a9086ef87328da702",
+  "symbol": "YFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFT--0x26b3038a7fc10b36c426846a9086ef87328da702/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

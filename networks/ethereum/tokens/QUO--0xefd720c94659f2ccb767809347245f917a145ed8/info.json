@@ -1,0 +1,11 @@
+{
+  "name": "Quoxent",
+  "address": "0xefd720c94659f2ccb767809347245f917a145ed8",
+  "symbol": "QUO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QUO--0xefd720c94659f2ccb767809347245f917a145ed8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

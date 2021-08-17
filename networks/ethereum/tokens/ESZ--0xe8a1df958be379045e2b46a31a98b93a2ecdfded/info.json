@@ -1,0 +1,11 @@
+{
+  "name": "EtherSportz",
+  "address": "0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+  "symbol": "ESZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ESZ--0xe8a1df958be379045e2b46a31a98b93a2ecdfded/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

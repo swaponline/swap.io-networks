@@ -1,0 +1,11 @@
+{
+  "name": "Aircoins",
+  "address": "0x8cb1d155a5a1d5d667611b7710920fd9d1cd727f",
+  "symbol": "AIRX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AIRX--0x8cb1d155a5a1d5d667611b7710920fd9d1cd727f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

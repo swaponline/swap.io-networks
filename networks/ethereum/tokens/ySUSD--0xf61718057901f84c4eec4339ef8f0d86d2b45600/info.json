@@ -1,0 +1,11 @@
+{
+  "name": "iearnSUSD",
+  "address": "0xf61718057901f84c4eec4339ef8f0d86d2b45600",
+  "symbol": "ySUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ySUSD--0xf61718057901f84c4eec4339ef8f0d86d2b45600/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

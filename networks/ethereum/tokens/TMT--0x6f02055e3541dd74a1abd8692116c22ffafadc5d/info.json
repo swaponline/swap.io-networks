@@ -1,0 +1,11 @@
+{
+  "name": "The Mart Token",
+  "address": "0x6f02055e3541dd74a1abd8692116c22ffafadc5d",
+  "symbol": "TMT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TMT--0x6f02055e3541dd74a1abd8692116c22ffafadc5d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BezogeEarth",
+  "address": "0xdc349913d53b446485e98b76800b6254f43df695",
+  "symbol": "BEZOGE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEZOGE--0xdc349913d53b446485e98b76800b6254f43df695/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

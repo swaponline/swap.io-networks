@@ -1,0 +1,11 @@
+{
+  "name": "FOAMToken",
+  "address": "0x4946fcea7c692606e8908002e55a582af44ac121",
+  "symbol": "FOAM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FOAM--0x4946fcea7c692606e8908002e55a582af44ac121/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

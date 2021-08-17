@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing DAI",
+  "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+  "symbol": "aDAI(v2)",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

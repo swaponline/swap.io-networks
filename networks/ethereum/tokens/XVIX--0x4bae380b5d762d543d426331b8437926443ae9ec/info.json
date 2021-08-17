@@ -1,0 +1,11 @@
+{
+  "name": "XVIX",
+  "address": "0x4bae380b5d762d543d426331b8437926443ae9ec",
+  "symbol": "XVIX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XVIX--0x4bae380b5d762d543d426331b8437926443ae9ec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

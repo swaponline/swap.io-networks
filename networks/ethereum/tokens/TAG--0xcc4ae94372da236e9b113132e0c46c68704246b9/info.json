@@ -1,0 +1,11 @@
+{
+  "name": "Tagcoin ERC 20",
+  "address": "0xcc4ae94372da236e9b113132e0c46c68704246b9",
+  "symbol": "TAG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TAG--0xcc4ae94372da236e9b113132e0c46c68704246b9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

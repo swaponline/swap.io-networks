@@ -1,0 +1,11 @@
+{
+  "name": "Rarible",
+  "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+  "symbol": "RARI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RARI--0xfca59cd816ab1ead66534d82bc21e7515ce441cf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

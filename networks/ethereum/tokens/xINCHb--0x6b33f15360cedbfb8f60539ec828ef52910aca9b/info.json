@@ -1,0 +1,11 @@
+{
+  "name": "xINCH",
+  "address": "0x6b33f15360cedbfb8f60539ec828ef52910aca9b",
+  "symbol": "xINCHb",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/xINCHb--0x6b33f15360cedbfb8f60539ec828ef52910aca9b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

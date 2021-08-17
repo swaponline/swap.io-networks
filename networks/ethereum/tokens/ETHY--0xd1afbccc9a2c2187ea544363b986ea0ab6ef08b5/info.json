@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum Yield",
+  "address": "0xd1afbccc9a2c2187ea544363b986ea0ab6ef08b5",
+  "symbol": "ETHY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHY--0xd1afbccc9a2c2187ea544363b986ea0ab6ef08b5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

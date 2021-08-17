@@ -1,0 +1,11 @@
+{
+  "name": "ARPA",
+  "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+  "symbol": "ARPA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ARPA--0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

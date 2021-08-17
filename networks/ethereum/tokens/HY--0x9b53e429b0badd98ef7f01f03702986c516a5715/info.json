@@ -1,0 +1,11 @@
+{
+  "name": "hybrixhydra",
+  "address": "0x9b53e429b0badd98ef7f01f03702986c516a5715",
+  "symbol": "HY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HY--0x9b53e429b0badd98ef7f01f03702986c516a5715/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

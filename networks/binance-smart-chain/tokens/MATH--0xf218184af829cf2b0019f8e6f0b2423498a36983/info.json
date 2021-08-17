@@ -1,0 +1,11 @@
+{
+  "name": "Math",
+  "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+  "symbol": "MATH",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/MATH--0xf218184af829cf2b0019f8e6f0b2423498a36983/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

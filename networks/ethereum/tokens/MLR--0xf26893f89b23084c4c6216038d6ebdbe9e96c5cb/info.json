@@ -1,0 +1,11 @@
+{
+  "name": "Mega Lottery Servic",
+  "address": "0xf26893f89b23084c4c6216038d6ebdbe9e96c5cb",
+  "symbol": "MLR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MLR--0xf26893f89b23084c4c6216038d6ebdbe9e96c5cb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

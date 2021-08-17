@@ -1,0 +1,11 @@
+{
+  "name": "EasyFi",
+  "address": "0x913d8adf7ce6986a8cbfee5a54725d9eea4f0729",
+  "symbol": "EASY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EASY--0x913d8adf7ce6986a8cbfee5a54725d9eea4f0729/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

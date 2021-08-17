@@ -1,0 +1,11 @@
+{
+  "name": "Perth Mint Gold Tok",
+  "address": "0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+  "symbol": "PMGT",
+  "decimals": 5,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PMGT--0xaffcdd96531bcd66faed95fc61e443d08f79efef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

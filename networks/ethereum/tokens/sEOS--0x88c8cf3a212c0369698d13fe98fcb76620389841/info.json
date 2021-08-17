@@ -1,0 +1,11 @@
+{
+  "name": "SynthsEOS",
+  "address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+  "symbol": "sEOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sEOS--0x88c8cf3a212c0369698d13fe98fcb76620389841/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

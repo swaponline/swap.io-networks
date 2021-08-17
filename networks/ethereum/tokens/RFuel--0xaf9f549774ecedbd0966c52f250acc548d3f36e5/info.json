@@ -1,0 +1,11 @@
+{
+  "name": "Rio Fuel Token",
+  "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+  "symbol": "RFUEL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RFUEL--0xaf9f549774ecedbd0966c52f250acc548d3f36e5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

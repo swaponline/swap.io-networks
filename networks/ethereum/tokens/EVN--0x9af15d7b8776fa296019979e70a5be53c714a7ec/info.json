@@ -1,0 +1,11 @@
+{
+  "name": "EvnToken",
+  "address": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+  "symbol": "EVN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EVN--0x9af15d7b8776fa296019979e70a5be53c714a7ec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

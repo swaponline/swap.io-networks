@@ -1,0 +1,11 @@
+{
+  "name": "Blox",
+  "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+  "symbol": "CDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CDT--0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

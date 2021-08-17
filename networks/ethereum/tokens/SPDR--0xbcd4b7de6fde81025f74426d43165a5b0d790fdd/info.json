@@ -1,0 +1,11 @@
+{
+  "name": "SpiderDAO",
+  "address": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
+  "symbol": "SPDR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SPDR--0xbcd4b7de6fde81025f74426d43165a5b0d790fdd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

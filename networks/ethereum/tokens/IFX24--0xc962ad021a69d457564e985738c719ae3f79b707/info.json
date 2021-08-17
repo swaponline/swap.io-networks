@@ -1,0 +1,11 @@
+{
+  "name": "IFX24",
+  "address": "0xc962ad021a69d457564e985738c719ae3f79b707",
+  "symbol": "IFX24",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IFX24--0xc962ad021a69d457564e985738c719ae3f79b707/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

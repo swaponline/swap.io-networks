@@ -1,0 +1,11 @@
+{
+  "name": "Launchpooltoken",
+  "address": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+  "symbol": "LPOOL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LPOOL--0x6149c26cd2f7b5ccdb32029af817123f6e37df5b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

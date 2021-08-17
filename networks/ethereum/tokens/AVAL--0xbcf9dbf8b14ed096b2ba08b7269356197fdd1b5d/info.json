@@ -1,0 +1,11 @@
+{
+  "name": "Avaluse",
+  "address": "0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d",
+  "symbol": "AVAL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AVAL--0xbcf9dbf8b14ed096b2ba08b7269356197fdd1b5d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

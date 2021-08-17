@@ -1,0 +1,11 @@
+{
+  "name": "Aave BUSD",
+  "address": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8",
+  "symbol": "aBUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

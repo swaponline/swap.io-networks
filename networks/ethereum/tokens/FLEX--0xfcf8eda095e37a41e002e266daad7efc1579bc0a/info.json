@@ -1,0 +1,11 @@
+{
+  "name": "FLEX Coin",
+  "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+  "symbol": "FLEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLEX--0xfcf8eda095e37a41e002e266daad7efc1579bc0a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

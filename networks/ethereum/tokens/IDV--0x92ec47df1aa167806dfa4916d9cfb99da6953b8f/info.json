@@ -1,0 +1,11 @@
+{
+  "name": "Idavoll Network",
+  "address": "0x92ec47df1aa167806dfa4916d9cfb99da6953b8f",
+  "symbol": "IDV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IDV--0x92ec47df1aa167806dfa4916d9cfb99da6953b8f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

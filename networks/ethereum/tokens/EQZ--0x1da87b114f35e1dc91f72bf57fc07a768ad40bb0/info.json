@@ -1,0 +1,11 @@
+{
+  "name": "Equalizer",
+  "address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+  "symbol": "EQZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EQZ--0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

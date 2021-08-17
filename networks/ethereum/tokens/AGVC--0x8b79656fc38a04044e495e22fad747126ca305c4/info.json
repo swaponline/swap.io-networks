@@ -1,0 +1,11 @@
+{
+  "name": "AgaveCoin",
+  "address": "0x8b79656fc38a04044e495e22fad747126ca305c4",
+  "symbol": "AGVC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AGVC--0x8b79656fc38a04044e495e22fad747126ca305c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

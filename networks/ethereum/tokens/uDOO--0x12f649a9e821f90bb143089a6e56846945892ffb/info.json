@@ -1,0 +1,11 @@
+{
+  "name": "Hyprr Howdoo",
+  "address": "0x12f649a9e821f90bb143089a6e56846945892ffb",
+  "symbol": "UDOO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UDOO--0x12f649a9e821f90bb143089a6e56846945892ffb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

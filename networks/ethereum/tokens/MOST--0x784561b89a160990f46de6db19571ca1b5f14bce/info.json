@@ -1,0 +1,11 @@
+{
+  "name": "Most Protocol",
+  "address": "0x784561b89a160990f46de6db19571ca1b5f14bce",
+  "symbol": "MOST",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MOST--0x784561b89a160990f46de6db19571ca1b5f14bce/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

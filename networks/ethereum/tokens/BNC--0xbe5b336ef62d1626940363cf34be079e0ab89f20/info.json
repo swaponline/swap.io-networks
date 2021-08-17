@@ -1,0 +1,11 @@
+{
+  "name": "Bnoincoin",
+  "address": "0xbe5b336ef62d1626940363cf34be079e0ab89f20",
+  "symbol": "BNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BNC--0xbe5b336ef62d1626940363cf34be079e0ab89f20/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

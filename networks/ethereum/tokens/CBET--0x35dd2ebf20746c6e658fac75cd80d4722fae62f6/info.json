@@ -1,0 +1,11 @@
+{
+  "name": "CryptoBet",
+  "address": "0x35dd2ebf20746c6e658fac75cd80d4722fae62f6",
+  "symbol": "CBET",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CBET--0x35dd2ebf20746c6e658fac75cd80d4722fae62f6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

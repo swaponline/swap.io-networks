@@ -1,0 +1,11 @@
+{
+  "name": "ForTube",
+  "address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+  "symbol": "FOR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FOR--0x1fcdce58959f536621d76f5b7ffb955baa5a672f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

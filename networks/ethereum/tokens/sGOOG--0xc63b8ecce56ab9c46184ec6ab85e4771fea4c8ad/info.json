@@ -1,0 +1,11 @@
+{
+  "name": "SynthsGOOG",
+  "address": "0xc63b8ecce56ab9c46184ec6ab85e4771fea4c8ad",
+  "symbol": "sGOOG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sGOOG--0xc63b8ecce56ab9c46184ec6ab85e4771fea4c8ad/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

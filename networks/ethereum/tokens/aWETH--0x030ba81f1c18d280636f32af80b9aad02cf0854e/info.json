@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingWETH",
+  "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+  "symbol": "aWETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aWETH--0x030ba81f1c18d280636f32af80b9aad02cf0854e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MarginSwap",
+  "address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
+  "symbol": "MFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MFI--0xaa4e3edb11afa93c41db59842b29de64b72e355b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

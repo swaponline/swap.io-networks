@@ -1,0 +1,11 @@
+{
+  "name": "DATA",
+  "address": "0x69b148395ce0015c13e36bffbad63f49ef874e03",
+  "symbol": "DTA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DTA--0x69b148395ce0015c13e36bffbad63f49ef874e03/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Previse",
+  "address": "0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0",
+  "symbol": "PRVS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRVS--0xa36e59c08c9f251a6b7a9eb6be6e32fd6157acd0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

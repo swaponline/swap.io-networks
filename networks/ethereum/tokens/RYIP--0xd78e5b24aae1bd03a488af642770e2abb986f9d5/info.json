@@ -1,0 +1,11 @@
+{
+  "name": "RYI Platinum",
+  "address": "0xd78e5b24aae1bd03a488af642770e2abb986f9d5",
+  "symbol": "RYIP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RYIP--0xd78e5b24aae1bd03a488af642770e2abb986f9d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

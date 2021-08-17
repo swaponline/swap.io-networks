@@ -1,0 +1,11 @@
+{
+  "name": "Compounder",
+  "address": "0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c",
+  "symbol": "CP3R",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CP3R--0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

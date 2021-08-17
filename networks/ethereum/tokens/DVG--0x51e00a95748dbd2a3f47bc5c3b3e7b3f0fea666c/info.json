@@ -1,0 +1,11 @@
+{
+  "name": "DVGToken",
+  "address": "0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c",
+  "symbol": "DVG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DVG--0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EverestID",
+  "address": "0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
+  "symbol": "ID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ID--0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

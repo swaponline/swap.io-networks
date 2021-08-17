@@ -1,0 +1,11 @@
+{
+  "name": "Trade Butler Bot",
+  "address": "0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2",
+  "symbol": "TBB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TBB--0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

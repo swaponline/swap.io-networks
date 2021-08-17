@@ -1,0 +1,11 @@
+{
+  "name": "RI Token",
+  "address": "0x37e808f084101f75783612407e7c3f5f92d8ee3f",
+  "symbol": "RI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RI--0x37e808f084101f75783612407e7c3f5f92d8ee3f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

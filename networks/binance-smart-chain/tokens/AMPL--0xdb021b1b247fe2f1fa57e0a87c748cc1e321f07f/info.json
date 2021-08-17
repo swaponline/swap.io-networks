@@ -1,0 +1,11 @@
+{
+  "name": "Ampleforth",
+  "address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
+  "symbol": "AMPL",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/AMPL--0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

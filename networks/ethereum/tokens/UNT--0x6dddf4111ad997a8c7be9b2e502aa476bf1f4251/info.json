@@ -1,0 +1,11 @@
+{
+  "name": "Unimonitor",
+  "address": "0x6dddf4111ad997a8c7be9b2e502aa476bf1f4251",
+  "symbol": "UNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNT--0x6dddf4111ad997a8c7be9b2e502aa476bf1f4251/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

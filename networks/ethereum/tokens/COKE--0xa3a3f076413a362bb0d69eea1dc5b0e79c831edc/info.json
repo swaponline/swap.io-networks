@@ -1,0 +1,11 @@
+{
+  "name": "Cocaine Cowboy Shar",
+  "address": "0xa3a3f076413a362bb0d69eea1dc5b0e79c831edc",
+  "symbol": "COKE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COKE--0xa3a3f076413a362bb0d69eea1dc5b0e79c831edc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

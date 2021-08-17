@@ -1,0 +1,11 @@
+{
+  "name": "Rug",
+  "address": "0xd0df3b1cf729a29b7404c40d61c750008e631ba7",
+  "symbol": "RUG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RUG--0xd0df3b1cf729a29b7404c40d61c750008e631ba7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

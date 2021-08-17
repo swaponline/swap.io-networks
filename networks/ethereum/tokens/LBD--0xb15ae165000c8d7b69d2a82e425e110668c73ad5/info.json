@@ -1,0 +1,11 @@
+{
+  "name": "LinkBased",
+  "address": "0xb15ae165000c8d7b69d2a82e425e110668c73ad5",
+  "symbol": "LBD",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LBD--0xb15ae165000c8d7b69d2a82e425e110668c73ad5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

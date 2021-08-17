@@ -1,0 +1,11 @@
+{
+  "name": "swiss finance",
+  "address": "0x692eb773e0b5b7a79efac5a015c8b36a2577f65c",
+  "symbol": "SWISS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SWISS--0x692eb773e0b5b7a79efac5a015c8b36a2577f65c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

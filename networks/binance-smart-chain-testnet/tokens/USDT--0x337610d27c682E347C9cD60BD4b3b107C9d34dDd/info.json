@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "address": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
+  "symbol": "USDT",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/USDT--0x337610d27c682e347c9cd60bd4b3b107c9d34ddd/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

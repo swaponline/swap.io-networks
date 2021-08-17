@@ -1,0 +1,11 @@
+{
+  "name": "Pawtocol",
+  "address": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
+  "symbol": "UPI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UPI--0x70d2b7c19352bb76e4409858ff5746e500f2b67c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mothership",
+  "address": "0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+  "symbol": "MSP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MSP--0x68aa3f232da9bdc2343465545794ef3eea5209bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

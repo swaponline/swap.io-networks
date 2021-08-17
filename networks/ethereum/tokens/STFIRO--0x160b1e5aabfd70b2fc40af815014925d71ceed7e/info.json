@@ -1,0 +1,11 @@
+{
+  "name": "StakedFIRO",
+  "address": "0x160b1e5aabfd70b2fc40af815014925d71ceed7e",
+  "symbol": "STFIRO",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STFIRO--0x160b1e5aabfd70b2fc40af815014925d71ceed7e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

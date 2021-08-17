@@ -1,0 +1,11 @@
+{
+  "name": "FridayBeers",
+  "address": "0x573be8873cc39149e71b92918e73634acb3c54d5",
+  "symbol": "BEER",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEER--0x573be8873cc39149e71b92918e73634acb3c54d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

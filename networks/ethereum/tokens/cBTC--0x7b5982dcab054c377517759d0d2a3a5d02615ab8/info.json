@@ -1,0 +1,11 @@
+{
+  "name": "cVault.finance/cBTC",
+  "address": "0x7b5982dcab054c377517759d0d2a3a5d02615ab8",
+  "symbol": "cBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cBTC--0x7b5982dcab054c377517759d0d2a3a5d02615ab8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

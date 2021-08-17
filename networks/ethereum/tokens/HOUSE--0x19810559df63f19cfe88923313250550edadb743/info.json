@@ -1,0 +1,11 @@
+{
+  "name": "Toast finance",
+  "address": "0x19810559df63f19cfe88923313250550edadb743",
+  "symbol": "HOUSE",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HOUSE--0x19810559df63f19cfe88923313250550edadb743/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Touch Social",
+  "address": "0xd9bae39c725a1864b1133ad0ef1640d02f79b78c",
+  "symbol": "TST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TST--0xd9bae39c725a1864b1133ad0ef1640d02f79b78c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CreamDaiStablecoin",
+  "address": "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f",
+  "symbol": "crDAI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crDAI--0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

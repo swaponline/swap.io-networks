@@ -1,0 +1,11 @@
+{
+  "name": "Populous",
+  "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+  "symbol": "PPT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PPT--0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

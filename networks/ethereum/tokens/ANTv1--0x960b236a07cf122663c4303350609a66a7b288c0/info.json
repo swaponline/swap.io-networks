@@ -1,0 +1,11 @@
+{
+  "name": "AragonNetworkToken",
+  "address": "0x960b236a07cf122663c4303350609a66a7b288c0",
+  "symbol": "ANTv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ANTv1--0x960b236a07cf122663c4303350609a66a7b288c0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

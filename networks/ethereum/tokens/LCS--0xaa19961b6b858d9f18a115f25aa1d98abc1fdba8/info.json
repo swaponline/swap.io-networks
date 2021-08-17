@@ -1,0 +1,11 @@
+{
+  "name": "LocalCoinSwap",
+  "address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+  "symbol": "LCS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LCS--0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chicken",
+  "address": "0xe63684bcf2987892cefb4caa79bd21b34e98a291",
+  "symbol": "KFC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KFC--0xe63684bcf2987892cefb4caa79bd21b34e98a291/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

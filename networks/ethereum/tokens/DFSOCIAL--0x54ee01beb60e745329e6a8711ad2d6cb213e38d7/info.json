@@ -1,0 +1,11 @@
+{
+  "name": "DefiSocial",
+  "address": "0x54ee01beb60e745329e6a8711ad2d6cb213e38d7",
+  "symbol": "DFSOCIAL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFSOCIAL--0x54ee01beb60e745329e6a8711ad2d6cb213e38d7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

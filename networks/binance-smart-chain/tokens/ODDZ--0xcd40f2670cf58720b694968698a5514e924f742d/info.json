@@ -1,0 +1,11 @@
+{
+  "name": "Oddz",
+  "address": "0xcd40f2670cf58720b694968698a5514e924f742d",
+  "symbol": "ODDZ",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ODDZ--0xcd40f2670cf58720b694968698a5514e924f742d/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

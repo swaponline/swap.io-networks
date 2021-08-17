@@ -1,0 +1,11 @@
+{
+  "name": "ETHA",
+  "address": "0x59e9261255644c411afdd00bd89162d09d862e38",
+  "symbol": "ETHA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHA--0x59e9261255644c411afdd00bd89162d09d862e38/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bounce",
+  "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+  "symbol": "AUCTION",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AUCTION--0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yield LP BETH",
+  "address": "0x082413eb23e4b7ea36910125f02ce2475dad4d6b",
+  "symbol": "BORGBETH-LP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BORGBETH-LP--0x082413eb23e4b7ea36910125f02ce2475dad4d6b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

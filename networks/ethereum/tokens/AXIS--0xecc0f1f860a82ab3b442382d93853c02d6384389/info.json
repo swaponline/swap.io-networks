@@ -1,0 +1,11 @@
+{
+  "name": "Axis DeFi",
+  "address": "0xecc0f1f860a82ab3b442382d93853c02d6384389",
+  "symbol": "AXIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AXIS--0xecc0f1f860a82ab3b442382d93853c02d6384389/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

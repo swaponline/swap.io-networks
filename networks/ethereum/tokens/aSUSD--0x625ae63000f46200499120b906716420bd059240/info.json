@@ -1,0 +1,11 @@
+{
+  "name": "Aave SUSD",
+  "address": "0x625ae63000f46200499120b906716420bd059240",
+  "symbol": "aSUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aSUSD--0x625ae63000f46200499120b906716420bd059240/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

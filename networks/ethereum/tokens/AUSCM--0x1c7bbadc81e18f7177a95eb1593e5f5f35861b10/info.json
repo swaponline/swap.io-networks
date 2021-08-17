@@ -1,0 +1,11 @@
+{
+  "name": "Auric Network",
+  "address": "0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10",
+  "symbol": "AUSCM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AUSCM--0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

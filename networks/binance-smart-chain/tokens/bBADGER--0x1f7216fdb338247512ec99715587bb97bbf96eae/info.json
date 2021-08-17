@@ -1,0 +1,11 @@
+{
+  "name": "bBADGER",
+  "address": "0x1f7216fdb338247512ec99715587bb97bbf96eae",
+  "symbol": "bBADGER",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/bBADGER--0x1f7216fdb338247512ec99715587bb97bbf96eae/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

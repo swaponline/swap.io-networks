@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingMKR",
+  "address": "0xc713e5e149d5d0715dcd1c156a020976e7e56b88",
+  "symbol": "aMKR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aMKR--0xc713e5e149d5d0715dcd1c156a020976e7e56b88/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SynthsMSFT",
+  "address": "0x745a824d6abbd236aa794b5530062778a6ad7523",
+  "symbol": "sMSFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sMSFT--0x745a824d6abbd236aa794b5530062778a6ad7523/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

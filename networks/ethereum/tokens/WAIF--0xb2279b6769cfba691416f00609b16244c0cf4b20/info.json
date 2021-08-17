@@ -1,0 +1,11 @@
+{
+  "name": "Waifu Token",
+  "address": "0xb2279b6769cfba691416f00609b16244c0cf4b20",
+  "symbol": "WAIF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WAIF--0xb2279b6769cfba691416f00609b16244c0cf4b20/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GeoDBCoin",
+  "address": "0x147faf8de9d8d8daae129b187f0d02d819126750",
+  "symbol": "GEO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GEO--0x147faf8de9d8d8daae129b187f0d02d819126750/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

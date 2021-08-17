@@ -1,0 +1,11 @@
+{
+  "name": "Aludra Network",
+  "address": "0xb339fca531367067e98d7c4f9303ffeadff7b881",
+  "symbol": "ALD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALD--0xb339fca531367067e98d7c4f9303ffeadff7b881/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

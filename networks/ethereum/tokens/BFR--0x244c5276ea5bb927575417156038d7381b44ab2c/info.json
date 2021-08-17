@@ -1,0 +1,11 @@
+{
+  "name": "Bridge Finance",
+  "address": "0x244c5276ea5bb927575417156038d7381b44ab2c",
+  "symbol": "BFR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BFR--0x244c5276ea5bb927575417156038d7381b44ab2c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

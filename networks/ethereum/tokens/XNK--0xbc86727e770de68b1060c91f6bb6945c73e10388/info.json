@@ -1,0 +1,11 @@
+{
+  "name": "InkProtocol",
+  "address": "0xbc86727e770de68b1060c91f6bb6945c73e10388",
+  "symbol": "XNK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XNK--0xbc86727e770de68b1060c91f6bb6945c73e10388/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

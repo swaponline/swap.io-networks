@@ -1,0 +1,11 @@
+{
+  "name": "ZenfuseTradingPlatformToken",
+  "address": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+  "symbol": "ZEFU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZEFU--0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

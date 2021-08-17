@@ -1,0 +1,11 @@
+{
+  "name": "Token CashPay",
+  "address": "0x331a4589516eae384ea5f557853af6af73b9534e",
+  "symbol": "TCP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TCP--0x331a4589516eae384ea5f557853af6af73b9534e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

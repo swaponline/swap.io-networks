@@ -1,0 +1,11 @@
+{
+  "name": "Onigiri",
+  "address": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+  "symbol": "ONIGIRI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONIGIRI--0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

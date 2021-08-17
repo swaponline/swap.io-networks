@@ -1,0 +1,11 @@
+{
+  "name": "Polkabase",
+  "address": "0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b",
+  "symbol": "PBASE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PBASE--0x44b537b6f94c73a54f7bf8a9b68f8125da3c330b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

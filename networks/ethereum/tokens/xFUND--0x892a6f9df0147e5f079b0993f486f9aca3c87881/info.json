@@ -1,0 +1,11 @@
+{
+  "name": "xFund",
+  "address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
+  "symbol": "XFUND",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XFUND--0x892a6f9df0147e5f079b0993f486f9aca3c87881/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

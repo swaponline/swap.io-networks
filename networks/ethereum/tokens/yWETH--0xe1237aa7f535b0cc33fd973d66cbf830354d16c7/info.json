@@ -1,0 +1,11 @@
+{
+  "name": "yearnWrappedEther",
+  "address": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7",
+  "symbol": "yWETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yWETH--0xe1237aa7f535b0cc33fd973d66cbf830354d16c7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VBTC",
+  "address": "0xe1406825186d63980fd6e2ec61888f7b91c4bae4",
+  "symbol": "VBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VBTC--0xe1406825186d63980fd6e2ec61888f7b91c4bae4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

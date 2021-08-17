@@ -1,0 +1,11 @@
+{
+  "name": "DXdao",
+  "address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+  "symbol": "DXD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DXD--0xa1d65e8fb6e87b60feccbc582f7f97804b725521/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

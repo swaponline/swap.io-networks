@@ -1,0 +1,11 @@
+{
+  "name": "FC Bitcoin",
+  "address": "0x4c6e796bbfe5eb37f9e3e0f66c009c8bf2a5f428",
+  "symbol": "FCBTC",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FCBTC--0x4c6e796bbfe5eb37f9e3e0f66c009c8bf2a5f428/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

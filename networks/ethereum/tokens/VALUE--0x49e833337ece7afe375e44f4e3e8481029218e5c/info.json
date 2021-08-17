@@ -1,0 +1,11 @@
+{
+  "name": "ValueLiquidity",
+  "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+  "symbol": "VALUE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VALUE--0x49e833337ece7afe375e44f4e3e8481029218e5c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

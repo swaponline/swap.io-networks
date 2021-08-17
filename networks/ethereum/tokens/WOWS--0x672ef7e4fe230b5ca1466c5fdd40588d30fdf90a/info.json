@@ -1,0 +1,11 @@
+{
+  "name": "Wolves of Wall Stre",
+  "address": "0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a",
+  "symbol": "WOWS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WOWS--0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

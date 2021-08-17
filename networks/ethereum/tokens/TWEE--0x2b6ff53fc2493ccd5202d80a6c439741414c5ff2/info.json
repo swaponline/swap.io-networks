@@ -1,0 +1,11 @@
+{
+  "name": "Tweebaa",
+  "address": "0x2b6ff53fc2493ccd5202d80a6c439741414c5ff2",
+  "symbol": "TWEE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TWEE--0x2b6ff53fc2493ccd5202d80a6c439741414c5ff2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

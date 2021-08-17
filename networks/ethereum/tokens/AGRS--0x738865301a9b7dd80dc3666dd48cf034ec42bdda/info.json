@@ -1,0 +1,11 @@
+{
+  "name": "Agoras Token",
+  "address": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+  "symbol": "AGRS",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AGRS--0x738865301a9b7dd80dc3666dd48cf034ec42bdda/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

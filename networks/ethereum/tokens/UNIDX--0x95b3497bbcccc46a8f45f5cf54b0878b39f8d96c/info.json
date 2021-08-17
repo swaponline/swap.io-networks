@@ -1,0 +1,11 @@
+{
+  "name": "UniDex",
+  "address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+  "symbol": "UNIDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNIDX--0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

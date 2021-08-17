@@ -1,0 +1,11 @@
+{
+  "name": "bDollar",
+  "address": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+  "symbol": "BDO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BDO--0x190b589cf9fb8ddeabbfeae36a813ffb2a702454/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

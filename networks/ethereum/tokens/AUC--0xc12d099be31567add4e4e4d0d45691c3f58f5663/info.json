@@ -1,0 +1,11 @@
+{
+  "name": "Auctus",
+  "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+  "symbol": "AUC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AUC--0xc12d099be31567add4e4e4d0d45691c3f58f5663/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

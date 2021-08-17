@@ -1,0 +1,11 @@
+{
+  "name": "Moon Juice",
+  "address": "0x889efb523cc39590b8483eb9491890ac71407f64",
+  "symbol": "JUICE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JUICE--0x889efb523cc39590b8483eb9491890ac71407f64/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

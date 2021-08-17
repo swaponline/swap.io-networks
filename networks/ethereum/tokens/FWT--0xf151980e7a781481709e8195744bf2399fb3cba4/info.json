@@ -1,0 +1,11 @@
+{
+  "name": "Freeway Token",
+  "address": "0xf151980e7a781481709e8195744bf2399fb3cba4",
+  "symbol": "FWT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FWT--0xf151980e7a781481709e8195744bf2399fb3cba4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

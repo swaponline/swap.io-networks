@@ -1,0 +1,11 @@
+{
+  "name": "Vault Guardian Toke",
+  "address": "0xcc394f10545aeef24483d2347b32a34a44f20e6f",
+  "symbol": "VGT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VGT--0xcc394f10545aeef24483d2347b32a34a44f20e6f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

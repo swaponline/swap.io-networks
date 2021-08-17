@@ -1,0 +1,11 @@
+{
+  "name": "VortexDeFi",
+  "address": "0xceb286c9604c542d3cc08b41aa6c9675b078a832",
+  "symbol": "VTX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VTX--0xceb286c9604c542d3cc08b41aa6c9675b078a832/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

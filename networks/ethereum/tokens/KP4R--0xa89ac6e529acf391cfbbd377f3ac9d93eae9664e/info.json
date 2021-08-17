@@ -1,0 +1,11 @@
+{
+  "name": "Keep4r",
+  "address": "0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e",
+  "symbol": "KP4R",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KP4R--0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ZINC",
+  "address": "0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea",
+  "symbol": "ZINC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZINC--0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SynthsBTC",
+  "address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+  "symbol": "sBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sBTC--0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

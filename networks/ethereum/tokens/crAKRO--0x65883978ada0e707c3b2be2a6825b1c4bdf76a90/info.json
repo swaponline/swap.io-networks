@@ -1,0 +1,11 @@
+{
+  "name": "CreamAkropolis",
+  "address": "0x65883978ada0e707c3b2be2a6825b1c4bdf76a90",
+  "symbol": "crAKRO",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crAKRO--0x65883978ada0e707c3b2be2a6825b1c4bdf76a90/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

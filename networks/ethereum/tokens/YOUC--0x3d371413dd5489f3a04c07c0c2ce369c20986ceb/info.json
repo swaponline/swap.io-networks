@@ -1,0 +1,11 @@
+{
+  "name": "YOUcash",
+  "address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
+  "symbol": "YOUC",
+  "decimals": 10,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YOUC--0x3d371413dd5489f3a04c07c0c2ce369c20986ceb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

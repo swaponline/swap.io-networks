@@ -1,0 +1,11 @@
+{
+  "name": "Crypto Accept",
+  "address": "0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645",
+  "symbol": "ACPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ACPT--0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PlayKey",
+  "address": "0x2604fa406be957e542beb89e6754fcde6815e83f",
+  "symbol": "PKT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PKT--0x2604fa406be957e542beb89e6754fcde6815e83f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

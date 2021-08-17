@@ -1,0 +1,11 @@
+{
+  "name": "USDA",
+  "address": "0x3c7b464376db7c9927930cf50eefdea2eff3a66a",
+  "symbol": "USDA",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDA--0x3c7b464376db7c9927930cf50eefdea2eff3a66a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

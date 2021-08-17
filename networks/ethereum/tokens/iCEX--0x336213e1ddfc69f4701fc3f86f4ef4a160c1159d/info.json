@@ -1,0 +1,11 @@
+{
+  "name": "SynthiCEX",
+  "address": "0x336213e1ddfc69f4701fc3f86f4ef4a160c1159d",
+  "symbol": "iCEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iCEX--0x336213e1ddfc69f4701fc3f86f4ef4a160c1159d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

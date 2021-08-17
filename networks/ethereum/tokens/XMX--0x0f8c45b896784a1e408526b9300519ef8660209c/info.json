@@ -1,0 +1,11 @@
+{
+  "name": "XMax",
+  "address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
+  "symbol": "XMX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XMX--0x0f8c45b896784a1e408526b9300519ef8660209c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

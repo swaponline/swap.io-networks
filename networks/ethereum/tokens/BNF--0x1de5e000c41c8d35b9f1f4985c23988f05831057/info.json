@@ -1,0 +1,11 @@
+{
+  "name": "BonFi",
+  "address": "0x1de5e000c41c8d35b9f1f4985c23988f05831057",
+  "symbol": "BNF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BNF--0x1de5e000c41c8d35b9f1f4985c23988f05831057/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

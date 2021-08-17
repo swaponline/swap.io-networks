@@ -1,0 +1,11 @@
+{
+  "name": "Graviton",
+  "address": "0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d",
+  "symbol": "GTON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GTON--0x01e0e2e61f554ecaaec0cc933e739ad90f24a86d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

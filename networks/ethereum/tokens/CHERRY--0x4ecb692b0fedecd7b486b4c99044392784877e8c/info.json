@@ -1,0 +1,11 @@
+{
+  "name": "Cherry",
+  "address": "0x4ecb692b0fedecd7b486b4c99044392784877e8c",
+  "symbol": "CHERRY",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHERRY--0x4ecb692b0fedecd7b486b4c99044392784877e8c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

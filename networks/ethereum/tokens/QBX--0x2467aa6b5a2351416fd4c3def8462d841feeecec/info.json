@@ -1,0 +1,11 @@
+{
+  "name": "qiibee",
+  "address": "0x2467aa6b5a2351416fd4c3def8462d841feeecec",
+  "symbol": "QBX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QBX--0x2467aa6b5a2351416fd4c3def8462d841feeecec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

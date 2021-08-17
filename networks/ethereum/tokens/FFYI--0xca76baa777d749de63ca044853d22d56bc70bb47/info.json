@@ -1,0 +1,11 @@
+{
+  "name": "Fiscus FYI",
+  "address": "0xca76baa777d749de63ca044853d22d56bc70bb47",
+  "symbol": "FFYI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FFYI--0xca76baa777d749de63ca044853d22d56bc70bb47/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Prometeus",
+  "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+  "symbol": "PROM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PROM--0xfc82bb4ba86045af6f327323a46e80412b91b27d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

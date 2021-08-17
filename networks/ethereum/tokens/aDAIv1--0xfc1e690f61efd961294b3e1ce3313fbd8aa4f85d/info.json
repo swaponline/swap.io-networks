@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingDAI",
+  "address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
+  "symbol": "aDAIv1",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aDAIv1--0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ZeroSwapToken",
+  "address": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5",
+  "symbol": "ZEE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZEE--0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

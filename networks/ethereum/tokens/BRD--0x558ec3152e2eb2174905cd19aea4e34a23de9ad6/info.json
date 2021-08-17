@@ -1,0 +1,11 @@
+{
+  "name": "Bread",
+  "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+  "symbol": "BRD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BRD--0x558ec3152e2eb2174905cd19aea4e34a23de9ad6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

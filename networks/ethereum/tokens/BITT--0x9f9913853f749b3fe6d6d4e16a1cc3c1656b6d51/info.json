@@ -1,0 +1,11 @@
+{
+  "name": "BITToken",
+  "address": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
+  "symbol": "BITT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BITT--0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

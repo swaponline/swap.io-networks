@@ -1,0 +1,11 @@
+{
+  "name": "USDx Stablecoin",
+  "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+  "symbol": "USDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDX--0xeb269732ab75a6fd61ea60b06fe994cd32a83549/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

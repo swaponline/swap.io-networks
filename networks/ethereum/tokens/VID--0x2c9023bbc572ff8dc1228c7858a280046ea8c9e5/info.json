@@ -1,0 +1,11 @@
+{
+  "name": "VideoCoin",
+  "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+  "symbol": "VID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VID--0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

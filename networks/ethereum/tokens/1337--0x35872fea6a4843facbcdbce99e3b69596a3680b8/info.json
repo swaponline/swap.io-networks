@@ -1,0 +1,11 @@
+{
+  "name": "1337",
+  "address": "0x35872fea6a4843facbcdbce99e3b69596a3680b8",
+  "symbol": "1337",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/1337--0x35872fea6a4843facbcdbce99e3b69596a3680b8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

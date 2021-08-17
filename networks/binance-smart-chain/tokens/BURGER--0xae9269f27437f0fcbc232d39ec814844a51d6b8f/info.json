@@ -1,0 +1,11 @@
+{
+  "name": "Burger Swap",
+  "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+  "symbol": "BURGER",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BURGER--0xae9269f27437f0fcbc232d39ec814844a51d6b8f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

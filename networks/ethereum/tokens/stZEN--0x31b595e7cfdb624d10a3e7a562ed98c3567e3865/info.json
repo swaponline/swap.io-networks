@@ -1,0 +1,11 @@
+{
+  "name": "stakedZEN",
+  "address": "0x31b595e7cfdb624d10a3e7a562ed98c3567e3865",
+  "symbol": "stZEN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/stZEN--0x31b595e7cfdb624d10a3e7a562ed98c3567e3865/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

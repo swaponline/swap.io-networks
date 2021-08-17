@@ -1,0 +1,11 @@
+{
+  "name": "Mobius Crypto",
+  "address": "0x29f6e320dbdbf1f5ebf599d36242634739a24609",
+  "symbol": "MOBI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MOBI--0x29f6e320dbdbf1f5ebf599d36242634739a24609/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

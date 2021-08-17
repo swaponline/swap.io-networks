@@ -1,0 +1,11 @@
+{
+  "name": "Energy Ledger",
+  "address": "0x9048c33c7bae0bbe9ad702b17b4453a83900d154",
+  "symbol": "ELX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ELX--0x9048c33c7bae0bbe9ad702b17b4453a83900d154/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Klingon Token",
+  "address": "0xf6527df4592bd17cf5c697330f38781fefe7def6",
+  "symbol": "KLING",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/KLING--0xf6527df4592bd17cf5c697330f38781fefe7def6/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

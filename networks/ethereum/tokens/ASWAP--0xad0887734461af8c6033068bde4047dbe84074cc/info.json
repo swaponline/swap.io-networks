@@ -1,0 +1,11 @@
+{
+  "name": "Arbiswap",
+  "address": "0xad0887734461af8c6033068bde4047dbe84074cc",
+  "symbol": "ASWAP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ASWAP--0xad0887734461af8c6033068bde4047dbe84074cc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

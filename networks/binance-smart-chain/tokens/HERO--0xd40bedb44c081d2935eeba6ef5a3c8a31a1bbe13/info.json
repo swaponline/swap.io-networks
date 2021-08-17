@@ -1,0 +1,11 @@
+{
+  "name": "MetaHero",
+  "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+  "symbol": "HERO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HERO--0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

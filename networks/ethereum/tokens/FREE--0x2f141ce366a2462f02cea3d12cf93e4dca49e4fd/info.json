@@ -1,0 +1,11 @@
+{
+  "name": "FREE coin",
+  "address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+  "symbol": "FREE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FREE--0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

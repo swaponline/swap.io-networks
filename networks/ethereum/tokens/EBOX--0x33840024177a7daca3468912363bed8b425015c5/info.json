@@ -1,0 +1,11 @@
+{
+  "name": "ethboxToken",
+  "address": "0x33840024177a7daca3468912363bed8b425015c5",
+  "symbol": "EBOX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EBOX--0x33840024177a7daca3468912363bed8b425015c5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

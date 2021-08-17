@@ -1,0 +1,11 @@
+{
+  "name": "Harrison First",
+  "address": "0x9903a4cd589da8e434f264deafc406836418578e",
+  "symbol": "FIRST",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FIRST--0x9903a4cd589da8e434f264deafc406836418578e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

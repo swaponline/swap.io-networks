@@ -1,0 +1,11 @@
+{
+  "name": "CADCoin",
+  "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+  "symbol": "CADC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CADC--0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

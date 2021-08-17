@@ -1,0 +1,11 @@
+{
+  "name": "BitDNS",
+  "address": "0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196",
+  "symbol": "DNS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DNS--0x17c090f9a17e4e5a8ceb23bbe7e7e28e3c4ca196/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

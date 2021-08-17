@@ -1,0 +1,11 @@
+{
+  "name": "SOMIDAX",
+  "address": "0x7e8539d1e5cb91d63e46b8e188403b3f262a949b",
+  "symbol": "SMDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SMDX--0x7e8539d1e5cb91d63e46b8e188403b3f262a949b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

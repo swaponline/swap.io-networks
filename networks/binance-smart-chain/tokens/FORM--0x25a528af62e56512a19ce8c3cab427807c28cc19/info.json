@@ -1,0 +1,11 @@
+{
+  "name": "Formation Finance",
+  "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
+  "symbol": "FORM",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/FORM--0x25a528af62e56512a19ce8c3cab427807c28cc19/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

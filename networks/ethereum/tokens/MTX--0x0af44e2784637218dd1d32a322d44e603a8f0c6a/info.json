@@ -1,0 +1,11 @@
+{
+  "name": "MATRYX",
+  "address": "0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+  "symbol": "MTX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MTX--0x0af44e2784637218dd1d32a322d44e603a8f0c6a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

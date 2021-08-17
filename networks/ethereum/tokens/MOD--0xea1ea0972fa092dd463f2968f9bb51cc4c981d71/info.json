@@ -1,0 +1,11 @@
+{
+  "name": "Modefi",
+  "address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+  "symbol": "MOD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MOD--0xea1ea0972fa092dd463f2968f9bb51cc4c981d71/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

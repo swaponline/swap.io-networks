@@ -1,0 +1,11 @@
+{
+  "name": "shroom.finance",
+  "address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+  "symbol": "SHROOM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHROOM--0xed0439eacf4c4965ae4613d77a5c2efe10e5f183/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

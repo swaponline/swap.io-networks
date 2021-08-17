@@ -1,0 +1,11 @@
+{
+  "name": "Ankr",
+  "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+  "symbol": "ANKR",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ANKR--0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aleph.imv2",
+  "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+  "symbol": "ALEPH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALEPH--0x27702a26126e0b3702af63ee09ac4d1a084ef628/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

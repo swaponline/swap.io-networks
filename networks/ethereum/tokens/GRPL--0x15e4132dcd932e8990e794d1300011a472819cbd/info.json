@@ -1,0 +1,11 @@
+{
+  "name": "GRPL Finance",
+  "address": "0x15e4132dcd932e8990e794d1300011a472819cbd",
+  "symbol": "GRPL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GRPL--0x15e4132dcd932e8990e794d1300011a472819cbd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

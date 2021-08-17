@@ -1,0 +1,11 @@
+{
+  "name": "BankrollVault",
+  "address": "0x6b785a0322126826d8226d77e173d75dafb84d11",
+  "symbol": "VLT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VLT--0x6b785a0322126826d8226d77e173d75dafb84d11/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

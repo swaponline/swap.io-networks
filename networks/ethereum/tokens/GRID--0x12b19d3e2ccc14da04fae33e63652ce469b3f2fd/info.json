@@ -1,0 +1,11 @@
+{
+  "name": "GRID",
+  "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+  "symbol": "GRID",
+  "decimals": 12,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GRID--0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

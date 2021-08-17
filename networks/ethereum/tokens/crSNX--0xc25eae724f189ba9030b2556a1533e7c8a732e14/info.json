@@ -1,0 +1,11 @@
+{
+  "name": "CreamSynthetixNetworkToken",
+  "address": "0xc25eae724f189ba9030b2556a1533e7c8a732e14",
+  "symbol": "crSNX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSNX--0xc25eae724f189ba9030b2556a1533e7c8a732e14/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

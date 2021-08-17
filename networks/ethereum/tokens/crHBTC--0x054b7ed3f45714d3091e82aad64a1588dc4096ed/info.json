@@ -1,0 +1,11 @@
+{
+  "name": "CreamHuobiBTC",
+  "address": "0x054b7ed3f45714d3091e82aad64a1588dc4096ed",
+  "symbol": "crHBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crHBTC--0x054b7ed3f45714d3091e82aad64a1588dc4096ed/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

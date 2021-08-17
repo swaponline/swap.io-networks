@@ -1,0 +1,11 @@
+{
+  "name": "TrustlinesNetworkToken",
+  "address": "0x679131f591b4f369acb8cd8c51e68596806c3916",
+  "symbol": "TLN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TLN--0x679131f591b4f369acb8cd8c51e68596806c3916/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

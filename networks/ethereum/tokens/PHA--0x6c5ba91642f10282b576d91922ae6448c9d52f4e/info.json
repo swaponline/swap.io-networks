@@ -1,0 +1,11 @@
+{
+  "name": "Phala",
+  "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+  "symbol": "PHA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PHA--0x6c5ba91642f10282b576d91922ae6448c9d52f4e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

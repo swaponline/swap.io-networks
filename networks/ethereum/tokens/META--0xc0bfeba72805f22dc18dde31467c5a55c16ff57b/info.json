@@ -1,0 +1,11 @@
+{
+  "name": "The MetaONEz",
+  "address": "0xc0bfeba72805f22dc18dde31467c5a55c16ff57b",
+  "symbol": "META",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/META--0xc0bfeba72805f22dc18dde31467c5a55c16ff57b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

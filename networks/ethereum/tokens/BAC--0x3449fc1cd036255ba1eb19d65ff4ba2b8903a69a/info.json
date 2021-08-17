@@ -1,0 +1,11 @@
+{
+  "name": "BAC",
+  "address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+  "symbol": "BAC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAC--0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

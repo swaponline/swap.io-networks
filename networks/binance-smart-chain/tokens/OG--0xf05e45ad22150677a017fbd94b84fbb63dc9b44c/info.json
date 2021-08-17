@@ -1,0 +1,11 @@
+{
+  "name": "OG",
+  "address": "0xf05e45ad22150677a017fbd94b84fbb63dc9b44c",
+  "symbol": "OG",
+  "decimals": 2,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/OG--0xf05e45ad22150677a017fbd94b84fbb63dc9b44c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

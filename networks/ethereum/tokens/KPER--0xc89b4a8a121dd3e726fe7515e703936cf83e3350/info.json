@@ -1,0 +1,11 @@
+{
+  "name": "Kper Network",
+  "address": "0xc89b4a8a121dd3e726fe7515e703936cf83e3350",
+  "symbol": "KPER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KPER--0xc89b4a8a121dd3e726fe7515e703936cf83e3350/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

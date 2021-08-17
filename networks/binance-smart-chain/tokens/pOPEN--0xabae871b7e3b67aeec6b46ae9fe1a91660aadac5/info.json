@@ -1,0 +1,11 @@
+{
+  "name": "pTokens OPEN",
+  "address": "0xabae871b7e3b67aeec6b46ae9fe1a91660aadac5",
+  "symbol": "pOPEN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/pOPEN--0xabae871b7e3b67aeec6b46ae9fe1a91660aadac5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

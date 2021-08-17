@@ -1,0 +1,11 @@
+{
+  "name": "BPOP",
+  "address": "0x0452aed878805514e28fb5bd0b56bef92176e32a",
+  "symbol": "BPOP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BPOP--0x0452aed878805514e28fb5bd0b56bef92176e32a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

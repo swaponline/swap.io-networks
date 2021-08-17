@@ -1,0 +1,11 @@
+{
+  "name": "Sharder protocol",
+  "address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+  "symbol": "SS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SS--0xbbff862d906e348e9946bfb2132ecb157da3d4b4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

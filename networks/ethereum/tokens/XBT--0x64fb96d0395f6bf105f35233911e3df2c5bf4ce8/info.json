@@ -1,0 +1,11 @@
+{
+  "name": "Elastic Bitcoin",
+  "address": "0x64fb96d0395f6bf105f35233911e3df2c5bf4ce8",
+  "symbol": "XBT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XBT--0x64fb96d0395f6bf105f35233911e3df2c5bf4ce8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

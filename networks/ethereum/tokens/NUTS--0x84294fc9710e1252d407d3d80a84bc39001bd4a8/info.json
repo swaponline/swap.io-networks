@@ -1,0 +1,11 @@
+{
+  "name": "Squirrel Finance",
+  "address": "0x84294fc9710e1252d407d3d80a84bc39001bd4a8",
+  "symbol": "NUTS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NUTS--0x84294fc9710e1252d407d3d80a84bc39001bd4a8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

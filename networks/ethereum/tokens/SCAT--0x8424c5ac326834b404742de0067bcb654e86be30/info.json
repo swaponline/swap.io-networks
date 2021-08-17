@@ -1,0 +1,11 @@
+{
+  "name": "Sad Cat Token",
+  "address": "0x8424c5ac326834b404742de0067bcb654e86be30",
+  "symbol": "SCAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SCAT--0x8424c5ac326834b404742de0067bcb654e86be30/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

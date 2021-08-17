@@ -1,0 +1,11 @@
+{
+  "name": "Swipe",
+  "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+  "symbol": "SXP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SXP--0x47bead2563dcbf3bf2c9407fea4dc236faba485a/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SynthsCEX",
+  "address": "0xeabacd844a196d7faf3ce596edebf9900341b420",
+  "symbol": "sCEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sCEX--0xeabacd844a196d7faf3ce596edebf9900341b420/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

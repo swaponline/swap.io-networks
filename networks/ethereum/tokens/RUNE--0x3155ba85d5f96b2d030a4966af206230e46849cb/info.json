@@ -1,0 +1,11 @@
+{
+  "name": "THORChainETH.RUNE",
+  "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+  "symbol": "RUNE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RUNE--0x3155ba85d5f96b2d030a4966af206230e46849cb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

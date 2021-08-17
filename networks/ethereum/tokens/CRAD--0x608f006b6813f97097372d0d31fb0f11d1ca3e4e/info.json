@@ -1,0 +1,11 @@
+{
+  "name": "CryptoAds Marketpla",
+  "address": "0x608f006b6813f97097372d0d31fb0f11d1ca3e4e",
+  "symbol": "CRAD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRAD--0x608f006b6813f97097372d0d31fb0f11d1ca3e4e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

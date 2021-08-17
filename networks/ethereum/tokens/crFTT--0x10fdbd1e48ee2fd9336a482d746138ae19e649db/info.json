@@ -1,0 +1,11 @@
+{
+  "name": "CreamFTXToken",
+  "address": "0x10fdbd1e48ee2fd9336a482d746138ae19e649db",
+  "symbol": "crFTT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crFTT--0x10fdbd1e48ee2fd9336a482d746138ae19e649db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

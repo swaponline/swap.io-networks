@@ -1,0 +1,11 @@
+{
+  "name": "ROPE",
+  "address": "0x9d47894f8becb68b9cf3428d256311affe8b068b",
+  "symbol": "ROPE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROPE--0x9d47894f8becb68b9cf3428d256311affe8b068b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

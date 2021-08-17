@@ -1,0 +1,11 @@
+{
+  "name": "FreelancerChain",
+  "address": "0x051aab38d46f6ebb551752831c7280b2b42164db",
+  "symbol": "FCN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FCN--0x051aab38d46f6ebb551752831c7280b2b42164db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

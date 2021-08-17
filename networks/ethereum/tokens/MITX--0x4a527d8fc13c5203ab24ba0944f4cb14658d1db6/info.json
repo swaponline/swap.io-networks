@@ -1,0 +1,11 @@
+{
+  "name": "Morpheus Labs",
+  "address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+  "symbol": "MITX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MITX--0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TAMA EGG NiftyGotch",
+  "address": "0x6e742e29395cf5736c358538f0f1372ab3dfe731",
+  "symbol": "TME",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TME--0x6e742e29395cf5736c358538f0f1372ab3dfe731/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

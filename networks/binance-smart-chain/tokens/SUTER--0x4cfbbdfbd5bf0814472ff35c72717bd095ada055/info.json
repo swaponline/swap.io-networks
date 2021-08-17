@@ -1,0 +1,11 @@
+{
+  "name": "Suterusu",
+  "address": "0x4cfbbdfbd5bf0814472ff35c72717bd095ada055",
+  "symbol": "SUTER",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SUTER--0x4cfbbdfbd5bf0814472ff35c72717bd095ada055/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

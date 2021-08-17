@@ -1,0 +1,11 @@
+{
+  "name": "R34P",
+  "address": "0xcaeaf8381d4b20b43afa42061d6f80319a8881f6",
+  "symbol": "R34P",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/R34P--0xcaeaf8381d4b20b43afa42061d6f80319a8881f6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

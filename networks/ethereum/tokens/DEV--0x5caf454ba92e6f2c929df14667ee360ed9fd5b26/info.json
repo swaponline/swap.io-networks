@@ -1,0 +1,11 @@
+{
+  "name": "Dev",
+  "address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+  "symbol": "DEV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEV--0x5caf454ba92e6f2c929df14667ee360ed9fd5b26/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

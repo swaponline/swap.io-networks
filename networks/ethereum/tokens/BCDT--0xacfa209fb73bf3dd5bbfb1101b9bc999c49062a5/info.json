@@ -1,0 +1,11 @@
+{
+  "name": "BlockchainCertifiedDataToken",
+  "address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+  "symbol": "BCDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BCDT--0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

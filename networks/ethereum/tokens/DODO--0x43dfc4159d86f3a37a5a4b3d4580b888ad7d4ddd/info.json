@@ -1,0 +1,11 @@
+{
+  "name": "DODObird",
+  "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+  "symbol": "DODO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DODO--0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

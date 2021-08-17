@@ -1,0 +1,11 @@
+{
+  "name": "Truample",
+  "address": "0x52132a43d7cae69b23abe77b226fa1a5bc66b839",
+  "symbol": "TMPL",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TMPL--0x52132a43d7cae69b23abe77b226fa1a5bc66b839/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

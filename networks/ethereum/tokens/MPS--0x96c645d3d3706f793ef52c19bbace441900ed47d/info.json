@@ -1,0 +1,11 @@
+{
+  "name": "Mt Pelerin Shares",
+  "address": "0x96c645d3d3706f793ef52c19bbace441900ed47d",
+  "symbol": "MPS",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MPS--0x96c645d3d3706f793ef52c19bbace441900ed47d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

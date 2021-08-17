@@ -1,0 +1,11 @@
+{
+  "name": "Narwhale",
+  "address": "0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793",
+  "symbol": "NAWA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NAWA--0x7d529a5b3c41126760a0fa3c1a9652d8a7a07793/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

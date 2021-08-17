@@ -1,0 +1,11 @@
+{
+  "name": "Crypto User Base",
+  "address": "0xa8892bfc33fa44053a9e402b1839966f4fec74a4",
+  "symbol": "CUB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CUB--0xa8892bfc33fa44053a9e402b1839966f4fec74a4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

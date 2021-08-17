@@ -1,0 +1,11 @@
+{
+  "name": "OpenPredictToken",
+  "address": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda",
+  "symbol": "OPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OPT--0x4fe5851c9af07df9e5ad8217afae1ea72737ebda/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

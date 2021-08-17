@@ -1,0 +1,11 @@
+{
+  "name": "Sogur",
+  "address": "0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524",
+  "symbol": "SGR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SGR--0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

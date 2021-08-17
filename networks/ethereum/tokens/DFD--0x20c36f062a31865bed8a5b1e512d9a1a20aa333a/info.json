@@ -1,0 +1,11 @@
+{
+  "name": "DefiDollarDAO",
+  "address": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+  "symbol": "DFD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFD--0x20c36f062a31865bed8a5b1e512d9a1a20aa333a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

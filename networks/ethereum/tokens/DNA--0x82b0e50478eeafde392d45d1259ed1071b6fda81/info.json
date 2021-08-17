@@ -1,0 +1,11 @@
+{
+  "name": "EncrypGen",
+  "address": "0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+  "symbol": "DNA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DNA--0x82b0e50478eeafde392d45d1259ed1071b6fda81/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

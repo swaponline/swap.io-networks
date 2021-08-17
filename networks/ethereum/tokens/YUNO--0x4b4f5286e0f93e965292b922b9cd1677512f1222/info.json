@@ -1,0 +1,11 @@
+{
+  "name": "YUNo Finance",
+  "address": "0x4b4f5286e0f93e965292b922b9cd1677512f1222",
+  "symbol": "YUNO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YUNO--0x4b4f5286e0f93e965292b922b9cd1677512f1222/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

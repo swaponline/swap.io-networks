@@ -1,0 +1,11 @@
+{
+  "name": "RobonomicsWebServicesV1",
+  "address": "0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+  "symbol": "RWS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RWS--0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Green Light",
+  "address": "0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d",
+  "symbol": "GL",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GL--0x70fadbe1f2cccbaf98ac88fdcf94a0509a48e46d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

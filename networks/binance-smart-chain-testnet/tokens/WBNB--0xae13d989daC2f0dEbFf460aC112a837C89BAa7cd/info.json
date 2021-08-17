@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BNB",
+  "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/WBNB--0xae13d989dac2f0debff460ac112a837c89baa7cd/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

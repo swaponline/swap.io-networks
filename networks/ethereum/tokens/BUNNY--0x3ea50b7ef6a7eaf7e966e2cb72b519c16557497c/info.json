@@ -1,0 +1,11 @@
+{
+  "name": "Rocket Bunny",
+  "address": "0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c",
+  "symbol": "BUNNY",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BUNNY--0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

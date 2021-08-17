@@ -1,0 +1,11 @@
+{
+  "name": "ShipChainSHIP",
+  "address": "0xe25b0bba01dc5630312b6a21927e578061a13f55",
+  "symbol": "SHIP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHIP--0xe25b0bba01dc5630312b6a21927e578061a13f55/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bella Protocol",
+  "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+  "symbol": "BEL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

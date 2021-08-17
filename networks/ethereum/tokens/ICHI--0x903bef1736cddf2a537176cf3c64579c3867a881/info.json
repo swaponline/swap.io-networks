@@ -1,0 +1,11 @@
+{
+  "name": "ichi.farm",
+  "address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+  "symbol": "ICHI",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ICHI--0x903bef1736cddf2a537176cf3c64579c3867a881/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

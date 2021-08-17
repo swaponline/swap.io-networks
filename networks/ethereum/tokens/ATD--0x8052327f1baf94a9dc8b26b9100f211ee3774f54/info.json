@@ -1,0 +1,11 @@
+{
+  "name": "A2DAO",
+  "address": "0x8052327f1baf94a9dc8b26b9100f211ee3774f54",
+  "symbol": "ATD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ATD--0x8052327f1baf94a9dc8b26b9100f211ee3774f54/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OKB",
+  "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+  "symbol": "OKB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OKB--0x75231f58b43240c9718dd58b4967c5114342a86c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

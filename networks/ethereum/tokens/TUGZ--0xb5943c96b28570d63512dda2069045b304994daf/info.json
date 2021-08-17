@@ -1,0 +1,11 @@
+{
+  "name": "Tugz",
+  "address": "0xb5943c96b28570d63512dda2069045b304994daf",
+  "symbol": "TUGZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TUGZ--0xb5943c96b28570d63512dda2069045b304994daf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

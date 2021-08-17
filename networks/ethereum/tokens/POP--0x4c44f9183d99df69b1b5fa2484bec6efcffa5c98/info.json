@@ -1,0 +1,11 @@
+{
+  "name": "POP",
+  "address": "0x4c44f9183d99df69b1b5fa2484bec6efcffa5c98",
+  "symbol": "POP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POP--0x4c44f9183d99df69b1b5fa2484bec6efcffa5c98/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

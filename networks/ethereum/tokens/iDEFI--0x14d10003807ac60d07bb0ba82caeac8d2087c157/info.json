@@ -1,0 +1,11 @@
+{
+  "name": "SynthiDEFI",
+  "address": "0x14d10003807ac60d07bb0ba82caeac8d2087c157",
+  "symbol": "iDEFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iDEFI--0x14d10003807ac60d07bb0ba82caeac8d2087c157/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

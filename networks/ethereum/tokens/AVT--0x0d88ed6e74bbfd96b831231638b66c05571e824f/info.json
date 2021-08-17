@@ -1,0 +1,11 @@
+{
+  "name": "Aventus",
+  "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+  "symbol": "AVT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AVT--0x0d88ed6e74bbfd96b831231638b66c05571e824f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

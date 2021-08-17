@@ -4,6 +4,6 @@
   "symbol": "WBTC",
   "decimals": 8,
   "chainId": 3,
-  "logo": "./networks/ethereum-ropsten/tokens/WBTC--0xb92eaD9C545Fe04030FD3412a59e42FdB57431f5/logo.svg",
+  "logo": "/networks/ethereum-ropsten/tokens/WBTC--0xb92eaD9C545Fe04030FD3412a59e42FdB57431f5/logo.svg",
   "tags": ["erc20"]
 }

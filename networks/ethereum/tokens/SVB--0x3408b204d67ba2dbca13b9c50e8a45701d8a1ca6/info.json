@@ -1,0 +1,11 @@
+{
+  "name": "Sendvibe",
+  "address": "0x3408b204d67ba2dbca13b9c50e8a45701d8a1ca6",
+  "symbol": "SVB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SVB--0x3408b204d67ba2dbca13b9c50e8a45701d8a1ca6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

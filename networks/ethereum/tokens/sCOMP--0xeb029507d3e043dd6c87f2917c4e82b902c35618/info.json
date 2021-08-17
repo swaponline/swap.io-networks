@@ -1,0 +1,11 @@
+{
+  "name": "SynthsCOMP",
+  "address": "0xeb029507d3e043dd6c87f2917c4e82b902c35618",
+  "symbol": "sCOMP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sCOMP--0xeb029507d3e043dd6c87f2917c4e82b902c35618/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

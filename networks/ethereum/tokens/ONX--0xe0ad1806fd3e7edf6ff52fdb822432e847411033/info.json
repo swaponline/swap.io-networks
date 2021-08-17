@@ -1,0 +1,11 @@
+{
+  "name": "OnX.finance",
+  "address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+  "symbol": "ONX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONX--0xe0ad1806fd3e7edf6ff52fdb822432e847411033/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

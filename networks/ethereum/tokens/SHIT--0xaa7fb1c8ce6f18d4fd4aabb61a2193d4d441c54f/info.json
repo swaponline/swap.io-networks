@@ -1,0 +1,11 @@
+{
+  "name": "ShitCoin",
+  "address": "0xaa7fb1c8ce6f18d4fd4aabb61a2193d4d441c54f",
+  "symbol": "SHIT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHIT--0xaa7fb1c8ce6f18d4fd4aabb61a2193d4d441c54f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

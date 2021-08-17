@@ -1,0 +1,11 @@
+{
+  "name": "Hakka Finance",
+  "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac",
+  "symbol": "HAKKA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HAKKA--0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

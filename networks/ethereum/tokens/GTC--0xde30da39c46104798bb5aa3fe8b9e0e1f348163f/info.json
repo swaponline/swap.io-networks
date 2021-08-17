@@ -1,0 +1,11 @@
+{
+  "name": "Gitcoin",
+  "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+  "symbol": "GTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GTC--0xde30da39c46104798bb5aa3fe8b9e0e1f348163f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

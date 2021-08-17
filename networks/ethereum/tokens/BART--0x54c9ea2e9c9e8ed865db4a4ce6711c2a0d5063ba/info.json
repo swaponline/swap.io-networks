@@ -1,0 +1,11 @@
+{
+  "name": "BarterTrade",
+  "address": "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba",
+  "symbol": "BART",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BART--0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

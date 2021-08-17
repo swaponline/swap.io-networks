@@ -1,0 +1,11 @@
+{
+  "name": "Yoink",
+  "address": "0x87c00817abe35ed4c093e59043fae488238d2f74",
+  "symbol": "YNK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YNK--0x87c00817abe35ed4c093e59043fae488238d2f74/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YUI Finance",
+  "address": "0x4c10bd19688b906665fbd53415f279f34b44ece7",
+  "symbol": "YUI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YUI--0x4c10bd19688b906665fbd53415f279f34b44ece7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "updateTokens": "ts-node ./scripts/entrypoint/updateTokens"
+    "updateTokens": "ts-node ./scripts/entrypoint/updateTokens",
+    "syncExternalTokens": "ts-node ./scripts/entrypoint/syncUniqExternalTokensLists"
   },
   "repository": {
     "type": "git",

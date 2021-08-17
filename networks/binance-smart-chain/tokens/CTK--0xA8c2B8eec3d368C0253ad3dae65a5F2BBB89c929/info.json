@@ -1,0 +1,11 @@
+{
+  "name": "CertiK Token",
+  "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+  "symbol": "CTK",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CTK--0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

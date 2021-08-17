@@ -1,0 +1,11 @@
+{
+  "name": "Arteon",
+  "address": "0x897abf83f0c44b86cb67ec56c006c00d56659517",
+  "symbol": "ARTEON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARTEON--0x897abf83f0c44b86cb67ec56c006c00d56659517/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

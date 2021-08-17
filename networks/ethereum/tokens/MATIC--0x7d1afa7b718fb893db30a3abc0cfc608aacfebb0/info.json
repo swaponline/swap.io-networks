@@ -1,0 +1,11 @@
+{
+  "name": "MaticToken",
+  "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MATIC--0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

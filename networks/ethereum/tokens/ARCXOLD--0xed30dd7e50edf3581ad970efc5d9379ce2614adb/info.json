@@ -1,0 +1,11 @@
+{
+  "name": "ARCGovernanceTokenOld",
+  "address": "0xed30dd7e50edf3581ad970efc5d9379ce2614adb",
+  "symbol": "ARCXOLD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARCXOLD--0xed30dd7e50edf3581ad970efc5d9379ce2614adb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

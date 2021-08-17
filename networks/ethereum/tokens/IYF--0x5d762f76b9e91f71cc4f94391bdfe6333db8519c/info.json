@@ -1,0 +1,11 @@
+{
+  "name": "IYF.finance",
+  "address": "0x5d762f76b9e91f71cc4f94391bdfe6333db8519c",
+  "symbol": "IYF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IYF--0x5d762f76b9e91f71cc4f94391bdfe6333db8519c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

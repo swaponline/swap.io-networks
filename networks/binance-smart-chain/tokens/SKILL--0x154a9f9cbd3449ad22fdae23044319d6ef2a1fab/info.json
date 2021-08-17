@@ -1,0 +1,11 @@
+{
+  "name": "CryptoBlades Skill Token",
+  "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+  "symbol": "SKILL",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SKILL--0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

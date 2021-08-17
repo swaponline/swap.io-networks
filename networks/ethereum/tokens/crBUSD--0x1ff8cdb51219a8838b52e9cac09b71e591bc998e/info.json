@@ -1,0 +1,11 @@
+{
+  "name": "CreamBinanceUSD",
+  "address": "0x1ff8cdb51219a8838b52e9cac09b71e591bc998e",
+  "symbol": "crBUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crBUSD--0x1ff8cdb51219a8838b52e9cac09b71e591bc998e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YfDAI.finance",
+  "address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
+  "symbol": "YfDAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YfDAI--0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

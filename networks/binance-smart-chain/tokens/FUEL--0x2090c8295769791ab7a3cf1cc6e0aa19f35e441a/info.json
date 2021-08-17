@@ -1,0 +1,11 @@
+{
+  "name": "Fuel",
+  "address": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
+  "symbol": "FUEL",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/FUEL--0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

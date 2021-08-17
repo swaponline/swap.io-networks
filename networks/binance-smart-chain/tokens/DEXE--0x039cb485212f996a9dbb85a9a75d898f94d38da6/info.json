@@ -1,0 +1,11 @@
+{
+  "name": "DeXe",
+  "address": "0x039cb485212f996a9dbb85a9a75d898f94d38da6",
+  "symbol": "DEXE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DEXE--0x039cb485212f996a9dbb85a9a75d898f94d38da6/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

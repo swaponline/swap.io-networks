@@ -1,0 +1,11 @@
+{
+  "name": "8X8 Protocol",
+  "address": "0x412d397ddca07d753e3e0c61e367fb1b474b3e7d",
+  "symbol": "EXE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EXE--0x412d397ddca07d753e3e0c61e367fb1b474b3e7d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

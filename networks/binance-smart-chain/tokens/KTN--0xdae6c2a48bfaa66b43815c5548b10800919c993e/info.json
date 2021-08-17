@@ -1,0 +1,11 @@
+{
+  "name": "Kattana",
+  "address": "0xdae6c2a48bfaa66b43815c5548b10800919c993e",
+  "symbol": "KTN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/KTN--0xdae6c2a48bfaa66b43815c5548b10800919c993e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

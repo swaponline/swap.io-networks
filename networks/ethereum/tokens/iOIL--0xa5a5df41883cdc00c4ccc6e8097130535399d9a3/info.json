@@ -1,0 +1,11 @@
+{
+  "name": "SynthiOIL",
+  "address": "0xa5a5df41883cdc00c4ccc6e8097130535399d9a3",
+  "symbol": "iOIL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iOIL--0xa5a5df41883cdc00c4ccc6e8097130535399d9a3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

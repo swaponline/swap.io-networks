@@ -1,0 +1,11 @@
+{
+  "name": "ShadowsNetwork",
+  "address": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+  "symbol": "DOWS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOWS--0x661ab0ed68000491d98c796146bcf28c20d7c559/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

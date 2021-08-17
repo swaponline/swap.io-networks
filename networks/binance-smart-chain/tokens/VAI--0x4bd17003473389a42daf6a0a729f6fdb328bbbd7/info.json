@@ -1,0 +1,11 @@
+{
+  "name": "VAI Token",
+  "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+  "symbol": "VAI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/VAI--0x4bd17003473389a42daf6a0a729f6fdb328bbbd7/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

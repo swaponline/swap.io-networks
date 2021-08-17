@@ -1,0 +1,11 @@
+{
+  "name": "Bitpanda Ecosystem ",
+  "address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+  "symbol": "BEST",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEST--0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

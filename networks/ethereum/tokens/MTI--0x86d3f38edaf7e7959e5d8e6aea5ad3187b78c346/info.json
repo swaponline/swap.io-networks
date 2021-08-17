@@ -1,0 +1,11 @@
+{
+  "name": "MTI Finance",
+  "address": "0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346",
+  "symbol": "MTI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MTI--0x86d3f38edaf7e7959e5d8e6aea5ad3187b78c346/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

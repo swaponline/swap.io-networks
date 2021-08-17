@@ -1,0 +1,11 @@
+{
+  "name": "PampNetwork",
+  "address": "0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1",
+  "symbol": "PAMP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PAMP--0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

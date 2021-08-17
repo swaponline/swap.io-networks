@@ -1,0 +1,11 @@
+{
+  "name": "Chromia",
+  "address": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+  "symbol": "CHR",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CHR--0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

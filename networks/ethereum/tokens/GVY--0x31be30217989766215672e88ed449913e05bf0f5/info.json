@@ -1,0 +1,11 @@
+{
+  "name": "Groovy Finance",
+  "address": "0x31be30217989766215672e88ed449913e05bf0f5",
+  "symbol": "GVY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GVY--0x31be30217989766215672e88ed449913e05bf0f5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

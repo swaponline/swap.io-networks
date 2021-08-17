@@ -1,0 +1,11 @@
+{
+  "name": "Nobrainer Finance",
+  "address": "0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
+  "symbol": "BRAIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BRAIN--0xea3cb156745a8d281a5fc174186c976f2dd04c2e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Governor",
+  "address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+  "symbol": "GDAO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GDAO--0x515d7e9d75e2b76db60f8a051cd890eba23286bc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Scatter cx",
+  "address": "0xac9bb427953ac7fddc562adca86cf42d988047fd",
+  "symbol": "STT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STT--0xac9bb427953ac7fddc562adca86cf42d988047fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

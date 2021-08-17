@@ -1,0 +1,11 @@
+{
+  "name": "MilkyWayTokenbySpaceSwapv2",
+  "address": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+  "symbol": "MILK2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MILK2--0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

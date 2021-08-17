@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Statera",
+  "address": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+  "symbol": "WSTA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WSTA--0xedeec5691f23e4914cf0183a4196bbeb30d027a0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Acreage Coin",
+  "address": "0x76306f029f8f99effe509534037ba7030999e3cf",
+  "symbol": "ACR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ACR--0x76306f029f8f99effe509534037ba7030999e3cf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

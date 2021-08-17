@@ -1,0 +1,11 @@
+{
+  "name": "BoringDAO",
+  "address": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f",
+  "symbol": "BORING",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BORING--0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

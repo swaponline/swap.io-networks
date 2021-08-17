@@ -1,0 +1,11 @@
+{
+  "name": "Feellike",
+  "address": "0x9235bda06b8807161b8fbb1e102cb654555b212f",
+  "symbol": "FLL",
+  "decimals": 3,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLL--0x9235bda06b8807161b8fbb1e102cb654555b212f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

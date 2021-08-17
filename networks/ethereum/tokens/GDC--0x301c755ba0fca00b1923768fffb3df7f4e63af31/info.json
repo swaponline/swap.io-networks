@@ -1,0 +1,11 @@
+{
+  "name": "GlobalDigitalContent",
+  "address": "0x301c755ba0fca00b1923768fffb3df7f4e63af31",
+  "symbol": "GDC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GDC--0x301c755ba0fca00b1923768fffb3df7f4e63af31/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

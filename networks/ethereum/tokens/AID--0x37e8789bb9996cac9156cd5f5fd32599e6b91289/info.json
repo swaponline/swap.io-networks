@@ -1,0 +1,11 @@
+{
+  "name": "AidCoin",
+  "address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+  "symbol": "AID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AID--0x37e8789bb9996cac9156cd5f5fd32599e6b91289/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

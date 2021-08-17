@@ -1,0 +1,11 @@
+{
+  "name": "CryptoPunk  3831 Sh",
+  "address": "0x41523a22144f3d129dddf1e9a549333148d0c37d",
+  "symbol": "COZOM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

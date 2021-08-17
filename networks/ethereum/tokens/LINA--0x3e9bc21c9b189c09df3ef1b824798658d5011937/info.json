@@ -1,0 +1,11 @@
+{
+  "name": "LinearToken",
+  "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+  "symbol": "LINA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LINA--0x3e9bc21c9b189c09df3ef1b824798658d5011937/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

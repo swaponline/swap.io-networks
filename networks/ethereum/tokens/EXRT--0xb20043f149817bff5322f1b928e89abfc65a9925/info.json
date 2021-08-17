@@ -1,0 +1,11 @@
+{
+  "name": "EXRT",
+  "address": "0xb20043f149817bff5322f1b928e89abfc65a9925",
+  "symbol": "EXRT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EXRT--0xb20043f149817bff5322f1b928e89abfc65a9925/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

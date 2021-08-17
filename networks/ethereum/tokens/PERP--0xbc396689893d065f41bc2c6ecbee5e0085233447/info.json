@@ -1,0 +1,11 @@
+{
+  "name": "Perpetual",
+  "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+  "symbol": "PERP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PERP--0xbc396689893d065f41bc2c6ecbee5e0085233447/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

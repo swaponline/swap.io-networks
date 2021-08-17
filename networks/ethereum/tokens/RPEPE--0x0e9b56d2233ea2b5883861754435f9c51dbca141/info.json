@@ -1,0 +1,11 @@
+{
+  "name": "Rare Pepe",
+  "address": "0x0e9b56d2233ea2b5883861754435f9c51dbca141",
+  "symbol": "RPEPE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RPEPE--0x0e9b56d2233ea2b5883861754435f9c51dbca141/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

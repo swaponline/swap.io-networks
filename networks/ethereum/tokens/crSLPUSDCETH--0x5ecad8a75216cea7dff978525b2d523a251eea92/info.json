@@ -1,0 +1,11 @@
+{
+  "name": "CreamSushiSwapLPTokenUSDC-ETH",
+  "address": "0x5ecad8a75216cea7dff978525b2d523a251eea92",
+  "symbol": "crSLPUSDCETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSLPUSDCETH--0x5ecad8a75216cea7dff978525b2d523a251eea92/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wings",
+  "address": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
+  "symbol": "WINGS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WINGS--0x667088b212ce3d06a1b553a7221e1fd19000d9af/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

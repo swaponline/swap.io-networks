@@ -1,0 +1,11 @@
+{
+  "name": "CreamFrax",
+  "address": "0xb092b4601850e23903a42eacbc9d8a0eec26a4d5",
+  "symbol": "crFRAX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crFRAX--0xb092b4601850e23903a42eacbc9d8a0eec26a4d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

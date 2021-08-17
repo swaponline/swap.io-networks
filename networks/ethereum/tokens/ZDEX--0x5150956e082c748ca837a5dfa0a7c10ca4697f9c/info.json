@@ -1,0 +1,11 @@
+{
+  "name": "Zeedex",
+  "address": "0x5150956e082c748ca837a5dfa0a7c10ca4697f9c",
+  "symbol": "ZDEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZDEX--0x5150956e082c748ca837a5dfa0a7c10ca4697f9c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MediShares",
+  "address": "0x66186008c1050627f979d464eabb258860563dbe",
+  "symbol": "MDS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MDS--0x66186008c1050627f979d464eabb258860563dbe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

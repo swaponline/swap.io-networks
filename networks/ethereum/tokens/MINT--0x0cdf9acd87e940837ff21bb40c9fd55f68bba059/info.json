@@ -1,0 +1,11 @@
+{
+  "name": "PublicMint",
+  "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
+  "symbol": "MINT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MINT--0x0cdf9acd87e940837ff21bb40c9fd55f68bba059/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

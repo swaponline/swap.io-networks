@@ -1,0 +1,11 @@
+{
+  "name": "SUP8EME",
+  "address": "0x47935edfb3cdd358c50f6c0add1cc24662e30f5f",
+  "symbol": "SUP8EME",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SUP8EME--0x47935edfb3cdd358c50f6c0add1cc24662e30f5f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

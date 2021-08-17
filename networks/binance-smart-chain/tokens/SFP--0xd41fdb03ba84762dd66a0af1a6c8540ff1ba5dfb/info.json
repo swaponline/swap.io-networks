@@ -1,0 +1,11 @@
+{
+  "name": "SafePal Token",
+  "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+  "symbol": "SFP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SFP--0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

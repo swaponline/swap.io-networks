@@ -1,0 +1,11 @@
+{
+  "name": "SatoPay",
+  "address": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
+  "symbol": "STOP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STOP--0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

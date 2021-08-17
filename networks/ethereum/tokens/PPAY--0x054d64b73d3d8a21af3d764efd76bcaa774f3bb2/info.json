@@ -1,0 +1,11 @@
+{
+  "name": "Plasma",
+  "address": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+  "symbol": "PPAY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PPAY--0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

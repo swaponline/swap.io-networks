@@ -1,0 +1,11 @@
+{
+  "name": "BitSong",
+  "address": "0x05079687d35b93538cbd59fe5596380cae9054a9",
+  "symbol": "BTSG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTSG--0x05079687d35b93538cbd59fe5596380cae9054a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LYNC Network",
+  "address": "0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf",
+  "symbol": "LYNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LYNC--0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

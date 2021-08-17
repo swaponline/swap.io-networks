@@ -1,0 +1,11 @@
+{
+  "name": "Team Finance",
+  "address": "0xb05af453011d7ad68a92b0065ffd9d1277ed2741",
+  "symbol": "TEAM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TEAM--0xb05af453011d7ad68a92b0065ffd9d1277ed2741/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

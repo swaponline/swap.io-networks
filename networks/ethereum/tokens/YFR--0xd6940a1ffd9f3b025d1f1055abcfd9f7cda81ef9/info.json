@@ -1,0 +1,11 @@
+{
+  "name": "YouForia",
+  "address": "0xd6940a1ffd9f3b025d1f1055abcfd9f7cda81ef9",
+  "symbol": "YFR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFR--0xd6940a1ffd9f3b025d1f1055abcfd9f7cda81ef9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

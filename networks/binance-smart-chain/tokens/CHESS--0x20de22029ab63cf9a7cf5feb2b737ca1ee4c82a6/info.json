@@ -1,0 +1,11 @@
+{
+  "name": "Tranchess",
+  "address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+  "symbol": "CHESS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CHESS--0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

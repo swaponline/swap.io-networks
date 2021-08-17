@@ -1,0 +1,11 @@
+{
+  "name": "Iconic Token",
+  "address": "0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a",
+  "symbol": "ICNQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ICNQ--0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

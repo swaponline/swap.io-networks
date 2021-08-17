@@ -1,0 +1,11 @@
+{
+  "name": "Bitball",
+  "address": "0x06e0feb0d74106c7ada8497754074d222ec6bcdf",
+  "symbol": "BTB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTB--0x06e0feb0d74106c7ada8497754074d222ec6bcdf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Land",
+  "address": "0xd0658324074d6249a51876438916f7c423075451",
+  "symbol": "YLAND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YLAND--0xd0658324074d6249a51876438916f7c423075451/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

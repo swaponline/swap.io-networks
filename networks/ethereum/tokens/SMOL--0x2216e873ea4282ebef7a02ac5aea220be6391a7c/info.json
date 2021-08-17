@@ -1,0 +1,11 @@
+{
+  "name": "smol",
+  "address": "0x2216e873ea4282ebef7a02ac5aea220be6391a7c",
+  "symbol": "SMOL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SMOL--0x2216e873ea4282ebef7a02ac5aea220be6391a7c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

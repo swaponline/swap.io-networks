@@ -1,0 +1,11 @@
+{
+  "name": "ChainGames",
+  "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+  "symbol": "CHAIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHAIN--0xc4c2614e694cf534d407ee49f8e44d125e4681c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

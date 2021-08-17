@@ -1,0 +1,11 @@
+{
+  "name": "Fatcoin",
+  "address": "0x2ec95b8eda549b79a1248335a39d299d00ed314c",
+  "symbol": "FAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FAT--0x2ec95b8eda549b79a1248335a39d299d00ed314c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

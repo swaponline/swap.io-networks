@@ -1,0 +1,11 @@
+{
+  "name": "BMJ Master Nodes",
+  "address": "0x5913d0f34615923552ee913dbe809f9f348e706e",
+  "symbol": "BMJ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BMJ--0x5913d0f34615923552ee913dbe809f9f348e706e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

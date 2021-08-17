@@ -1,0 +1,11 @@
+{
+  "name": "Tixl",
+  "address": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5",
+  "symbol": "TXL",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TXL--0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

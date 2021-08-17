@@ -1,0 +1,11 @@
+{
+  "name": "FlashX Advance",
+  "address": "0xf0b0a13d908253d954ba031a425dfd54f94a2e3d",
+  "symbol": "FSXA",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FSXA--0xf0b0a13d908253d954ba031a425dfd54f94a2e3d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

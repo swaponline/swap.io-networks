@@ -1,0 +1,11 @@
+{
+  "name": "Forefront",
+  "address": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
+  "symbol": "FF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FF--0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UnitProtocol",
+  "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+  "symbol": "DUCKUNIT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DUCKUNIT--0x92e187a03b6cd19cb6af293ba17f2745fd2357d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

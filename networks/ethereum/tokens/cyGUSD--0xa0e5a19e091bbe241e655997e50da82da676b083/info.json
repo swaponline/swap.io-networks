@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped GUSD",
+  "address": "0xa0e5a19e091bbe241e655997e50da82da676b083",
+  "symbol": "cyGUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyGUSD--0xa0e5a19e091bbe241e655997e50da82da676b083/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

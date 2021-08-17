@@ -1,0 +1,11 @@
+{
+  "name": "PumaPay",
+  "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+  "symbol": "PMA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PMA--0x846c66cf71c43f80403b51fe3906b3599d63336f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

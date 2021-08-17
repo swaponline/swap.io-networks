@@ -1,0 +1,11 @@
+{
+  "name": "bXIOT",
+  "address": "0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355",
+  "symbol": "BXIOT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BXIOT--0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

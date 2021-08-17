@@ -1,0 +1,11 @@
+{
+  "name": "ArcherDAOGovernanceToken",
+  "address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
+  "symbol": "ARCH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARCH--0x1f3f9d3068568f8040775be2e8c03c103c61f3af/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

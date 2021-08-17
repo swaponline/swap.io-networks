@@ -1,0 +1,11 @@
+{
+  "name": "LIBERTAS",
+  "address": "0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90",
+  "symbol": "LIBERTAS",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIBERTAS--0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

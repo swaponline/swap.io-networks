@@ -1,0 +1,11 @@
+{
+  "name": "CompoundUniswap",
+  "address": "0x35a18000230da775cac24873d00ff85bccded550",
+  "symbol": "cUNI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cUNI--0x35a18000230da775cac24873d00ff85bccded550/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

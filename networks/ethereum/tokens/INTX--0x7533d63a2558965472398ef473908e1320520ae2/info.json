@@ -1,0 +1,11 @@
+{
+  "name": "INTEXCOIN",
+  "address": "0x7533d63a2558965472398ef473908e1320520ae2",
+  "symbol": "INTX",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/INTX--0x7533d63a2558965472398ef473908e1320520ae2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

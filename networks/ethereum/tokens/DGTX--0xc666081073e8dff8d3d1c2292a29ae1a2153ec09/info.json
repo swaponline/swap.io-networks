@@ -1,0 +1,11 @@
+{
+  "name": "DigitexFutures",
+  "address": "0xc666081073e8dff8d3d1c2292a29ae1a2153ec09",
+  "symbol": "DGTX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DGTX--0xc666081073e8dff8d3d1c2292a29ae1a2153ec09/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Connectome",
+  "address": "0x0e5f00da8aaef196a719d045db89b5da8f371b32",
+  "symbol": "CNTM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CNTM--0x0e5f00da8aaef196a719d045db89b5da8f371b32/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

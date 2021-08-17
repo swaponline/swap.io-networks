@@ -1,0 +1,11 @@
+{
+  "name": "S4FE",
+  "address": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+  "symbol": "S4F",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/S4F--0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

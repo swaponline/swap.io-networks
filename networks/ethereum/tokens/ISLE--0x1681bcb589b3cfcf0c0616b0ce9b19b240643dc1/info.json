@@ -1,0 +1,11 @@
+{
+  "name": "Island",
+  "address": "0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1",
+  "symbol": "ISLE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ISLE--0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

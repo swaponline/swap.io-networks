@@ -1,0 +1,11 @@
+{
+  "name": "Somnium Space CUBEs",
+  "address": "0xdf801468a808a32656d2ed2d2d80b72a129739f4",
+  "symbol": "CUBE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CUBE--0xdf801468a808a32656d2ed2d2d80b72a129739f4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

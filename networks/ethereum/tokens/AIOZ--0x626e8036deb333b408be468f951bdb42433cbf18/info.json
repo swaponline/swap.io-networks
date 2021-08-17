@@ -1,0 +1,11 @@
+{
+  "name": "AIOZNetwork",
+  "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+  "symbol": "AIOZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AIOZ--0x626e8036deb333b408be468f951bdb42433cbf18/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

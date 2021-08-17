@@ -1,0 +1,11 @@
+{
+  "name": "WAV3",
+  "address": "0x14c38e90a593b0bd5b7e9896a8ef4ae0a119d6ae",
+  "symbol": "WAV3",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WAV3--0x14c38e90a593b0bd5b7e9896a8ef4ae0a119d6ae/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

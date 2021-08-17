@@ -1,0 +1,11 @@
+{
+  "name": "Dusk",
+  "address": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
+  "symbol": "DUSK",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DUSK--0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EthfinexNectarToken",
+  "address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+  "symbol": "NEC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NEC--0xcc80c051057b774cd75067dc48f8987c4eb97a5e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

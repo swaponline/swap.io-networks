@@ -1,0 +1,11 @@
+{
+  "name": "Yefam Finance",
+  "address": "0x9d24364b97270961b2948734afe8d58832efd43a",
+  "symbol": "FAM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FAM--0x9d24364b97270961b2948734afe8d58832efd43a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

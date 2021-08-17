@@ -1,0 +1,11 @@
+{
+  "name": "Noku",
+  "address": "0x1fc52f1abade452dd4674477d4711951700b3d27",
+  "symbol": "NOKU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NOKU--0x1fc52f1abade452dd4674477d4711951700b3d27/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

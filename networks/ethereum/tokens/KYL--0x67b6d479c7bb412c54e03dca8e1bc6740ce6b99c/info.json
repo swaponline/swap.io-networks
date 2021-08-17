@@ -1,0 +1,11 @@
+{
+  "name": "KylinNetwork",
+  "address": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c",
+  "symbol": "KYL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KYL--0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

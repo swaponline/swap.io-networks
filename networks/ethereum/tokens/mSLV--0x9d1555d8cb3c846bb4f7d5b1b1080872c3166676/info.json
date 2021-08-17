@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror SLV Token",
+  "address": "0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676",
+  "symbol": "mSLV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mSLV--0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

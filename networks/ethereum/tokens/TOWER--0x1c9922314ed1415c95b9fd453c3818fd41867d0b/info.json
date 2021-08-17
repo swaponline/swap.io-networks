@@ -1,0 +1,11 @@
+{
+  "name": "TOWER",
+  "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+  "symbol": "TOWER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TOWER--0x1c9922314ed1415c95b9fd453c3818fd41867d0b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

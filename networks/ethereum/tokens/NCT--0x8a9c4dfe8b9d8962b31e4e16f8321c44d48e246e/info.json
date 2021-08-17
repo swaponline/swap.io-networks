@@ -1,0 +1,11 @@
+{
+  "name": "NameChangeToken",
+  "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+  "symbol": "NCT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NCT--0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

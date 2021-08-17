@@ -1,0 +1,11 @@
+{
+  "name": "Gas Cash Back",
+  "address": "0x15c303b84045f67156acf6963954e4247b526717",
+  "symbol": "GCBN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GCBN--0x15c303b84045f67156acf6963954e4247b526717/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

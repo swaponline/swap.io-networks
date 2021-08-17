@@ -1,0 +1,11 @@
+{
+  "name": "FARM_crvRenWBTC",
+  "address": "0x9aa8f427a17d6b0d91b6262989edc7d45d6aedf8",
+  "symbol": "FcrvRenWBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FcrvRenWBTC--0x9aa8f427a17d6b0d91b6262989edc7d45d6aedf8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

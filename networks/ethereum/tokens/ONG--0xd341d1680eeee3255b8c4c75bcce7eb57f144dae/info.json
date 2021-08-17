@@ -1,0 +1,11 @@
+{
+  "name": "onG.social",
+  "address": "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae",
+  "symbol": "ONG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONG--0xd341d1680eeee3255b8c4c75bcce7eb57f144dae/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

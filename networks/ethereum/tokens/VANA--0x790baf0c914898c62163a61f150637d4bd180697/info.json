@@ -1,0 +1,11 @@
+{
+  "name": "Nirvana",
+  "address": "0x790baf0c914898c62163a61f150637d4bd180697",
+  "symbol": "VANA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VANA--0x790baf0c914898c62163a61f150637d4bd180697/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

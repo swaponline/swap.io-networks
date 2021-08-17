@@ -1,0 +1,11 @@
+{
+  "name": "Bitberry Token",
+  "address": "0x7671904eed7f10808b664fc30bb8693fd7237abf",
+  "symbol": "BBR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BBR--0x7671904eed7f10808b664fc30bb8693fd7237abf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

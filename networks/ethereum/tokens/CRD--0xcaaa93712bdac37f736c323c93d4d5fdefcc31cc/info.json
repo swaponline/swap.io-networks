@@ -1,0 +1,11 @@
+{
+  "name": "CryptalDash",
+  "address": "0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc",
+  "symbol": "CRD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRD--0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

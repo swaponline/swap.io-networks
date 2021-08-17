@@ -1,0 +1,11 @@
+{
+  "name": "Aeron",
+  "address": "0x0c37bcf456bc661c14d596683325623076d7e283",
+  "symbol": "ARNX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARNX--0x0c37bcf456bc661c14d596683325623076d7e283/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

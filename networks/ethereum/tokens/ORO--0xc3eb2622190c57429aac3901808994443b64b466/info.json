@@ -1,0 +1,11 @@
+{
+  "name": "OROToken",
+  "address": "0xc3eb2622190c57429aac3901808994443b64b466",
+  "symbol": "ORO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ORO--0xc3eb2622190c57429aac3901808994443b64b466/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Gen 0 Crypt",
+  "address": "0xa10740ff9ff6852eac84cdcff9184e1d6d27c057",
+  "symbol": "WG0",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WG0--0xa10740ff9ff6852eac84cdcff9184e1d6d27c057/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

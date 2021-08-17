@@ -1,0 +1,11 @@
+{
+  "name": "SunContract",
+  "address": "0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404",
+  "symbol": "SNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SNC--0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

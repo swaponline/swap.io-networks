@@ -1,0 +1,11 @@
+{
+  "name": "Universal Liquidity",
+  "address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
+  "symbol": "ULU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ULU--0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Conceal",
+  "address": "0x21686f8ce003a95c99acd297e302faacf742f7d4",
+  "symbol": "WCCX",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WCCX--0x21686f8ce003a95c99acd297e302faacf742f7d4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yRise Finance",
+  "address": "0x6051c1354ccc51b4d561e43b02735deae64768b8",
+  "symbol": "YRISE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YRISE--0x6051c1354ccc51b4d561e43b02735deae64768b8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

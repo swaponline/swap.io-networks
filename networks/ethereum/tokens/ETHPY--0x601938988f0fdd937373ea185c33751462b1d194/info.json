@@ -1,0 +1,11 @@
+{
+  "name": "Etherpay",
+  "address": "0x601938988f0fdd937373ea185c33751462b1d194",
+  "symbol": "ETHPY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHPY--0x601938988f0fdd937373ea185c33751462b1d194/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

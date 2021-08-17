@@ -1,0 +1,11 @@
+{
+  "name": "TrueHKD",
+  "address": "0x0000852600ceb001e08e00bc008be620d60031f2",
+  "symbol": "THKD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/THKD--0x0000852600ceb001e08e00bc008be620d60031f2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

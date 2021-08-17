@@ -1,0 +1,11 @@
+{
+  "name": "Kleros",
+  "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+  "symbol": "PNK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PNK--0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

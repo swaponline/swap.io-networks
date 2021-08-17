@@ -1,0 +1,11 @@
+{
+  "name": "Litecoin Token",
+  "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+  "symbol": "LTC",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/LTC--0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Itam",
+  "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+  "symbol": "ITAM",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ITAM--0x04c747b40be4d535fc83d09939fb0f626f32800b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

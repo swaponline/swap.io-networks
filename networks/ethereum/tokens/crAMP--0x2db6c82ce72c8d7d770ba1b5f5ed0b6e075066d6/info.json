@@ -1,0 +1,11 @@
+{
+  "name": "CreamAmp",
+  "address": "0x2db6c82ce72c8d7d770ba1b5f5ed0b6e075066d6",
+  "symbol": "crAMP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crAMP--0x2db6c82ce72c8d7d770ba1b5f5ed0b6e075066d6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

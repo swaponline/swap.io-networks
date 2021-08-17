@@ -1,0 +1,11 @@
+{
+  "name": "Goldmint",
+  "address": "0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+  "symbol": "MNTP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MNTP--0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

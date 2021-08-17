@@ -1,0 +1,11 @@
+{
+  "name": "lUSD",
+  "address": "0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e",
+  "symbol": "lUSD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/lUSD--0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

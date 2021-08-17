@@ -1,0 +1,11 @@
+{
+  "name": "Kanva",
+  "address": "0x5935ffc231e93ac04daa089c0f1b94d0fb2449de",
+  "symbol": "KNV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KNV--0x5935ffc231e93ac04daa089c0f1b94d0fb2449de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

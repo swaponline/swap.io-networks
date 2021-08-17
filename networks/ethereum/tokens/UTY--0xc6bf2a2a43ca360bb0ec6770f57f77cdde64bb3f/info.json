@@ -1,0 +1,11 @@
+{
+  "name": "UnityDAO",
+  "address": "0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f",
+  "symbol": "UTY",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UTY--0xc6bf2a2a43ca360bb0ec6770f57f77cdde64bb3f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cybercoin",
+  "address": "0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b",
+  "symbol": "CBR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CBR--0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

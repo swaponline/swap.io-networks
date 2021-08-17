@@ -1,0 +1,11 @@
+{
+  "name": "DDS Store",
+  "address": "0xf9fbaefde7112f78fa9bfe813341f0f49f888cb3",
+  "symbol": "DDS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DDS--0xf9fbaefde7112f78fa9bfe813341f0f49f888cb3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

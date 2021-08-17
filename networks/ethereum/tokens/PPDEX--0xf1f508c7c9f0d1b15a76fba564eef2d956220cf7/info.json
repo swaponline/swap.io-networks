@@ -1,0 +1,11 @@
+{
+  "name": "Pepedex",
+  "address": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+  "symbol": "PPDEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PPDEX--0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

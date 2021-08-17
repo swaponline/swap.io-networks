@@ -1,0 +1,11 @@
+{
+  "name": "StakeWise",
+  "address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
+  "symbol": "SWISE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SWISE--0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

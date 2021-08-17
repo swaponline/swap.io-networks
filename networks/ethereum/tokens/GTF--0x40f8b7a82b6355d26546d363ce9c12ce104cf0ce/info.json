@@ -1,0 +1,11 @@
+{
+  "name": "GLOBALTRUSTFUND TOK",
+  "address": "0x40f8b7a82b6355d26546d363ce9c12ce104cf0ce",
+  "symbol": "GTF",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GTF--0x40f8b7a82b6355d26546d363ce9c12ce104cf0ce/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

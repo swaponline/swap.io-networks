@@ -1,0 +1,11 @@
+{
+  "name": "TornadoCash",
+  "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+  "symbol": "TORN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TORN--0x77777feddddffc19ff86db637967013e6c6a116c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

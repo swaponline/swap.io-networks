@@ -1,0 +1,11 @@
+{
+  "name": "TokenPocket",
+  "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
+  "symbol": "TPT",
+  "decimals": 4,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TPT--0xeca41281c24451168a37211f0bc2b8645af45092/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

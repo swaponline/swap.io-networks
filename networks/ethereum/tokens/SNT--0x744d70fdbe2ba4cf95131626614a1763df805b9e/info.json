@@ -1,0 +1,11 @@
+{
+  "name": "Status",
+  "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+  "symbol": "SNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SNT--0x744d70fdbe2ba4cf95131626614a1763df805b9e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

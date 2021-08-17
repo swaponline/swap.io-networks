@@ -1,0 +1,11 @@
+{
+  "name": "Rocket Token",
+  "address": "0x78571accaf24052795f98b11f093b488a2d9eaa4",
+  "symbol": "RCKT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RCKT--0x78571accaf24052795f98b11f093b488a2d9eaa4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hacken",
+  "address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+  "symbol": "HAI",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HAI--0xaa9e582e5751d703f85912903bacaddfed26484c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

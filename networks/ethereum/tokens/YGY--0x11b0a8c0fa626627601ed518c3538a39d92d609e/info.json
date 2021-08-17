@@ -1,0 +1,11 @@
+{
+  "name": "Generation of Yield",
+  "address": "0x11b0a8c0fa626627601ed518c3538a39d92d609e",
+  "symbol": "YGY",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YGY--0x11b0a8c0fa626627601ed518c3538a39d92d609e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

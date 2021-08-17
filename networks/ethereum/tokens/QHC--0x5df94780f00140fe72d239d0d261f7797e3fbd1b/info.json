@@ -1,0 +1,11 @@
+{
+  "name": "QChi Chain",
+  "address": "0x5df94780f00140fe72d239d0d261f7797e3fbd1b",
+  "symbol": "QHC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QHC--0x5df94780f00140fe72d239d0d261f7797e3fbd1b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

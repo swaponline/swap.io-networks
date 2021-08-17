@@ -1,0 +1,11 @@
+{
+  "name": "502 Bad Gateway Tok",
+  "address": "0x2cd9324ba13b77554592d453e6364086fbba446a",
+  "symbol": "Z502",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/Z502--0x2cd9324ba13b77554592d453e6364086fbba446a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

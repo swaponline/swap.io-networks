@@ -1,0 +1,11 @@
+{
+  "name": "yplutus",
+  "address": "0x40e7705254494a7e61d5b7c86da50225ddc3daae",
+  "symbol": "YPLT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YPLT--0x40e7705254494a7e61d5b7c86da50225ddc3daae/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BancorGovernanceToken",
+  "address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
+  "symbol": "vBNT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/vBNT--0x48fb253446873234f2febbf9bdeaa72d9d387f94/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

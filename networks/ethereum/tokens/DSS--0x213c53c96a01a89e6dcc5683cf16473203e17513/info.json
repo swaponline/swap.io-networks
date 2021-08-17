@@ -1,0 +1,11 @@
+{
+  "name": "Defi Shopping Stake",
+  "address": "0x213c53c96a01a89e6dcc5683cf16473203e17513",
+  "symbol": "DSS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DSS--0x213c53c96a01a89e6dcc5683cf16473203e17513/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

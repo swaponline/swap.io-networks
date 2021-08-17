@@ -1,0 +1,11 @@
+{
+  "name": "SHAKEtokenbySpaceSwapv2",
+  "address": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
+  "symbol": "SHAKE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHAKE--0x6006fc2a849fedaba8330ce36f5133de01f96189/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AmunDeFiMomentumIndex",
+  "address": "0x1660f10b4d610cf482194356ece8efd65b15ba83",
+  "symbol": "DMX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DMX--0x1660f10b4d610cf482194356ece8efd65b15ba83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

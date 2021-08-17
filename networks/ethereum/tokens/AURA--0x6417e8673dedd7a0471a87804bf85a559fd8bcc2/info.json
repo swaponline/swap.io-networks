@@ -1,0 +1,11 @@
+{
+  "name": "Aura Protocol",
+  "address": "0x6417e8673dedd7a0471a87804bf85a559fd8bcc2",
+  "symbol": "AURA",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AURA--0x6417e8673dedd7a0471a87804bf85a559fd8bcc2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

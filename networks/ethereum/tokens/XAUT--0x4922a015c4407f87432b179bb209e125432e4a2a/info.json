@@ -1,0 +1,11 @@
+{
+  "name": "Tether Gold",
+  "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+  "symbol": "XAUT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XAUT--0x4922a015c4407f87432b179bb209e125432e4a2a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

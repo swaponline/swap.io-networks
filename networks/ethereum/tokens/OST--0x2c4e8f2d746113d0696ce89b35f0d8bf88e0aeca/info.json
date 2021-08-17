@@ -1,0 +1,11 @@
+{
+  "name": "OpenSimpleToken",
+  "address": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+  "symbol": "OST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OST--0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

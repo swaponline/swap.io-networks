@@ -1,0 +1,11 @@
+{
+  "name": "FyoozNFT",
+  "address": "0x19a2cf2a1b2f76e52e2b0c572bd80a95b4fa8643",
+  "symbol": "FYZNFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FYZNFT--0x19a2cf2a1b2f76e52e2b0c572bd80a95b4fa8643/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

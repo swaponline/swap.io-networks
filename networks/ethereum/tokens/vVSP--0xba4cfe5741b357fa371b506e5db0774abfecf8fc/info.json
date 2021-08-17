@@ -1,0 +1,11 @@
+{
+  "name": "vVSPpool",
+  "address": "0xba4cfe5741b357fa371b506e5db0774abfecf8fc",
+  "symbol": "vVSP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

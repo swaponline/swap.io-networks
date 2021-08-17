@@ -1,0 +1,11 @@
+{
+  "name": "OLCF",
+  "address": "0xeeaa34af95b034bada4baf565063132c765b1fa5",
+  "symbol": "OLCF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OLCF--0xeeaa34af95b034bada4baf565063132c765b1fa5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

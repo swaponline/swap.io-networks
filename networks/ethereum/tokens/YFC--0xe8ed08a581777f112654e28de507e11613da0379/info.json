@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance Cente",
+  "address": "0xe8ed08a581777f112654e28de507e11613da0379",
+  "symbol": "YFC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFC--0xe8ed08a581777f112654e28de507e11613da0379/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

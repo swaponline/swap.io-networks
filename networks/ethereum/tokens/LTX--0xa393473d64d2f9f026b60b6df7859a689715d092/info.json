@@ -1,0 +1,11 @@
+{
+  "name": "LatticeToken",
+  "address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+  "symbol": "LTX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LTX--0xa393473d64d2f9f026b60b6df7859a689715d092/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

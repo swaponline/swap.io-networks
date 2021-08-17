@@ -1,0 +1,11 @@
+{
+  "name": "Statera",
+  "address": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
+  "symbol": "STA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STA--0xa7de087329bfcda5639247f96140f9dabe3deed1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

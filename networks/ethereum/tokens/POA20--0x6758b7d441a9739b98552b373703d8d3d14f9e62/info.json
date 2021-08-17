@@ -1,0 +1,11 @@
+{
+  "name": "POA",
+  "address": "0x6758b7d441a9739b98552b373703d8d3d14f9e62",
+  "symbol": "POA20",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POA20--0x6758b7d441a9739b98552b373703d8d3d14f9e62/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

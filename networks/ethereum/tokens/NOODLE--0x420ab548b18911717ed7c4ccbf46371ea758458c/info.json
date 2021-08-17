@@ -1,0 +1,11 @@
+{
+  "name": "NOODLE Finance",
+  "address": "0x420ab548b18911717ed7c4ccbf46371ea758458c",
+  "symbol": "NOODLE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NOODLE--0x420ab548b18911717ed7c4ccbf46371ea758458c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

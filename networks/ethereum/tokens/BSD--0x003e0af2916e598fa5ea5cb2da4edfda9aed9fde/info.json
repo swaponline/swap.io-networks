@@ -1,0 +1,11 @@
+{
+  "name": "Basis Dollar",
+  "address": "0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde",
+  "symbol": "BSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BSD--0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Jinbi Token",
+  "address": "0x21d5a14e625d767ce6b7a167491c2d18e0785fda",
+  "symbol": "JNB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JNB--0x21d5a14e625d767ce6b7a167491c2d18e0785fda/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

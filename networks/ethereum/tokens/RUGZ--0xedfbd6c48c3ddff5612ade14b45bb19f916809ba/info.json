@@ -1,0 +1,11 @@
+{
+  "name": "pulltherug finance",
+  "address": "0xedfbd6c48c3ddff5612ade14b45bb19f916809ba",
+  "symbol": "RUGZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RUGZ--0xedfbd6c48c3ddff5612ade14b45bb19f916809ba/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

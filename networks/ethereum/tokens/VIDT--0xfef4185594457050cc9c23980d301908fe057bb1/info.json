@@ -1,0 +1,11 @@
+{
+  "name": "VIDTDatalink",
+  "address": "0xfef4185594457050cc9c23980d301908fe057bb1",
+  "symbol": "VIDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VIDT--0xfef4185594457050cc9c23980d301908fe057bb1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

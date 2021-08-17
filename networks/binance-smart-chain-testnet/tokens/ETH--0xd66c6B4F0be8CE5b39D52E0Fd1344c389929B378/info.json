@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum Token",
+  "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
+  "symbol": "ETH",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/ETH--0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

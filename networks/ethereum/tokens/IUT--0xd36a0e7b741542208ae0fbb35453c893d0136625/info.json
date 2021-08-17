@@ -1,0 +1,11 @@
+{
+  "name": "ITO Utility Token",
+  "address": "0xd36a0e7b741542208ae0fbb35453c893d0136625",
+  "symbol": "IUT",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IUT--0xd36a0e7b741542208ae0fbb35453c893d0136625/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

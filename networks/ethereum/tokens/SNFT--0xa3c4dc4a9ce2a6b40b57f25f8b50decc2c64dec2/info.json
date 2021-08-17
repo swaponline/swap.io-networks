@@ -1,0 +1,11 @@
+{
+  "name": "SeedSwapToken",
+  "address": "0xa3c4dc4a9ce2a6b40b57f25f8b50decc2c64dec2",
+  "symbol": "SNFT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SNFT--0xa3c4dc4a9ce2a6b40b57f25f8b50decc2c64dec2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

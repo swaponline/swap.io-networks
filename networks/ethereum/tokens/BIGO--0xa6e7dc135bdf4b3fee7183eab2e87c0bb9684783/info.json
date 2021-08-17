@@ -1,0 +1,11 @@
+{
+  "name": "BIGOCOIN",
+  "address": "0xa6e7dc135bdf4b3fee7183eab2e87c0bb9684783",
+  "symbol": "BIGO",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BIGO--0xa6e7dc135bdf4b3fee7183eab2e87c0bb9684783/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ShibaKen.Finance",
+  "address": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
+  "symbol": "SHIBAKEN",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHIBAKEN--0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

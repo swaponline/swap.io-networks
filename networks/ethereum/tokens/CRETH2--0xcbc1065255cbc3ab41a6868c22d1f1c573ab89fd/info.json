@@ -1,0 +1,11 @@
+{
+  "name": "CreamETH2",
+  "address": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+  "symbol": "CRETH2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRETH2--0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

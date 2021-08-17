@@ -1,0 +1,11 @@
+{
+  "name": "REVV",
+  "address": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+  "symbol": "REVV",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/REVV--0x833f307ac507d47309fd8cdd1f835bef8d702a93/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

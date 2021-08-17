@@ -1,0 +1,11 @@
+{
+  "name": "FOTO",
+  "address": "0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f",
+  "symbol": "FOTO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FOTO--0xf6ea0e60cee427b90aa36f327ee61d1d4cabc49f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

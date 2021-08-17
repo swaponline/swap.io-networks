@@ -1,0 +1,11 @@
+{
+  "name": "Acute Angle Cloud",
+  "address": "0xe75ad3aab14e4b0df8c5da4286608dabb21bd864",
+  "symbol": "AAC",
+  "decimals": 5,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AAC--0xe75ad3aab14e4b0df8c5da4286608dabb21bd864/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

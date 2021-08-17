@@ -1,0 +1,11 @@
+{
+  "name": "ARCxGovernanceToken",
+  "address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+  "symbol": "ARCX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARCX--0x1321f1f1aa541a56c31682c57b80ecfccd9bb288/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

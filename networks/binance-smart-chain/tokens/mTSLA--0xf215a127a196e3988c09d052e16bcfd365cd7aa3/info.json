@@ -1,0 +1,11 @@
+{
+  "name": "Mirror TSLA Token",
+  "address": "0xf215a127a196e3988c09d052e16bcfd365cd7aa3",
+  "symbol": "mTSLA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/mTSLA--0xf215a127a196e3988c09d052e16bcfd365cd7aa3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

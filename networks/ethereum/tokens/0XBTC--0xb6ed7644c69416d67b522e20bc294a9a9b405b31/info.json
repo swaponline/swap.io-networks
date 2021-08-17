@@ -1,0 +1,11 @@
+{
+  "name": "0xBitcoin",
+  "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+  "symbol": "0XBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/0XBTC--0xb6ed7644c69416d67b522e20bc294a9a9b405b31/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

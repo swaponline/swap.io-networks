@@ -1,0 +1,11 @@
+{
+  "name": "SwapCoinz",
+  "address": "0x810908b285f85af668f6348cd8b26d76b3ec12e1",
+  "symbol": "SPAZ",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SPAZ--0x810908b285f85af668f6348cd8b26d76b3ec12e1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

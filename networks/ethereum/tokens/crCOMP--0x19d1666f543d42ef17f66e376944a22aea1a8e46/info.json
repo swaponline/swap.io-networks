@@ -1,0 +1,11 @@
+{
+  "name": "CreamCompound",
+  "address": "0x19d1666f543d42ef17f66e376944a22aea1a8e46",
+  "symbol": "crCOMP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crCOMP--0x19d1666f543d42ef17f66e376944a22aea1a8e46/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

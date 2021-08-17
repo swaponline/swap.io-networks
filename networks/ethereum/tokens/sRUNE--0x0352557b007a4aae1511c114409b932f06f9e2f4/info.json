@@ -1,0 +1,11 @@
+{
+  "name": "SynthsRUNE",
+  "address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
+  "symbol": "sRUNE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sRUNE--0x0352557b007a4aae1511c114409b932f06f9e2f4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

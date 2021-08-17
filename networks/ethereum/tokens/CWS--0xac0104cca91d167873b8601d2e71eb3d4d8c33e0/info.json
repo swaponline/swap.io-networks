@@ -1,0 +1,11 @@
+{
+  "name": "Crowns",
+  "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+  "symbol": "CWS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CWS--0xac0104cca91d167873b8601d2e71eb3d4d8c33e0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

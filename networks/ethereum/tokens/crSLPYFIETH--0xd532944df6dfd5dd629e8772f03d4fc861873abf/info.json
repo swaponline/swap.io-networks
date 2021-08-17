@@ -1,0 +1,11 @@
+{
+  "name": "CreamSushiSwapLPTokenYFI-ETH",
+  "address": "0xd532944df6dfd5dd629e8772f03d4fc861873abf",
+  "symbol": "crSLPYFIETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSLPYFIETH--0xd532944df6dfd5dd629e8772f03d4fc861873abf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AresProtocol",
+  "address": "0x358aa737e033f34df7c54306960a38d09aabd523",
+  "symbol": "ARES",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ARES--0x358aa737e033f34df7c54306960a38d09aabd523/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

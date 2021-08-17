@@ -1,0 +1,11 @@
+{
+  "name": "VoiceToken",
+  "address": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9",
+  "symbol": "VOICE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VOICE--0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

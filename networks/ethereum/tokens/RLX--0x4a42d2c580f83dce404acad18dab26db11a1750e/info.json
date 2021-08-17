@@ -1,0 +1,11 @@
+{
+  "name": "Relex",
+  "address": "0x4a42d2c580f83dce404acad18dab26db11a1750e",
+  "symbol": "RLX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RLX--0x4a42d2c580f83dce404acad18dab26db11a1750e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

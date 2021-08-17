@@ -1,0 +1,11 @@
+{
+  "name": "Baz Token",
+  "address": "0xb020ed54651831878e5c967e0953a900786178f9",
+  "symbol": "BAZT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAZT--0xb020ed54651831878e5c967e0953a900786178f9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

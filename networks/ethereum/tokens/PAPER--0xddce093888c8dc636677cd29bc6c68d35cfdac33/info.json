@@ -1,0 +1,11 @@
+{
+  "name": "Paper",
+  "address": "0xddce093888c8dc636677cd29bc6c68d35cfdac33",
+  "symbol": "PAPER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PAPER--0xddce093888c8dc636677cd29bc6c68d35cfdac33/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

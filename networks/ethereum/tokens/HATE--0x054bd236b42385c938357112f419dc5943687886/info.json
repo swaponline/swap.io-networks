@@ -1,0 +1,11 @@
+{
+  "name": "Heavens Gate",
+  "address": "0x054bd236b42385c938357112f419dc5943687886",
+  "symbol": "HATE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HATE--0x054bd236b42385c938357112f419dc5943687886/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

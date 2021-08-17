@@ -1,0 +1,11 @@
+{
+  "name": "StrongHold",
+  "address": "0x350a6a30c79df3600c4e0e67deab0a64b645e2c2",
+  "symbol": "STRNG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STRNG--0x350a6a30c79df3600c4e0e67deab0a64b645e2c2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "USDB",
+  "address": "0x309627af60f0926daa6041b8279484312f2bf060",
+  "symbol": "USDB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDB--0x309627af60f0926daa6041b8279484312f2bf060/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

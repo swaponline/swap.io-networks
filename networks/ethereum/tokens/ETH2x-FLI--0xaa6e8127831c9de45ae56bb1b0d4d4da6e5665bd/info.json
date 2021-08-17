@@ -1,0 +1,11 @@
+{
+  "name": "ETH 2x Flexible Leverage Index",
+  "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+  "symbol": "ETH2x-FLI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETH2x-FLI--0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

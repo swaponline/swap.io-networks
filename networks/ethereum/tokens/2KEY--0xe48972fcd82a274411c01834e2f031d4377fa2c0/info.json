@@ -1,0 +1,11 @@
+{
+  "name": "2key.network",
+  "address": "0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+  "symbol": "2KEY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/2KEY--0xe48972fcd82a274411c01834e2f031d4377fa2c0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

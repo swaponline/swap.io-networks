@@ -1,0 +1,11 @@
+{
+  "name": "yearnUSDC",
+  "address": "0x597ad1e0c13bfe8025993d9e79c69e1c0233522e",
+  "symbol": "yUSDC",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yUSDC--0x597ad1e0c13bfe8025993d9e79c69e1c0233522e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

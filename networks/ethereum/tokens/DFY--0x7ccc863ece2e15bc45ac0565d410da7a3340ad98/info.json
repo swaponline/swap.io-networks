@@ -1,0 +1,11 @@
+{
+  "name": "Dotify",
+  "address": "0x7ccc863ece2e15bc45ac0565d410da7a3340ad98",
+  "symbol": "DFY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFY--0x7ccc863ece2e15bc45ac0565d410da7a3340ad98/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

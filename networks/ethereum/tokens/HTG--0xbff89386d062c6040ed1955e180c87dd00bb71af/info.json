@@ -1,0 +1,11 @@
+{
+  "name": "Hedge Tech Governan",
+  "address": "0xbff89386d062c6040ed1955e180c87dd00bb71af",
+  "symbol": "HTG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HTG--0xbff89386d062c6040ed1955e180c87dd00bb71af/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

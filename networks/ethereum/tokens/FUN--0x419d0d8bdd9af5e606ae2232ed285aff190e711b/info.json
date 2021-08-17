@@ -1,0 +1,11 @@
+{
+  "name": "FunFair",
+  "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+  "symbol": "FUN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FUN--0x419d0d8bdd9af5e606ae2232ed285aff190e711b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

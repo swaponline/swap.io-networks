@@ -1,0 +1,11 @@
+{
+  "name": "seen.haus",
+  "address": "0xca3fe04c7ee111f0bbb02c328c699226acf9fd33",
+  "symbol": "SEEN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SEEN--0xca3fe04c7ee111f0bbb02c328c699226acf9fd33/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

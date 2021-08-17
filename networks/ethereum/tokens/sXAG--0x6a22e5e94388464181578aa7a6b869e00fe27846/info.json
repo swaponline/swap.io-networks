@@ -1,0 +1,11 @@
+{
+  "name": "SynthsXAG",
+  "address": "0x6a22e5e94388464181578aa7a6b869e00fe27846",
+  "symbol": "sXAG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sXAG--0x6a22e5e94388464181578aa7a6b869e00fe27846/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

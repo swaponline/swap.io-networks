@@ -1,0 +1,11 @@
+{
+  "name": "YFED Finance",
+  "address": "0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a",
+  "symbol": "YFED",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFED--0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

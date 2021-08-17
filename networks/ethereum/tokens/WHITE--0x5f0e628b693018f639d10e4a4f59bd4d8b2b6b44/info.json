@@ -1,0 +1,11 @@
+{
+  "name": "WhiteheartToken",
+  "address": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+  "symbol": "WHITE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WHITE--0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

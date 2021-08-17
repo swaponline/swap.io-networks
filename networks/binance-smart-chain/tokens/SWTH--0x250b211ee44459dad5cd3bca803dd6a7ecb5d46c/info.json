@@ -1,0 +1,11 @@
+{
+  "name": "Switcheo",
+  "address": "0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c",
+  "symbol": "SWTH",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SWTH--0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

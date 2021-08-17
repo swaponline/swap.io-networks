@@ -1,0 +1,11 @@
+{
+  "name": "VUSD",
+  "address": "0x677ddbd918637e5f2c79e164d402454de7da8619",
+  "symbol": "VUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VUSD--0x677ddbd918637e5f2c79e164d402454de7da8619/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HippoFinance",
+  "address": "0x81313f7c5c9c824236c9e4cba3ac4b049986e756",
+  "symbol": "HIPPO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HIPPO--0x81313f7c5c9c824236c9e4cba3ac4b049986e756/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

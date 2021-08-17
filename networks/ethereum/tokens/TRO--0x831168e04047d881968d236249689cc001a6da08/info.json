@@ -1,0 +1,11 @@
+{
+  "name": "Trodl",
+  "address": "0x831168e04047d881968d236249689cc001a6da08",
+  "symbol": "TRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRO--0x831168e04047d881968d236249689cc001a6da08/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

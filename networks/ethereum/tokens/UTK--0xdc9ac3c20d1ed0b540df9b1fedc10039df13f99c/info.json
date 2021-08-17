@@ -1,0 +1,11 @@
+{
+  "name": "UtrustToken",
+  "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+  "symbol": "UTK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UTK--0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DogeYield",
+  "address": "0x9c405acf8688afb61b3197421cdeec1a266c6839",
+  "symbol": "DOGY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOGY--0x9c405acf8688afb61b3197421cdeec1a266c6839/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

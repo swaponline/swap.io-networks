@@ -1,0 +1,11 @@
+{
+  "name": "Flow Protocol",
+  "address": "0xc6e64729931f60d2c8bc70a27d66d9e0c28d1bf9",
+  "symbol": "FLOW",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLOW--0xc6e64729931f60d2c8bc70a27d66d9e0c28d1bf9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FlashSwap",
+  "address": "0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94",
+  "symbol": "FSP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FSP--0x0128e4fccf5ef86b030b28f0a8a029a3c5397a94/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

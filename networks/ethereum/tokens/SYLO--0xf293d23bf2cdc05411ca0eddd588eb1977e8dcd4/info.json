@@ -1,0 +1,11 @@
+{
+  "name": "Sylo",
+  "address": "0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4",
+  "symbol": "SYLO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SYLO--0xf293d23bf2cdc05411ca0eddd588eb1977e8dcd4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

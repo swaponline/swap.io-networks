@@ -1,0 +1,11 @@
+{
+  "name": "CryptoenterLIONtoken",
+  "address": "0xf644d4477cd8db7791cea3013cb053b3fec4beb3",
+  "symbol": "LION",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LION--0xf644d4477cd8db7791cea3013cb053b3fec4beb3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

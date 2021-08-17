@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingMANA",
+  "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
+  "symbol": "aMANA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aMANA--0xa685a61171bb30d4072b338c80cb7b2c865c873e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

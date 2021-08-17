@@ -1,0 +1,11 @@
+{
+  "name": "Usechain",
+  "address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+  "symbol": "USE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USE--0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

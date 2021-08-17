@@ -1,0 +1,11 @@
+{
+  "name": "Impulse By FDR",
+  "address": "0x696c1de4e7f475d5231372c47a627e4cd6ce555a",
+  "symbol": "IMPULSE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IMPULSE--0x696c1de4e7f475d5231372c47a627e4cd6ce555a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

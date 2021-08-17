@@ -1,0 +1,11 @@
+{
+  "name": "RAC",
+  "address": "0xc22b30e4cce6b78aaaadae91e44e73593929a3e9",
+  "symbol": "RAC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAC--0xc22b30e4cce6b78aaaadae91e44e73593929a3e9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

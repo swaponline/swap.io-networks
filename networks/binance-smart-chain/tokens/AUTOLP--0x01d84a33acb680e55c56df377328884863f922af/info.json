@@ -1,0 +1,11 @@
+{
+  "name": "AutoLP Token",
+  "address": "0x01d84a33acb680e55c56df377328884863f922af",
+  "symbol": "AUTOLP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/AUTOLP--0x01d84a33acb680e55c56df377328884863f922af/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

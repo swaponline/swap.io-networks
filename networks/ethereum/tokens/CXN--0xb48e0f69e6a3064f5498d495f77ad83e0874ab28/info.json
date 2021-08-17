@@ -1,0 +1,11 @@
+{
+  "name": "CXN Network",
+  "address": "0xb48e0f69e6a3064f5498d495f77ad83e0874ab28",
+  "symbol": "CXN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CXN--0xb48e0f69e6a3064f5498d495f77ad83e0874ab28/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

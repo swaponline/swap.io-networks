@@ -1,0 +1,11 @@
+{
+  "name": "Rally",
+  "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+  "symbol": "RLY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RLY--0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

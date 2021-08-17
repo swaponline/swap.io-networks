@@ -1,0 +1,11 @@
+{
+  "name": "Dtube Coin",
+  "address": "0xd2be3722b17b616c51ed9b8944a227d1ce579c24",
+  "symbol": "DTUBE",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DTUBE--0xd2be3722b17b616c51ed9b8944a227d1ce579c24/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Truefeedback Token",
+  "address": "0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788",
+  "symbol": "TFB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TFB--0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

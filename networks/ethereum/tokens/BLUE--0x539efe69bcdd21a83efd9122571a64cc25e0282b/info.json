@@ -1,0 +1,11 @@
+{
+  "name": "Blue Protocol",
+  "address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+  "symbol": "BLUE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BLUE--0x539efe69bcdd21a83efd9122571a64cc25e0282b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

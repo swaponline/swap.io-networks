@@ -1,0 +1,11 @@
+{
+  "name": "SynthsKRW",
+  "address": "0x269895a3df4d73b077fc823dd6da1b95f72aaf9b",
+  "symbol": "sKRW",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sKRW--0x269895a3df4d73b077fc823dd6da1b95f72aaf9b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

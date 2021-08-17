@@ -1,0 +1,11 @@
+{
+  "name": "Dexmex",
+  "address": "0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3",
+  "symbol": "DEXM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEXM--0x0020d80229877b495d2bf3269a4c13f6f1e1b9d3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

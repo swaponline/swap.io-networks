@@ -1,0 +1,11 @@
+{
+  "name": "xKNCa",
+  "address": "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91",
+  "symbol": "xKNCa",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/xKNCa--0x0bfec35a1a3550deed3f6fc76dde7fc412729a91/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

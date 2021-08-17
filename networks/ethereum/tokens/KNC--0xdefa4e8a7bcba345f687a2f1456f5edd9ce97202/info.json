@@ -1,0 +1,11 @@
+{
+  "name": "KyberNetworkCrystalv2",
+  "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+  "symbol": "KNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KNC--0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

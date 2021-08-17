@@ -1,0 +1,11 @@
+{
+  "name": "CreamBadgerSettBadger",
+  "address": "0x8b950f43fcac4931d408f1fcda55c6cb6cbf3096",
+  "symbol": "crBBADGER",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crBBADGER--0x8b950f43fcac4931d408f1fcda55c6cb6cbf3096/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance DOT",
+  "address": "0x2e6539edc3b76f1e21b71d214527faba875f70f3",
+  "symbol": "YFDOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFDOT--0x2e6539edc3b76f1e21b71d214527faba875f70f3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance Bit2",
+  "address": "0x59e7b5db9be0bdd26fa048d39e01fee456ab674e",
+  "symbol": "YFB2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFB2--0x59e7b5db9be0bdd26fa048d39e01fee456ab674e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

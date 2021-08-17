@@ -1,0 +1,11 @@
+{
+  "name": "Unit Protocol",
+  "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+  "symbol": "DUCK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Finxflo",
+  "address": "0x8a40c222996f9f3431f63bf80244c36822060f12",
+  "symbol": "FXF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FXF--0x8a40c222996f9f3431f63bf80244c36822060f12/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

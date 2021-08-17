@@ -1,0 +1,11 @@
+{
+  "name": "Minds",
+  "address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+  "symbol": "MINDS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MINDS--0xb26631c6dda06ad89b93c71400d25692de89c068/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

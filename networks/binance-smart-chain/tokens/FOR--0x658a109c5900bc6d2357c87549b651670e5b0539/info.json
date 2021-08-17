@@ -1,0 +1,11 @@
+{
+  "name": "ForTube",
+  "address": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+  "symbol": "FOR",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/FOR--0x658a109c5900bc6d2357c87549b651670e5b0539/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

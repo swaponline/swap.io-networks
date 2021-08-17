@@ -1,0 +1,11 @@
+{
+  "name": "Atletico de Madrid",
+  "address": "0x25e9d05365c867e59c1904e7463af9f312296f9e",
+  "symbol": "ATM",
+  "decimals": 2,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ATM--0x25e9d05365c867e59c1904e7463af9f312296f9e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

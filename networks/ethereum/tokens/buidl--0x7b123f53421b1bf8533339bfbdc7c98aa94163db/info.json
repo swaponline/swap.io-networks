@@ -1,0 +1,11 @@
+{
+  "name": "dfohub",
+  "address": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
+  "symbol": "BUIDL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BUIDL--0x7b123f53421b1bf8533339bfbdc7c98aa94163db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

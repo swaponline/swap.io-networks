@@ -1,0 +1,11 @@
+{
+  "name": "Axia",
+  "address": "0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546",
+  "symbol": "AXIAV3",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AXIAV3--0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BitDegree",
+  "address": "0x1961b3331969ed52770751fc718ef530838b6dee",
+  "symbol": "BDG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BDG--0x1961b3331969ed52770751fc718ef530838b6dee/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

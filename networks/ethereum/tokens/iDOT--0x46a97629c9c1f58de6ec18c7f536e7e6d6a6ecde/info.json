@@ -1,0 +1,11 @@
+{
+  "name": "SynthiDOT",
+  "address": "0x46a97629c9c1f58de6ec18c7f536e7e6d6a6ecde",
+  "symbol": "iDOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iDOT--0x46a97629c9c1f58de6ec18c7f536e7e6d6a6ecde/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

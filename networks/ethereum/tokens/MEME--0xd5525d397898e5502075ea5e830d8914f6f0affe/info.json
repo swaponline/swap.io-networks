@@ -1,0 +1,11 @@
+{
+  "name": "MEME",
+  "address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
+  "symbol": "MEME",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MEME--0xd5525d397898e5502075ea5e830d8914f6f0affe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

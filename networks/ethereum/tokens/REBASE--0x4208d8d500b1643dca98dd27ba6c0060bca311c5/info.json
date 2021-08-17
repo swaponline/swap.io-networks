@@ -1,0 +1,11 @@
+{
+  "name": "Rebase",
+  "address": "0x4208d8d500b1643dca98dd27ba6c0060bca311c5",
+  "symbol": "REBASE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REBASE--0x4208d8d500b1643dca98dd27ba6c0060bca311c5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

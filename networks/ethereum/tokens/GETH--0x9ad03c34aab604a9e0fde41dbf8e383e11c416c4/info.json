@@ -1,0 +1,11 @@
+{
+  "name": "Guarded Ether",
+  "address": "0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4",
+  "symbol": "GETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GETH--0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

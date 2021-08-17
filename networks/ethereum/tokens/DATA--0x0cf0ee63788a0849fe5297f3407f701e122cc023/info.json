@@ -1,0 +1,11 @@
+{
+  "name": "Streamr",
+  "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+  "symbol": "DATA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DATA--0x0cf0ee63788a0849fe5297f3407f701e122cc023/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

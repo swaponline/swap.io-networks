@@ -1,0 +1,11 @@
+{
+  "name": "Carboneum",
+  "address": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
+  "symbol": "C8",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/C8--0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

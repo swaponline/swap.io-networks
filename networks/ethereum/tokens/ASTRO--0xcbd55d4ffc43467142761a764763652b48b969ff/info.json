@@ -1,0 +1,11 @@
+{
+  "name": "AstroTools.io",
+  "address": "0xcbd55d4ffc43467142761a764763652b48b969ff",
+  "symbol": "ASTRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ASTRO--0xcbd55d4ffc43467142761a764763652b48b969ff/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

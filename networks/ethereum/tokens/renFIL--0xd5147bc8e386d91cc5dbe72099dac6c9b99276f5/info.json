@@ -1,0 +1,11 @@
+{
+  "name": "renFIL",
+  "address": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5",
+  "symbol": "renFIL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/renFIL--0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

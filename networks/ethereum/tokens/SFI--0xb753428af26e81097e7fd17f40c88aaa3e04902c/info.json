@@ -1,0 +1,11 @@
+{
+  "name": "Spice",
+  "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+  "symbol": "SFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SFI--0xb753428af26e81097e7fd17f40c88aaa3e04902c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rFIS",
+  "address": "0xc82eb6dea0c93edb8b697b89ad1b13d19469d635",
+  "symbol": "RFIS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RFIS--0xc82eb6dea0c93edb8b697b89ad1b13d19469d635/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

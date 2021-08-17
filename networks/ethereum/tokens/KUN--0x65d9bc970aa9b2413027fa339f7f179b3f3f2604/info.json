@@ -1,0 +1,11 @@
+{
+  "name": "QIAN Governance Tok",
+  "address": "0x65d9bc970aa9b2413027fa339f7f179b3f3f2604",
+  "symbol": "KUN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KUN--0x65d9bc970aa9b2413027fa339f7f179b3f3f2604/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

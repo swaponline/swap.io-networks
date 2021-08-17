@@ -1,0 +1,11 @@
+{
+  "name": "SERGS Governance",
+  "address": "0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4",
+  "symbol": "SSL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SSL--0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

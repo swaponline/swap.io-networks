@@ -1,0 +1,11 @@
+{
+  "name": "Gains Farm",
+  "address": "0x544288176bb6d7d198302a2d18fad38442e69b25",
+  "symbol": "GFARM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GFARM--0x544288176bb6d7d198302a2d18fad38442e69b25/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ButterflyProtocolGovernanceToken",
+  "address": "0xf680429328caaacabee69b7a9fdb21a71419c063",
+  "symbol": "BFLY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BFLY--0xf680429328caaacabee69b7a9fdb21a71419c063/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SOTA",
+  "address": "0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb",
+  "symbol": "SOTA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOTA--0x0dde6f6e345bfd23f3f419f0dfe04e93143b44fb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

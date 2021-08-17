@@ -1,0 +1,11 @@
+{
+  "name": "1World",
+  "address": "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+  "symbol": "1WO",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/1WO--0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

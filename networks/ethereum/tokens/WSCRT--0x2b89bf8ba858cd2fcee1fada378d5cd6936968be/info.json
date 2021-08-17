@@ -1,0 +1,11 @@
+{
+  "name": "Secret  ERC20 ",
+  "address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
+  "symbol": "WSCRT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WSCRT--0x2b89bf8ba858cd2fcee1fada378d5cd6936968be/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

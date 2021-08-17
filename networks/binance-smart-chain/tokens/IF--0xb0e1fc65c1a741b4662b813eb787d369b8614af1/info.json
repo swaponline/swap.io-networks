@@ -1,0 +1,11 @@
+{
+  "name": "Impossible Finance",
+  "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+  "symbol": "IF",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/IF--0xb0e1fc65c1a741b4662b813eb787d369b8614af1/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

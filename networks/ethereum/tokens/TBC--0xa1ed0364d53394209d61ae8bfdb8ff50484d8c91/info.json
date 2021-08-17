@@ -1,0 +1,11 @@
+{
+  "name": "TeraBlockToken",
+  "address": "0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91",
+  "symbol": "TBC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TBC--0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

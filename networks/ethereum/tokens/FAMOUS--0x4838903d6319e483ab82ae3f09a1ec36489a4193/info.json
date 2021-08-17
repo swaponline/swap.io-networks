@@ -1,0 +1,11 @@
+{
+  "name": "Famous Coin",
+  "address": "0x4838903d6319e483ab82ae3f09a1ec36489a4193",
+  "symbol": "FAMOUS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FAMOUS--0x4838903d6319e483ab82ae3f09a1ec36489a4193/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

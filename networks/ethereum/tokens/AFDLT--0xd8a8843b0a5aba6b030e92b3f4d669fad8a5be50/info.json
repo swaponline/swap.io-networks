@@ -1,0 +1,11 @@
+{
+  "name": "AfroDex Labs Token",
+  "address": "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
+  "symbol": "AFDLT",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AFDLT--0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

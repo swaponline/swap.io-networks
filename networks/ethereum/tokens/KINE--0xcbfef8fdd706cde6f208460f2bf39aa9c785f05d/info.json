@@ -1,0 +1,11 @@
+{
+  "name": "KineGovernanceToken",
+  "address": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
+  "symbol": "KINE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KINE--0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

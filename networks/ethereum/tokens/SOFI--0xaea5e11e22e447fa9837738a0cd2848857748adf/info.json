@@ -1,0 +1,11 @@
+{
+  "name": "Social Finance",
+  "address": "0xaea5e11e22e447fa9837738a0cd2848857748adf",
+  "symbol": "SOFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOFI--0xaea5e11e22e447fa9837738a0cd2848857748adf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

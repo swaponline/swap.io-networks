@@ -1,0 +1,11 @@
+{
+  "name": "XFOC",
+  "address": "0xf5a562597d5fb5cc19482379755e1a5275a6607b",
+  "symbol": "XFOC",
+  "decimals": 7,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XFOC--0xf5a562597d5fb5cc19482379755e1a5275a6607b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

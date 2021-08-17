@@ -1,0 +1,11 @@
+{
+  "name": "CellframeToken",
+  "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+  "symbol": "CELL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CELL--0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

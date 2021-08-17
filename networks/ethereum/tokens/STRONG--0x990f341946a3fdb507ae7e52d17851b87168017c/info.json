@@ -1,0 +1,11 @@
+{
+  "name": "Strong",
+  "address": "0x990f341946a3fdb507ae7e52d17851b87168017c",
+  "symbol": "STRONG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STRONG--0x990f341946a3fdb507ae7e52d17851b87168017c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

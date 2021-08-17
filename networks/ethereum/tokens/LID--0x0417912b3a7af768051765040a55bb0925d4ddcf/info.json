@@ -1,0 +1,11 @@
+{
+  "name": "LiquidityDividendsProtocol",
+  "address": "0x0417912b3a7af768051765040a55bb0925d4ddcf",
+  "symbol": "LID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LID--0x0417912b3a7af768051765040a55bb0925d4ddcf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

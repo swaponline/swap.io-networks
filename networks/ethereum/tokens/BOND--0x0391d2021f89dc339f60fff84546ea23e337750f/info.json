@@ -1,0 +1,11 @@
+{
+  "name": "BarnBridgeGovernanceToken",
+  "address": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+  "symbol": "BOND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOND--0x0391d2021f89dc339f60fff84546ea23e337750f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

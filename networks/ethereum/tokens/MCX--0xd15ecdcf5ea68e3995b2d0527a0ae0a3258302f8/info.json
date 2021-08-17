@@ -1,0 +1,11 @@
+{
+  "name": "MachiXToken",
+  "address": "0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8",
+  "symbol": "MCX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MCX--0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SynthiREN",
+  "address": "0x0fed38108bdb8e62ef7b5680e8e0726e2f29e0de",
+  "symbol": "iREN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iREN--0x0fed38108bdb8e62ef7b5680e8e0726e2f29e0de/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

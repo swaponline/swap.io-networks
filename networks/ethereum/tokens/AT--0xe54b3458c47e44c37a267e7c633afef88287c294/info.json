@@ -1,0 +1,11 @@
+{
+  "name": "Artfinity Token",
+  "address": "0xe54b3458c47e44c37a267e7c633afef88287c294",
+  "symbol": "AT",
+  "decimals": 5,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AT--0xe54b3458c47e44c37a267e7c633afef88287c294/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

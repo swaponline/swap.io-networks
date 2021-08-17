@@ -1,0 +1,11 @@
+{
+  "name": "CreamyETH",
+  "address": "0x01da76dea59703578040012357b81ffe62015c2d",
+  "symbol": "crYETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crYETH--0x01da76dea59703578040012357b81ffe62015c2d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

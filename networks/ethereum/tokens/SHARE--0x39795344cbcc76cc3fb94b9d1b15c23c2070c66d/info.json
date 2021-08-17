@@ -1,0 +1,11 @@
+{
+  "name": "SeigniorageShares",
+  "address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
+  "symbol": "SHARE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHARE--0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

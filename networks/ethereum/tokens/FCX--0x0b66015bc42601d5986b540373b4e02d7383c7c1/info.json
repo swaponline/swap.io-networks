@@ -1,0 +1,11 @@
+{
+  "name": "Fission Cash",
+  "address": "0x0b66015bc42601d5986b540373b4e02d7383c7c1",
+  "symbol": "FCX",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FCX--0x0b66015bc42601d5986b540373b4e02d7383c7c1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

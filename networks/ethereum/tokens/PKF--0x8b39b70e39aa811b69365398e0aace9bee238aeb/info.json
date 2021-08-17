@@ -1,0 +1,11 @@
+{
+  "name": "PolkaFoundry",
+  "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+  "symbol": "PKF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PKF--0x8b39b70e39aa811b69365398e0aace9bee238aeb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

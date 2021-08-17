@@ -1,0 +1,11 @@
+{
+  "name": "Globex",
+  "address": "0x03282f2d7834a97369cad58f888ada19eec46ab6",
+  "symbol": "GEX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GEX--0x03282f2d7834a97369cad58f888ada19eec46ab6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PLAAS FARMERS TOKEN",
+  "address": "0x60571e95e12c78cba5223042692908f0649435a5",
+  "symbol": "PLAAS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PLAAS--0x60571e95e12c78cba5223042692908f0649435a5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

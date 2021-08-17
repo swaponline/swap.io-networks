@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror IAU Token",
+  "address": "0x1d350417d9787e000cc1b95d70e9536dcd91f373",
+  "symbol": "mIAU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mIAU--0x1d350417d9787e000cc1b95d70e9536dcd91f373/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

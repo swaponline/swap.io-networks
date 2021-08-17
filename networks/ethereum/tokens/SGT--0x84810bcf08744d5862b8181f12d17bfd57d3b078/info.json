@@ -1,0 +1,11 @@
+{
+  "name": "SharedStakeGovernanceToken",
+  "address": "0x84810bcf08744d5862b8181f12d17bfd57d3b078",
+  "symbol": "SGT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SGT--0x84810bcf08744d5862b8181f12d17bfd57d3b078/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

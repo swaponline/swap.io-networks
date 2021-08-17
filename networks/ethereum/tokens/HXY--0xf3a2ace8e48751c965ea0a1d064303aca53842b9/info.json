@@ -1,0 +1,11 @@
+{
+  "name": "HXY Money",
+  "address": "0xf3a2ace8e48751c965ea0a1d064303aca53842b9",
+  "symbol": "HXY",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HXY--0xf3a2ace8e48751c965ea0a1d064303aca53842b9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

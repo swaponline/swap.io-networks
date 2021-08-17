@@ -1,0 +1,11 @@
+{
+  "name": "Gala",
+  "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+  "symbol": "GALA",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GALA--0x15d4c048f83bd7e37d49ea4c83a07267ec4203da/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

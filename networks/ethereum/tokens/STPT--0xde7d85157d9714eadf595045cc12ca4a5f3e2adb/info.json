@@ -1,0 +1,11 @@
+{
+  "name": "STP Network",
+  "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+  "symbol": "STPT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STPT--0xde7d85157d9714eadf595045cc12ca4a5f3e2adb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

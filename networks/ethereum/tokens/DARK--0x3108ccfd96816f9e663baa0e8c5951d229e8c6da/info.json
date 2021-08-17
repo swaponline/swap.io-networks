@@ -1,0 +1,11 @@
+{
+  "name": "Dark Build",
+  "address": "0x3108ccfd96816f9e663baa0e8c5951d229e8c6da",
+  "symbol": "DARK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DARK--0x3108ccfd96816f9e663baa0e8c5951d229e8c6da/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

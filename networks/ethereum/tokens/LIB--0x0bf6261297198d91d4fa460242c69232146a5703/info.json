@@ -1,0 +1,11 @@
+{
+  "name": "Libera",
+  "address": "0x0bf6261297198d91d4fa460242c69232146a5703",
+  "symbol": "LIB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIB--0x0bf6261297198d91d4fa460242c69232146a5703/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

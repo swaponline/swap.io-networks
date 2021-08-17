@@ -1,0 +1,11 @@
+{
+  "name": "PayAccept",
+  "address": "0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2",
+  "symbol": "PAYT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PAYT--0x8ef47555856f6ce2e0cd7c36aef4fab317d2e2e2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

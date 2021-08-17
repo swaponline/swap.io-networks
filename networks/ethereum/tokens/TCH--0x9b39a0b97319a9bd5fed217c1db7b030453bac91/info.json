@@ -1,0 +1,11 @@
+{
+  "name": "TigerCash",
+  "address": "0x9b39a0b97319a9bd5fed217c1db7b030453bac91",
+  "symbol": "TCH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TCH--0x9b39a0b97319a9bd5fed217c1db7b030453bac91/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

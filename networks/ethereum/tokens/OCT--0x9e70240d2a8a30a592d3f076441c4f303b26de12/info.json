@@ -1,0 +1,11 @@
+{
+  "name": "WrappedOCT",
+  "address": "0x9e70240d2a8a30a592d3f076441c4f303b26de12",
+  "symbol": "OCT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OCT--0x9e70240d2a8a30a592d3f076441c4f303b26de12/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

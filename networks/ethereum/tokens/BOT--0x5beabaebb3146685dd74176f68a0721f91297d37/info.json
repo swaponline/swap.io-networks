@@ -1,0 +1,11 @@
+{
+  "name": "BounceToken",
+  "address": "0x5beabaebb3146685dd74176f68a0721f91297d37",
+  "symbol": "BOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOT--0x5beabaebb3146685dd74176f68a0721f91297d37/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

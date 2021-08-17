@@ -1,0 +1,11 @@
+{
+  "name": "New Year Bull",
+  "address": "0x798a9055a98913835bbfb45a0bbc209438dcfd97",
+  "symbol": "NYB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NYB--0x798a9055a98913835bbfb45a0bbc209438dcfd97/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

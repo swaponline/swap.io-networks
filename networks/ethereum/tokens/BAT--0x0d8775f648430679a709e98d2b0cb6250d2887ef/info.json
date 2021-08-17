@@ -1,0 +1,11 @@
+{
+  "name": "BasicAttentionToken",
+  "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+  "symbol": "BAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAT--0x0d8775f648430679a709e98d2b0cb6250d2887ef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "KERMAN",
+  "address": "0x7841b2a48d1f6e78acec359fed6d874eb8a0f63c",
+  "symbol": "KERMAN",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KERMAN--0x7841b2a48d1f6e78acec359fed6d874eb8a0f63c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

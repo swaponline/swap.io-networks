@@ -1,0 +1,11 @@
+{
+  "name": "Belifex",
+  "address": "0xfbcecb002177e530695b8976638fbd18d2038c3c",
+  "symbol": "BEFX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEFX--0xfbcecb002177e530695b8976638fbd18d2038c3c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

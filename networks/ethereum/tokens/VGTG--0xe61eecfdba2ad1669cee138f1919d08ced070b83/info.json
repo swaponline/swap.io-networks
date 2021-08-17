@@ -1,0 +1,11 @@
+{
+  "name": "VGTGToken",
+  "address": "0xe61eecfdba2ad1669cee138f1919d08ced070b83",
+  "symbol": "VGTG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VGTG--0xe61eecfdba2ad1669cee138f1919d08ced070b83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

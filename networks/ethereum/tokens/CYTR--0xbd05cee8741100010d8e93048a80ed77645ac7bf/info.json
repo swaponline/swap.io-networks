@@ -1,0 +1,11 @@
+{
+  "name": "Cyclops Treasure",
+  "address": "0xbd05cee8741100010d8e93048a80ed77645ac7bf",
+  "symbol": "CYTR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CYTR--0xbd05cee8741100010d8e93048a80ed77645ac7bf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

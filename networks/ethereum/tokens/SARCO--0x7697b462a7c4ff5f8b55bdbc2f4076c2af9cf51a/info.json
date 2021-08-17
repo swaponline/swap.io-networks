@@ -1,0 +1,11 @@
+{
+  "name": "Sarcophagus",
+  "address": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a",
+  "symbol": "SARCO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SARCO--0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

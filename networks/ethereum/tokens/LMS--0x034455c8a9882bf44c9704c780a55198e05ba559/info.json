@@ -1,0 +1,11 @@
+{
+  "name": "Lumos",
+  "address": "0x034455c8a9882bf44c9704c780a55198e05ba559",
+  "symbol": "LMS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LMS--0x034455c8a9882bf44c9704c780a55198e05ba559/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

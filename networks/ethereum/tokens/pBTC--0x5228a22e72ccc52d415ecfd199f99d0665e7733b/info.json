@@ -1,0 +1,11 @@
+{
+  "name": "pTokensBTC",
+  "address": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b",
+  "symbol": "pBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/pBTC--0x5228a22e72ccc52d415ecfd199f99d0665e7733b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

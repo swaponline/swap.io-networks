@@ -1,0 +1,11 @@
+{
+  "name": "Collective",
+  "address": "0x75739d5944534115d7c54ee8c73f186d793bae02",
+  "symbol": "CO2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CO2--0x75739d5944534115d7c54ee8c73f186d793bae02/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

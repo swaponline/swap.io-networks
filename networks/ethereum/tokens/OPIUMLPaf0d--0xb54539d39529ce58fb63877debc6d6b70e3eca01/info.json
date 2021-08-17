@@ -1,0 +1,11 @@
+{
+  "name": "OpiumMaticBridgeProtection",
+  "address": "0xb54539d39529ce58fb63877debc6d6b70e3eca01",
+  "symbol": "OPIUMLPaf0d",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OPIUMLPaf0d--0xb54539d39529ce58fb63877debc6d6b70e3eca01/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

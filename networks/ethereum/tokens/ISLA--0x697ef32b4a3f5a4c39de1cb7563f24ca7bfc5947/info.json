@@ -1,0 +1,11 @@
+{
+  "name": "Insula",
+  "address": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
+  "symbol": "ISLA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ISLA--0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

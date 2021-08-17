@@ -1,0 +1,11 @@
+{
+  "name": "BORGDAI Token",
+  "address": "0xacd9c515a43e80d67c8a5982e6ef2ddc4c41629a",
+  "symbol": "BORGDAI",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BORGDAI--0xacd9c515a43e80d67c8a5982e6ef2ddc4c41629a/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

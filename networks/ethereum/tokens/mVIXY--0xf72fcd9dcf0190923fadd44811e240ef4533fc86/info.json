@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror VIXY Token",
+  "address": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86",
+  "symbol": "mVIXY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mVIXY--0xf72fcd9dcf0190923fadd44811e240ef4533fc86/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Abyss",
+  "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+  "symbol": "ABYSS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ABYSS--0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

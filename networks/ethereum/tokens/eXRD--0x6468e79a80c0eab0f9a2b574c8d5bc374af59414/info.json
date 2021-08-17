@@ -1,0 +1,11 @@
+{
+  "name": "E-RADIX",
+  "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+  "symbol": "eXRD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/eXRD--0x6468e79a80c0eab0f9a2b574c8d5bc374af59414/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

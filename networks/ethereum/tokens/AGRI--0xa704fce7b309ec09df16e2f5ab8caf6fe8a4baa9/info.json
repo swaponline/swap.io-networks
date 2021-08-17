@@ -1,0 +1,11 @@
+{
+  "name": "AgriChain",
+  "address": "0xa704fce7b309ec09df16e2f5ab8caf6fe8a4baa9",
+  "symbol": "AGRI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AGRI--0xa704fce7b309ec09df16e2f5ab8caf6fe8a4baa9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

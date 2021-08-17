@@ -1,0 +1,11 @@
+{
+  "name": "Markaccy",
+  "address": "0xf3281c539716a08c754ec4c8f2b4cee0fab64bb9",
+  "symbol": "MKCY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MKCY--0xf3281c539716a08c754ec4c8f2b4cee0fab64bb9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

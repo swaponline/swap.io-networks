@@ -1,0 +1,11 @@
+{
+  "name": "BandProtocol",
+  "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+  "symbol": "BAND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAND--0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

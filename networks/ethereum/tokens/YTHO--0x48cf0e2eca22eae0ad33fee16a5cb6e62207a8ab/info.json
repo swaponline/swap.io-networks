@@ -1,0 +1,11 @@
+{
+  "name": "YTHO Online",
+  "address": "0x48cf0e2eca22eae0ad33fee16a5cb6e62207a8ab",
+  "symbol": "YTHO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YTHO--0x48cf0e2eca22eae0ad33fee16a5cb6e62207a8ab/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

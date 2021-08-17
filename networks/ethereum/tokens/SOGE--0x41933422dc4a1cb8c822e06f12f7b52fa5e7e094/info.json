@@ -1,0 +1,11 @@
+{
+  "name": "Space Hoge",
+  "address": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094",
+  "symbol": "SOGE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOGE--0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

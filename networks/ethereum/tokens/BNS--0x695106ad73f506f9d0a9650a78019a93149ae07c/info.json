@@ -1,0 +1,11 @@
+{
+  "name": "BNS Token",
+  "address": "0x695106ad73f506f9d0a9650a78019a93149ae07c",
+  "symbol": "BNS",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BNS--0x695106ad73f506f9d0a9650a78019a93149ae07c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

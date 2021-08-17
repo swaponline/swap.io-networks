@@ -1,0 +1,11 @@
+{
+  "name": "LINKUSD",
+  "address": "0x0e2ec54fc0b509f445631bf4b91ab8168230c752",
+  "symbol": "LINKUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LINKUSD--0x0e2ec54fc0b509f445631bf4b91ab8168230c752/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

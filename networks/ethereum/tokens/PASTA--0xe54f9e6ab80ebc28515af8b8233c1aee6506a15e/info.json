@@ -1,0 +1,11 @@
+{
+  "name": "Spaghetti",
+  "address": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e",
+  "symbol": "PASTA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PASTA--0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

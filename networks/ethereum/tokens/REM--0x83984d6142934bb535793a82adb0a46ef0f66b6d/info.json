@@ -1,0 +1,11 @@
+{
+  "name": "Remme",
+  "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+  "symbol": "REM",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REM--0x83984d6142934bb535793a82adb0a46ef0f66b6d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

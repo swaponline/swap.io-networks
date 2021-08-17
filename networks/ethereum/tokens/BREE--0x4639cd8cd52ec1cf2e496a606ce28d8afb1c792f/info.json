@@ -1,0 +1,11 @@
+{
+  "name": "CBDAO",
+  "address": "0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f",
+  "symbol": "BREE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BREE--0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

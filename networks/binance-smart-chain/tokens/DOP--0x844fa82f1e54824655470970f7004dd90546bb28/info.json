@@ -1,0 +1,11 @@
+{
+  "name": "Dopple Finance",
+  "address": "0x844fa82f1e54824655470970f7004dd90546bb28",
+  "symbol": "DOP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DOP--0x844fa82f1e54824655470970f7004dd90546bb28/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ChronoTechToken",
+  "address": "0x485d17a6f1b8780392d53d64751824253011a260",
+  "symbol": "TIME",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TIME--0x485d17a6f1b8780392d53d64751824253011a260/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

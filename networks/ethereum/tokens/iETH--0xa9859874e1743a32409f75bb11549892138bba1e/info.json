@@ -1,0 +1,11 @@
+{
+  "name": "SynthiETH",
+  "address": "0xa9859874e1743a32409f75bb11549892138bba1e",
+  "symbol": "iETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iETH--0xa9859874e1743a32409f75bb11549892138bba1e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "USDX",
+  "address": "0x1203355742e76875154c0d13eb81dcd7711dc7d9",
+  "symbol": "USDX",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/USDX--0x1203355742e76875154c0d13eb81dcd7711dc7d9/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

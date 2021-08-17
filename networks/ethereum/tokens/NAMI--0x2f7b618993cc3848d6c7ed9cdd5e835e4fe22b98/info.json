@@ -1,0 +1,11 @@
+{
+  "name": "Nami Corporation To",
+  "address": "0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98",
+  "symbol": "NAMI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NAMI--0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

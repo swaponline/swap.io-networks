@@ -1,0 +1,11 @@
+{
+  "name": "UniDexGas",
+  "address": "0xa5959e9412d27041194c3c3bcbe855face2864f7",
+  "symbol": "UNDG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNDG--0xa5959e9412d27041194c3c3bcbe855face2864f7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

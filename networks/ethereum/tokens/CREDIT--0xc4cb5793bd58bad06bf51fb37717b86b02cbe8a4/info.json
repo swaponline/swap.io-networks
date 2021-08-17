@@ -1,0 +1,11 @@
+{
+  "name": "PROXI DeFi",
+  "address": "0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
+  "symbol": "CREDIT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CREDIT--0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ParsiqToken",
+  "address": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
+  "symbol": "PRQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRQ--0x362bc847a3a9637d3af6624eec853618a43ed7d2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

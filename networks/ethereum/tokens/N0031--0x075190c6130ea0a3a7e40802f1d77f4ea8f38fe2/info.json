@@ -1,0 +1,11 @@
+{
+  "name": "nYFI",
+  "address": "0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2",
+  "symbol": "N0031",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/N0031--0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

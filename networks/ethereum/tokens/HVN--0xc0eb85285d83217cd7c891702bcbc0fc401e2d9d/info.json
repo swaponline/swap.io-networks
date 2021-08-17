@@ -1,0 +1,11 @@
+{
+  "name": "Hiveterminal token",
+  "address": "0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d",
+  "symbol": "HVN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HVN--0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

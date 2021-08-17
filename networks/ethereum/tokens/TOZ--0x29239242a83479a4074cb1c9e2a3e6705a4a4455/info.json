@@ -1,0 +1,11 @@
+{
+  "name": "TOZEX",
+  "address": "0x29239242a83479a4074cb1c9e2a3e6705a4a4455",
+  "symbol": "TOZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TOZ--0x29239242a83479a4074cb1c9e2a3e6705a4a4455/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

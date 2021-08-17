@@ -1,0 +1,11 @@
+{
+  "name": "Relevant",
+  "address": "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+  "symbol": "REL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REL--0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

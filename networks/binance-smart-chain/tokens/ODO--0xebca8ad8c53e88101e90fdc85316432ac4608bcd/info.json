@@ -1,0 +1,11 @@
+{
+  "name": "Odo Token",
+  "address": "0xebca8ad8c53e88101e90fdc85316432ac4608bcd",
+  "symbol": "ODO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ODO--0xebca8ad8c53e88101e90fdc85316432ac4608bcd/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

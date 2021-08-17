@@ -1,0 +1,11 @@
+{
+  "name": "FUZE Token",
+  "address": "0x187d1018e8ef879be4194d6ed7590987463ead85",
+  "symbol": "FUZE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FUZE--0x187d1018e8ef879be4194d6ed7590987463ead85/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

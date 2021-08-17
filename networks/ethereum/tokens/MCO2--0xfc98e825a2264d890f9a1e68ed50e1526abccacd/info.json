@@ -1,0 +1,11 @@
+{
+  "name": "Moss Carbon Credit",
+  "address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
+  "symbol": "MCO2",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MCO2--0xfc98e825a2264d890f9a1e68ed50e1526abccacd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

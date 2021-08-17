@@ -1,0 +1,11 @@
+{
+  "name": "Beast DAO",
+  "address": "0xdbb2f12cb89af05516768c2c69a771d92a25d17c",
+  "symbol": "BEAST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEAST--0xdbb2f12cb89af05516768c2c69a771d92a25d17c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

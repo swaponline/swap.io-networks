@@ -1,0 +1,11 @@
+{
+  "name": "Soteria",
+  "address": "0x541e619858737031a1244a5d0cd47e5ef480342c",
+  "symbol": "wSOTE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/wSOTE--0x541e619858737031a1244a5d0cd47e5ef480342c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

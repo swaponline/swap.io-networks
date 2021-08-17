@@ -1,0 +1,11 @@
+{
+  "name": "Jem",
+  "address": "0x21cf09bc065082478dcc9ccb5fd215a978dc8d86",
+  "symbol": "JEM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JEM--0x21cf09bc065082478dcc9ccb5fd215a978dc8d86/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

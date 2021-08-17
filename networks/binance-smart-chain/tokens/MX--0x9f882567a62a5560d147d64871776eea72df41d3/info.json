@@ -1,0 +1,11 @@
+{
+  "name": "MX Token",
+  "address": "0x9f882567a62a5560d147d64871776eea72df41d3",
+  "symbol": "MX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/MX--0x9f882567a62a5560d147d64871776eea72df41d3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

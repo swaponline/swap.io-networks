@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror TWTR Token",
+  "address": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+  "symbol": "mTWTR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mTWTR--0xedb0414627e6f1e3f082de65cd4f9c693d78cca9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

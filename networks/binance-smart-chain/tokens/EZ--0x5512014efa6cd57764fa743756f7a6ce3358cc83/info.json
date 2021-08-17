@@ -1,0 +1,11 @@
+{
+  "name": "Easy V2",
+  "address": "0x5512014efa6cd57764fa743756f7a6ce3358cc83",
+  "symbol": "EZ",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/EZ--0x5512014efa6cd57764fa743756f7a6ce3358cc83/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

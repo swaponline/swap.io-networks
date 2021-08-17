@@ -1,0 +1,11 @@
+{
+  "name": "Method",
+  "address": "0x84ba4aecfde39d69686a841bab434c32d179a169",
+  "symbol": "MTHD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MTHD--0x84ba4aecfde39d69686a841bab434c32d179a169/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

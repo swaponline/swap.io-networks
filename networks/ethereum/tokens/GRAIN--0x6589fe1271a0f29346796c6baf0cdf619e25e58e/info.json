@@ -1,0 +1,11 @@
+{
+  "name": "GRAIN Token",
+  "address": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
+  "symbol": "GRAIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GRAIN--0x6589fe1271a0f29346796c6baf0cdf619e25e58e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SingularityNETToken",
+  "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
+  "symbol": "AGI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AGI--0x8eb24319393716668d768dcec29356ae9cffe285/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chess Coin",
+  "address": "0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5",
+  "symbol": "CHESS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHESS--0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

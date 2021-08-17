@@ -1,0 +1,11 @@
+{
+  "name": "Mandala Exchange To",
+  "address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+  "symbol": "MDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MDX--0x947aeb02304391f8fbe5b25d7d98d649b57b1788/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Revomon",
+  "address": "0x155040625d7ae3e9cada9a73e3e44f76d3ed1409",
+  "symbol": "REVO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REVO--0x155040625d7ae3e9cada9a73e3e44f76d3ed1409/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

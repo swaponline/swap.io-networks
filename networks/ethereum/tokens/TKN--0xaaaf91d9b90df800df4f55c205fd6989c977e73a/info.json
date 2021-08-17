@@ -1,0 +1,11 @@
+{
+  "name": "Monolith",
+  "address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+  "symbol": "TKN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TKN--0xaaaf91d9b90df800df4f55c205fd6989c977e73a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

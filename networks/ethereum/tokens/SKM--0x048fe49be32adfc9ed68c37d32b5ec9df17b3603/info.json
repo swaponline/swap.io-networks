@@ -1,0 +1,11 @@
+{
+  "name": "Skrumble Network",
+  "address": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
+  "symbol": "SKM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SKM--0x048fe49be32adfc9ed68c37d32b5ec9df17b3603/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

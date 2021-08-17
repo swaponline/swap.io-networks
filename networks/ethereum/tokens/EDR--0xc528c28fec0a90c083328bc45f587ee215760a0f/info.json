@@ -1,0 +1,11 @@
+{
+  "name": "Endor Protocol Toke",
+  "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
+  "symbol": "EDR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EDR--0xc528c28fec0a90c083328bc45f587ee215760a0f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DefiCliq",
+  "address": "0x0def8d8adde14c9ef7c2a986df3ea4bd65826767",
+  "symbol": "CLIQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CLIQ--0x0def8d8adde14c9ef7c2a986df3ea4bd65826767/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

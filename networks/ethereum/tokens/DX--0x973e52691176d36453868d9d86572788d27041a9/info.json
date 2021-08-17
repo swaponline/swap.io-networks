@@ -1,0 +1,11 @@
+{
+  "name": "DxChain Token",
+  "address": "0x973e52691176d36453868d9d86572788d27041a9",
+  "symbol": "DX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DX--0x973e52691176d36453868d9d86572788d27041a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

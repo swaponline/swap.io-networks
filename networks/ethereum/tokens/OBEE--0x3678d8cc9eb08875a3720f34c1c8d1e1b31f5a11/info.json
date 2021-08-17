@@ -1,0 +1,11 @@
+{
+  "name": "Obee Network",
+  "address": "0x3678d8cc9eb08875a3720f34c1c8d1e1b31f5a11",
+  "symbol": "OBEE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OBEE--0x3678d8cc9eb08875a3720f34c1c8d1e1b31f5a11/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HabitatToken",
+  "address": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
+  "symbol": "HBT",
+  "decimals": 10,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HBT--0x0ace32f6e87ac1457a5385f8eb0208f37263b415/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

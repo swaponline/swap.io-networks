@@ -1,0 +1,11 @@
+{
+  "name": "AaveInterestbearingREN",
+  "address": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
+  "symbol": "aREN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aREN--0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

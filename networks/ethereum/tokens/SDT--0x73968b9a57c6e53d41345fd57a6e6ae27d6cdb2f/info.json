@@ -1,0 +1,11 @@
+{
+  "name": "StakeDAOToken",
+  "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+  "symbol": "SDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SDT--0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

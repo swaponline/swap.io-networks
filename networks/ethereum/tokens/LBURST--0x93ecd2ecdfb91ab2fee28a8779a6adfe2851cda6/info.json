@@ -1,0 +1,11 @@
+{
+  "name": "LoanBurst",
+  "address": "0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6",
+  "symbol": "LBURST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LBURST--0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

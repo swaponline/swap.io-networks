@@ -1,0 +1,11 @@
+{
+  "name": "Spock Token",
+  "address": "0x5b1ebe47f28f5a03cca11bb72a84c6fc23fa1cb0",
+  "symbol": "SPOCK",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SPOCK--0x5b1ebe47f28f5a03cca11bb72a84c6fc23fa1cb0/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

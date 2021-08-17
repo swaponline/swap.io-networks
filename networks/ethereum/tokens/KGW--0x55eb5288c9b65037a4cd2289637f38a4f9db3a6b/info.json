@@ -1,0 +1,11 @@
+{
+  "name": "KAWANGGAWA",
+  "address": "0x55eb5288c9b65037a4cd2289637f38a4f9db3a6b",
+  "symbol": "KGW",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KGW--0x55eb5288c9b65037a4cd2289637f38a4f9db3a6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

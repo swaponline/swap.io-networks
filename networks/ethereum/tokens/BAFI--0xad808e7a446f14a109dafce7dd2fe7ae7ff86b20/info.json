@@ -1,0 +1,11 @@
+{
+  "name": "Bafi Finance Token",
+  "address": "0xad808e7a446f14a109dafce7dd2fe7ae7ff86b20",
+  "symbol": "BAFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAFI--0xad808e7a446f14a109dafce7dd2fe7ae7ff86b20/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

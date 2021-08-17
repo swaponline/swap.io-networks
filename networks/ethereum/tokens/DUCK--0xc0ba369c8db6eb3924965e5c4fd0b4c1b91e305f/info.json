@@ -1,0 +1,11 @@
+{
+  "name": "DLPDuckToken",
+  "address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+  "symbol": "DUCK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DUCK--0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

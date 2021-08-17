@@ -1,0 +1,11 @@
+{
+  "name": "Cream1INCHToken",
+  "address": "0x85759961b116f1d36fd697855c57a6ae40793d9b",
+  "symbol": "cr1INCH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cr1INCH--0x85759961b116f1d36fd697855c57a6ae40793d9b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

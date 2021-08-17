@@ -1,0 +1,11 @@
+{
+  "name": "PYLON",
+  "address": "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2",
+  "symbol": "PYLON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PYLON--0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

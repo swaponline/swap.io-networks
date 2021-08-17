@@ -1,0 +1,11 @@
+{
+  "name": "AdEx Network",
+  "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
+  "symbol": "ADX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ADX--0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

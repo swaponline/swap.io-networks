@@ -1,0 +1,11 @@
+{
+  "name": "OWL Token",
+  "address": "0x2a7f709ee001069771ceb6d42e85035f7d18e736",
+  "symbol": "OWL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OWL--0x2a7f709ee001069771ceb6d42e85035f7d18e736/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

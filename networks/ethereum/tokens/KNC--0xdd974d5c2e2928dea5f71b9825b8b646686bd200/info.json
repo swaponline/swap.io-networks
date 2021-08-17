@@ -1,0 +1,11 @@
+{
+  "name": "Kyber Network",
+  "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+  "symbol": "KNC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KNC--0xdd974d5c2e2928dea5f71b9825b8b646686bd200/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

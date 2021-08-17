@@ -1,0 +1,11 @@
+{
+  "name": "UNII Finance",
+  "address": "0x825130aa1beef07bdf4f389705321816d05b0d0f",
+  "symbol": "UNII",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNII--0x825130aa1beef07bdf4f389705321816d05b0d0f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

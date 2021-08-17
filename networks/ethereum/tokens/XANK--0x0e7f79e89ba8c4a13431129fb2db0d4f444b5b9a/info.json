@@ -1,0 +1,11 @@
+{
+  "name": "Xank",
+  "address": "0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a",
+  "symbol": "XANK",
+  "decimals": 16,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XANK--0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

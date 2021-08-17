@@ -1,0 +1,11 @@
+{
+  "name": "Bitball Treasure",
+  "address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f",
+  "symbol": "BTRS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTRS--0x73c9275c3a2dd84b5741fd59aebf102c91eb033f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DeeperNetwork",
+  "address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
+  "symbol": "DPR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DPR--0xf3ae5d769e153ef72b4e3591ac004e89f48107a1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ripio",
+  "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+  "symbol": "RCN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RCN--0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

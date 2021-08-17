@@ -1,0 +1,11 @@
+{
+  "name": "Elrond",
+  "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+  "symbol": "EGLD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/EGLD--0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

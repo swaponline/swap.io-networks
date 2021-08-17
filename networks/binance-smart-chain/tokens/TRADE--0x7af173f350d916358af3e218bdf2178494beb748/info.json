@@ -1,0 +1,11 @@
+{
+  "name": "Unitrade",
+  "address": "0x7af173f350d916358af3e218bdf2178494beb748",
+  "symbol": "TRADE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TRADE--0x7af173f350d916358af3e218bdf2178494beb748/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

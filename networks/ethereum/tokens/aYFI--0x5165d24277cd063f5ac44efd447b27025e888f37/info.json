@@ -1,0 +1,11 @@
+{
+  "name": "AaveinterestbearingYFI",
+  "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
+  "symbol": "aYFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aYFI--0x5165d24277cd063f5ac44efd447b27025e888f37/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

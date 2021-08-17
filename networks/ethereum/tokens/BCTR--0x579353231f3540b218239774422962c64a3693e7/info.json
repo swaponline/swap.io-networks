@@ -1,0 +1,11 @@
+{
+  "name": "Bitcratic Revenue",
+  "address": "0x579353231f3540b218239774422962c64a3693e7",
+  "symbol": "BCTR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BCTR--0x579353231f3540b218239774422962c64a3693e7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

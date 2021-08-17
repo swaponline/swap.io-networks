@@ -1,0 +1,11 @@
+{
+  "name": "Dextoken Governance",
+  "address": "0xb81d70802a816b5dacba06d708b5acf19dcd436d",
+  "symbol": "DEXG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEXG--0xb81d70802a816b5dacba06d708b5acf19dcd436d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

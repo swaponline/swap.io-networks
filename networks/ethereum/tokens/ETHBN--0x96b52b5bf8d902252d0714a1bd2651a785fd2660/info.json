@@ -1,0 +1,11 @@
+{
+  "name": "EtherBone",
+  "address": "0x96b52b5bf8d902252d0714a1bd2651a785fd2660",
+  "symbol": "ETHBN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHBN--0x96b52b5bf8d902252d0714a1bd2651a785fd2660/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

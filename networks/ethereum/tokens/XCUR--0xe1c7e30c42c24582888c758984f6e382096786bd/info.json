@@ -1,0 +1,11 @@
+{
+  "name": "Curate",
+  "address": "0xe1c7e30c42c24582888c758984f6e382096786bd",
+  "symbol": "XCUR",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XCUR--0xe1c7e30c42c24582888c758984f6e382096786bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

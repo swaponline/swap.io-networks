@@ -1,0 +1,11 @@
+{
+  "name": "Polyient Games Gove",
+  "address": "0xeaccb6e0f24d66cf4aa6cbda33971b9231d332a1",
+  "symbol": "PGT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PGT--0xeaccb6e0f24d66cf4aa6cbda33971b9231d332a1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

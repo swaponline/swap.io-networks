@@ -1,0 +1,11 @@
+{
+  "name": "Covid19",
+  "address": "0x6b466b0232640382950c45440ea5b630744eca99",
+  "symbol": "CVD",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CVD--0x6b466b0232640382950c45440ea5b630744eca99/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

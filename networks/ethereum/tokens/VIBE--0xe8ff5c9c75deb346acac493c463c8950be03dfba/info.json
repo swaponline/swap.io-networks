@@ -1,0 +1,11 @@
+{
+  "name": "VIBE",
+  "address": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+  "symbol": "VIBE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VIBE--0xe8ff5c9c75deb346acac493c463c8950be03dfba/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

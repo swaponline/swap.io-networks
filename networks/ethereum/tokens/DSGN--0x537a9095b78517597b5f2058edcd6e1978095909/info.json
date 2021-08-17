@@ -1,0 +1,11 @@
+{
+  "name": "Design",
+  "address": "0x537a9095b78517597b5f2058edcd6e1978095909",
+  "symbol": "DSGN",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DSGN--0x537a9095b78517597b5f2058edcd6e1978095909/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

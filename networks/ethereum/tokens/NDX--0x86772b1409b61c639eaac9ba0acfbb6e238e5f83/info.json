@@ -1,0 +1,11 @@
+{
+  "name": "Indexed",
+  "address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+  "symbol": "NDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NDX--0x86772b1409b61c639eaac9ba0acfbb6e238e5f83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

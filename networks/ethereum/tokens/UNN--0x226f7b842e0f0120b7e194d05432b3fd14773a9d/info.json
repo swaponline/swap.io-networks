@@ -1,0 +1,11 @@
+{
+  "name": "UNIONProtocolGovernanceToken",
+  "address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
+  "symbol": "UNN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNN--0x226f7b842e0f0120b7e194d05432b3fd14773a9d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

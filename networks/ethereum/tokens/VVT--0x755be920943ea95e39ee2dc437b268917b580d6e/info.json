@@ -1,0 +1,11 @@
+{
+  "name": "VersoView",
+  "address": "0x755be920943ea95e39ee2dc437b268917b580d6e",
+  "symbol": "VVT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VVT--0x755be920943ea95e39ee2dc437b268917b580d6e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

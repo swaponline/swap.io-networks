@@ -1,0 +1,11 @@
+{
+  "name": "Protocol Finance",
+  "address": "0x7b69d465c0f9fb22affae56aa86149973e9b0966",
+  "symbol": "PFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PFI--0x7b69d465c0f9fb22affae56aa86149973e9b0966/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

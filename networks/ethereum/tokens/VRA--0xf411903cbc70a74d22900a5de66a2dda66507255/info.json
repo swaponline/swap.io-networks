@@ -1,0 +1,11 @@
+{
+  "name": "VERA",
+  "address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+  "symbol": "VRA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VRA--0xf411903cbc70a74d22900a5de66a2dda66507255/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

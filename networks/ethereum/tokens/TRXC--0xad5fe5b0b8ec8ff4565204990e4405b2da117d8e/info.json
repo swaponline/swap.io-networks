@@ -1,0 +1,11 @@
+{
+  "name": "TronClassic",
+  "address": "0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e",
+  "symbol": "TRXC",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRXC--0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

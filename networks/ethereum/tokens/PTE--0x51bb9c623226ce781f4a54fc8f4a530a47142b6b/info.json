@@ -1,0 +1,11 @@
+{
+  "name": "Peet DeFi",
+  "address": "0x51bb9c623226ce781f4a54fc8f4a530a47142b6b",
+  "symbol": "PTE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PTE--0x51bb9c623226ce781f4a54fc8f4a530a47142b6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

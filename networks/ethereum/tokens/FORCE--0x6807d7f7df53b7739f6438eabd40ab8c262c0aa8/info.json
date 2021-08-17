@@ -1,0 +1,11 @@
+{
+  "name": "Force DAO",
+  "address": "0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8",
+  "symbol": "FORCE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FORCE--0x6807d7f7df53b7739f6438eabd40ab8c262c0aa8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

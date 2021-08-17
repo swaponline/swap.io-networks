@@ -1,0 +1,11 @@
+{
+  "name": "NFTX",
+  "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+  "symbol": "NFTX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NFTX--0x87d73e916d7057945c9bcd8cdd94e42a6f47f776/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

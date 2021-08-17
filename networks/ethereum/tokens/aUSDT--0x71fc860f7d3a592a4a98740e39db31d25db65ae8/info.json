@@ -1,0 +1,11 @@
+{
+  "name": "Aave USDT",
+  "address": "0x71fc860f7d3a592a4a98740e39db31d25db65ae8",
+  "symbol": "aUSDT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aUSDT--0x71fc860f7d3a592a4a98740e39db31d25db65ae8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

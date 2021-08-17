@@ -1,0 +1,11 @@
+{
+  "name": "Chow Chow Finance",
+  "address": "0x925f2c11b99c1a4c46606898ee91ed3d450cfeda",
+  "symbol": "CHOW",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHOW--0x925f2c11b99c1a4c46606898ee91ed3d450cfeda/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

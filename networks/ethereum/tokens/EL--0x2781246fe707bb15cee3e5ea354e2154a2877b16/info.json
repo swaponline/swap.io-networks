@@ -1,0 +1,11 @@
+{
+  "name": "ELYSIA",
+  "address": "0x2781246fe707bb15cee3e5ea354e2154a2877b16",
+  "symbol": "EL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EL--0x2781246fe707bb15cee3e5ea354e2154a2877b16/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

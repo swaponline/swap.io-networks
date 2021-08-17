@@ -1,0 +1,11 @@
+{
+  "name": "EVNY Token",
+  "address": "0x9a24b8e8a6d4563c575a707b1275381119298e60",
+  "symbol": "EVNY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EVNY--0x9a24b8e8a6d4563c575a707b1275381119298e60/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

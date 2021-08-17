@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror NFLX Token",
+  "address": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd",
+  "symbol": "mNFLX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mNFLX--0xc8d674114bac90148d11d3c1d33c61835a0f9dcd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

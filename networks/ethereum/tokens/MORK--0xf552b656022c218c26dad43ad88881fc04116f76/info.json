@@ -1,0 +1,11 @@
+{
+  "name": "MORK",
+  "address": "0xf552b656022c218c26dad43ad88881fc04116f76",
+  "symbol": "MORK",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MORK--0xf552b656022c218c26dad43ad88881fc04116f76/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

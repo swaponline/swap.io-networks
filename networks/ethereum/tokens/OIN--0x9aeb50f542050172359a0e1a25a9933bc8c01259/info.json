@@ -1,0 +1,11 @@
+{
+  "name": "oinfinance",
+  "address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
+  "symbol": "OIN",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OIN--0x9aeb50f542050172359a0e1a25a9933bc8c01259/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bootleg NFT",
+  "address": "0xc8ce75f643ecad864fc625902a6a07371f38320d",
+  "symbol": "BOOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BOOT--0xc8ce75f643ecad864fc625902a6a07371f38320d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

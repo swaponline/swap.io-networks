@@ -1,0 +1,11 @@
+{
+  "name": "FERA",
+  "address": "0x539f3615c1dbafa0d008d87504667458acbd16fa",
+  "symbol": "FERA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FERA--0x539f3615c1dbafa0d008d87504667458acbd16fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

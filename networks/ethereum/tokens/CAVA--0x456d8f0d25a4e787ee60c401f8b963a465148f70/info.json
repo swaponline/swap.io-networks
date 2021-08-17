@@ -1,0 +1,11 @@
+{
+  "name": "Cavapoo",
+  "address": "0x456d8f0d25a4e787ee60c401f8b963a465148f70",
+  "symbol": "CAVA",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CAVA--0x456d8f0d25a4e787ee60c401f8b963a465148f70/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

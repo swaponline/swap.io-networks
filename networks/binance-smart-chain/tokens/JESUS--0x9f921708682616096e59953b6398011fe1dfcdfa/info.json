@@ -1,0 +1,11 @@
+{
+  "name": "Jesus Finance",
+  "address": "0x9f921708682616096e59953b6398011fe1dfcdfa",
+  "symbol": "JESUS",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/JESUS--0x9f921708682616096e59953b6398011fe1dfcdfa/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

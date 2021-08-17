@@ -1,0 +1,11 @@
+{
+  "name": "Komet",
+  "address": "0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7",
+  "symbol": "KOMET",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KOMET--0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

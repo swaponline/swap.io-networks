@@ -1,0 +1,11 @@
+{
+  "name": "ACoconut",
+  "address": "0x9a0aba393aac4dfbff4333b06c407458002c6183",
+  "symbol": "AC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AC--0x9a0aba393aac4dfbff4333b06c407458002c6183/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

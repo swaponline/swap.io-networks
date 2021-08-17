@@ -1,0 +1,11 @@
+{
+  "name": "DerivaDAO",
+  "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+  "symbol": "DDX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DDX--0x3a880652f47bfaa771908c07dd8673a787daed3a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

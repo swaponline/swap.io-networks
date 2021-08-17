@@ -1,0 +1,11 @@
+{
+  "name": "Dify Finance",
+  "address": "0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45",
+  "symbol": "YFIII",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFIII--0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

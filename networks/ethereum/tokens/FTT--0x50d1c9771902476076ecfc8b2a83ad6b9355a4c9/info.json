@@ -1,0 +1,11 @@
+{
+  "name": "FTX Token",
+  "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+  "symbol": "FTT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FTT--0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

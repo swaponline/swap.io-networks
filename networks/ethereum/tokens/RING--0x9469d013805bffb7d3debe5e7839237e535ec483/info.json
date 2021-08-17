@@ -1,0 +1,11 @@
+{
+  "name": "DarwiniaNetworkNativeToken",
+  "address": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+  "symbol": "RING",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RING--0x9469d013805bffb7d3debe5e7839237e535ec483/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

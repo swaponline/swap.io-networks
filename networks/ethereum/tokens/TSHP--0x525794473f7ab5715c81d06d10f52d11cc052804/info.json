@@ -1,0 +1,11 @@
+{
+  "name": "12Ships",
+  "address": "0x525794473f7ab5715c81d06d10f52d11cc052804",
+  "symbol": "TSHP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TSHP--0x525794473f7ab5715c81d06d10f52d11cc052804/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

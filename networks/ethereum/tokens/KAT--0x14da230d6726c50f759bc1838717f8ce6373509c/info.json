@@ -1,0 +1,11 @@
+{
+  "name": "Kambria",
+  "address": "0x14da230d6726c50f759bc1838717f8ce6373509c",
+  "symbol": "KAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KAT--0x14da230d6726c50f759bc1838717f8ce6373509c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HOPRToken",
+  "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+  "symbol": "HOPR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HOPR--0xf5581dfefd8fb0e4aec526be659cfab1f8c781da/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

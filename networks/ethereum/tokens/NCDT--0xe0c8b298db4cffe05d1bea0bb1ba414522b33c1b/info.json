@@ -1,0 +1,11 @@
+{
+  "name": "Nuco Cloud",
+  "address": "0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b",
+  "symbol": "NCDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NCDT--0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

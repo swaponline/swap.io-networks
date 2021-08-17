@@ -1,0 +1,11 @@
+{
+  "name": "Lendingblock",
+  "address": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
+  "symbol": "LND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LND--0x0947b0e6d821378805c9598291385ce7c791a6b2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

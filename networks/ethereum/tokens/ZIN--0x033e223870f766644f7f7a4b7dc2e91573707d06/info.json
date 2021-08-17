@@ -1,0 +1,11 @@
+{
+  "name": "Zin",
+  "address": "0x033e223870f766644f7f7a4b7dc2e91573707d06",
+  "symbol": "ZIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZIN--0x033e223870f766644f7f7a4b7dc2e91573707d06/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

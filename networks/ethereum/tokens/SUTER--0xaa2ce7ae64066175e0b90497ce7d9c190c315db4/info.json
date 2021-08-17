@@ -1,0 +1,11 @@
+{
+  "name": "Suterusu",
+  "address": "0xaa2ce7ae64066175e0b90497ce7d9c190c315db4",
+  "symbol": "SUTER",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SUTER--0xaa2ce7ae64066175e0b90497ce7d9c190c315db4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

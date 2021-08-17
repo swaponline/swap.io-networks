@@ -1,0 +1,11 @@
+{
+  "name": "ROOK",
+  "address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+  "symbol": "ROOK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROOK--0xfa5047c9c78b8877af97bdcb85db743fd7313d4a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

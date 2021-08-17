@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped EURS",
+  "address": "0xa8caea564811af0e92b1e044f3edd18fa9a73e4f",
+  "symbol": "cyEURS",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyEURS--0xa8caea564811af0e92b1e044f3edd18fa9a73e4f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

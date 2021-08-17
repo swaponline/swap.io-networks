@@ -1,0 +1,11 @@
+{
+  "name": "Jubi Token",
+  "address": "0xeb7355c2f217b3485a591332fe13c8c5a76a581d",
+  "symbol": "JT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JT--0xeb7355c2f217b3485a591332fe13c8c5a76a581d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TixlToken",
+  "address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
+  "symbol": "TXL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TXL--0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

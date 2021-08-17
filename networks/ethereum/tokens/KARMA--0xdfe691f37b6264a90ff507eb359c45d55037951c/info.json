@@ -1,0 +1,11 @@
+{
+  "name": "Karma",
+  "address": "0xdfe691f37b6264a90ff507eb359c45d55037951c",
+  "symbol": "KARMA",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KARMA--0xdfe691f37b6264a90ff507eb359c45d55037951c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

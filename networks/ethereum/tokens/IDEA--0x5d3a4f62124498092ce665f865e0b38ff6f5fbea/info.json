@@ -1,0 +1,11 @@
+{
+  "name": "Ideaology",
+  "address": "0x5d3a4f62124498092ce665f865e0b38ff6f5fbea",
+  "symbol": "IDEA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IDEA--0x5d3a4f62124498092ce665f865e0b38ff6f5fbea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

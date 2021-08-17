@@ -1,0 +1,11 @@
+{
+  "name": "Upfiring",
+  "address": "0xea097a2b1db00627b2fa17460ad260c016016977",
+  "symbol": "UFR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UFR--0xea097a2b1db00627b2fa17460ad260c016016977/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

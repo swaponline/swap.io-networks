@@ -1,0 +1,11 @@
+{
+  "name": "HEIDI",
+  "address": "0x58a3520d738b268c2353ecee518a1ad8e28e4ae5",
+  "symbol": "HDI",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HDI--0x58a3520d738b268c2353ecee518a1ad8e28e4ae5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FOX",
+  "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+  "symbol": "FOX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FOX--0xc770eefad204b5180df6a14ee197d99d808ee52d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "USDf",
+  "address": "0x05462671c05adc39a6521fa60d5e9443e9e9d2b9",
+  "symbol": "USDF",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDF--0x05462671c05adc39a6521fa60d5e9443e9e9d2b9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

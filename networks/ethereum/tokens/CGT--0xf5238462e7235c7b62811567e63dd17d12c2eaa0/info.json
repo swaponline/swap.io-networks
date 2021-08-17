@@ -1,0 +1,11 @@
+{
+  "name": "CACHEGold",
+  "address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+  "symbol": "CGT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CGT--0xf5238462e7235c7b62811567e63dd17d12c2eaa0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

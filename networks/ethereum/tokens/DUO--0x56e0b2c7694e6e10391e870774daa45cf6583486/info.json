@@ -1,0 +1,11 @@
+{
+  "name": "DUO Network",
+  "address": "0x56e0b2c7694e6e10391e870774daa45cf6583486",
+  "symbol": "DUO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DUO--0x56e0b2c7694e6e10391e870774daa45cf6583486/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

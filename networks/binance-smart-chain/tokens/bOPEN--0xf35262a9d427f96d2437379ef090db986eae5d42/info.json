@@ -1,0 +1,11 @@
+{
+  "name": "OPEN Governance Token",
+  "address": "0xf35262a9d427f96d2437379ef090db986eae5d42",
+  "symbol": "bOPEN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/bOPEN--0xf35262a9d427f96d2437379ef090db986eae5d42/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

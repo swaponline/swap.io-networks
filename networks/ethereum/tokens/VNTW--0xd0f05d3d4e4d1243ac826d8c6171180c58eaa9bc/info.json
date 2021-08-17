@@ -1,0 +1,11 @@
+{
+  "name": "Value Network Token",
+  "address": "0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc",
+  "symbol": "VNTW",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VNTW--0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

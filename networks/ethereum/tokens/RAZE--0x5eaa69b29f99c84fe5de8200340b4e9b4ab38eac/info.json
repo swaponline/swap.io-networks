@@ -1,0 +1,11 @@
+{
+  "name": "RazeNetwork",
+  "address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
+  "symbol": "RAZE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAZE--0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ROOBEE",
+  "address": "0xe64f5cb844946c1f102bd25bbd87a5ab4ae89fbe",
+  "symbol": "bROOBEE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/bROOBEE--0xe64f5cb844946c1f102bd25bbd87a5ab4ae89fbe/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CreamSwagToken",
+  "address": "0x22b243b96495c547598d9042b6f94b01c22b2e9e",
+  "symbol": "crSWAG",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crSWAG--0x22b243b96495c547598d9042b6f94b01c22b2e9e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

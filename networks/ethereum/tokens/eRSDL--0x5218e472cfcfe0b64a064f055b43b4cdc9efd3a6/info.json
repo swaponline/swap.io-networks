@@ -1,0 +1,11 @@
+{
+  "name": "UnFederalReserveToken",
+  "address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
+  "symbol": "eRSDL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/eRSDL--0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

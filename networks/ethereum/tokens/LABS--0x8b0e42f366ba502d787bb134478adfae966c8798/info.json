@@ -1,0 +1,11 @@
+{
+  "name": "LABSGroup",
+  "address": "0x8b0e42f366ba502d787bb134478adfae966c8798",
+  "symbol": "LABS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LABS--0x8b0e42f366ba502d787bb134478adfae966c8798/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "French ICO Coin",
+  "address": "0x7e442206da059905050ba02be63cbb85c559eb04",
+  "symbol": "FICO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FICO--0x7e442206da059905050ba02be63cbb85c559eb04/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

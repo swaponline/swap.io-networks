@@ -1,0 +1,11 @@
+{
+  "name": "Nahmii",
+  "address": "0x7c8155909cd385f120a56ef90728dd50f9ccbe52",
+  "symbol": "NII",
+  "decimals": 15,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NII--0x7c8155909cd385f120a56ef90728dd50f9ccbe52/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

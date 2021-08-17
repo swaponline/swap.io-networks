@@ -1,0 +1,11 @@
+{
+  "name": "Proton",
+  "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+  "symbol": "XPR",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XPR--0xd7efb00d12c2c13131fd319336fdf952525da2af/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

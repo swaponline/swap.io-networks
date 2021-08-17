@@ -1,0 +1,11 @@
+{
+  "name": "HakkaFinance",
+  "address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+  "symbol": "HAKKA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HAKKA--0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flowchain",
+  "address": "0x32c4adb9cf57f972bc375129de91c897b4f364f1",
+  "symbol": "FLC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLC--0x32c4adb9cf57f972bc375129de91c897b4f364f1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

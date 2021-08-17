@@ -1,0 +1,11 @@
+{
+  "name": "BSG",
+  "address": "0xb34ab2f65c6e4f764ffe740ab83f982021faed6d",
+  "symbol": "BSG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BSG--0xb34ab2f65c6e4f764ffe740ab83f982021faed6d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

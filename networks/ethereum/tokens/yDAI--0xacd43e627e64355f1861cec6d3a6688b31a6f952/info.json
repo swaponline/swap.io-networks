@@ -1,0 +1,11 @@
+{
+  "name": "yearnDaiStablecoin",
+  "address": "0xacd43e627e64355f1861cec6d3a6688b31a6f952",
+  "symbol": "yDAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yDAI--0xacd43e627e64355f1861cec6d3a6688b31a6f952/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

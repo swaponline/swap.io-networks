@@ -1,0 +1,11 @@
+{
+  "name": "pTokens LTC",
+  "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
+  "symbol": "PLTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PLTC--0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

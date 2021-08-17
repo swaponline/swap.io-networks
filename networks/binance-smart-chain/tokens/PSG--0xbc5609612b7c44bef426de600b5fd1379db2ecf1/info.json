@@ -1,0 +1,11 @@
+{
+  "name": "Paris Saint-Germain",
+  "address": "0xbc5609612b7c44bef426de600b5fd1379db2ecf1",
+  "symbol": "PSG",
+  "decimals": 2,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PSG--0xbc5609612b7c44bef426de600b5fd1379db2ecf1/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

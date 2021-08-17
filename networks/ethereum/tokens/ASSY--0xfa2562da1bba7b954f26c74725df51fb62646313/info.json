@@ -1,0 +1,11 @@
+{
+  "name": "ASSYIndex",
+  "address": "0xfa2562da1bba7b954f26c74725df51fb62646313",
+  "symbol": "ASSY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ASSY--0xfa2562da1bba7b954f26c74725df51fb62646313/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

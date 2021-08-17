@@ -1,0 +1,11 @@
+{
+  "name": "Tartarus",
+  "address": "0xc567bca531992352166252ea5121e535432e81ed",
+  "symbol": "TAR",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TAR--0xc567bca531992352166252ea5121e535432e81ed/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

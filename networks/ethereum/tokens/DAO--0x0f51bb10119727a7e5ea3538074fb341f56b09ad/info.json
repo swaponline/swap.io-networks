@@ -1,0 +1,11 @@
+{
+  "name": "DAOMaker",
+  "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+  "symbol": "DAO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DAO--0x0f51bb10119727a7e5ea3538074fb341f56b09ad/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

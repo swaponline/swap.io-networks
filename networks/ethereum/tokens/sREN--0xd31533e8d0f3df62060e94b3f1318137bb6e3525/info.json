@@ -1,0 +1,11 @@
+{
+  "name": "SynthsREN",
+  "address": "0xd31533e8d0f3df62060e94b3f1318137bb6e3525",
+  "symbol": "sREN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sREN--0xd31533e8d0f3df62060e94b3f1318137bb6e3525/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

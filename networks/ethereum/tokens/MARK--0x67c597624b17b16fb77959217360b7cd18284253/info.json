@@ -1,0 +1,11 @@
+{
+  "name": "Benchmark",
+  "address": "0x67c597624b17b16fb77959217360b7cd18284253",
+  "symbol": "MARK",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MARK--0x67c597624b17b16fb77959217360b7cd18284253/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

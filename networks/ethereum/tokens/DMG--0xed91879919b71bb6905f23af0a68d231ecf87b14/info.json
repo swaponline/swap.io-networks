@@ -1,0 +1,11 @@
+{
+  "name": "DMM Governance",
+  "address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+  "symbol": "DMG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DMG--0xed91879919b71bb6905f23af0a68d231ecf87b14/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OneSwap DAO Token",
+  "address": "0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+  "symbol": "ONES",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ONES--0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PieDAO DEFI Large Cap",
+  "address": "0x78f225869c08d478c34e5f645d07a87d3fe8eb78",
+  "symbol": "DEFI+L",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DEFI+L--0x78f225869c08d478c34e5f645d07a87d3fe8eb78/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cryptochrome",
+  "address": "0x538a151dd910c1d1227719bd400d6c4f99ea06d0",
+  "symbol": "CHM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHM--0x538a151dd910c1d1227719bd400d6c4f99ea06d0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

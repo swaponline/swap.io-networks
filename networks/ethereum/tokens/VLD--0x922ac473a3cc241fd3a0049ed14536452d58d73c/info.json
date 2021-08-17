@@ -1,0 +1,11 @@
+{
+  "name": "Vetri",
+  "address": "0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+  "symbol": "VLD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VLD--0x922ac473a3cc241fd3a0049ed14536452d58d73c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

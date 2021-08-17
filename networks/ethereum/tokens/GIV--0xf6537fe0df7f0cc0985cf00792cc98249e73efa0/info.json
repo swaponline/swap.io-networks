@@ -1,0 +1,11 @@
+{
+  "name": "GIV Token",
+  "address": "0xf6537fe0df7f0cc0985cf00792cc98249e73efa0",
+  "symbol": "GIV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GIV--0xf6537fe0df7f0cc0985cf00792cc98249e73efa0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

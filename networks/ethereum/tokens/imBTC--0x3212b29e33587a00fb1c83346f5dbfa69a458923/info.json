@@ -1,0 +1,11 @@
+{
+  "name": "The Tokenized Bitcoin",
+  "address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923",
+  "symbol": "imBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/imBTC--0x3212b29e33587a00fb1c83346f5dbfa69a458923/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

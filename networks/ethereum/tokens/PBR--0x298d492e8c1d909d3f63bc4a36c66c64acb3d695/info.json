@@ -1,0 +1,11 @@
+{
+  "name": "PolkaBridge",
+  "address": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+  "symbol": "PBR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PBR--0x298d492e8c1d909d3f63bc4a36c66c64acb3d695/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

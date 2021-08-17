@@ -1,0 +1,11 @@
+{
+  "name": "CompoundETH",
+  "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+  "symbol": "cETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cETH--0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

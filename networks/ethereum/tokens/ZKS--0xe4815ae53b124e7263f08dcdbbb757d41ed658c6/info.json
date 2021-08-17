@@ -1,0 +1,11 @@
+{
+  "name": "Zks",
+  "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+  "symbol": "ZKS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZKS--0xe4815ae53b124e7263f08dcdbbb757d41ed658c6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

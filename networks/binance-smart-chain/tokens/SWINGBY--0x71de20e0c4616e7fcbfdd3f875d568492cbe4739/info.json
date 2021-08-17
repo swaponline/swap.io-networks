@@ -1,0 +1,11 @@
+{
+  "name": "Swingby",
+  "address": "0x71de20e0c4616e7fcbfdd3f875d568492cbe4739",
+  "symbol": "SWINGBY",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SWINGBY--0x71de20e0c4616e7fcbfdd3f875d568492cbe4739/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yfscience",
+  "address": "0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a",
+  "symbol": "YFSI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFSI--0x1df6f1bb7454e5e4ba3bca882d3148fbf9b5697a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

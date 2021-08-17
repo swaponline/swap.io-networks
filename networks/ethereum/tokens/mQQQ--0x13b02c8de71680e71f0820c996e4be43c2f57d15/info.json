@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror QQQ Token",
+  "address": "0x13b02c8de71680e71f0820c996e4be43c2f57d15",
+  "symbol": "mQQQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mQQQ--0x13b02c8de71680e71f0820c996e4be43c2f57d15/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

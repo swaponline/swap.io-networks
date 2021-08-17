@@ -1,0 +1,11 @@
+{
+  "name": "TICOEX Token  Forme",
+  "address": "0x36b60a425b82483004487abc7adcb0002918fc56",
+  "symbol": "TICO",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TICO--0x36b60a425b82483004487abc7adcb0002918fc56/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

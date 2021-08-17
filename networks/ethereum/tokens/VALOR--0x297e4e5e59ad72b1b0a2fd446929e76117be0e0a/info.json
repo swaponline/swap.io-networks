@@ -1,0 +1,11 @@
+{
+  "name": "ValorToken",
+  "address": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+  "symbol": "VALOR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VALOR--0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Newtonium",
+  "address": "0xae9cbe6ebf72a51c9fcea3830485614486318fd4",
+  "symbol": "NEWTON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NEWTON--0xae9cbe6ebf72a51c9fcea3830485614486318fd4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bDIGG",
+  "address": "0x5986d5c77c65e5801a5caa4fae80089f870a71da",
+  "symbol": "bDIGG",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/bDIGG--0x5986d5c77c65e5801a5caa4fae80089f870a71da/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

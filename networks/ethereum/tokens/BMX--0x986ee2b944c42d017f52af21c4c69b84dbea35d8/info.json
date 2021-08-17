@@ -1,0 +1,11 @@
+{
+  "name": "BitMart Token",
+  "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+  "symbol": "BMX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BMX--0x986ee2b944c42d017f52af21c4c69b84dbea35d8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

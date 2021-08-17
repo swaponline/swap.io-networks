@@ -1,0 +1,11 @@
+{
+  "name": "CreamOMGToken",
+  "address": "0x7aaa323d7e398be4128c7042d197a2545f0f1fea",
+  "symbol": "crOMG",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crOMG--0x7aaa323d7e398be4128c7042d197a2545f0f1fea/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

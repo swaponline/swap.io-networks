@@ -1,0 +1,11 @@
+{
+  "name": "smARTOFGIVING",
+  "address": "0x8578530205cecbe5db83f7f29ecfeec860c297c2",
+  "symbol": "AOG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AOG--0x8578530205cecbe5db83f7f29ecfeec860c297c2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

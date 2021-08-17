@@ -1,0 +1,11 @@
+{
+  "name": "Secure Pad",
+  "address": "0x10994aa2fb8e6ba5d9fb2bc127ff228c4fe6167f",
+  "symbol": "SEPA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SEPA--0x10994aa2fb8e6ba5d9fb2bc127ff228c4fe6167f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

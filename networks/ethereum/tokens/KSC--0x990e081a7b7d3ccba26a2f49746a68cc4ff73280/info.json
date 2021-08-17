@@ -1,0 +1,11 @@
+{
+  "name": "KStarCoin",
+  "address": "0x990e081a7b7d3ccba26a2f49746a68cc4ff73280",
+  "symbol": "KSC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KSC--0x990e081a7b7d3ccba26a2f49746a68cc4ff73280/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

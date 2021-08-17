@@ -1,0 +1,11 @@
+{
+  "name": "Bidao",
+  "address": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa",
+  "symbol": "BID",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BID--0x25e1474170c4c0aa64fa98123bdc8db49d7802fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

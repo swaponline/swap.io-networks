@@ -1,0 +1,11 @@
+{
+  "name": "EURxb",
+  "address": "0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054",
+  "symbol": "EURXB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EURXB--0x0bead9a1bcc1b84d06e3f2df67e3549fd55ab054/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

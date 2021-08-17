@@ -1,0 +1,11 @@
+{
+  "name": "yearn.finance",
+  "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "symbol": "YFI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFI--0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

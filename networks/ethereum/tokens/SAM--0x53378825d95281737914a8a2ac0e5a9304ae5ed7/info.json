@@ -1,0 +1,11 @@
+{
+  "name": "Samurai",
+  "address": "0x53378825d95281737914a8a2ac0e5a9304ae5ed7",
+  "symbol": "SAM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAM--0x53378825d95281737914a8a2ac0e5a9304ae5ed7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

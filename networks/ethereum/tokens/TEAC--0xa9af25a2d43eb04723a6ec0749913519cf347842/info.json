@@ -1,0 +1,11 @@
+{
+  "name": "TealCoin",
+  "address": "0xa9af25a2d43eb04723a6ec0749913519cf347842",
+  "symbol": "TEAC",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TEAC--0xa9af25a2d43eb04723a6ec0749913519cf347842/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Etheroll",
+  "address": "0x2e071d2966aa7d8decb1005885ba1977d6038a65",
+  "symbol": "DICE",
+  "decimals": 16,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DICE--0x2e071d2966aa7d8decb1005885ba1977d6038a65/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

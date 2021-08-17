@@ -1,0 +1,11 @@
+{
+  "name": "Hydro",
+  "address": "0x946112efab61c3636cbd52de2e1392d7a75a6f01",
+  "symbol": "HYDRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cindicator",
+  "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+  "symbol": "CND",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CND--0xd4c435f5b09f855c3317c8524cb1f586e42795fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hands of Steel",
+  "address": "0x6f022e991ea21d26f85f6716c088e2864101dfec",
+  "symbol": "STEEL",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STEEL--0x6f022e991ea21d26f85f6716c088e2864101dfec/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Olympus",
+  "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+  "symbol": "OHM",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OHM--0x383518188c0c6d7730d91b2c03a03c837814a899/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

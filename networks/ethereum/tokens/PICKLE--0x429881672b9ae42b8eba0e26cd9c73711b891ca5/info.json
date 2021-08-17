@@ -1,0 +1,11 @@
+{
+  "name": "PickleToken",
+  "address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+  "symbol": "PICKLE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PICKLE--0x429881672b9ae42b8eba0e26cd9c73711b891ca5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

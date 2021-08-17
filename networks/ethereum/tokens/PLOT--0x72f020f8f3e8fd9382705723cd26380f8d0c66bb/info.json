@@ -1,0 +1,11 @@
+{
+  "name": "PLOT",
+  "address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+  "symbol": "PLOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PLOT--0x72f020f8f3e8fd9382705723cd26380f8d0c66bb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CreamBinanceWrappedBTC",
+  "address": "0x7ea9c63e216d5565c3940a2b3d150e59c2907db3",
+  "symbol": "crBBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crBBTC--0x7ea9c63e216d5565c3940a2b3d150e59c2907db3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

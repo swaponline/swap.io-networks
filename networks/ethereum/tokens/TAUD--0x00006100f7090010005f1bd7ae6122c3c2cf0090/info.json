@@ -1,0 +1,11 @@
+{
+  "name": "TrueAUD",
+  "address": "0x00006100f7090010005f1bd7ae6122c3c2cf0090",
+  "symbol": "TAUD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TAUD--0x00006100f7090010005f1bd7ae6122c3c2cf0090/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

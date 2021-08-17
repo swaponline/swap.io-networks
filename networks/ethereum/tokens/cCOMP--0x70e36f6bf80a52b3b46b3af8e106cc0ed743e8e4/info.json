@@ -1,0 +1,11 @@
+{
+  "name": "CompoundCollateral",
+  "address": "0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4",
+  "symbol": "cCOMP",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cCOMP--0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

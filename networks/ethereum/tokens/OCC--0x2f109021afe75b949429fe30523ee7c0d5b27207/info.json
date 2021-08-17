@@ -1,0 +1,11 @@
+{
+  "name": "OCC",
+  "address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
+  "symbol": "OCC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OCC--0x2f109021afe75b949429fe30523ee7c0d5b27207/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

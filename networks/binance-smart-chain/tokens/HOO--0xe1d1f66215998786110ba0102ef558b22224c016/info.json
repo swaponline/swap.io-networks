@@ -1,0 +1,11 @@
+{
+  "name": "Hoo",
+  "address": "0xe1d1f66215998786110ba0102ef558b22224c016",
+  "symbol": "HOO",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HOO--0xe1d1f66215998786110ba0102ef558b22224c016/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

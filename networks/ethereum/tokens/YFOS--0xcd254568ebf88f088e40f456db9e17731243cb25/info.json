@@ -1,0 +1,11 @@
+{
+  "name": "YFOS finance",
+  "address": "0xcd254568ebf88f088e40f456db9e17731243cb25",
+  "symbol": "YFOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFOS--0xcd254568ebf88f088e40f456db9e17731243cb25/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

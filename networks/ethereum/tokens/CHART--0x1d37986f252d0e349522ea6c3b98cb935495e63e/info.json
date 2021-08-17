@@ -1,0 +1,11 @@
+{
+  "name": "ChartEx",
+  "address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e",
+  "symbol": "CHART",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHART--0x1d37986f252d0e349522ea6c3b98cb935495e63e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

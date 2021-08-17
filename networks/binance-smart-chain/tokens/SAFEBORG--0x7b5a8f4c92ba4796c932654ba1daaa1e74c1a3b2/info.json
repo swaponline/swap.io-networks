@@ -1,0 +1,11 @@
+{
+  "name": "SafeBORG Token",
+  "address": "0x7b5a8f4c92ba4796c932654ba1daaa1e74c1a3b2",
+  "symbol": "SAFEBORG",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SAFEBORG--0x7b5a8f4c92ba4796c932654ba1daaa1e74c1a3b2/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

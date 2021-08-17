@@ -1,0 +1,11 @@
+{
+  "name": "BetterBetting",
+  "address": "0x763186eb8d4856d536ed4478302971214febc6a9",
+  "symbol": "BETR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BETR--0x763186eb8d4856d536ed4478302971214febc6a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

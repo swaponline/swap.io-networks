@@ -1,0 +1,11 @@
+{
+  "name": "WHALE",
+  "address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
+  "symbol": "WHALE",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WHALE--0x9355372396e3f6daf13359b7b607a3374cc638e0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

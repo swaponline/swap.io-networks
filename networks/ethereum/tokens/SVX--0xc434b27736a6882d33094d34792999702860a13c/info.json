@@ -1,0 +1,11 @@
+{
+  "name": "Savix",
+  "address": "0xc434b27736a6882d33094d34792999702860a13c",
+  "symbol": "SVX",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SVX--0xc434b27736a6882d33094d34792999702860a13c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

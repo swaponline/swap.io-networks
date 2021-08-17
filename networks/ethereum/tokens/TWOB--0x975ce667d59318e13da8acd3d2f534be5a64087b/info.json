@@ -1,0 +1,11 @@
+{
+  "name": "The Whale of Blockc",
+  "address": "0x975ce667d59318e13da8acd3d2f534be5a64087b",
+  "symbol": "TWOB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TWOB--0x975ce667d59318e13da8acd3d2f534be5a64087b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DFuture",
+  "address": "0x42712df5009c20fee340b245b510c0395896cf6e",
+  "symbol": "DFT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DFT--0x42712df5009c20fee340b245b510c0395896cf6e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

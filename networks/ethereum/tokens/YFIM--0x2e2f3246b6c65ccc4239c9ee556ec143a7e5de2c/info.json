@@ -1,0 +1,11 @@
+{
+  "name": "Yfi mobi",
+  "address": "0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c",
+  "symbol": "YFIM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFIM--0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

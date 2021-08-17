@@ -1,0 +1,11 @@
+{
+  "name": "PundiX",
+  "address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+  "symbol": "NPXS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NPXS--0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

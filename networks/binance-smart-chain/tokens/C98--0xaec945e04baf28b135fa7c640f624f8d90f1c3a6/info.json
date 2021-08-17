@@ -1,0 +1,11 @@
+{
+  "name": "Coin98",
+  "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+  "symbol": "C98",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/C98--0xaec945e04baf28b135fa7c640f624f8d90f1c3a6/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

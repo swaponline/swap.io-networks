@@ -1,0 +1,11 @@
+{
+  "name": "CreamEther",
+  "address": "0xd06527d5e56a3495252a528c4987003b712860ee",
+  "symbol": "crETH",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crETH--0xd06527d5e56a3495252a528c4987003b712860ee/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

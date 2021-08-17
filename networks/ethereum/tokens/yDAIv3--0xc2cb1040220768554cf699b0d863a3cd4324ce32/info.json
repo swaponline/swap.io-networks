@@ -1,0 +1,11 @@
+{
+  "name": "iearnDAIv3",
+  "address": "0xc2cb1040220768554cf699b0d863a3cd4324ce32",
+  "symbol": "yDAIv3",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yDAIv3--0xc2cb1040220768554cf699b0d863a3cd4324ce32/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

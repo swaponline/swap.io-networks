@@ -1,0 +1,11 @@
+{
+  "name": "ULLU",
+  "address": "0x5313e18463cf2f4b68b392a5b11f94de5528d01d",
+  "symbol": "ULLU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ULLU--0x5313e18463cf2f4b68b392a5b11f94de5528d01d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

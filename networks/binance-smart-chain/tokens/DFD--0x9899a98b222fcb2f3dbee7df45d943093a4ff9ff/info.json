@@ -1,0 +1,11 @@
+{
+  "name": "DefiDollar DAO",
+  "address": "0x9899a98b222fcb2f3dbee7df45d943093a4ff9ff",
+  "symbol": "DFD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DFD--0x9899a98b222fcb2f3dbee7df45d943093a4ff9ff/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

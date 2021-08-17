@@ -1,0 +1,11 @@
+{
+  "name": "Fantasy Sports",
+  "address": "0xcec38306558a31cdbb2a9d6285947c5b44a24f3e",
+  "symbol": "DFS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFS--0xcec38306558a31cdbb2a9d6285947c5b44a24f3e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

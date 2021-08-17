@@ -1,0 +1,11 @@
+{
+  "name": "BEE Coin",
+  "address": "0x1763ad73694d4d64fb71732b068e32ac72a345b1",
+  "symbol": "BEE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BEE--0x1763ad73694d4d64fb71732b068e32ac72a345b1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

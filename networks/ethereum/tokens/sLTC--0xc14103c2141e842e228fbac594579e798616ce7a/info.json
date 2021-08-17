@@ -1,0 +1,11 @@
+{
+  "name": "SynthsLTC",
+  "address": "0xc14103c2141e842e228fbac594579e798616ce7a",
+  "symbol": "sLTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sLTC--0xc14103c2141e842e228fbac594579e798616ce7a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

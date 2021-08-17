@@ -1,0 +1,11 @@
+{
+  "name": "Revolution Populi",
+  "address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a",
+  "symbol": "RVP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RVP--0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

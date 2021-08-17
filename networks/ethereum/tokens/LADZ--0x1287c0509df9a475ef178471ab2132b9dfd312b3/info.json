@@ -1,0 +1,11 @@
+{
+  "name": "LADZ",
+  "address": "0x1287c0509df9a475ef178471ab2132b9dfd312b3",
+  "symbol": "LADZ",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LADZ--0x1287c0509df9a475ef178471ab2132b9dfd312b3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

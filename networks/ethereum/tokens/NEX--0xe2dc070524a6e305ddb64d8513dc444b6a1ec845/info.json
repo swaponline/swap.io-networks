@@ -1,0 +1,11 @@
+{
+  "name": "Nash",
+  "address": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845",
+  "symbol": "NEX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NEX--0xe2dc070524a6e305ddb64d8513dc444b6a1ec845/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

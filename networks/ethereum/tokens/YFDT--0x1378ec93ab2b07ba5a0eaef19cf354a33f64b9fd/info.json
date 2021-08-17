@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Finance Diamo",
+  "address": "0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd",
+  "symbol": "YFDT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFDT--0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

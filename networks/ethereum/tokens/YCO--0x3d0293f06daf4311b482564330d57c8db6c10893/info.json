@@ -1,0 +1,11 @@
+{
+  "name": "Y Coin",
+  "address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
+  "symbol": "YCO",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YCO--0x3d0293f06daf4311b482564330d57c8db6c10893/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

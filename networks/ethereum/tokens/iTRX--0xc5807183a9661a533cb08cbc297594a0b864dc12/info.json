@@ -1,0 +1,11 @@
+{
+  "name": "SynthiTRX",
+  "address": "0xc5807183a9661a533cb08cbc297594a0b864dc12",
+  "symbol": "iTRX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/iTRX--0xc5807183a9661a533cb08cbc297594a0b864dc12/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

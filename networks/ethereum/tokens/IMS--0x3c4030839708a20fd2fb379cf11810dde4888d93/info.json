@@ -1,0 +1,11 @@
+{
+  "name": "IMSWallet",
+  "address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
+  "symbol": "IMS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IMS--0x3c4030839708a20fd2fb379cf11810dde4888d93/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

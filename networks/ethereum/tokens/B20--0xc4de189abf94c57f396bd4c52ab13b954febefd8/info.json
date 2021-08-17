@@ -1,0 +1,11 @@
+{
+  "name": "B.20",
+  "address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8",
+  "symbol": "B20",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/B20--0xc4de189abf94c57f396bd4c52ab13b954febefd8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

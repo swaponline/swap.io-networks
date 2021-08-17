@@ -1,0 +1,11 @@
+{
+  "name": "AdExNetwork",
+  "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+  "symbol": "ADX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ADX--0xade00c28244d5ce17d72e40330b1c318cd12b7c3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

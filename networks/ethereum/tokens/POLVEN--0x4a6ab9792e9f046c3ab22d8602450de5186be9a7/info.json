@@ -1,0 +1,11 @@
+{
+  "name": "Polka Ventures",
+  "address": "0x4a6ab9792e9f046c3ab22d8602450de5186be9a7",
+  "symbol": "POLVEN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POLVEN--0x4a6ab9792e9f046c3ab22d8602450de5186be9a7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

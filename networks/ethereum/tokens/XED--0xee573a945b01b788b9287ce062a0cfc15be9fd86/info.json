@@ -1,0 +1,11 @@
+{
+  "name": "Exeedme",
+  "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+  "symbol": "XED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XED--0xee573a945b01b788b9287ce062a0cfc15be9fd86/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

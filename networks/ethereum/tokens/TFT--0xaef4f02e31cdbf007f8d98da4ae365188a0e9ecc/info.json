@@ -1,0 +1,11 @@
+{
+  "name": "TheFamousToken",
+  "address": "0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc",
+  "symbol": "TFT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TFT--0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

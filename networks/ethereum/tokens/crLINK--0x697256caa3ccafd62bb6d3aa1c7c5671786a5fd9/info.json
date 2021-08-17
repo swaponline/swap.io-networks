@@ -1,0 +1,11 @@
+{
+  "name": "CreamChainLinkToken",
+  "address": "0x697256caa3ccafd62bb6d3aa1c7c5671786a5fd9",
+  "symbol": "crLINK",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crLINK--0x697256caa3ccafd62bb6d3aa1c7c5671786a5fd9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

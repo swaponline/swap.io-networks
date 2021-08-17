@@ -1,0 +1,11 @@
+{
+  "name": "MVL",
+  "address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+  "symbol": "MVL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MVL--0xa849eaae994fb86afa73382e9bd88c2b6b18dc71/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

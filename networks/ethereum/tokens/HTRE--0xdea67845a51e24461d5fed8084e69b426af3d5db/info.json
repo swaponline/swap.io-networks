@@ -1,0 +1,11 @@
+{
+  "name": "HodlTree",
+  "address": "0xdea67845a51e24461d5fed8084e69b426af3d5db",
+  "symbol": "HTRE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HTRE--0xdea67845a51e24461d5fed8084e69b426af3d5db/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

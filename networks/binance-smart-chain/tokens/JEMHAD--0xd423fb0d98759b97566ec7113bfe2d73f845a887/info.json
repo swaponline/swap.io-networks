@@ -1,0 +1,11 @@
+{
+  "name": "JemHadar Token",
+  "address": "0xd423fb0d98759b97566ec7113bfe2d73f845a887",
+  "symbol": "JEMHAD",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/JEMHAD--0xd423fb0d98759b97566ec7113bfe2d73f845a887/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

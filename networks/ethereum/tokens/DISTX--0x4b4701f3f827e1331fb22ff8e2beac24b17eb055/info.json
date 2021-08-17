@@ -1,0 +1,11 @@
+{
+  "name": "DistX",
+  "address": "0x4b4701f3f827e1331fb22ff8e2beac24b17eb055",
+  "symbol": "DISTX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DISTX--0x4b4701f3f827e1331fb22ff8e2beac24b17eb055/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

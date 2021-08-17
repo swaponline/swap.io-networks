@@ -1,0 +1,11 @@
+{
+  "name": "KAVA",
+  "address": "0x5f88ab06e8dfe89df127b2430bba4af600866035",
+  "symbol": "KAVA",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/KAVA--0x5f88ab06e8dfe89df127b2430bba4af600866035/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

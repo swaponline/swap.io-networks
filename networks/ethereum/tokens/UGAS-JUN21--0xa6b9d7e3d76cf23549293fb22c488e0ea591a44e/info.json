@@ -1,0 +1,11 @@
+{
+  "name": "uGAS JUN21 Token Ex",
+  "address": "0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e",
+  "symbol": "UGAS-JUN21",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UGAS-JUN21--0xa6b9d7e3d76cf23549293fb22c488e0ea591a44e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

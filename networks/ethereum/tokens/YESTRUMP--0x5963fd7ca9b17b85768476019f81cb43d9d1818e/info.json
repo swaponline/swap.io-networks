@@ -1,0 +1,11 @@
+{
+  "name": "Dai If Trump Wins T",
+  "address": "0x5963fd7ca9b17b85768476019f81cb43d9d1818e",
+  "symbol": "YESTRUMP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YESTRUMP--0x5963fd7ca9b17b85768476019f81cb43d9d1818e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

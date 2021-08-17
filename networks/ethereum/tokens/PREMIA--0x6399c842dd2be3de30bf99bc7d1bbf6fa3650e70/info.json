@@ -1,0 +1,11 @@
+{
+  "name": "Premia",
+  "address": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70",
+  "symbol": "PREMIA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PREMIA--0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

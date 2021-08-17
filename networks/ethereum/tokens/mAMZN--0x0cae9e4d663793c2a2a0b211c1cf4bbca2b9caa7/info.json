@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Mirror AMZN Token",
+  "address": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
+  "symbol": "mAMZN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/mAMZN--0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Twinkle",
+  "address": "0x13e9ec660d872f55405d70e5c52d872136f0970c",
+  "symbol": "TKT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TKT--0x13e9ec660d872f55405d70e5c52d872136f0970c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

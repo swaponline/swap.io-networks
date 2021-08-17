@@ -1,0 +1,11 @@
+{
+  "name": "CoinUtilityToken",
+  "address": "0xe61fdaf474fac07063f2234fb9e60c1163cfa850",
+  "symbol": "COIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COIN--0xe61fdaf474fac07063f2234fb9e60c1163cfa850/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

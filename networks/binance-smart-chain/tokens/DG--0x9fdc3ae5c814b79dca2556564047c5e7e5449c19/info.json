@@ -1,0 +1,11 @@
+{
+  "name": "Decentral Games",
+  "address": "0x9fdc3ae5c814b79dca2556564047c5e7e5449c19",
+  "symbol": "DG",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DG--0x9fdc3ae5c814b79dca2556564047c5e7e5449c19/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

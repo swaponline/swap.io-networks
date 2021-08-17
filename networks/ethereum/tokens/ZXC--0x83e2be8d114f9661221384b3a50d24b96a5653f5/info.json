@@ -1,0 +1,11 @@
+{
+  "name": "0xcert",
+  "address": "0x83e2be8d114f9661221384b3a50d24b96a5653f5",
+  "symbol": "ZXC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZXC--0x83e2be8d114f9661221384b3a50d24b96a5653f5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

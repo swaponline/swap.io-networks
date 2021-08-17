@@ -1,0 +1,11 @@
+{
+  "name": "k21.kanon.art",
+  "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+  "symbol": "K21",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/K21--0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

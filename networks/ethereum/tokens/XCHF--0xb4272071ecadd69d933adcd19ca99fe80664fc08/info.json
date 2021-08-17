@@ -1,0 +1,11 @@
+{
+  "name": "CryptoFranc",
+  "address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+  "symbol": "XCHF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XCHF--0xb4272071ecadd69d933adcd19ca99fe80664fc08/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

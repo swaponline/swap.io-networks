@@ -1,0 +1,11 @@
+{
+  "name": "NodeRunners",
+  "address": "0x739763a258640919981f9ba610ae65492455be53",
+  "symbol": "NDR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NDR--0x739763a258640919981f9ba610ae65492455be53/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

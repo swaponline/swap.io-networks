@@ -1,0 +1,11 @@
+{
+  "name": "Liquid DeFi",
+  "address": "0x72ca0501427bb8f089c1c4f767cb17d017e803a9",
+  "symbol": "LIQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LIQ--0x72ca0501427bb8f089c1c4f767cb17d017e803a9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

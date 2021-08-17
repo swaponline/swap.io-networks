@@ -1,0 +1,11 @@
+{
+  "name": "CryptoCricketClub",
+  "address": "0x4f56221252d117f35e2f6ab937a3f77cad38934d",
+  "symbol": "3CS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/3CS--0x4f56221252d117f35e2f6ab937a3f77cad38934d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

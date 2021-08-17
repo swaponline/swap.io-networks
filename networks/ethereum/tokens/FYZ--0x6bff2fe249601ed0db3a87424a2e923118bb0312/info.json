@@ -1,0 +1,11 @@
+{
+  "name": "FYOOZ",
+  "address": "0x6bff2fe249601ed0db3a87424a2e923118bb0312",
+  "symbol": "FYZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FYZ--0x6bff2fe249601ed0db3a87424a2e923118bb0312/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

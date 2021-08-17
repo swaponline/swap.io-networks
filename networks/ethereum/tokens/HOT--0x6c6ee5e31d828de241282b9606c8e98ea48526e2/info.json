@@ -1,0 +1,11 @@
+{
+  "name": "HoloToken",
+  "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+  "symbol": "HOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HOT--0x6c6ee5e31d828de241282b9606c8e98ea48526e2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

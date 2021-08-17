@@ -1,0 +1,11 @@
+{
+  "name": "FEGtoken",
+  "address": "0x389999216860ab8e0175387a0c90e5c52522c945",
+  "symbol": "FEG",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FEG--0x389999216860ab8e0175387a0c90e5c52522c945/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

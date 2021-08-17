@@ -1,0 +1,11 @@
+{
+  "name": "Polkazeck",
+  "address": "0xedb7b7842f7986a7f211d791e8f306c4ce82ba32",
+  "symbol": "ZCK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZCK--0xedb7b7842f7986a7f211d791e8f306c4ce82ba32/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "808TA Token",
+  "address": "0x5b535edfa75d7cb706044da0171204e1c48d00e8",
+  "symbol": "808TA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/808TA--0x5b535edfa75d7cb706044da0171204e1c48d00e8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Shark Finance",
+  "address": "0x9c664f20c0a00a4949dffca76748c02754c875aa",
+  "symbol": "YSKF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YSKF--0x9c664f20c0a00a4949dffca76748c02754c875aa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

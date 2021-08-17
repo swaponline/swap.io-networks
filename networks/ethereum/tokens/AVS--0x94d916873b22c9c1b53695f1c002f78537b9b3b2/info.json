@@ -1,0 +1,11 @@
+{
+  "name": "AlgoVest",
+  "address": "0x94d916873b22c9c1b53695f1c002f78537b9b3b2",
+  "symbol": "AVS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AVS--0x94d916873b22c9c1b53695f1c002f78537b9b3b2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mute",
+  "address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+  "symbol": "MUTE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MUTE--0xa49d7499271ae71cd8ab9ac515e6694c755d400c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

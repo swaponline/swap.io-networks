@@ -1,0 +1,11 @@
+{
+  "name": "Flashstake",
+  "address": "0x20398ad62bb2d930646d45a6d4292baa0b860c1f",
+  "symbol": "FLASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FLASH--0x20398ad62bb2d930646d45a6d4292baa0b860c1f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

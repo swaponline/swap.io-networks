@@ -1,0 +1,11 @@
+{
+  "name": "Ambrosus",
+  "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+  "symbol": "AMB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AMB--0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

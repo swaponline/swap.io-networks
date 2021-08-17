@@ -1,0 +1,11 @@
+{
+  "name": "DeFi Wizard",
+  "address": "0x7dee45dff03ec7137979586ca20a2f4917bac9fa",
+  "symbol": "DWZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DWZ--0x7dee45dff03ec7137979586ca20a2f4917bac9fa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

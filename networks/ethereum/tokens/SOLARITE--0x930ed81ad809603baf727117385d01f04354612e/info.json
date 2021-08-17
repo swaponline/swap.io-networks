@@ -1,0 +1,11 @@
+{
+  "name": "Solarite",
+  "address": "0x930ed81ad809603baf727117385d01f04354612e",
+  "symbol": "SOLARITE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOLARITE--0x930ed81ad809603baf727117385d01f04354612e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

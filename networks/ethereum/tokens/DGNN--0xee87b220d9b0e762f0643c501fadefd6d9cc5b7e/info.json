@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Network",
+  "address": "0xee87b220d9b0e762f0643c501fadefd6d9cc5b7e",
+  "symbol": "DGNN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DGNN--0xee87b220d9b0e762f0643c501fadefd6d9cc5b7e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

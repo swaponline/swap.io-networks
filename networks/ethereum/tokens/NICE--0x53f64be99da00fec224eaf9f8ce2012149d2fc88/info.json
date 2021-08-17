@@ -1,0 +1,11 @@
+{
+  "name": "Nice",
+  "address": "0x53f64be99da00fec224eaf9f8ce2012149d2fc88",
+  "symbol": "NICE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NICE--0x53f64be99da00fec224eaf9f8ce2012149d2fc88/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

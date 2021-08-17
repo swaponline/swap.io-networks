@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped YFI",
+  "address": "0xfa3472f7319477c9bfecdd66e4b948569e7621b9",
+  "symbol": "cyYFI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyYFI--0xfa3472f7319477c9bfecdd66e4b948569e7621b9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

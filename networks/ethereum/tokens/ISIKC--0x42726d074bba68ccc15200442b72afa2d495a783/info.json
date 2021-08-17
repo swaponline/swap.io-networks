@@ -1,0 +1,11 @@
+{
+  "name": "Isiklar Coin",
+  "address": "0x42726d074bba68ccc15200442b72afa2d495a783",
+  "symbol": "ISIKC",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ISIKC--0x42726d074bba68ccc15200442b72afa2d495a783/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

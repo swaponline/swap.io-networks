@@ -1,0 +1,11 @@
+{
+  "name": "Glitch",
+  "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
+  "symbol": "GLCH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GLCH--0x038a68ff68c393373ec894015816e33ad41bd564/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

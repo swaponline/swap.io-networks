@@ -1,0 +1,11 @@
+{
+  "name": "BAS",
+  "address": "0x106538cc16f938776c7c180186975bca23875287",
+  "symbol": "BAS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAS--0x106538cc16f938776c7c180186975bca23875287/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

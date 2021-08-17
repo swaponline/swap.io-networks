@@ -1,0 +1,11 @@
+{
+  "name": "passive.income",
+  "address": "0xd4cb461eace80708078450e465881599d2235f1a",
+  "symbol": "PSI",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PSI--0xd4cb461eace80708078450e465881599d2235f1a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

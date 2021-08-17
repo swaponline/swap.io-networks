@@ -1,0 +1,11 @@
+{
+  "name": "OpiumUSDTProtectionv2USDC",
+  "address": "0x5affe41805a9e57fed3657d0e64d96aea0b77885",
+  "symbol": "OPIUMLP34b7",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OPIUMLP34b7--0x5affe41805a9e57fed3657d0e64d96aea0b77885/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

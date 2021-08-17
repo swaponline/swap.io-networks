@@ -1,0 +1,11 @@
+{
+  "name": "HYFI",
+  "address": "0x9a319b959e33369c5eaa494a770117ee3e585318",
+  "symbol": "HYFI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HYFI--0x9a319b959e33369c5eaa494a770117ee3e585318/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

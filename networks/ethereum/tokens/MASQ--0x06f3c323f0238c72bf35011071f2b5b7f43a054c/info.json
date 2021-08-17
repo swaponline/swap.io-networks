@@ -1,0 +1,11 @@
+{
+  "name": "MASQ",
+  "address": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c",
+  "symbol": "MASQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MASQ--0x06f3c323f0238c72bf35011071f2b5b7f43a054c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

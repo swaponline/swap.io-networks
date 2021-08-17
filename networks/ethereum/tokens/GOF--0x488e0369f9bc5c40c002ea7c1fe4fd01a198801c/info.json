@@ -1,0 +1,11 @@
+{
+  "name": "Golff.finance",
+  "address": "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c",
+  "symbol": "GOF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GOF--0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

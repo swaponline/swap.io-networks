@@ -1,0 +1,11 @@
+{
+  "name": "FuseToken",
+  "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+  "symbol": "FUSE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FUSE--0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

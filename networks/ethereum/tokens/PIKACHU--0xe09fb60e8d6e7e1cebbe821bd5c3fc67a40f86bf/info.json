@@ -1,0 +1,11 @@
+{
+  "name": "Pika",
+  "address": "0xe09fb60e8d6e7e1cebbe821bd5c3fc67a40f86bf",
+  "symbol": "PIKACHU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PIKACHU--0xe09fb60e8d6e7e1cebbe821bd5c3fc67a40f86bf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Beowulf",
+  "address": "0xf7e04d8a32229b4ca63aa51eea9979c7287fea48",
+  "symbol": "BWF",
+  "decimals": 5,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BWF--0xf7e04d8a32229b4ca63aa51eea9979c7287fea48/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VesperToken",
+  "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+  "symbol": "VSP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VSP--0x1b40183efb4dd766f11bda7a7c3ad8982e998421/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

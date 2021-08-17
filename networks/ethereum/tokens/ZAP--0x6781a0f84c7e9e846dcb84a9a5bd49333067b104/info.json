@@ -1,0 +1,11 @@
+{
+  "name": "Zap",
+  "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+  "symbol": "ZAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

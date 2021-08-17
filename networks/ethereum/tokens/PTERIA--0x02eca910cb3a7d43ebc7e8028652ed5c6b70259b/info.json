@@ -1,0 +1,11 @@
+{
+  "name": "Pteria",
+  "address": "0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b",
+  "symbol": "PTERIA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PTERIA--0x02eca910cb3a7d43ebc7e8028652ed5c6b70259b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

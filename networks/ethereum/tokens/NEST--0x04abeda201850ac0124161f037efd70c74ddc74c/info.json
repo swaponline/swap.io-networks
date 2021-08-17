@@ -1,0 +1,11 @@
+{
+  "name": "Nest Protocol",
+  "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+  "symbol": "NEST",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NEST--0x04abeda201850ac0124161f037efd70c74ddc74c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

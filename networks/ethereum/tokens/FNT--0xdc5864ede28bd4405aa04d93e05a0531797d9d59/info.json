@@ -1,0 +1,11 @@
+{
+  "name": "Falcon",
+  "address": "0xdc5864ede28bd4405aa04d93e05a0531797d9d59",
+  "symbol": "FNT",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FNT--0xdc5864ede28bd4405aa04d93e05a0531797d9d59/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

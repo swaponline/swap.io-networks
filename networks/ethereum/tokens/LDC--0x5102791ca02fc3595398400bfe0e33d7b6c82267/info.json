@@ -1,0 +1,11 @@
+{
+  "name": "LeadCoin",
+  "address": "0x5102791ca02fc3595398400bfe0e33d7b6c82267",
+  "symbol": "LDC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LDC--0x5102791ca02fc3595398400bfe0e33d7b6c82267/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

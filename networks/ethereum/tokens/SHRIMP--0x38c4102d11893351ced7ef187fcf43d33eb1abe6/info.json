@@ -1,0 +1,11 @@
+{
+  "name": "Shrimp Finance",
+  "address": "0x38c4102d11893351ced7ef187fcf43d33eb1abe6",
+  "symbol": "SHRIMP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SHRIMP--0x38c4102d11893351ced7ef187fcf43d33eb1abe6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EthermonToken",
+  "address": "0x95daaab98046846bf4b2853e23cba236fa394a31",
+  "symbol": "EMONT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/EMONT--0x95daaab98046846bf4b2853e23cba236fa394a31/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

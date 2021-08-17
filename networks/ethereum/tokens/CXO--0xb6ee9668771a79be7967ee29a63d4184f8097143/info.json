@@ -1,0 +1,11 @@
+{
+  "name": "CargoX",
+  "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+  "symbol": "CXO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CXO--0xb6ee9668771a79be7967ee29a63d4184f8097143/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

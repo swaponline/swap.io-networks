@@ -1,0 +1,11 @@
+{
+  "name": "BitMaxtoken",
+  "address": "0xcca0c9c383076649604ee31b20248bc04fdf61ca",
+  "symbol": "BTMX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTMX--0xcca0c9c383076649604ee31b20248bc04fdf61ca/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

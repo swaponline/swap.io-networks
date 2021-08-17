@@ -1,0 +1,11 @@
+{
+  "name": "Polka City",
+  "address": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+  "symbol": "POLC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POLC--0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

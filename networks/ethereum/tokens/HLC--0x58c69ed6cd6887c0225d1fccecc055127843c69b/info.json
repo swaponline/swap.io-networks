@@ -1,0 +1,11 @@
+{
+  "name": "HalalChain",
+  "address": "0x58c69ed6cd6887c0225d1fccecc055127843c69b",
+  "symbol": "HLC",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HLC--0x58c69ed6cd6887c0225d1fccecc055127843c69b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

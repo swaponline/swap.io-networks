@@ -1,0 +1,11 @@
+{
+  "name": "YOKcoin",
+  "address": "0x05fcc72cfb4150abae415c885f7a433ff523296f",
+  "symbol": "YOK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YOK--0x05fcc72cfb4150abae415c885f7a433ff523296f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

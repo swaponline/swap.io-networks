@@ -1,0 +1,11 @@
+{
+  "name": "Dark Matter",
+  "address": "0x79126d32a86e6663f3aaac4527732d0701c1ae6c",
+  "symbol": "DMT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DMT--0x79126d32a86e6663f3aaac4527732d0701c1ae6c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

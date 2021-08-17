@@ -1,0 +1,11 @@
+{
+  "name": "KyberNetworkLegacy",
+  "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+  "symbol": "KNCL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KNCL--0xdd974d5c2e2928dea5f71b9825b8b646686bd200/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

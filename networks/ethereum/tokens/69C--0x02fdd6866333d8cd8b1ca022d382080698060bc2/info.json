@@ -1,0 +1,11 @@
+{
+  "name": "6ix9ine Chain",
+  "address": "0x02fdd6866333d8cd8b1ca022d382080698060bc2",
+  "symbol": "69C",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/69C--0x02fdd6866333d8cd8b1ca022d382080698060bc2/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PlutusDeFi",
+  "address": "0x9fbfed658919a896b5dc7b00456ce22d780f9b65",
+  "symbol": "PLT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PLT--0x9fbfed658919a896b5dc7b00456ce22d780f9b65/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

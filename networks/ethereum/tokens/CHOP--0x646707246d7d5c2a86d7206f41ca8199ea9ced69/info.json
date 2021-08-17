@@ -1,0 +1,11 @@
+{
+  "name": "Porkchop",
+  "address": "0x646707246d7d5c2a86d7206f41ca8199ea9ced69",
+  "symbol": "CHOP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHOP--0x646707246d7d5c2a86d7206f41ca8199ea9ced69/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Multiplier",
+  "address": "0x8a6f3bf52a26a21531514e23016eeae8ba7e7018",
+  "symbol": "MXX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MXX--0x8a6f3bf52a26a21531514e23016eeae8ba7e7018/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

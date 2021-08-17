@@ -1,0 +1,11 @@
+{
+  "name": "YFFS Finance",
+  "address": "0x90d702f071d2af33032943137ad0ab4280705817",
+  "symbol": "YFFS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YFFS--0x90d702f071d2af33032943137ad0ab4280705817/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

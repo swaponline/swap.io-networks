@@ -1,0 +1,11 @@
+{
+  "name": "METAWHALE GOLD",
+  "address": "0x45128cb743951121fb70cb570c0784492732778a",
+  "symbol": "MWG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MWG--0x45128cb743951121fb70cb570c0784492732778a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

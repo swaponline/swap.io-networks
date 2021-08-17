@@ -1,0 +1,11 @@
+{
+  "name": "Yield",
+  "address": "0xdcb01cc464238396e213a6fdd933e36796eaff9f",
+  "symbol": "YLD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YLD--0xdcb01cc464238396e213a6fdd933e36796eaff9f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

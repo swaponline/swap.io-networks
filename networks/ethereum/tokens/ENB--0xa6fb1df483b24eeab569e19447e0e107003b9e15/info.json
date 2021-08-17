@@ -1,0 +1,11 @@
+{
+  "name": "Earnbase",
+  "address": "0xa6fb1df483b24eeab569e19447e0e107003b9e15",
+  "symbol": "ENB",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ENB--0xa6fb1df483b24eeab569e19447e0e107003b9e15/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

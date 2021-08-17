@@ -1,0 +1,11 @@
+{
+  "name": "Skull",
+  "address": "0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35",
+  "symbol": "SKULL",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SKULL--0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BabyCake",
+  "address": "0xdb8d30b74bf098af214e862c90e647bbb1fcc58c",
+  "symbol": "BABYCAKE",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BABYCAKE--0xdb8d30b74bf098af214e862c90e647bbb1fcc58c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

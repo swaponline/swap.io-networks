@@ -1,0 +1,11 @@
+{
+  "name": "ZUZ Protocol",
+  "address": "0x202f1877e1db1120ca3e9a98c5d505e7f035c249",
+  "symbol": "ZUZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZUZ--0x202f1877e1db1120ca3e9a98c5d505e7f035c249/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

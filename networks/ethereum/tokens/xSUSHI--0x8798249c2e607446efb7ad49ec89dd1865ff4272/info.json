@@ -1,0 +1,11 @@
+{
+  "name": "SushiBar",
+  "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+  "symbol": "xSUSHI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/xSUSHI--0x8798249c2e607446efb7ad49ec89dd1865ff4272/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

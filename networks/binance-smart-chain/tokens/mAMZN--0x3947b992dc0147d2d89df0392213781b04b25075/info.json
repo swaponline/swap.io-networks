@@ -1,0 +1,11 @@
+{
+  "name": "Mirror AMZN Token",
+  "address": "0x3947b992dc0147d2d89df0392213781b04b25075",
+  "symbol": "mAMZN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/mAMZN--0x3947b992dc0147d2d89df0392213781b04b25075/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LoomNetwork",
+  "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+  "symbol": "LOOM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LOOM--0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

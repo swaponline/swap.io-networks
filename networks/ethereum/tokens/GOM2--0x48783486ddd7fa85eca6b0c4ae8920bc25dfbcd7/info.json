@@ -1,0 +1,11 @@
+{
+  "name": "GoMoney2",
+  "address": "0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7",
+  "symbol": "GOM2",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GOM2--0x48783486ddd7fa85eca6b0c4ae8920bc25dfbcd7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

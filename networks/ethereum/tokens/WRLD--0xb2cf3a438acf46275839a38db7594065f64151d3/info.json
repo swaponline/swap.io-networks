@@ -1,0 +1,11 @@
+{
+  "name": "TheWorldsAMine",
+  "address": "0xb2cf3a438acf46275839a38db7594065f64151d3",
+  "symbol": "WRLD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WRLD--0xb2cf3a438acf46275839a38db7594065f64151d3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

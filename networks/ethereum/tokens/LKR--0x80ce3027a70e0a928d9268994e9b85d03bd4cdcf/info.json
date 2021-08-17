@@ -1,0 +1,11 @@
+{
+  "name": "Polkalokr",
+  "address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
+  "symbol": "LKR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LKR--0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

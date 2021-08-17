@@ -1,0 +1,11 @@
+{
+  "name": "HedgeTrade",
+  "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+  "symbol": "HEDG",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HEDG--0xf1290473e210b2108a85237fbcd7b6eb42cc654f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

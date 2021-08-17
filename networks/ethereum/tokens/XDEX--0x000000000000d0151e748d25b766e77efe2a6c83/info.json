@@ -1,0 +1,11 @@
+{
+  "name": "XDEFIGovernanceToken",
+  "address": "0x000000000000d0151e748d25b766e77efe2a6c83",
+  "symbol": "XDEX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XDEX--0x000000000000d0151e748d25b766e77efe2a6c83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BurnDrop",
+  "address": "0x827eed050df933f6fda3a606b5f716cec660ecba",
+  "symbol": "BD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BD--0x827eed050df933f6fda3a606b5f716cec660ecba/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

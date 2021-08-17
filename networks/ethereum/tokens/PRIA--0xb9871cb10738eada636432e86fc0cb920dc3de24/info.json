@@ -1,0 +1,11 @@
+{
+  "name": "PRIA",
+  "address": "0xb9871cb10738eada636432e86fc0cb920dc3de24",
+  "symbol": "PRIA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PRIA--0xb9871cb10738eada636432e86fc0cb920dc3de24/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

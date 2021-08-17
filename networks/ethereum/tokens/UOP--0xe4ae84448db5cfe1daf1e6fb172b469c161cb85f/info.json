@@ -1,0 +1,11 @@
+{
+  "name": "Utopia Genesis Foun",
+  "address": "0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+  "symbol": "UOP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UOP--0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ShowHand",
+  "address": "0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7",
+  "symbol": "HAND",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HAND--0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BORG Token",
+  "address": "0xe9828045632b32e2aac7f3a4c1511c0d8965576c",
+  "symbol": "BORG",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BORG--0xe9828045632b32e2aac7f3a4c1511c0d8965576c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

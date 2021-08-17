@@ -1,0 +1,11 @@
+{
+  "name": "Banana Finance",
+  "address": "0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298",
+  "symbol": "BANANA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BANANA--0x21f54372c07b930b79c5c2d9bb0eaaca86c3b298/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

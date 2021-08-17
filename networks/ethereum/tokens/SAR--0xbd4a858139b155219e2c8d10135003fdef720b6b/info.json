@@ -1,0 +1,11 @@
+{
+  "name": "Saren",
+  "address": "0xbd4a858139b155219e2c8d10135003fdef720b6b",
+  "symbol": "SAR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SAR--0xbd4a858139b155219e2c8d10135003fdef720b6b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

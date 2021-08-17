@@ -1,0 +1,11 @@
+{
+  "name": "SelfKey",
+  "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+  "symbol": "KEY",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KEY--0x4cc19356f2d37338b9802aa8e8fc58b0373296e7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

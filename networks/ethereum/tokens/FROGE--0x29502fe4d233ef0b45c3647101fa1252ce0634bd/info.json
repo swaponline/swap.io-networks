@@ -1,0 +1,11 @@
+{
+  "name": "Froge Finance",
+  "address": "0x29502fe4d233ef0b45c3647101fa1252ce0634bd",
+  "symbol": "FROGE",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FROGE--0x29502fe4d233ef0b45c3647101fa1252ce0634bd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

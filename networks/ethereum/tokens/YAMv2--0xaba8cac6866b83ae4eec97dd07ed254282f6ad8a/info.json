@@ -1,0 +1,11 @@
+{
+  "name": "YAM v2",
+  "address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+  "symbol": "YAMV2",
+  "decimals": 24,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

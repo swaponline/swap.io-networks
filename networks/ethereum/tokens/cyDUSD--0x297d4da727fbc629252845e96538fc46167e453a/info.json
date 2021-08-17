@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped DUSD",
+  "address": "0x297d4da727fbc629252845e96538fc46167e453a",
+  "symbol": "cyDUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyDUSD--0x297d4da727fbc629252845e96538fc46167e453a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

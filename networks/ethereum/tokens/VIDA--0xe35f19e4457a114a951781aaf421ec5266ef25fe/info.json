@@ -1,0 +1,11 @@
+{
+  "name": "Vidiachange",
+  "address": "0xe35f19e4457a114a951781aaf421ec5266ef25fe",
+  "symbol": "VIDA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VIDA--0xe35f19e4457a114a951781aaf421ec5266ef25fe/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

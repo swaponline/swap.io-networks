@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped SUSD",
+  "address": "0x4e3a36a633f63aee0ab57b5054ec78867cb3c0b8",
+  "symbol": "cySUSD",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cySUSD--0x4e3a36a633f63aee0ab57b5054ec78867cb3c0b8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

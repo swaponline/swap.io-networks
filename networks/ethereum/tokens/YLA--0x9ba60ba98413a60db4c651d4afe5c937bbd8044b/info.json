@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Lazy Ape Index",
+  "address": "0x9ba60ba98413a60db4c651d4afe5c937bbd8044b",
+  "symbol": "YLA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YLA--0x9ba60ba98413a60db4c651d4afe5c937bbd8044b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

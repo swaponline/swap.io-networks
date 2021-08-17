@@ -1,0 +1,11 @@
+{
+  "name": "Aergo",
+  "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+  "symbol": "AERGO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/AERGO--0x91af0fbb28aba7e31403cb457106ce79397fd4e6/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

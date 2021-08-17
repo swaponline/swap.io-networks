@@ -1,0 +1,11 @@
+{
+  "name": "Dream Swap",
+  "address": "0xa93d5cfaa41193b13321c035b4bdd2b534172762",
+  "symbol": "DREAM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DREAM--0xa93d5cfaa41193b13321c035b4bdd2b534172762/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

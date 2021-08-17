@@ -1,0 +1,11 @@
+{
+  "name": "PowerTradeFuelToken",
+  "address": "0xc57d533c50bc22247d49a368880fb49a1caa39f7",
+  "symbol": "PTF",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PTF--0xc57d533c50bc22247d49a368880fb49a1caa39f7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

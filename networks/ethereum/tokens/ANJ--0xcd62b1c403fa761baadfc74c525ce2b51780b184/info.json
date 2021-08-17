@@ -1,0 +1,11 @@
+{
+  "name": "AragonNetworkJuror",
+  "address": "0xcd62b1c403fa761baadfc74c525ce2b51780b184",
+  "symbol": "ANJ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ANJ--0xcd62b1c403fa761baadfc74c525ce2b51780b184/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

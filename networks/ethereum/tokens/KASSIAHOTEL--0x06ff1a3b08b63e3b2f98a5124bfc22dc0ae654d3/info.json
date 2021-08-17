@@ -1,0 +1,11 @@
+{
+  "name": "Atlas",
+  "address": "0x06ff1a3b08b63e3b2f98a5124bfc22dc0ae654d3",
+  "symbol": "KASSIAHOTEL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KASSIAHOTEL--0x06ff1a3b08b63e3b2f98a5124bfc22dc0ae654d3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

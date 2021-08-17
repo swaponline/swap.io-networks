@@ -1,0 +1,11 @@
+{
+  "name": "BONK Token",
+  "address": "0x6d6506e6f438ede269877a0a720026559110b7d5",
+  "symbol": "BONK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BONK--0x6d6506e6f438ede269877a0a720026559110b7d5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

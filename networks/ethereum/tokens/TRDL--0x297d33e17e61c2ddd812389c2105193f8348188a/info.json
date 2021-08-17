@@ -1,0 +1,11 @@
+{
+  "name": "StrudelFinance",
+  "address": "0x297d33e17e61c2ddd812389c2105193f8348188a",
+  "symbol": "TRDL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TRDL--0x297d33e17e61c2ddd812389c2105193f8348188a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

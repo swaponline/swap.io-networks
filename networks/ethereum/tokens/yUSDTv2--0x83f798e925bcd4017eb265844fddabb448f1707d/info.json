@@ -1,0 +1,11 @@
+{
+  "name": "iearnUSDTv2",
+  "address": "0x83f798e925bcd4017eb265844fddabb448f1707d",
+  "symbol": "yUSDTv2",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/yUSDTv2--0x83f798e925bcd4017eb265844fddabb448f1707d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

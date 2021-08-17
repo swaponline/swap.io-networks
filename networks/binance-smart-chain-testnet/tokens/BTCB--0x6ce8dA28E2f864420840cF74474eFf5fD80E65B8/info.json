@@ -1,0 +1,11 @@
+{
+  "name": "BTCB Token",
+  "address": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
+  "symbol": "BTCB",
+  "decimals": 18,
+  "chainId": 97,
+  "logo": "/networks/binance-smart-chain-testnet/tokens/BTCB--0x6ce8da28e2f864420840cf74474eff5fd80e65b8/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

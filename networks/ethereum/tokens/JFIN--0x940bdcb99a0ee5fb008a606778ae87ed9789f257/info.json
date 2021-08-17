@@ -1,0 +1,11 @@
+{
+  "name": "JFIN Coin",
+  "address": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
+  "symbol": "JFIN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/JFIN--0x940bdcb99a0ee5fb008a606778ae87ed9789f257/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

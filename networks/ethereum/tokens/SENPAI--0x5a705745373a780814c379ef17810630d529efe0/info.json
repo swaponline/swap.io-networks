@@ -1,0 +1,11 @@
+{
+  "name": "Project Senpai",
+  "address": "0x5a705745373a780814c379ef17810630d529efe0",
+  "symbol": "SENPAI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SENPAI--0x5a705745373a780814c379ef17810630d529efe0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

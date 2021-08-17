@@ -1,0 +1,11 @@
+{
+  "name": "Dogeswap",
+  "address": "0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25",
+  "symbol": "DOGES",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOGES--0xb4fbed161bebcb37afb1cb4a6f7ca18b977ccb25/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

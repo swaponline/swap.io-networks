@@ -1,0 +1,11 @@
+{
+  "name": "Sperax",
+  "address": "0x9631483f28b7f5cbf7d435ab249be8f709215bc3",
+  "symbol": "SPA",
+  "decimals": 24,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SPA--0x9631483f28b7f5cbf7d435ab249be8f709215bc3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

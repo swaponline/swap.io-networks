@@ -1,0 +1,11 @@
+{
+  "name": "CuraDAI",
+  "address": "0x0a4b2d4b48a63088e0897a3f147ba37f81a27722",
+  "symbol": "CURA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CURA--0x0a4b2d4b48a63088e0897a3f147ba37f81a27722/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

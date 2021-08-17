@@ -1,0 +1,11 @@
+{
+  "name": "CreamFTXToken",
+  "address": "0x10a3da2bb0fae4d591476fd97d6636fd172923a8",
+  "symbol": "crHEGIC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crHEGIC--0x10a3da2bb0fae4d591476fd97d6636fd172923a8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

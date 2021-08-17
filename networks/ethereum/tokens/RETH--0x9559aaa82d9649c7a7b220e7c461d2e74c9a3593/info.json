@@ -1,0 +1,11 @@
+{
+  "name": "rETH",
+  "address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+  "symbol": "RETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RETH--0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

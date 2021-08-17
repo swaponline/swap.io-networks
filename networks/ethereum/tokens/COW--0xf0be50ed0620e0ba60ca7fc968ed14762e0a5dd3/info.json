@@ -1,0 +1,11 @@
+{
+  "name": "Cowboy Finance",
+  "address": "0xf0be50ed0620e0ba60ca7fc968ed14762e0a5dd3",
+  "symbol": "COW",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COW--0xf0be50ed0620e0ba60ca7fc968ed14762e0a5dd3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

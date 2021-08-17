@@ -1,0 +1,11 @@
+{
+  "name": "CreamUniswap",
+  "address": "0xe89a6d0509faf730bd707bf868d9a2a744a363c7",
+  "symbol": "crUNI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crUNI--0xe89a6d0509faf730bd707bf868d9a2a744a363c7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

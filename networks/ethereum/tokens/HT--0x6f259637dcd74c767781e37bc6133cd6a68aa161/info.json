@@ -1,0 +1,11 @@
+{
+  "name": "HuobiToken",
+  "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+  "symbol": "HT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HT--0x6f259637dcd74c767781e37bc6133cd6a68aa161/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

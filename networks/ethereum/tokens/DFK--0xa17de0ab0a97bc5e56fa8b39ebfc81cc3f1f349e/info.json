@@ -1,0 +1,11 @@
+{
+  "name": "DefiKing",
+  "address": "0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e",
+  "symbol": "DFK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFK--0xa17de0ab0a97bc5e56fa8b39ebfc81cc3f1f349e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

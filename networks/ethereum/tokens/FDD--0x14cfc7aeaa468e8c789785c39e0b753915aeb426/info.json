@@ -1,0 +1,11 @@
+{
+  "name": "FrogDAO Dime",
+  "address": "0x14cfc7aeaa468e8c789785c39e0b753915aeb426",
+  "symbol": "FDD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FDD--0x14cfc7aeaa468e8c789785c39e0b753915aeb426/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

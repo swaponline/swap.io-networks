@@ -1,0 +1,11 @@
+{
+  "name": "Veros",
+  "address": "0xabc430136a4de71c9998242de8c1b4b97d2b9045",
+  "symbol": "VRS",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VRS--0xabc430136a4de71c9998242de8c1b4b97d2b9045/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

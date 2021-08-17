@@ -1,0 +1,11 @@
+{
+  "name": "Hedget",
+  "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+  "symbol": "HGET",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HGET--0x7968bc6a03017ea2de509aaa816f163db0f35148/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

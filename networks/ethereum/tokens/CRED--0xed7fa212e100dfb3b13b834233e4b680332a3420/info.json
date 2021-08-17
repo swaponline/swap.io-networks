@@ -1,0 +1,11 @@
+{
+  "name": "Street Cred",
+  "address": "0xed7fa212e100dfb3b13b834233e4b680332a3420",
+  "symbol": "CRED",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRED--0xed7fa212e100dfb3b13b834233e4b680332a3420/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

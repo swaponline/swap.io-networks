@@ -1,0 +1,11 @@
+{
+  "name": "AlpaToken",
+  "address": "0xc5e6689c9c8b02be7c49912ef19e79cf24977f03",
+  "symbol": "ALPA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ALPA--0xc5e6689c9c8b02be7c49912ef19e79cf24977f03/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gourmet Galaxy",
+  "address": "0xc53708664b99df348dd27c3ac0759d2da9c40462",
+  "symbol": "GUM",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/GUM--0xc53708664b99df348dd27c3ac0759d2da9c40462/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

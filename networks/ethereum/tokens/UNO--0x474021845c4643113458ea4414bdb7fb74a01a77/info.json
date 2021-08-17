@@ -1,0 +1,11 @@
+{
+  "name": "UnoRe",
+  "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+  "symbol": "UNO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UNO--0x474021845c4643113458ea4414bdb7fb74a01a77/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

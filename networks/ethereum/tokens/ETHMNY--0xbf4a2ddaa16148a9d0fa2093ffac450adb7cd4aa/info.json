@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum Money",
+  "address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+  "symbol": "ETHMNY",
+  "decimals": 2,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETHMNY--0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

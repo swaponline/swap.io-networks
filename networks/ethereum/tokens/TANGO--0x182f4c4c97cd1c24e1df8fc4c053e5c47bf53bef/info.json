@@ -1,0 +1,11 @@
+{
+  "name": "keyTangoToken",
+  "address": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef",
+  "symbol": "TANGO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/TANGO--0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

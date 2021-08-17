@@ -1,0 +1,11 @@
+{
+  "name": "Asac Coin",
+  "address": "0x6913ccabbc337f0ea7b4109dd8200d61c704d332",
+  "symbol": "ASAC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ASAC--0x6913ccabbc337f0ea7b4109dd8200d61c704d332/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pluton",
+  "address": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+  "symbol": "PLU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PLU--0xd8912c10681d8b21fd3742244f44658dba12264e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

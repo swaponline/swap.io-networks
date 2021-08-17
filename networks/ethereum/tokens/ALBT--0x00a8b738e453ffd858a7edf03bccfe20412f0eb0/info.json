@@ -1,0 +1,11 @@
+{
+  "name": "AllianceBlockToken",
+  "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+  "symbol": "ALBT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALBT--0x00a8b738e453ffd858a7edf03bccfe20412f0eb0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

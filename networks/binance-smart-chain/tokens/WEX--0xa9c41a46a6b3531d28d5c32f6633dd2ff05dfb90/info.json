@@ -1,0 +1,11 @@
+{
+  "name": "WaultSwap",
+  "address": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+  "symbol": "WEX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/WEX--0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

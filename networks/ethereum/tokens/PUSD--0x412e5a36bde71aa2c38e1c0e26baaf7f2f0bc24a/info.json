@@ -1,0 +1,11 @@
+{
+  "name": "PegsUSD",
+  "address": "0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a",
+  "symbol": "PUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/PUSD--0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

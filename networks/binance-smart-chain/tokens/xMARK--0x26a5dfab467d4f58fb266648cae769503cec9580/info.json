@@ -1,0 +1,11 @@
+{
+  "name": "xMARK",
+  "address": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+  "symbol": "xMARK",
+  "decimals": 9,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/xMARK--0x26a5dfab467d4f58fb266648cae769503cec9580/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

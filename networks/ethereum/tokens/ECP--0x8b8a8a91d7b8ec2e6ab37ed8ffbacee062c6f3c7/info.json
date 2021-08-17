@@ -1,0 +1,11 @@
+{
+  "name": "ECP  Technology",
+  "address": "0x8b8a8a91d7b8ec2e6ab37ed8ffbacee062c6f3c7",
+  "symbol": "ECP",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ECP--0x8b8a8a91d7b8ec2e6ab37ed8ffbacee062c6f3c7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

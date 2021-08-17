@@ -1,0 +1,11 @@
+{
+  "name": "SynthsAAPL",
+  "address": "0x7537aae01f3b218dae75e10d952473823f961b87",
+  "symbol": "sAAPL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sAAPL--0x7537aae01f3b218dae75e10d952473823f961b87/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

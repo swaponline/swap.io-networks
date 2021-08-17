@@ -1,0 +1,11 @@
+{
+  "name": "APEcoin",
+  "address": "0x209c1808febf6c1ab7c65764bb61ad67d3923fcc",
+  "symbol": "APE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/APE--0x209c1808febf6c1ab7c65764bb61ad67d3923fcc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

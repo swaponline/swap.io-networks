@@ -1,0 +1,11 @@
+{
+  "name": "Balancer",
+  "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+  "symbol": "BAL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAL--0xba100000625a3754423978a60c9317c58a424e3d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

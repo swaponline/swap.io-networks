@@ -1,0 +1,11 @@
+{
+  "name": "BUILDFinance",
+  "address": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
+  "symbol": "BUILD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BUILD--0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

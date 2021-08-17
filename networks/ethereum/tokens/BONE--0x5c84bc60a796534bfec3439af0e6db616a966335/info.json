@@ -1,0 +1,11 @@
+{
+  "name": "Bone",
+  "address": "0x5c84bc60a796534bfec3439af0e6db616a966335",
+  "symbol": "BONE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BONE--0x5c84bc60a796534bfec3439af0e6db616a966335/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Decore",
+  "address": "0xb944b46bbd4ccca90c962ef225e2804e46691ccf",
+  "symbol": "DCORE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DCORE--0xb944b46bbd4ccca90c962ef225e2804e46691ccf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

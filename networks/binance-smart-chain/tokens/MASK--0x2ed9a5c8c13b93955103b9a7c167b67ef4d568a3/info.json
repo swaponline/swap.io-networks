@@ -1,0 +1,11 @@
+{
+  "name": "Mask Network",
+  "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+  "symbol": "MASK",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/MASK--0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

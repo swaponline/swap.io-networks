@@ -1,0 +1,11 @@
+{
+  "name": "Orchid Protocol",
+  "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
+  "symbol": "OXT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OXT--0x4575f41308ec1483f3d399aa9a2826d74da13deb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

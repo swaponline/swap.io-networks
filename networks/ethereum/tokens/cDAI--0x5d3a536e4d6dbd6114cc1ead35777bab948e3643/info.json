@@ -1,0 +1,11 @@
+{
+  "name": "CompoundDai",
+  "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+  "symbol": "cDAI",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cDAI--0x5d3a536e4d6dbd6114cc1ead35777bab948e3643/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

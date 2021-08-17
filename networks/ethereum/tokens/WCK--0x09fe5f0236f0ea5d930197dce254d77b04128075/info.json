@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped CryptoKitti",
+  "address": "0x09fe5f0236f0ea5d930197dce254d77b04128075",
+  "symbol": "WCK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WCK--0x09fe5f0236f0ea5d930197dce254d77b04128075/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

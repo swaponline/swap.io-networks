@@ -1,0 +1,11 @@
+{
+  "name": "Tenet",
+  "address": "0xdff8cb622790b7f92686c722b02cab55592f152c",
+  "symbol": "TEN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TEN--0xdff8cb622790b7f92686c722b02cab55592f152c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

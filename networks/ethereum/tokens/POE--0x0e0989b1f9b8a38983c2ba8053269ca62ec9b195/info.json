@@ -1,0 +1,11 @@
+{
+  "name": "Po et",
+  "address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+  "symbol": "POE",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/POE--0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

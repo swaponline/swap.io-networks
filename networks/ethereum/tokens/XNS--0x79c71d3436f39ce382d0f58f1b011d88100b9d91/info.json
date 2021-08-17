@@ -1,0 +1,11 @@
+{
+  "name": "Xeonbit Token",
+  "address": "0x79c71d3436f39ce382d0f58f1b011d88100b9d91",
+  "symbol": "XNS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XNS--0x79c71d3436f39ce382d0f58f1b011d88100b9d91/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

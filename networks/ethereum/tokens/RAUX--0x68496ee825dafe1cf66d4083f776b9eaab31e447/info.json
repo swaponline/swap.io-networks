@@ -1,0 +1,11 @@
+{
+  "name": "ErcauX",
+  "address": "0x68496ee825dafe1cf66d4083f776b9eaab31e447",
+  "symbol": "RAUX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/RAUX--0x68496ee825dafe1cf66d4083f776b9eaab31e447/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

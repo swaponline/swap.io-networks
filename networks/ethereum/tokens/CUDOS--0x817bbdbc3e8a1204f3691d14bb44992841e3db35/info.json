@@ -1,0 +1,11 @@
+{
+  "name": "CudosToken",
+  "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
+  "symbol": "CUDOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CUDOS--0x817bbdbc3e8a1204f3691d14bb44992841e3db35/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

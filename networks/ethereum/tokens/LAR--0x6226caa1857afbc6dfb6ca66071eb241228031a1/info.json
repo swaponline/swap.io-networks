@@ -1,0 +1,11 @@
+{
+  "name": "Linkart",
+  "address": "0x6226caa1857afbc6dfb6ca66071eb241228031a1",
+  "symbol": "LAR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LAR--0x6226caa1857afbc6dfb6ca66071eb241228031a1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

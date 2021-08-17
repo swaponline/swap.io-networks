@@ -1,0 +1,11 @@
+{
+  "name": "CSP DAO Network",
+  "address": "0x7f0c8b125040f707441cad9e5ed8a8408673b455",
+  "symbol": "NEBO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NEBO--0x7f0c8b125040f707441cad9e5ed8a8408673b455/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

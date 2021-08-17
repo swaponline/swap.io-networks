@@ -1,0 +1,11 @@
+{
+  "name": "Font",
+  "address": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+  "symbol": "FONT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/FONT--0x4c25bdf026ea05f32713f00f73ca55857fbf6342/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chonk",
+  "address": "0x84679bc467dc6c2c40ab04538813aff3796351f1",
+  "symbol": "CHONK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CHONK--0x84679bc467dc6c2c40ab04538813aff3796351f1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

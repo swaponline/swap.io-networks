@@ -1,0 +1,11 @@
+{
+  "name": "Kambria Yield Tunin",
+  "address": "0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41",
+  "symbol": "KYTE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KYTE--0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

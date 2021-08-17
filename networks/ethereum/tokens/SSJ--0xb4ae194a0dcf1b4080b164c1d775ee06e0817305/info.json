@@ -1,0 +1,11 @@
+{
+  "name": "Super Saiya jin",
+  "address": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305",
+  "symbol": "SSJ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SSJ--0xb4ae194a0dcf1b4080b164c1d775ee06e0817305/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

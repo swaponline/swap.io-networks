@@ -1,0 +1,11 @@
+{
+  "name": "NFT Platform Index",
+  "address": "0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465",
+  "symbol": "NFTP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/NFTP--0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

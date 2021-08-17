@@ -1,0 +1,11 @@
+{
+  "name": "APYSwap",
+  "address": "0x37dfacfaeda801437ff648a1559d73f4c40aacb7",
+  "symbol": "APYS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/APYS--0x37dfacfaeda801437ff648a1559d73f4c40aacb7/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

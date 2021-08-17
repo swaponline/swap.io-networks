@@ -1,0 +1,11 @@
+{
+  "name": "iXledger",
+  "address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+  "symbol": "IXT",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/IXT--0xfca47962d45adfdfd1ab2d972315db4ce7ccf094/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

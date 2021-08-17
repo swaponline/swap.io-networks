@@ -1,0 +1,11 @@
+{
+  "name": "Covesting",
+  "address": "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+  "symbol": "COV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COV--0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

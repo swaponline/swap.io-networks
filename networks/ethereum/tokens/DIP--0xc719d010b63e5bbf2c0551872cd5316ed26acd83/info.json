@@ -1,0 +1,11 @@
+{
+  "name": "Etherisc DIP Token",
+  "address": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+  "symbol": "DIP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DIP--0xc719d010b63e5bbf2c0551872cd5316ed26acd83/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

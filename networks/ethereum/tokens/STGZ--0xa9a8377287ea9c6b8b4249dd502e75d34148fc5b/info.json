@@ -1,0 +1,11 @@
+{
+  "name": "Stargaze Protocol",
+  "address": "0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b",
+  "symbol": "STGZ",
+  "decimals": 9,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/STGZ--0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

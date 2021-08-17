@@ -1,0 +1,11 @@
+{
+  "name": "ZIL",
+  "address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+  "symbol": "ZIL",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ZIL--0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

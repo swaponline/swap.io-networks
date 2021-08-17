@@ -1,0 +1,11 @@
+{
+  "name": "CreamMeta",
+  "address": "0x3623387773010d9214b10c551d6e7fc375d31f58",
+  "symbol": "crMTA",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crMTA--0x3623387773010d9214b10c551d6e7fc375d31f58/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

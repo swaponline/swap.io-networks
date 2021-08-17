@@ -1,0 +1,11 @@
+{
+  "name": "Schain Wallet",
+  "address": "0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a",
+  "symbol": "SCHA",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SCHA--0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

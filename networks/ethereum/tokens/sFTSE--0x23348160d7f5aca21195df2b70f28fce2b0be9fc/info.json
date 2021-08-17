@@ -1,0 +1,11 @@
+{
+  "name": "SynthsFTSE",
+  "address": "0x23348160d7f5aca21195df2b70f28fce2b0be9fc",
+  "symbol": "sFTSE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sFTSE--0x23348160d7f5aca21195df2b70f28fce2b0be9fc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

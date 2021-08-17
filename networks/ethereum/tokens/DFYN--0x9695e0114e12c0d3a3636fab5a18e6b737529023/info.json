@@ -1,0 +1,11 @@
+{
+  "name": "DFYNToken",
+  "address": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+  "symbol": "DFYN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DFYN--0x9695e0114e12c0d3a3636fab5a18e6b737529023/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

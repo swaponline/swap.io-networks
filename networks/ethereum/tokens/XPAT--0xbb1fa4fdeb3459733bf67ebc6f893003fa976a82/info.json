@@ -1,0 +1,11 @@
+{
+  "name": "Bitnation",
+  "address": "0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82",
+  "symbol": "XPAT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XPAT--0xbb1fa4fdeb3459733bf67ebc6f893003fa976a82/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

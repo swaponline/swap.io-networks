@@ -1,0 +1,11 @@
+{
+  "name": "BAEPAY",
+  "address": "0x6bffa07a1b0cebc474ce6833eaf2be6326252449",
+  "symbol": "BAEPAY",
+  "decimals": 4,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BAEPAY--0x6bffa07a1b0cebc474ce6833eaf2be6326252449/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

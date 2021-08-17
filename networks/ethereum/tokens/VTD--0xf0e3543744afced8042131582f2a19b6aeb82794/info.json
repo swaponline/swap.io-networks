@@ -1,0 +1,11 @@
+{
+  "name": "Variable Time Dolla",
+  "address": "0xf0e3543744afced8042131582f2a19b6aeb82794",
+  "symbol": "VTD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VTD--0xf0e3543744afced8042131582f2a19b6aeb82794/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

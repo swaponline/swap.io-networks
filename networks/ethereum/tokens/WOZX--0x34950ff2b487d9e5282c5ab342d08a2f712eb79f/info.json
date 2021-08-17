@@ -1,0 +1,11 @@
+{
+  "name": "EFFORCEIEO",
+  "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
+  "symbol": "WOZX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WOZX--0x34950ff2b487d9e5282c5ab342d08a2f712eb79f/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

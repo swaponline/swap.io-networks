@@ -1,0 +1,11 @@
+{
+  "name": "Interest bearing mUSD",
+  "address": "0x30647a72dc82d7fbb1123ea74716ab8a317eac19",
+  "symbol": "imUSD",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/imUSD--0x30647a72dc82d7fbb1123ea74716ab8a317eac19/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

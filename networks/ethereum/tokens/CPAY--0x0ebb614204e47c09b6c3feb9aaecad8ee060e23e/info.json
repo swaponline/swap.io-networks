@@ -1,0 +1,11 @@
+{
+  "name": "Cryptopay",
+  "address": "0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+  "symbol": "CPAY",
+  "decimals": 0,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CPAY--0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

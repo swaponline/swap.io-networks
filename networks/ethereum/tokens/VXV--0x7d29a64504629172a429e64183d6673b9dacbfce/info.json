@@ -1,0 +1,11 @@
+{
+  "name": "Vectorspace AI",
+  "address": "0x7d29a64504629172a429e64183d6673b9dacbfce",
+  "symbol": "VXV",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VXV--0x7d29a64504629172a429e64183d6673b9dacbfce/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

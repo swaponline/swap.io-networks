@@ -1,0 +1,11 @@
+{
+  "name": "Octo.fi",
+  "address": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+  "symbol": "OCTO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OCTO--0x7240ac91f01233baaf8b064248e80feaa5912ba3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

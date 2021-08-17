@@ -1,0 +1,11 @@
+{
+  "name": "Membrana",
+  "address": "0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7",
+  "symbol": "MBN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MBN--0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

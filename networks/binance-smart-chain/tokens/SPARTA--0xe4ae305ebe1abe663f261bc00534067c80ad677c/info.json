@@ -1,0 +1,11 @@
+{
+  "name": "SPARTAN PROTOCOL TOKEN",
+  "address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
+  "symbol": "SPARTA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SPARTA--0xe4ae305ebe1abe663f261bc00534067c80ad677c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QuiverX",
+  "address": "0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8",
+  "symbol": "QRX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/QRX--0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

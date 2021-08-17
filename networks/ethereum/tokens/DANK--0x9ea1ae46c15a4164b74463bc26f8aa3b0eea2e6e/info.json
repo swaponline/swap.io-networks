@@ -1,0 +1,11 @@
+{
+  "name": "Mu Dank",
+  "address": "0x9ea1ae46c15a4164b74463bc26f8aa3b0eea2e6e",
+  "symbol": "DANK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DANK--0x9ea1ae46c15a4164b74463bc26f8aa3b0eea2e6e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dock",
+  "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+  "symbol": "DOCK",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DOCK--0xe5dada80aa6477e85d09747f2842f7993d0df71c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

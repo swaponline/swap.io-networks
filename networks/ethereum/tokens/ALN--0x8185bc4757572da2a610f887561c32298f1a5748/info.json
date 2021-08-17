@@ -1,0 +1,11 @@
+{
+  "name": "Aluna",
+  "address": "0x8185bc4757572da2a610f887561c32298f1a5748",
+  "symbol": "ALN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ALN--0x8185bc4757572da2a610f887561c32298f1a5748/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

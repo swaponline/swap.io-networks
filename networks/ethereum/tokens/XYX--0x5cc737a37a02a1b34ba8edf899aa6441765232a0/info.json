@@ -1,0 +1,11 @@
+{
+  "name": "Burn Yield Burn",
+  "address": "0x5cc737a37a02a1b34ba8edf899aa6441765232a0",
+  "symbol": "XYX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XYX--0x5cc737a37a02a1b34ba8edf899aa6441765232a0/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RootKit",
+  "address": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+  "symbol": "ROOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ROOT--0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pepemon Pepeballs",
+  "address": "0x4d2ee5dae46c86da2ff521f7657dad98834f97b8",
+  "symbol": "PPBLZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

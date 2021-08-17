@@ -1,0 +1,11 @@
+{
+  "name": "CreamWrappedNXM",
+  "address": "0xeff039c3c1d668f408d09dd7b63008622a77532c",
+  "symbol": "crWNXM",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crWNXM--0xeff039c3c1d668f408d09dd7b63008622a77532c/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OceanToken",
+  "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+  "symbol": "OCEAN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/OCEAN--0x967da4048cd07ab37855c090aaf366e4ce1b9f48/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

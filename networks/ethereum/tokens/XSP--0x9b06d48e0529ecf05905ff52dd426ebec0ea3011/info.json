@@ -1,0 +1,11 @@
+{
+  "name": "XSwap",
+  "address": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+  "symbol": "XSP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/XSP--0x9b06d48e0529ecf05905ff52dd426ebec0ea3011/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tokenlon",
+  "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+  "symbol": "LON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LON--0x0000000000095413afc295d19edeb1ad7b71c952/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

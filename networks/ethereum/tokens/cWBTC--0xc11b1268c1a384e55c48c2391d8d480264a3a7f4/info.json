@@ -1,0 +1,11 @@
+{
+  "name": "CompoundWrappedBTC",
+  "address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
+  "symbol": "cWBTC",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cWBTC--0xc11b1268c1a384e55c48c2391d8d480264a3a7f4/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

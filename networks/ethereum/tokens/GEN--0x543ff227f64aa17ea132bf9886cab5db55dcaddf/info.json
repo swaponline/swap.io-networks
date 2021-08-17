@@ -1,0 +1,11 @@
+{
+  "name": "DAOStack",
+  "address": "0x543ff227f64aa17ea132bf9886cab5db55dcaddf",
+  "symbol": "GEN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/GEN--0x543ff227f64aa17ea132bf9886cab5db55dcaddf/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

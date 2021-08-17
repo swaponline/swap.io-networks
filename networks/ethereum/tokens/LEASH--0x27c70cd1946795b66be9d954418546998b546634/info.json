@@ -1,0 +1,11 @@
+{
+  "name": "DOGEKILLER",
+  "address": "0x27c70cd1946795b66be9d954418546998b546634",
+  "symbol": "LEASH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/LEASH--0x27c70cd1946795b66be9d954418546998b546634/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

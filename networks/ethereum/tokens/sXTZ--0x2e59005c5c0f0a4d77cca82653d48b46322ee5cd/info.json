@@ -1,0 +1,11 @@
+{
+  "name": "SynthsXTZ",
+  "address": "0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd",
+  "symbol": "sXTZ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sXTZ--0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

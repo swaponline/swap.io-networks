@@ -1,0 +1,11 @@
+{
+  "name": "sXMR",
+  "address": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a",
+  "symbol": "SXMR",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

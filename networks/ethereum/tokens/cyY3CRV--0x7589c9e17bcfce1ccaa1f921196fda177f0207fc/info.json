@@ -1,0 +1,11 @@
+{
+  "name": "Yearn Wrapped Y3CRV",
+  "address": "0x7589c9e17bcfce1ccaa1f921196fda177f0207fc",
+  "symbol": "cyY3CRV",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/cyY3CRV--0x7589c9e17bcfce1ccaa1f921196fda177f0207fc/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

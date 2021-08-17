@@ -1,0 +1,11 @@
+{
+  "name": "Mainstream For The ",
+  "address": "0xba745513acebcbb977497c569d4f7d340f2a936b",
+  "symbol": "MFTU",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MFTU--0xba745513acebcbb977497c569d4f7d340f2a936b/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

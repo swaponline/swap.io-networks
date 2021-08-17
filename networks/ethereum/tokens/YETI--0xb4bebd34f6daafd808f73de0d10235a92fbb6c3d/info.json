@@ -1,0 +1,11 @@
+{
+  "name": "YearnEcosystemTokenIndex",
+  "address": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+  "symbol": "YETI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/YETI--0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

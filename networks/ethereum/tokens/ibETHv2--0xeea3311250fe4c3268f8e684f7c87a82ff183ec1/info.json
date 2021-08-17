@@ -1,0 +1,11 @@
+{
+  "name": "Interest Bearing Ether v2",
+  "address": "0xeea3311250fe4c3268f8e684f7c87a82ff183ec1",
+  "symbol": "ibETHv2",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "",
+  "tags": [
+    "erc20"
+  ]
+}

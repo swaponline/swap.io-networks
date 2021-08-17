@@ -1,0 +1,11 @@
+{
+  "name": "SynthsETH",
+  "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+  "symbol": "sETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/sETH--0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

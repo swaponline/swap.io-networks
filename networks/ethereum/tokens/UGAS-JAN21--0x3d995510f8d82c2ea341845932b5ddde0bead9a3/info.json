@@ -1,0 +1,11 @@
+{
+  "name": "uLABS synthetic Gas",
+  "address": "0x3d995510f8d82c2ea341845932b5ddde0bead9a3",
+  "symbol": "UGAS-JAN21",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UGAS-JAN21--0x3d995510f8d82c2ea341845932b5ddde0bead9a3/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unimexnetwork",
+  "address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+  "symbol": "UMX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/UMX--0x10be9a8dae441d276a5027936c3aaded2d82bc15/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

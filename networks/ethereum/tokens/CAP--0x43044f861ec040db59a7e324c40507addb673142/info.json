@@ -1,0 +1,11 @@
+{
+  "name": "Cap",
+  "address": "0x43044f861ec040db59a7e324c40507addb673142",
+  "symbol": "CAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CAP--0x43044f861ec040db59a7e324c40507addb673142/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

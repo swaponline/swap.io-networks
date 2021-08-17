@@ -1,0 +1,11 @@
+{
+  "name": "Vaiot",
+  "address": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9",
+  "symbol": "VAI-VAIOT",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VAI-VAIOT--0x9f801c1f02af03cc240546dadef8e56cd46ea2e9/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Datamine",
+  "address": "0xf80d589b3dbe130c270a69f1a69d050f268786df",
+  "symbol": "DAM",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/DAM--0xf80d589b3dbe130c270a69f1a69d050f268786df/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Darwinia Commitment",
+  "address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+  "symbol": "KTON",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KTON--0x9f284e1337a815fe77d2ff4ae46544645b20c5ff/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

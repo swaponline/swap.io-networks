@@ -1,0 +1,11 @@
+{
+  "name": "Request",
+  "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+  "symbol": "REQ",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/REQ--0x8f8221afbb33998d8584a2b05749ba73c37a938a/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

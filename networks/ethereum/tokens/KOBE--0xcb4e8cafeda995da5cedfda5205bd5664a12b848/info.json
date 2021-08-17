@@ -1,0 +1,11 @@
+{
+  "name": "Shabu Shabu",
+  "address": "0xcb4e8cafeda995da5cedfda5205bd5664a12b848",
+  "symbol": "KOBE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KOBE--0xcb4e8cafeda995da5cedfda5205bd5664a12b848/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

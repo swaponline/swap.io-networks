@@ -1,0 +1,11 @@
+{
+  "name": "BTA Protocol",
+  "address": "0x270371c58d9d775ed73971dd414656107384f235",
+  "symbol": "BTAP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/BTAP--0x270371c58d9d775ed73971dd414656107384f235/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

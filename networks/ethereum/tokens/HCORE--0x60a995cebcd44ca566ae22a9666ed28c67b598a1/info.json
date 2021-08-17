@@ -1,0 +1,11 @@
+{
+  "name": "Hardcore Finance",
+  "address": "0x60a995cebcd44ca566ae22a9666ed28c67b598a1",
+  "symbol": "HCORE",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/HCORE--0x60a995cebcd44ca566ae22a9666ed28c67b598a1/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

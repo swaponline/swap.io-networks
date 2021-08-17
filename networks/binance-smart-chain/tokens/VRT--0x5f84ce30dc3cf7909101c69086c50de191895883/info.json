@@ -1,0 +1,11 @@
+{
+  "name": "Venus Rewards",
+  "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+  "symbol": "VRT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/VRT--0x5f84ce30dc3cf7909101c69086c50de191895883/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Universal Dollar",
+  "address": "0x888888877a18532b78d259577d00057054c50dd8",
+  "symbol": "U8D",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/U8D--0x888888877a18532b78d259577d00057054c50dd8/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

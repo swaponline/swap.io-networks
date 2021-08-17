@@ -1,0 +1,11 @@
+{
+  "name": "Volts Finance",
+  "address": "0x14d1c83df4decee9deb14ee851f109f0101a6631",
+  "symbol": "VOLTS",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VOLTS--0x14d1c83df4decee9deb14ee851f109f0101a6631/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

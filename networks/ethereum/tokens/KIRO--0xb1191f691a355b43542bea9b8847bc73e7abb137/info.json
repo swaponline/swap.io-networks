@@ -1,0 +1,11 @@
+{
+  "name": "Kirobo",
+  "address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
+  "symbol": "KIRO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KIRO--0xb1191f691a355b43542bea9b8847bc73e7abb137/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

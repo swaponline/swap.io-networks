@@ -1,0 +1,11 @@
+{
+  "name": "Carbon",
+  "address": "0xcdeee767bed58c5325f68500115d4b722b3724ee",
+  "symbol": "CRBN",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/CRBN--0xcdeee767bed58c5325f68500115d4b722b3724ee/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Virgin Gen ",
+  "address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
+  "symbol": "WVG0",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WVG0--0x25c7b64a93eb1261e130ec21a3e9918caa38b611/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PhantasmaStake",
+  "address": "0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+  "symbol": "SOUL",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/SOUL--0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

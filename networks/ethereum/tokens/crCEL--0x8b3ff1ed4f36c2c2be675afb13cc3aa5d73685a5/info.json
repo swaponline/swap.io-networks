@@ -1,0 +1,11 @@
+{
+  "name": "CreamCelsius",
+  "address": "0x8b3ff1ed4f36c2c2be675afb13cc3aa5d73685a5",
+  "symbol": "crCEL",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/crCEL--0x8b3ff1ed4f36c2c2be675afb13cc3aa5d73685a5/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

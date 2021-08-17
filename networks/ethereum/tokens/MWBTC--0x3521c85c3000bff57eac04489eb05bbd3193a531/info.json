@@ -1,0 +1,11 @@
+{
+  "name": "MetaWhale BTC",
+  "address": "0x3521c85c3000bff57eac04489eb05bbd3193a531",
+  "symbol": "MWBTC",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/MWBTC--0x3521c85c3000bff57eac04489eb05bbd3193a531/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}
