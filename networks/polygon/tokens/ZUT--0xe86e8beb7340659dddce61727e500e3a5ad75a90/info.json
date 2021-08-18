@@ -1,0 +1,11 @@
+{
+  "name": "ZeroUtility",
+  "address": "0xe86e8beb7340659dddce61727e500e3a5ad75a90",
+  "symbol": "ZUT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ZUT--0xe86e8beb7340659dddce61727e500e3a5ad75a90/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

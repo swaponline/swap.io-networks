@@ -1,0 +1,11 @@
+{
+  "name": "YAYO Coin",
+  "address": "0xf7058856f405542cd660e8ce4751248f2d037f2b",
+  "symbol": "YAYO",
+  "decimals": 4,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/YAYO--0xf7058856f405542cd660e8ce4751248f2d037f2b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

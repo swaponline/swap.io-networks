@@ -1,0 +1,11 @@
+{
+  "name": "StableGaj",
+  "address": "0x94c7d657f1c8be06a4dc009d2d475bb559d858cb",
+  "symbol": "SGAJ",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SGAJ--0x94c7d657f1c8be06a4dc009d2d475bb559d858cb/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CosmicSwap",
+  "address": "0xa5eb60ca85898f8b26e18ff7c7e43623ccba772c",
+  "symbol": "COSMIC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/COSMIC--0xa5eb60ca85898f8b26e18ff7c7e43623ccba772c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

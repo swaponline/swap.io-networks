@@ -1,0 +1,11 @@
+{
+  "name": "DinoX Coin",
+  "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+  "symbol": "DNXC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DNXC--0xcaf5191fc480f43e4df80106c7695eca56e48b18/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

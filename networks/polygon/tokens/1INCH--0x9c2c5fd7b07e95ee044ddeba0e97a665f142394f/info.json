@@ -1,0 +1,11 @@
+{
+  "name": "1inch",
+  "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/1INCH--0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

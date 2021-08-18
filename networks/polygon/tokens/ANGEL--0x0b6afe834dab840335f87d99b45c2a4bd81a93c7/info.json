@@ -1,0 +1,11 @@
+{
+  "name": "Polylauncher",
+  "address": "0x0b6afe834dab840335f87d99b45c2a4bd81a93c7",
+  "symbol": "ANGEL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ANGEL--0x0b6afe834dab840335f87d99b45c2a4bd81a93c7/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

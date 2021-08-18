@@ -1,0 +1,11 @@
+{
+  "name": "Simba Empire",
+  "address": "0x70784d8a360491562342b4f3d3d039aaacaf8f5d",
+  "symbol": "SIM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SIM--0x70784d8a360491562342b4f3d3d039aaacaf8f5d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

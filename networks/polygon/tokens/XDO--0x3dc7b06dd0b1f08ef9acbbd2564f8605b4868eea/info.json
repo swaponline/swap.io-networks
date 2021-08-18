@@ -1,0 +1,11 @@
+{
+  "name": "xDollar",
+  "address": "0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea",
+  "symbol": "XDO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XDO--0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

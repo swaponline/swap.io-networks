@@ -1,0 +1,11 @@
+{
+  "name": "IOI Token",
+  "address": "0xaf24765f631c8830b5528b57002241ee7eef1c14",
+  "symbol": "IOI",
+  "decimals": 6,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IOI--0xaf24765f631c8830b5528b57002241ee7eef1c14/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

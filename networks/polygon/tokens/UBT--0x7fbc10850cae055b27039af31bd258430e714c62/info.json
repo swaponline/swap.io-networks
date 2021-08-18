@@ -1,0 +1,11 @@
+{
+  "name": "Unibright",
+  "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
+  "symbol": "UBT",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UBT--0x7fbc10850cae055b27039af31bd258430e714c62/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UniFarm",
+  "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+  "symbol": "UFARM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UFARM--0xa7305ae84519ff8be02484cda45834c4e7d13dd6/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}

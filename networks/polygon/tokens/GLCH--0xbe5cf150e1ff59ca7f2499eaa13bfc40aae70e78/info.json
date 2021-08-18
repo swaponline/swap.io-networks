@@ -1,0 +1,11 @@
+{
+  "name": "Glitch Protocol",
+  "address": "0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78",
+  "symbol": "GLCH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GLCH--0xbe5cf150e1ff59ca7f2499eaa13bfc40aae70e78/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}

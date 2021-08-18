@@ -1,0 +1,11 @@
+{
+  "name": "inSure DeFi",
+  "address": "0xf88332547c680f755481bf489d890426248bb275",
+  "symbol": "SURE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SURE--0xf88332547c680f755481bf489d890426248bb275/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

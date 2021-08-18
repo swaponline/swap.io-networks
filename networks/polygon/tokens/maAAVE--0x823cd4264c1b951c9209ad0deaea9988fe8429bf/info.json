@@ -1,0 +1,11 @@
+{
+  "name": "Matic Aave Interest",
+  "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
+  "symbol": "MAAAVE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MAAAVE--0x823cd4264c1b951c9209ad0deaea9988fe8429bf/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BSCstarter",
+  "address": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
+  "symbol": "START",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/START--0x6ccf12b480a99c54b23647c995f4525d544a7e72/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

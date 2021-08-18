@@ -1,0 +1,11 @@
+{
+  "name": "Cfoforum Token",
+  "address": "0x0e2a70c08e884ea76116fccdc8b8be559162f08e",
+  "symbol": "CFO",
+  "decimals": 6,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CFO--0x0e2a70c08e884ea76116fccdc8b8be559162f08e/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

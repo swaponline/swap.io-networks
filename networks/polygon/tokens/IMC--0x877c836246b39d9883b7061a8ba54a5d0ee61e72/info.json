@@ -1,0 +1,11 @@
+{
+  "name": "IMM COIN",
+  "address": "0x877c836246b39d9883b7061a8ba54a5d0ee61e72",
+  "symbol": "IMC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IMC--0x877c836246b39d9883b7061a8ba54a5d0ee61e72/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

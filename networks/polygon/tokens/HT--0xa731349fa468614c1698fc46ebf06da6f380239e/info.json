@@ -1,0 +1,11 @@
+{
+  "name": "Huobi Token",
+  "address": "0xa731349fa468614c1698fc46ebf06da6f380239e",
+  "symbol": "HT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HT--0xa731349fa468614c1698fc46ebf06da6f380239e/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

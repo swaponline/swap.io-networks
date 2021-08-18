@@ -1,0 +1,11 @@
+{
+  "name": "MoonEdge",
+  "address": "0x7e4c577ca35913af564ee2a24d882a4946ec492b",
+  "symbol": "MOONED",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MOONED--0x7e4c577ca35913af564ee2a24d882a4946ec492b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

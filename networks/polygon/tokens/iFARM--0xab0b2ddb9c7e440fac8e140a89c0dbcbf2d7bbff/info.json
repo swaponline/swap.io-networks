@@ -1,0 +1,11 @@
+{
+  "name": "iFARM",
+  "address": "0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff",
+  "symbol": "IFARM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IFARM--0xab0b2ddb9c7e440fac8e140a89c0dbcbf2d7bbff/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

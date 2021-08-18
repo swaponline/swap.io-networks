@@ -1,0 +1,11 @@
+{
+  "name": "xDollar Stablecoin",
+  "address": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
+  "symbol": "XUSD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XUSD--0x3a3e7650f8b9f667da98f236010fbf44ee4b2975/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

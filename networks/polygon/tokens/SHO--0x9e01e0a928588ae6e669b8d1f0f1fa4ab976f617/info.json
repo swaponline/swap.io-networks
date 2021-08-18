@@ -1,0 +1,11 @@
+{
+  "name": "Showcase Token",
+  "address": "0x9e01e0a928588ae6e669b8d1f0f1fa4ab976f617",
+  "symbol": "SHO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SHO--0x9e01e0a928588ae6e669b8d1f0f1fa4ab976f617/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

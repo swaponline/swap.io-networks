@@ -1,0 +1,11 @@
+{
+  "name": "Cyclone Protocol",
+  "address": "0xcfb54a6d2da14abecd231174fc5735b4436965d8",
+  "symbol": "CYC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CYC--0xcfb54a6d2da14abecd231174fc5735b4436965d8/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

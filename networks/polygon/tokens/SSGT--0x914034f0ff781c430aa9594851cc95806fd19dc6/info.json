@@ -1,0 +1,11 @@
+{
+  "name": "Safeswap",
+  "address": "0x914034f0ff781c430aa9594851cc95806fd19dc6",
+  "symbol": "SSGT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SSGT--0x914034f0ff781c430aa9594851cc95806fd19dc6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

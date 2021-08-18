@@ -1,0 +1,11 @@
+{
+  "name": "PolyCrystal",
+  "address": "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64",
+  "symbol": "CRYSTL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CRYSTL--0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

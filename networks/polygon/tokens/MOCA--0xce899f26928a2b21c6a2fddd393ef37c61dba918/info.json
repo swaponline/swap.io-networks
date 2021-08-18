@@ -1,0 +1,11 @@
+{
+  "name": "Museum of Crypto Ar",
+  "address": "0xce899f26928a2b21c6a2fddd393ef37c61dba918",
+  "symbol": "MOCA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MOCA--0xce899f26928a2b21c6a2fddd393ef37c61dba918/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}

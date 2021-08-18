@@ -1,0 +1,11 @@
+{
+  "name": "moonwolf.io",
+  "address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
+  "symbol": "WOLF",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WOLF--0x8f18dc399594b451eda8c5da02d0563c0b2d0f16/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

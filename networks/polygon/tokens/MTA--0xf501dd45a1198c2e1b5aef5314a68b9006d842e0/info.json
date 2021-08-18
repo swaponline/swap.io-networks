@@ -1,0 +1,11 @@
+{
+  "name": "mStable Governance ",
+  "address": "0xf501dd45a1198c2e1b5aef5314a68b9006d842e0",
+  "symbol": "MTA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MTA--0xf501dd45a1198c2e1b5aef5314a68b9006d842e0/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

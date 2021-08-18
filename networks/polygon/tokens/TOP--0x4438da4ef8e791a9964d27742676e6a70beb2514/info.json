@@ -1,0 +1,11 @@
+{
+  "name": "Tokenplay",
+  "address": "0x4438da4ef8e791a9964d27742676e6a70beb2514",
+  "symbol": "TOP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TOP--0x4438da4ef8e791a9964d27742676e6a70beb2514/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

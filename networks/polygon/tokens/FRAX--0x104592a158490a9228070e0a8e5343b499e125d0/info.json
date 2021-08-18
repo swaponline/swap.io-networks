@@ -1,0 +1,11 @@
+{
+  "name": "Frax",
+  "address": "0x104592a158490a9228070e0a8e5343b499e125d0",
+  "symbol": "FRAX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FRAX--0x104592a158490a9228070e0a8e5343b499e125d0/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

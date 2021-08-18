@@ -1,0 +1,11 @@
+{
+  "name": "Ferrum Network",
+  "address": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
+  "symbol": "FRM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FRM--0xd99bafe5031cc8b345cb2e8c80135991f12d7130/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

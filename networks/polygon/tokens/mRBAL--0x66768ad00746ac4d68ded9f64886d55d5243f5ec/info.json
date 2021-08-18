@@ -1,0 +1,11 @@
+{
+  "name": "Matic Rebalance Token",
+  "address": "0x66768ad00746ac4d68ded9f64886d55d5243f5ec",
+  "symbol": "mRBAL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "",
+  "tags": [
+    "erc20matic"
+  ]
+}

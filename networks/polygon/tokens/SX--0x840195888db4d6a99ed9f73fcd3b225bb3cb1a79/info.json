@@ -1,0 +1,11 @@
+{
+  "name": "SportX",
+  "address": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+  "symbol": "SX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SX--0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

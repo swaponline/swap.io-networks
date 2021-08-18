@@ -1,0 +1,11 @@
+{
+  "name": "JPYC",
+  "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+  "symbol": "JPYC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/JPYC--0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

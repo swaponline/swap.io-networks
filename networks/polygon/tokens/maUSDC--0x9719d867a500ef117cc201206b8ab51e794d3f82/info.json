@@ -1,0 +1,11 @@
+{
+  "name": "Matic Aave Interest",
+  "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
+  "symbol": "MAUSDC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MAUSDC--0x9719d867a500ef117cc201206b8ab51e794d3f82/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YAMP.FINANCE",
+  "address": "0x87f654c4b347230c60cad8d7ea9cf0d7238bcc79",
+  "symbol": "YAMP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/YAMP--0x87f654c4b347230c60cad8d7ea9cf0d7238bcc79/logo.svg",
+  "tags": [
+    "erc20matic"
+  ]
+}

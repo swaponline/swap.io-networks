@@ -39,3 +39,13 @@ export const isNetworkTokenInfoExistSync = (network: string, tokenID: string): b
 export const getNetworkFolderFilesList = (network: string): string[] => readDirSync(getNetworkPath(network))
 export const getNetworkTokensList = (network: string): string[] => readDirSync(getNetworkTokensPath(network))
 export const getNetworkTokenFilesList = (network: string, tokenID: string): string[] => readDirSync(getNetworkTokenPath(network, tokenID))
+
+export const getLogoExtensioFromUrl = (url: string) => {
+  const firstSplitString = url.split('.')
+  const firstSplit = firstSplitString[firstSplitString.length - 1]
+
+  const secondSplitString = firstSplit.split('?')
+  const secondSplit = secondSplitString[0]
+
+  return secondSplit
+}

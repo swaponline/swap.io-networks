@@ -1,0 +1,11 @@
+{
+  "name": "Furucombo",
+  "address": "0x6ddb31002abc64e1479fc439692f7ea061e78165",
+  "symbol": "COMBO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/COMBO--0x6ddb31002abc64e1479fc439692f7ea061e78165/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

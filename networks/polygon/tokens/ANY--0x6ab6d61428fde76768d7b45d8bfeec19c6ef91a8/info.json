@@ -1,0 +1,11 @@
+{
+  "name": "Anyswap",
+  "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+  "symbol": "ANY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ANY--0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8/logo.svg",
+  "tags": [
+    "erc20matic"
+  ]
+}

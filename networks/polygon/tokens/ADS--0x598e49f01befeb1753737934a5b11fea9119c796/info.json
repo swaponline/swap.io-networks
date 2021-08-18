@@ -1,0 +1,11 @@
+{
+  "name": "Adshares",
+  "address": "0x598e49f01befeb1753737934a5b11fea9119c796",
+  "symbol": "ADS",
+  "decimals": 11,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ADS--0x598e49f01befeb1753737934a5b11fea9119c796/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

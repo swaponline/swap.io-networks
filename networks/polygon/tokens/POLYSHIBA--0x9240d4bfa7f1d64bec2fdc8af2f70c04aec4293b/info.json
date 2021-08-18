@@ -1,0 +1,11 @@
+{
+  "name": "PolyShiba",
+  "address": "0x9240d4bfa7f1d64bec2fdc8af2f70c04aec4293b",
+  "symbol": "POLYSHIBA",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLYSHIBA--0x9240d4bfa7f1d64bec2fdc8af2f70c04aec4293b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

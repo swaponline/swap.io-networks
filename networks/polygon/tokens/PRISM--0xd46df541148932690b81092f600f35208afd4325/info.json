@@ -1,0 +1,11 @@
+{
+  "name": "Prism Network",
+  "address": "0xd46df541148932690b81092f600f35208afd4325",
+  "symbol": "PRISM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PRISM--0xd46df541148932690b81092f600f35208afd4325/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

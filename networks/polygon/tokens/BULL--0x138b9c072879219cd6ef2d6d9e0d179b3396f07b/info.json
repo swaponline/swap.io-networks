@@ -1,0 +1,11 @@
+{
+  "name": "PolyBull Finance",
+  "address": "0x138b9c072879219cd6ef2d6d9e0d179b3396f07b",
+  "symbol": "BULL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BULL--0x138b9c072879219cd6ef2d6d9e0d179b3396f07b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

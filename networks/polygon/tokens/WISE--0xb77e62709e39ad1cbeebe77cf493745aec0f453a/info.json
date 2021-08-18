@@ -1,0 +1,11 @@
+{
+  "name": "Wise Token",
+  "address": "0xb77e62709e39ad1cbeebe77cf493745aec0f453a",
+  "symbol": "WISE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WISE--0xb77e62709e39ad1cbeebe77cf493745aec0f453a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

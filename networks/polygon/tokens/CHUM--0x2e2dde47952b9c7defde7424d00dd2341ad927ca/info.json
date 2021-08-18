@@ -1,0 +1,11 @@
+{
+  "name": "ChumHum",
+  "address": "0x2e2dde47952b9c7defde7424d00dd2341ad927ca",
+  "symbol": "CHUM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CHUM--0x2e2dde47952b9c7defde7424d00dd2341ad927ca/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

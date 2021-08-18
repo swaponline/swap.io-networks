@@ -1,0 +1,11 @@
+{
+  "name": "Rocket Vault",
+  "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+  "symbol": "RVF",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RVF--0x2ce13e4199443fdfff531abb30c9b6594446bbc7/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

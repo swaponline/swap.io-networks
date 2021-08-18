@@ -1,0 +1,11 @@
+{
+  "name": "Dai Stablecoin",
+  "address": "0xcb1e72786a6eb3b44c2a2429e317c8a2462cfeb1",
+  "symbol": "DAI",
+  "decimals": 18,
+  "chainId": 80001,
+  "logo": "/networks/polygon-mumbai/tokens/DAI--0xcb1e72786a6eb3b44c2a2429e317c8a2462cfeb1/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

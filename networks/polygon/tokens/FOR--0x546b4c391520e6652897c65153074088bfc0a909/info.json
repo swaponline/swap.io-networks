@@ -1,0 +1,11 @@
+{
+  "name": "The Force Token",
+  "address": "0x546b4c391520e6652897c65153074088bfc0a909",
+  "symbol": "FOR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FOR--0x546b4c391520e6652897c65153074088bfc0a909/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

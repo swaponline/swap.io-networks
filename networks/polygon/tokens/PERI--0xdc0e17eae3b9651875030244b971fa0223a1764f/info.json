@@ -1,0 +1,11 @@
+{
+  "name": "PERI Finance",
+  "address": "0xdc0e17eae3b9651875030244b971fa0223a1764f",
+  "symbol": "PERI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PERI--0xdc0e17eae3b9651875030244b971fa0223a1764f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

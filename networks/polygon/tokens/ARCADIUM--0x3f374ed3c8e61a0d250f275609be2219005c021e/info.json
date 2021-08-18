@@ -1,0 +1,11 @@
+{
+  "name": "Arcadium",
+  "address": "0x3f374ed3c8e61a0d250f275609be2219005c021e",
+  "symbol": "ARCADIUM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ARCADIUM--0x3f374ed3c8e61a0d250f275609be2219005c021e/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

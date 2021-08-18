@@ -1,0 +1,11 @@
+{
+  "name": "EASY V2",
+  "address": "0x34c1b299a74588d6abdc1b85a53345a48428a521",
+  "symbol": "EZ",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/EZ--0x34c1b299a74588d6abdc1b85a53345a48428a521/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

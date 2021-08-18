@@ -1,0 +1,11 @@
+{
+  "name": "Auto",
+  "address": "0x7f426f6dc648e50464a0392e60e1bb465a67e9cf ",
+  "symbol": "AUTO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AUTO--0x7f426f6dc648e50464a0392e60e1bb465a67e9cf /logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

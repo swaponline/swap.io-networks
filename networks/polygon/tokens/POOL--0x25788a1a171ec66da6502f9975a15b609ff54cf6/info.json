@@ -1,0 +1,11 @@
+{
+  "name": "PoolTogether",
+  "address": "0x25788a1a171ec66da6502f9975a15b609ff54cf6",
+  "symbol": "POOL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POOL--0x25788a1a171ec66da6502f9975a15b609ff54cf6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

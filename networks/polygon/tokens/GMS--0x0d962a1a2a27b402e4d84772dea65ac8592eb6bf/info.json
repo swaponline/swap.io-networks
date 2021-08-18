@@ -1,0 +1,11 @@
+{
+  "name": "Gemstones",
+  "address": "0x0d962a1a2a27b402e4d84772dea65ac8592eb6bf",
+  "symbol": "GMS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GMS--0x0d962a1a2a27b402e4d84772dea65ac8592eb6bf/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

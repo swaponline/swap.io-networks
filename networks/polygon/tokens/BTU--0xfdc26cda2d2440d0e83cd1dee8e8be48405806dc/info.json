@@ -1,0 +1,11 @@
+{
+  "name": "BTU Protocol",
+  "address": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc",
+  "symbol": "BTU",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BTU--0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

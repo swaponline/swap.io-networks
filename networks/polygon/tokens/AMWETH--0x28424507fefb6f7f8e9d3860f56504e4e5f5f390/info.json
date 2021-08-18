@@ -1,0 +1,11 @@
+{
+  "name": "Aave Polygon WETH",
+  "address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
+  "symbol": "AMWETH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AMWETH--0x28424507fefb6f7f8e9d3860f56504e4e5f5f390/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mask Network",
+  "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+  "symbol": "MASK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MASK--0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

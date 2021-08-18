@@ -1,0 +1,11 @@
+{
+  "name": "Havens Nook",
+  "address": "0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610",
+  "symbol": "HXN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HXN--0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -11,6 +11,7 @@ import {
   getNetworkFolderFilesList,
   networkFolderAllowedFiles,
   getNetworkInfoPath,
+  getLogoExtensioFromUrl,
 } from "../common/repo-structure"
 import {
   readDirSync,
@@ -110,12 +111,12 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
     createDirSync(tokensPath)
   }
 
-  const networkTokensIDs = Object.keys(tokens).map(tokensID => {
+  const networkTokensAddresses = Object.keys(tokens).map(tokensID => {
     const [symbol, address] = tokensID.split("--")
-    return `${symbol}--${address.toLowerCase()}`
+    return address.toLowerCase()
   })
 
-  console.log(`   ${networkTokensIDs.length} tokens in self folder`)
+  console.log(`   ${networkTokensAddresses.length} tokens in self folder`)
 
   const addedTokens: string[] = []
   const alreadyExistsTokens: string[] = []
@@ -133,7 +134,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       continue
     }
 
-    if (networkTokensIDs.includes(tokenID)) {
+    if (networkTokensAddresses.includes(address)) {
       alreadyExistsTokens.push(tokenID)
       continue // need add logic for exists tokens
     } else {
@@ -143,8 +144,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       let logoPath = ''
       if (logoURIs.length) {
         for (const logoURI of logoURIs) {
-          const splitedLogoString = logoURI.split('.')
-          const logoExtension = splitedLogoString[splitedLogoString.length - 1]
+          const logoExtension = getLogoExtensioFromUrl(logoURI)
           logoPath = `${tokenPath}/logo.${logoExtension}`
           try {
             await saveLogo(logoURI, getAbsolutePath(logoPath))

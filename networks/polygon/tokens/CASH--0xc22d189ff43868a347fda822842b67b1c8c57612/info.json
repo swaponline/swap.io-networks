@@ -1,0 +1,11 @@
+{
+  "name": "Polycash",
+  "address": "0xc22d189ff43868a347fda822842b67b1c8c57612",
+  "symbol": "CASH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CASH--0xc22d189ff43868a347fda822842b67b1c8c57612/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

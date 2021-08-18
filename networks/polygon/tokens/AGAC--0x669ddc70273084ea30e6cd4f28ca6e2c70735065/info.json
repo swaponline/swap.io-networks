@@ -1,0 +1,11 @@
+{
+  "name": "AGA Carbon Credit",
+  "address": "0x669ddc70273084ea30e6cd4f28ca6e2c70735065",
+  "symbol": "AGAC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AGAC--0x669ddc70273084ea30e6cd4f28ca6e2c70735065/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

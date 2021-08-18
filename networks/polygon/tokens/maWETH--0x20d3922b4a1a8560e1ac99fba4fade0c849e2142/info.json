@@ -1,0 +1,11 @@
+{
+  "name": "Matic Aave Interest",
+  "address": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142",
+  "symbol": "MAWETH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MAWETH--0x20d3922b4a1a8560e1ac99fba4fade0c849e2142/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

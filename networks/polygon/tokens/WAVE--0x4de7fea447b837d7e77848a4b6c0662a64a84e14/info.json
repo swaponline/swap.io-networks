@@ -1,0 +1,11 @@
+{
+  "name": "polyWAVE",
+  "address": "0x4de7fea447b837d7e77848a4b6c0662a64a84e14",
+  "symbol": "WAVE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WAVE--0x4de7fea447b837d7e77848a4b6c0662a64a84e14/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

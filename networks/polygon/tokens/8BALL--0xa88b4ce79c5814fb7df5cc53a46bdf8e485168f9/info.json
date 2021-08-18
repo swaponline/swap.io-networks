@@ -1,0 +1,11 @@
+{
+  "name": "8Ball Finance",
+  "address": "0xa88b4ce79c5814fb7df5cc53a46bdf8e485168f9",
+  "symbol": "8BALL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/8BALL--0xa88b4ce79c5814fb7df5cc53a46bdf8e485168f9/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

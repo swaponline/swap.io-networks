@@ -1,0 +1,11 @@
+{
+  "name": "Polygon BabyDoge",
+  "address": "0xdf2140dee6b07ae495382bc1cd446f7b328f63e3",
+  "symbol": "POLYBABYDOGE",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLYBABYDOGE--0xdf2140dee6b07ae495382bc1cd446f7b328f63e3/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

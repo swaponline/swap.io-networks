@@ -1,0 +1,11 @@
+{
+  "name": "Ether",
+  "address": "0x714550c2c1ea08688607d86ed8eef4f5e4f22323",
+  "symbol": "ETH",
+  "decimals": 18,
+  "chainId": 80001,
+  "logo": "/networks/polygon-mumbai/tokens/ETH--0x714550c2c1ea08688607d86ed8eef4f5e4f22323/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

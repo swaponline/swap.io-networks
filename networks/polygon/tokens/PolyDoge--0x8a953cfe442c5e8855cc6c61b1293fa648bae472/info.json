@@ -1,0 +1,11 @@
+{
+  "name": "PolyDoge",
+  "address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+  "symbol": "POLYDOGE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLYDOGE--0x8a953cfe442c5e8855cc6c61b1293fa648bae472/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DSLA",
+  "address": "0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639",
+  "symbol": "DSLA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DSLA--0xa0e390e9cea0d0e8cd40048ced9fa9ea10d71639/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

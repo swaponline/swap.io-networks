@@ -1,0 +1,11 @@
+{
+  "name": "Swirge",
+  "address": "0x043a3aa319b563ac25d4e342d32bffb51298db7b",
+  "symbol": "SWG",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SWG--0x043a3aa319b563ac25d4e342d32bffb51298db7b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

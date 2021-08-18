@@ -1,0 +1,11 @@
+{
+  "name": "MODEFI",
+  "address": "0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21",
+  "symbol": "MOD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MOD--0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

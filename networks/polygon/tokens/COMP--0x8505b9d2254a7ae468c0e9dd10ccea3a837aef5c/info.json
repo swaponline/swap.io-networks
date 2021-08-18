@@ -1,0 +1,11 @@
+{
+  "name": "Compound",
+  "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+  "symbol": "COMP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/COMP--0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

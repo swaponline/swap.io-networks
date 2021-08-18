@@ -1,0 +1,11 @@
+{
+  "name": "MCH Coin",
+  "address": "0xee7666aacaefaa6efeef62ea40176d3eb21953b9",
+  "symbol": "MCHC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MCHC--0xee7666aacaefaa6efeef62ea40176d3eb21953b9/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

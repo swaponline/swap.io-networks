@@ -1,0 +1,11 @@
+{
+  "name": "Eleven.finance",
+  "address": "0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0",
+  "symbol": "ELE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ELE--0xacd7b3d9c10e97d0efa418903c0c7669e702e4c0/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

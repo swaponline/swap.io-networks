@@ -1,0 +1,11 @@
+{
+  "name": "PolyFi",
+  "address": "0xfb005a1834eaaa6e55945b4b756e6873cecfe5ae",
+  "symbol": "POLYFI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLYFI--0xfb005a1834eaaa6e55945b4b756e6873cecfe5ae/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

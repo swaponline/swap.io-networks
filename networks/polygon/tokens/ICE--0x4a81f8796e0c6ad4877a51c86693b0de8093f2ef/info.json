@@ -1,0 +1,11 @@
+{
+  "name": "Iron Finance",
+  "address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+  "symbol": "ICE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ICE--0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

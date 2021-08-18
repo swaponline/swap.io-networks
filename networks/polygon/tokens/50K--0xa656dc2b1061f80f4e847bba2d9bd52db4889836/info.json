@@ -1,0 +1,11 @@
+{
+  "name": "50 Keeper",
+  "address": "0xa656dc2b1061f80f4e847bba2d9bd52db4889836",
+  "symbol": "50K",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/50K--0xa656dc2b1061f80f4e847bba2d9bd52db4889836/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

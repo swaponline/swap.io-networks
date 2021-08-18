@@ -1,0 +1,11 @@
+{
+  "name": "Matic Aave Interest",
+  "address": "0xe0b22e0037b130a9f56bbb537684e6fa18192341",
+  "symbol": "MADAI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MADAI--0xe0b22e0037b130a9f56bbb537684e6fa18192341/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

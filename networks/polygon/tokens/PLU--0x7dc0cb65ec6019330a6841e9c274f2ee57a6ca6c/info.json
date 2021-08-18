@@ -1,0 +1,11 @@
+{
+  "name": "Pluton",
+  "address": "0x7dc0cb65ec6019330a6841e9c274f2ee57a6ca6c",
+  "symbol": "PLU",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PLU--0x7dc0cb65ec6019330a6841e9c274f2ee57a6ca6c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

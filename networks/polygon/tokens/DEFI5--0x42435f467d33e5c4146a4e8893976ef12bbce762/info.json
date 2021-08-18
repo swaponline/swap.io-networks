@@ -1,0 +1,11 @@
+{
+  "name": "DEFI Top 5 Tokens Index",
+  "address": "0x42435f467d33e5c4146a4e8893976ef12bbce762",
+  "symbol": "DEFI5",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DEFI5--0x42435f467d33e5c4146a4e8893976ef12bbce762/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

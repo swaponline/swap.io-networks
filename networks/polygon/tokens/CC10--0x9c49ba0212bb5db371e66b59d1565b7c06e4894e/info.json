@@ -1,0 +1,11 @@
+{
+  "name": "Cryptocurrency Top Tokens Index",
+  "address": "0x9c49ba0212bb5db371e66b59d1565b7c06e4894e",
+  "symbol": "CC10",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CC10--0x9c49ba0212bb5db371e66b59d1565b7c06e4894e/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

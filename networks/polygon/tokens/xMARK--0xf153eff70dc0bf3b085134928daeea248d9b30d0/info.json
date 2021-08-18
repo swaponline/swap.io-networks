@@ -1,0 +1,11 @@
+{
+  "name": "xMARK",
+  "address": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+  "symbol": "XMARK",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XMARK--0xf153eff70dc0bf3b085134928daeea248d9b30d0/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

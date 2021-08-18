@@ -1,0 +1,11 @@
+{
+  "name": "Lithium",
+  "address": "0xfe1a200637464fbc9b60bc7aecb9b86c0e1d486e",
+  "symbol": "LITHIUM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LITHIUM--0xfe1a200637464fbc9b60bc7aecb9b86c0e1d486e/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

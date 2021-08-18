@@ -1,0 +1,11 @@
+{
+  "name": "Decentraland MANA",
+  "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+  "symbol": "MANA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MANA--0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

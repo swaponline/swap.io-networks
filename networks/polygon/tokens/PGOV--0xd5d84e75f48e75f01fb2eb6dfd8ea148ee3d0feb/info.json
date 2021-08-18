@@ -1,0 +1,11 @@
+{
+  "name": "PGOV",
+  "address": "0xd5d84e75f48e75f01fb2eb6dfd8ea148ee3d0feb",
+  "symbol": "PGOV",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PGOV--0xd5d84e75f48e75f01fb2eb6dfd8ea148ee3d0feb/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

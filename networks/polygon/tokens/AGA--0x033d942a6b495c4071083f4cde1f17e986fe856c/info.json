@@ -1,0 +1,11 @@
+{
+  "name": "AGA Token",
+  "address": "0x033d942a6b495c4071083f4cde1f17e986fe856c",
+  "symbol": "AGA",
+  "decimals": 4,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AGA--0x033d942a6b495c4071083f4cde1f17e986fe856c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

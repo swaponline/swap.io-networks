@@ -1,0 +1,11 @@
+{
+  "name": "Aave Polygon USDT",
+  "address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+  "symbol": "AMUSDT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AMUSDT--0x60d55f02a771d515e077c9c2403a1ef324885cec/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

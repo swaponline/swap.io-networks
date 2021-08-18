@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Matic",
+  "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
+  "symbol": "WMATIC",
+  "decimals": 18,
+  "chainId": 80001,
+  "logo": "/networks/polygon-mumbai/tokens/WMATIC--0xd0a1e359811322d97991e03f863a0c30c2cf029c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}
