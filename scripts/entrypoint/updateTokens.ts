@@ -137,7 +137,6 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       alreadyExistsTokens.push(tokenID)
       continue // need add logic for exists tokens
     } else {
-      console.log('tokenID', tokenID)
       const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
       createDirSync(getAbsolutePath(tokenPath))
 
