@@ -110,12 +110,12 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
     createDirSync(tokensPath)
   }
 
-  const networkTokensIDs = Object.keys(tokens).map(tokensID => {
+  const networkTokensAddresses = Object.keys(tokens).map(tokensID => {
     const [symbol, address] = tokensID.split("--")
-    return `${symbol}--${address.toLowerCase()}`
+    return address.toLowerCase()
   })
 
-  console.log(`   ${networkTokensIDs.length} tokens in self folder`)
+  console.log(`   ${networkTokensAddresses.length} tokens in self folder`)
 
   const addedTokens: string[] = []
   const alreadyExistsTokens: string[] = []
@@ -133,10 +133,11 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       continue
     }
 
-    if (networkTokensIDs.includes(tokenID)) {
+    if (networkTokensAddresses.includes(address)) {
       alreadyExistsTokens.push(tokenID)
       continue // need add logic for exists tokens
     } else {
+      console.log('tokenID', tokenID)
       const tokenPath = `/networks/${networkInfo.slug}/tokens/${tokenID}`
       createDirSync(getAbsolutePath(tokenPath))
 
