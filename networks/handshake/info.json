@@ -1,0 +1,60 @@
+{
+  "type": "utxo",
+  "slug": "handshake",
+  "name": "Handshake",
+  "isTestnet": false,
+  "fee_max": 400000,
+  "fee_min": 1000,
+  "dust_amount": 1000,
+  "priority": 9,
+  "coin": {
+    "symbol": "HNS",
+    "slug": "handshake",
+    "name": "Handshake",
+    "name_plural": "Handshakes",
+    "denominator": 1e-6,
+    "logo": "/networks/bitcoin/logo.png"
+  },
+  "explorers": [
+    "https://hnscan.com/"
+  ],
+  "rpc": [{
+    "protocol": "http",
+    "host": "127.0.0.1",
+    "port": "12037"
+  }],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "5353"
+  },
+  "network": {
+    "type": "mainnet",
+    "settings": {
+    "port": 12037,
+    "magic": 1533997779,
+    "messagePrefix": "",
+    "base58prefix": {
+      "pubKeyHash": 0,
+      "scriptHash": 5,
+      "privateKeyWIF": 128,
+      "publicKeyBIP32": 76067358,
+      "privateKeyBIP32": 76066276
+    }
+    }
+  },
+  "keyPrefix": {
+    "privkey": "0x80",
+    "xpubkey": "0x0488b21e",
+    "xprivkey": "0x0488ade4",
+    "xpubkey58": "xpub",
+    "xprivkey58": "xprv",
+    "coinType": 5353
+  },
+  "prefix": {
+    "message": "",
+    "p2pkh": "00",
+    "p2sh": "05",
+    "bech32": "hs",
+    "wif": "0x80"
+  }
+}
