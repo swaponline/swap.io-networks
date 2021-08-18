@@ -1,0 +1,11 @@
+{
+  "name": "Umbria Network",
+  "address": "0x2e4b0fb46a46c90cb410fe676f24e466753b469f",
+  "symbol": "UMBR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UMBR--0x2e4b0fb46a46c90cb410fe676f24e466753b469f/logo.png?1617891954",
+  "tags": [
+    "erc20matic"
+  ]
+}

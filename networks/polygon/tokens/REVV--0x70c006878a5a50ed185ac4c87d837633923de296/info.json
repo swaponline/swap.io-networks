@@ -1,0 +1,11 @@
+{
+  "name": "REVV",
+  "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
+  "symbol": "REVV",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/REVV--0x70c006878a5a50ed185ac4c87d837633923de296/logo.png?1627652390",
+  "tags": [
+    "erc20matic"
+  ]
+}

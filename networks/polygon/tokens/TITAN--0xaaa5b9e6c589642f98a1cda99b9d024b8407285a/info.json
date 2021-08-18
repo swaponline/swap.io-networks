@@ -1,0 +1,11 @@
+{
+  "name": "IRON Titanium Token",
+  "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+  "symbol": "TITAN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TITAN--0xaaa5b9e6c589642f98a1cda99b9d024b8407285a/logo.png?1622634331",
+  "tags": [
+    "erc20matic"
+  ]
+}

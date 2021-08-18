@@ -1,0 +1,11 @@
+{
+  "name": "PolyVertex",
+  "address": "0x72572ccf5208b59f4bcc14e6653d8c31cd1fc5a0",
+  "symbol": "VERT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/VERT--0x72572ccf5208b59f4bcc14e6653d8c31cd1fc5a0/logo.png?1624265717",
+  "tags": [
+    "erc20matic"
+  ]
+}

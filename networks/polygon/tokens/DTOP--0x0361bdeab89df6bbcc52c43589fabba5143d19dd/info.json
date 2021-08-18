@@ -1,0 +1,11 @@
+{
+  "name": "dHEDGE Top Index",
+  "address": "0x0361bdeab89df6bbcc52c43589fabba5143d19dd",
+  "symbol": "DTOP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DTOP--0x0361bdeab89df6bbcc52c43589fabba5143d19dd/logo.jpg?1618469418",
+  "tags": [
+    "erc20matic"
+  ]
+}

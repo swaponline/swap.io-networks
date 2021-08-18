@@ -1,0 +1,11 @@
+{
+  "name": "PYR Token",
+  "address": "0x348e62131fce2f4e0d5ead3fe1719bc039b380a9",
+  "symbol": "PYR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PYR--0x348e62131fce2f4e0d5ead3fe1719bc039b380a9/logo.png?1619414736",
+  "tags": [
+    "erc20matic"
+  ]
+}

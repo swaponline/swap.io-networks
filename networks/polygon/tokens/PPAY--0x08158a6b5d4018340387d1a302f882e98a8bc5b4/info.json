@@ -1,0 +1,11 @@
+{
+  "name": "Plasma Finance",
+  "address": "0x08158a6b5d4018340387d1a302f882e98a8bc5b4",
+  "symbol": "PPAY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PPAY--0x08158a6b5d4018340387d1a302f882e98a8bc5b4/logo.png?1607586849",
+  "tags": [
+    "erc20matic"
+  ]
+}

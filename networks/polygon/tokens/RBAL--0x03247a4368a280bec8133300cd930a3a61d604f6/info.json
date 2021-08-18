@@ -1,0 +1,11 @@
+{
+  "name": "Rebalance Token",
+  "address": "0x03247a4368a280bec8133300cd930a3a61d604f6",
+  "symbol": "RBAL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "",
+  "tags": [
+    "erc20matic"
+  ]
+}

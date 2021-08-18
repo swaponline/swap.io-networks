@@ -1,0 +1,11 @@
+{
+  "name": "Augury Finance",
+  "address": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e",
+  "symbol": "OMEN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/OMEN--0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

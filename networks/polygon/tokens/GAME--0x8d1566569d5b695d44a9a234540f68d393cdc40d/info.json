@@ -1,0 +1,11 @@
+{
+  "name": "GAME Credits",
+  "address": "0x8d1566569d5b695d44a9a234540f68d393cdc40d",
+  "symbol": "GAME",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GAME--0x8d1566569d5b695d44a9a234540f68d393cdc40d/logo.png?1",
+  "tags": [
+    "erc20matic"
+  ]
+}

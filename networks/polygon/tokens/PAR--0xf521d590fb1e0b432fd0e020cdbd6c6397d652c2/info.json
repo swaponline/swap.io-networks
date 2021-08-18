@@ -1,0 +1,11 @@
+{
+  "name": "Parachute",
+  "address": "0xf521d590fb1e0b432fd0e020cdbd6c6397d652c2",
+  "symbol": "PAR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PAR--0xf521d590fb1e0b432fd0e020cdbd6c6397d652c2/logo.png?1560918207",
+  "tags": [
+    "erc20matic"
+  ]
+}

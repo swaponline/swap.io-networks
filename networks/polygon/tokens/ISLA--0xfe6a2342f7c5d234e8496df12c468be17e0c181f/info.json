@@ -1,0 +1,11 @@
+{
+  "name": "DefiVille Island",
+  "address": "0xfe6a2342f7c5d234e8496df12c468be17e0c181f",
+  "symbol": "ISLA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ISLA--0xfe6a2342f7c5d234e8496df12c468be17e0c181f/logo.png?1616384288",
+  "tags": [
+    "erc20matic"
+  ]
+}

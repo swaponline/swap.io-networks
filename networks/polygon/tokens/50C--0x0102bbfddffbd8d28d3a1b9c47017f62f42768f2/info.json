@@ -1,0 +1,11 @@
+{
+  "name": "50Cent",
+  "address": "0x0102bbfddffbd8d28d3a1b9c47017f62f42768f2",
+  "symbol": "50C",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/50C--0x0102bbfddffbd8d28d3a1b9c47017f62f42768f2/logo.png?1624271368",
+  "tags": [
+    "erc20matic"
+  ]
+}

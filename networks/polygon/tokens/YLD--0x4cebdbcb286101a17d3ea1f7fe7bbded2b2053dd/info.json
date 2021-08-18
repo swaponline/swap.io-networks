@@ -1,0 +1,11 @@
+{
+  "name": "YIELD App",
+  "address": "0x4cebdbcb286101a17d3ea1f7fe7bbded2b2053dd",
+  "symbol": "YLD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/YLD--0x4cebdbcb286101a17d3ea1f7fe7bbded2b2053dd/logo.png?1607917500",
+  "tags": [
+    "erc20matic"
+  ]
+}

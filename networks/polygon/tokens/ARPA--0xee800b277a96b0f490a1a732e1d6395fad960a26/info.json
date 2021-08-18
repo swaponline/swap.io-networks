@@ -1,0 +1,11 @@
+{
+  "name": "ARPA Chain",
+  "address": "0xee800b277a96b0f490a1a732e1d6395fad960a26",
+  "symbol": "ARPA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ARPA--0xee800b277a96b0f490a1a732e1d6395fad960a26/logo.jpg?1559027357",
+  "tags": [
+    "erc20matic"
+  ]
+}

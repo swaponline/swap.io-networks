@@ -1,0 +1,11 @@
+{
+  "name": "Helios Cash",
+  "address": "0x03aa5daf9fd5f7f33c67afbcd53c1c1e87c4c9f7",
+  "symbol": "HEO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HEO--0x03aa5daf9fd5f7f33c67afbcd53c1c1e87c4c9f7/logo.png?1625031247",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RaiderToken",
+  "address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+  "symbol": "RAIDER",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RAIDER--0xcd7361ac3307d1c5a46b63086a90742ff44c63b3/logo.jpg?1628737903",
+  "tags": [
+    "erc20matic"
+  ]
+}

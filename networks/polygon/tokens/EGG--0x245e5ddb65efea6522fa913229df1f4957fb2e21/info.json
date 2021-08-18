@@ -1,0 +1,11 @@
+{
+  "name": "LoserchickEgg",
+  "address": "0x245e5ddb65efea6522fa913229df1f4957fb2e21",
+  "symbol": "EGG",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/EGG--0x245e5ddb65efea6522fa913229df1f4957fb2e21/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

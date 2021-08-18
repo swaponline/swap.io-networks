@@ -1,0 +1,11 @@
+{
+  "name": "PolyMoon",
+  "address": "0xefb3009ddac87e8144803d78e235e7fb4cd36e61",
+  "symbol": "POLYMOON",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLYMOON--0xefb3009ddac87e8144803d78e235e7fb4cd36e61/logo.png?1620368228",
+  "tags": [
+    "erc20matic"
+  ]
+}

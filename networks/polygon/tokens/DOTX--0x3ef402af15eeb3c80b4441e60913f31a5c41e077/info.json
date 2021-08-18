@@ -1,0 +1,11 @@
+{
+  "name": "DeFi of Thrones",
+  "address": "0x3ef402af15eeb3c80b4441e60913f31a5c41e077",
+  "symbol": "DOTX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DOTX--0x3ef402af15eeb3c80b4441e60913f31a5c41e077/logo.jpg?1598599911",
+  "tags": [
+    "erc20matic"
+  ]
+}

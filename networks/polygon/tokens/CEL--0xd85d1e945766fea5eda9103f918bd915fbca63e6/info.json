@@ -1,0 +1,11 @@
+{
+  "name": "Celsius",
+  "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+  "symbol": "CEL",
+  "decimals": 4,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CEL--0xd85d1e945766fea5eda9103f918bd915fbca63e6/logo.png?1609598753",
+  "tags": [
+    "erc20matic"
+  ]
+}

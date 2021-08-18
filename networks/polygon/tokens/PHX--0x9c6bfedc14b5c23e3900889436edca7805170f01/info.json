@@ -1,0 +1,11 @@
+{
+  "name": "Phoenix Token",
+  "address": "0x9c6bfedc14b5c23e3900889436edca7805170f01",
+  "symbol": "PHX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PHX--0x9c6bfedc14b5c23e3900889436edca7805170f01/logo.png?1628832432",
+  "tags": [
+    "erc20matic"
+  ]
+}

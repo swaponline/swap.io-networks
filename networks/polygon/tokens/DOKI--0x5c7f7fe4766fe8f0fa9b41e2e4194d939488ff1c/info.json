@@ -1,0 +1,11 @@
+{
+  "name": "Doki Doki",
+  "address": "0x5c7f7fe4766fe8f0fa9b41e2e4194d939488ff1c",
+  "symbol": "DOKI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DOKI--0x5c7f7fe4766fe8f0fa9b41e2e4194d939488ff1c/logo.png?1602338064",
+  "tags": [
+    "erc20matic"
+  ]
+}

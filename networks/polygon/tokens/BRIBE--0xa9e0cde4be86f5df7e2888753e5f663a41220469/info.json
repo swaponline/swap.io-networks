@@ -1,0 +1,11 @@
+{
+  "name": "Bribe Protocol",
+  "address": "0xa9e0cde4be86f5df7e2888753e5f663a41220469",
+  "symbol": "BRIBE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BRIBE--0xa9e0cde4be86f5df7e2888753e5f663a41220469/logo.PNG?1619165925",
+  "tags": [
+    "erc20matic"
+  ]
+}

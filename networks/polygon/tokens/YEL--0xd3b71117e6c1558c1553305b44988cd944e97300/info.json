@@ -1,0 +1,11 @@
+{
+  "name": "YEL Token",
+  "address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+  "symbol": "YEL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/YEL--0xd3b71117e6c1558c1553305b44988cd944e97300/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Polygon",
+  "address": "0x0000000000000000000000000000000000001010",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MATIC--0x0000000000000000000000000000000000001010/logo.png?1624446912",
+  "tags": [
+    "erc20matic"
+  ]
+}

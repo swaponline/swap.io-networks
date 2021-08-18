@@ -1,0 +1,11 @@
+{
+  "name": "Frax Share",
+  "address": "0x3e121107f6f22da4911079845a470757af4e1a1b",
+  "symbol": "FXS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FXS--0x3e121107f6f22da4911079845a470757af4e1a1b/logo.png?1608478989",
+  "tags": [
+    "erc20matic"
+  ]
+}

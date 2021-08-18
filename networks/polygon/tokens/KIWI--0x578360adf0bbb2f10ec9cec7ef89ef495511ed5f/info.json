@@ -1,0 +1,11 @@
+{
+  "name": "KIWI Token",
+  "address": "0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f",
+  "symbol": "KIWI",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KIWI--0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f/logo.png?1583736957",
+  "tags": [
+    "erc20matic"
+  ]
+}

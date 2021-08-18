@@ -1,0 +1,11 @@
+{
+  "name": "Zenko",
+  "address": "0x11b077300211dc3b4b316f02440a39dbb1818f19",
+  "symbol": "ZNKO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ZNKO--0x11b077300211dc3b4b316f02440a39dbb1818f19/logo.PNG?1620520320",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kenny Token",
+  "address": "0x6b1faaa2771e8b3aa0e0ba6830436e2df2a0abd6",
+  "symbol": "KENNY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KENNY--0x6b1faaa2771e8b3aa0e0ba6830436e2df2a0abd6/logo.PNG?1622526532",
+  "tags": [
+    "erc20matic"
+  ]
+}

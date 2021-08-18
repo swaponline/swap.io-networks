@@ -1,0 +1,11 @@
+{
+  "name": "Cartesi Token",
+  "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
+  "symbol": "CTSI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

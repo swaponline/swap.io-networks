@@ -1,0 +1,11 @@
+{
+  "name": "PolyPanda",
+  "address": "0x8095d18fb1e702d69402a6a8c7a56bc1cce6ecc2",
+  "symbol": "BAMBOO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BAMBOO--0x8095d18fb1e702d69402a6a8c7a56bc1cce6ecc2/logo.PNG?1620771185",
+  "tags": [
+    "erc20matic"
+  ]
+}

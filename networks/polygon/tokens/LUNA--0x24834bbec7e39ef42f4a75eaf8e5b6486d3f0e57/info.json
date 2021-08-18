@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Terra",
+  "address": "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57",
+  "symbol": "LUNA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LUNA--0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57/logo.png?1610448334",
+  "tags": [
+    "erc20matic"
+  ]
+}

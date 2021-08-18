@@ -1,0 +1,11 @@
+{
+  "name": "Adamant",
+  "address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539",
+  "symbol": "ADDY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ADDY--0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

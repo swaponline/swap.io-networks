@@ -1,0 +1,11 @@
+{
+  "name": "PieDAO DEFI  ",
+  "address": "0x5b6ab5078bd2bbf1a215fffba16a94b7df7f639d",
+  "symbol": "DEFI++",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DEFI++--0x5b6ab5078bd2bbf1a215fffba16a94b7df7f639d/logo.png?1607322674",
+  "tags": [
+    "erc20matic"
+  ]
+}

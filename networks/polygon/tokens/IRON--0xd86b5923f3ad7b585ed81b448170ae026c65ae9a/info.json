@@ -1,0 +1,11 @@
+{
+  "name": "Iron",
+  "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+  "symbol": "IRON",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IRON--0xd86b5923f3ad7b585ed81b448170ae026c65ae9a/logo.png?1617165339",
+  "tags": [
+    "erc20matic"
+  ]
+}

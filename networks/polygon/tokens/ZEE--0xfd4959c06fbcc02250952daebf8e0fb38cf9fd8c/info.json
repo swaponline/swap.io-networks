@@ -1,0 +1,11 @@
+{
+  "name": "ZeroSwapToken",
+  "address": "0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c",
+  "symbol": "ZEE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ZEE--0xfd4959c06fbcc02250952daebf8e0fb38cf9fd8c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

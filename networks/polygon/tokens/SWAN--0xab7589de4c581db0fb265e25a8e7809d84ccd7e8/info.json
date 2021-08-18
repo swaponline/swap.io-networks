@@ -1,0 +1,11 @@
+{
+  "name": "Blackswan",
+  "address": "0xab7589de4c581db0fb265e25a8e7809d84ccd7e8",
+  "symbol": "SWAN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SWAN--0xab7589de4c581db0fb265e25a8e7809d84ccd7e8/logo.png?1625899717",
+  "tags": [
+    "erc20matic"
+  ]
+}

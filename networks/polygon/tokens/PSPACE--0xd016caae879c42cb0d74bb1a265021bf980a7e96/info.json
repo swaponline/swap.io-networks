@@ -1,0 +1,11 @@
+{
+  "name": "pSPACE",
+  "address": "0xd016caae879c42cb0d74bb1a265021bf980a7e96",
+  "symbol": "PSPACE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PSPACE--0xd016caae879c42cb0d74bb1a265021bf980a7e96/logo.png?1625908642",
+  "tags": [
+    "erc20matic"
+  ]
+}

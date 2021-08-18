@@ -1,0 +1,11 @@
+{
+  "name": "Stake DAO",
+  "address": "0x361a5a4993493ce00f61c32d4ecca5512b82ce90",
+  "symbol": "SDT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SDT--0x361a5a4993493ce00f61c32d4ecca5512b82ce90/logo.jpg?1611195011",
+  "tags": [
+    "erc20matic"
+  ]
+}

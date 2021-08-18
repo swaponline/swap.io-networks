@@ -1,0 +1,11 @@
+{
+  "name": "RAMP",
+  "address": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2",
+  "symbol": "RAMP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RAMP--0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

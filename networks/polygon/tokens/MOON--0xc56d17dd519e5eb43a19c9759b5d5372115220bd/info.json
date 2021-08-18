@@ -1,0 +1,11 @@
+{
+  "name": "Polywolf",
+  "address": "0xc56d17dd519e5eb43a19c9759b5d5372115220bd",
+  "symbol": "MOON",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MOON--0xc56d17dd519e5eb43a19c9759b5d5372115220bd/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

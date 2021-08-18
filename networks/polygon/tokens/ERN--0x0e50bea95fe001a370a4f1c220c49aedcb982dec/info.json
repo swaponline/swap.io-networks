@@ -1,0 +1,11 @@
+{
+  "name": "Ethernity Chain",
+  "address": "0x0e50bea95fe001a370a4f1c220c49aedcb982dec",
+  "symbol": "ERN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ERN--0x0e50bea95fe001a370a4f1c220c49aedcb982dec/logo.png?1615189750",
+  "tags": [
+    "erc20matic"
+  ]
+}

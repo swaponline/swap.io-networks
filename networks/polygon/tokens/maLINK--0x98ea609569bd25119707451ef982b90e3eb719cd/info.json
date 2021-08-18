@@ -1,0 +1,11 @@
+{
+  "name": "Matic Aave Interest",
+  "address": "0x98ea609569bd25119707451ef982b90e3eb719cd",
+  "symbol": "MALINK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MALINK--0x98ea609569bd25119707451ef982b90e3eb719cd/logo.png?1614164913",
+  "tags": [
+    "erc20matic"
+  ]
+}

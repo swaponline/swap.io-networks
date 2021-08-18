@@ -1,0 +1,11 @@
+{
+  "name": "OM",
+  "address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
+  "symbol": "OM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/OM--0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

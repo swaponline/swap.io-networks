@@ -1,0 +1,11 @@
+{
+  "name": "Beatify",
+  "address": "0x609255414ff5289f87c99baf9737a4ec85a18643",
+  "symbol": "SONG",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SONG--0x609255414ff5289f87c99baf9737a4ec85a18643/logo.png?1628139015",
+  "tags": [
+    "erc20matic"
+  ]
+}

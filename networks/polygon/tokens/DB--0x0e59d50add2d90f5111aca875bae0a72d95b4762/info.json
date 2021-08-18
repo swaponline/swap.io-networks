@@ -1,0 +1,11 @@
+{
+  "name": "Dark.Build",
+  "address": "0x0e59d50add2d90f5111aca875bae0a72d95b4762",
+  "symbol": "DB",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DB--0x0e59d50add2d90f5111aca875bae0a72d95b4762/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

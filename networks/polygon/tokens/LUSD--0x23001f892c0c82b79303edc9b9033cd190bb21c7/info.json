@@ -1,0 +1,11 @@
+{
+  "name": "Liquity USD",
+  "address": "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
+  "symbol": "LUSD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LUSD--0x23001f892c0c82b79303edc9b9033cd190bb21c7/logo.png?1617631327",
+  "tags": [
+    "erc20matic"
+  ]
+}

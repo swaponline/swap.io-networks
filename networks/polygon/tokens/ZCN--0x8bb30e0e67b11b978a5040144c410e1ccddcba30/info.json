@@ -1,0 +1,11 @@
+{
+  "name": "0chain",
+  "address": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30",
+  "symbol": "ZCN",
+  "decimals": 10,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ZCN--0x8bb30e0e67b11b978a5040144c410e1ccddcba30/logo.png?1600757954",
+  "tags": [
+    "erc20matic"
+  ]
+}

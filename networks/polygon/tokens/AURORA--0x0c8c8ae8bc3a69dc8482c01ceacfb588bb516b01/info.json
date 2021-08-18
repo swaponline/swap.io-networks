@@ -1,0 +1,11 @@
+{
+  "name": "AuroraToken",
+  "address": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01",
+  "symbol": "AURORA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AURORA--0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01/logo.png?1620622117",
+  "tags": [
+    "erc20matic"
+  ]
+}

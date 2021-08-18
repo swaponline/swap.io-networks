@@ -1,0 +1,11 @@
+{
+  "name": "PLOT",
+  "address": "0xe82808eaa78339b06a691fd92e1be79671cad8d3",
+  "symbol": "PLOT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PLOT--0xe82808eaa78339b06a691fd92e1be79671cad8d3/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PolyGold",
+  "address": "0x0184316f58b9a44acdd3e683257259dc0cf2202a",
+  "symbol": "POLYGOLD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLYGOLD--0x0184316f58b9a44acdd3e683257259dc0cf2202a/logo.png?1622699065",
+  "tags": [
+    "erc20matic"
+  ]
+}

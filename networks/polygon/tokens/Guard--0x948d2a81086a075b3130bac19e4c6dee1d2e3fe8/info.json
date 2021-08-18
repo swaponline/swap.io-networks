@@ -1,0 +1,11 @@
+{
+  "name": "Helmet.insure on Polygon",
+  "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+  "symbol": "Guard",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/Guard--0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FireBall",
+  "address": "0xe118e8b6dc166cd83695825eb1d30e792435bb00",
+  "symbol": "FIRE",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FIRE--0xe118e8b6dc166cd83695825eb1d30e792435bb00/logo.png?1621413326",
+  "tags": [
+    "erc20matic"
+  ]
+}

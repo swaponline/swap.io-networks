@@ -1,0 +1,11 @@
+{
+  "name": "HEXX",
+  "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
+  "symbol": "HEX",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

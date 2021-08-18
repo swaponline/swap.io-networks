@@ -1,0 +1,11 @@
+{
+  "name": "Relay Token",
+  "address": "0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d",
+  "symbol": "RELAY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RELAY--0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

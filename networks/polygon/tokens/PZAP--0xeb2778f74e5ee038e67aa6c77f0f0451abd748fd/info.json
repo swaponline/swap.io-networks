@@ -1,0 +1,11 @@
+{
+  "name": "PolyZap",
+  "address": "0xeb2778f74e5ee038e67aa6c77f0f0451abd748fd",
+  "symbol": "PZAP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PZAP--0xeb2778f74e5ee038e67aa6c77f0f0451abd748fd/logo.png?1621349109",
+  "tags": [
+    "erc20matic"
+  ]
+}

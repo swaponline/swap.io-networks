@@ -1,0 +1,11 @@
+{
+  "name": "Orient",
+  "address": "0x8ca5ed20346c5d8a21a849d59c64f0884a532882",
+  "symbol": "OFT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/OFT--0x8ca5ed20346c5d8a21a849d59c64f0884a532882/logo.png?1607812101",
+  "tags": [
+    "erc20matic"
+  ]
+}

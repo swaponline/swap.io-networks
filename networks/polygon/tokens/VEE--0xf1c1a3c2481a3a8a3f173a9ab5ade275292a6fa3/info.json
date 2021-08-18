@@ -1,0 +1,11 @@
+{
+  "name": "BLOCKv",
+  "address": "0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3",
+  "symbol": "VEE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/VEE--0xf1c1a3c2481a3a8a3f173a9ab5ade275292a6fa3/logo.png?1547351380",
+  "tags": [
+    "erc20matic"
+  ]
+}

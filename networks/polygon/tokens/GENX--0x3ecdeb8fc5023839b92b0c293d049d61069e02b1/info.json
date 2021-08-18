@@ -1,0 +1,11 @@
+{
+  "name": "Genx Token",
+  "address": "0x3ecdeb8fc5023839b92b0c293d049d61069e02b1",
+  "symbol": "GENX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GENX--0x3ecdeb8fc5023839b92b0c293d049d61069e02b1/logo.png?1624873606",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bone Token",
+  "address": "0x6bb45ceac714c52342ef73ec663479da35934bf7",
+  "symbol": "BONE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BONE--0x6bb45ceac714c52342ef73ec663479da35934bf7/logo.png?1625176517",
+  "tags": [
+    "erc20matic"
+  ]
+}

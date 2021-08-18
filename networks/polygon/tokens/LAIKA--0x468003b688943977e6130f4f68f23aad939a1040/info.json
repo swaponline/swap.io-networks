@@ -1,0 +1,11 @@
+{
+  "name": "Laika Protocol",
+  "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+  "symbol": "LAIKA",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LAIKA--0x468003b688943977e6130f4f68f23aad939a1040/logo.PNG?1622067228",
+  "tags": [
+    "erc20matic"
+  ]
+}

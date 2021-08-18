@@ -1,0 +1,11 @@
+{
+  "name": "Aave Polygon USDC",
+  "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+  "symbol": "AMUSDC",
+  "decimals": 6,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AMUSDC--0x1a13f4ca1d028320a707d99520abfefca3998b7f/logo.png?1626941306",
+  "tags": [
+    "erc20matic"
+  ]
+}

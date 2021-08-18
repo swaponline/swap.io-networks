@@ -1,0 +1,11 @@
+{
+  "name": "Aave Polygon DAI",
+  "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+  "symbol": "AMDAI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AMDAI--0x27f8d03b3a2196956ed754badc28d73be8830a6e/logo.png?1626942084",
+  "tags": [
+    "erc20matic"
+  ]
+}

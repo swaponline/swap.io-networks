@@ -1,0 +1,11 @@
+{
+  "name": "PolyWhirl",
+  "address": "0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf",
+  "symbol": "WHIRL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WHIRL--0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf/logo.png?1626683241",
+  "tags": [
+    "erc20matic"
+  ]
+}

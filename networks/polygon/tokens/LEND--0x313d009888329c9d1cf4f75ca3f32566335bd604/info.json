@@ -1,0 +1,11 @@
+{
+  "name": "EthLend Token",
+  "address": "0x313d009888329c9d1cf4f75ca3f32566335bd604",
+  "symbol": "LEND",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LEND--0x313d009888329c9d1cf4f75ca3f32566335bd604/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

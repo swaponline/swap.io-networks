@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>EGG.png - SM.MS - Simple Free Image Hosting</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.6 -->
+    <link rel="stylesheet" href="https://cdnjs.rsb.net/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.rsb.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="/assets/css/lib/fontawesome/css/all.min.css" media="all" rel="stylesheet" type="text/css" />
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://cdnjs.rsb.net/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
+    <link rel="stylesheet" href="/assets/css/notifyme.css?version=1629267820">
+    <link rel="stylesheet" href="/assets/css/indexstyle.css?version=1629267820">
+    
+    <style>
+        .image-container{
+            text-align: center;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .error-template { margin-top:15px;margin-bottom:15px; }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.rsb.net/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css" media="screen" />
+
+    <link rel="stylesheet" href="/assets/css/customDark.css?version=1629267820">
+    <!-- Load google font-->
+    <link rel="stylesheet" href="//fonts.rsb.net/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic"  media="none" onload="if(media!='all')media='all'">
+
+    <script src="https://cdnjs.rsb.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.rsb.net/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdnjs.rsb.net/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    	<script type="text/javascript" src="https://cdn.wwads.cn/js/makemoney.js" async></script>
+    </head> 
+<body>
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container nav-main">
+        <a class="navbar-brand" href="/">SM.MS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sm.ms/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sm.ms/about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sm.ms/contact">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sm.ms/pricing">Pricing</a>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav navbar-right">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://sm.ms/changelog">Change Log</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://doc.sm.ms/">API Docs</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" id="drop_user" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">User <span class="caret"></span></a>
+                    <div class="dropdown-menu" aria-labelledby="drop_user">
+                                                    <a class="dropdown-item" href="https://sm.ms/login">Login</a>
+                                                            <a class="dropdown-item" href="https://sm.ms/register">Register</a>
+                                                                        </div>
+                </li>
+            </ul>
+                            <div class="advert_nav">
+                    <p><a target="_blank" href="https://sa.net/r/18">极云九折促销</a></p>
+                </div>
+                    </div><!--/.nav-collapse -->
+    </div><!--/.container-fluid -->
+</nav>
+
+<!-- Content Wrapper. Contains page content -->
+<div class="container kv-main">
+    
+    <div class="container-full" style="padding-top: 20px">
+        <!--  -->
+        <div class="row">
+                            <div class="advertising_2">
+                                    </div>
+                                    <div class="col-md-12 gr-box">
+                                                                                        <div class="advertising_1">
+                                                            </div>
+                                                <div class="img-show-box">
+                                                            <div class="advertising_3_phone">
+                                                                    </div>
+                                                        <div class="image-container">
+                                <a href="https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png" class="fancybox" rel="gallery1">
+                                    <img class="image" src="https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png" alt="EGG.png" title="EGG.png" style="max-width: 100%" />
+                                </a>
+                            </div>
+                            <div class="text-center image-size-container" style="margin: 10px 0px;">
+                                <span class="badge badge-dark" style="border-radius: 0;">File Name: <span class="image-size">EGG.png</span></span>
+                                <span class="badge badge-dark" style="border-radius: 0;">Image Size: <span class="image-size">60x60</span>px</span>
+                            </div>
+                            <div style="max-width: 500px;margin: auto;">
+                                <div class="form-group">
+                                    <div class="input-group mb-2 mr-sm-2">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">BBCode</div>
+                                        </div>
+                                        <input type='text' class="form-control" onclick="this.select();" value='[URL=https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png][IMG]https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png[/IMG][/URL]'/>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="input-group mb-3">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">HTML</div>
+                                        </div>
+                                        <input type='text' class="form-control" id='sharegigya'onclick="this.select();" value='&lt;a href=&quot;https://sm.ms/image/bGfpAaC6idUZVNP&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png&quot; alt=&quot;EGG.png&quot;&gt;&lt;/a&gt;'/>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">Markdown</div>
+                                        </div>
+                                        <input type='text' class="form-control" onclick="this.select();" value='![EGG.png](https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png)'/>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">Image URL</div>
+                                        </div>
+                                        <input type='text' class="form-control" onclick="this.select();" value='https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png'/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="advertising_3">
+                                <div class="wwads-cn wwads-horizontal" data-id="49" style="max-width:360px;margin: 0 auto;"></div>
+                            </div>
+                        </div>
+                                                    <div class="advertising_1">
+                                                            </div>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="ad-buttom-div" align="center">
+    </div>
+    <!-- /.content-wrapper -->
+
+</div>
+<div id="accepr_box" class=' accepr_box '></div>
+<!-- /.content-wrapper -->
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+                        <div class="col-lg-6">
+                <p class="text-muted">
+                                            请勿上传违反中国大陆和香港法律的图片，违者后果自负。<span>Copyright Ⓒ  <a href="https://www.sb/" title="SB Professional Services">SB Professional Services, LLC</a>. All rights reserved.            <a href="https://dns.sb" title="Free Public DNS Resolver">DNS.SB</a> -
+                <a href="https://u.nu/" title="Free URL Shortener">U.NU</a> -
+                <a href="https://t.me/sbfans" title="Telegram Group">Telegram</a></span></p>
+                </div>
+                                    <div class="col-lg-6 advert_foot">
+                        <div class="advert_title">
+                            <h3>Riven Cloud</h3>
+                        </div>
+                        <div class="advert_text">
+                            <p>极云网络九折优惠码<span>SMMS</span></p>
+                            <a target="_blank" href="https://sa.net/r/18">点击传送</a>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+</footer>
+
+<!-- js -->
+<script src="https://cdnjs.rsb.net/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.rsb.net/ajax/libs/layer/2.3/layer.js"></script>
+<script src="https://cdnjs.rsb.net/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+<script src="/assets/js/notifyme.js?version=1629267820"></script>
+
+    <script type="text/javascript" src="/assets/js/wwads_blocked.js?version=1629267820"></script>
+
+
+    <!-- Add fancyBox main JS and CSS files -->
+    <script type="text/javascript" src="https://cdnjs.rsb.net/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".fancybox").fancybox({
+                padding: 15,
+                infobar : true,
+                toolbar : true,
+                buttons : [
+                    'slideShow',
+                    'fullScreen',
+                    'download',
+                    'zoom',
+                    'close'
+                ],
+            });
+        });
+    </script>
+                
+
+<script async defer data-domain="sm.ms" src="https://stat.xtom.com/js/plausible.js"></script>
+</body>
+</html>
+

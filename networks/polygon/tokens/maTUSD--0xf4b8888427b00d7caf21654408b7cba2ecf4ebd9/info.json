@@ -1,0 +1,11 @@
+{
+  "name": "Matic Aave interest",
+  "address": "0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9",
+  "symbol": "MATUSD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MATUSD--0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9/logo.png?1614165205",
+  "tags": [
+    "erc20matic"
+  ]
+}

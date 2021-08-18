@@ -1,0 +1,11 @@
+{
+  "name": "ChainLink Token",
+  "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+  "symbol": "LINK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LINK--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

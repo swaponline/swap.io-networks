@@ -1,0 +1,11 @@
+{
+  "name": "SpaceRat",
+  "address": "0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4",
+  "symbol": "SRAT",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SRAT--0x1132f58810ee9ff13e97aeccd8dda688cc5eb8f4/logo.png?1622522829",
+  "tags": [
+    "erc20matic"
+  ]
+}

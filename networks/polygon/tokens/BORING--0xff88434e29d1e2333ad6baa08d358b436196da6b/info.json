@@ -1,0 +1,11 @@
+{
+  "name": "BoringDAO",
+  "address": "0xff88434e29d1e2333ad6baa08d358b436196da6b",
+  "symbol": "BORING",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BORING--0xff88434e29d1e2333ad6baa08d358b436196da6b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

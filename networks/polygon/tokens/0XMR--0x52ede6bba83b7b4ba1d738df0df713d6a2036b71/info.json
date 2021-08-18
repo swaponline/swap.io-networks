@@ -1,0 +1,11 @@
+{
+  "name": "0xMonero",
+  "address": "0x52ede6bba83b7b4ba1d738df0df713d6a2036b71",
+  "symbol": "0XMR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/0XMR--0x52ede6bba83b7b4ba1d738df0df713d6a2036b71/logo.PNG?1587357680",
+  "tags": [
+    "erc20matic"
+  ]
+}

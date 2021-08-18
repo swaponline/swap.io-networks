@@ -1,0 +1,11 @@
+{
+  "name": "PolyGaj",
+  "address": "0xf4b0903774532aee5ee567c02aab681a81539e92",
+  "symbol": "GAJ",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GAJ--0xf4b0903774532aee5ee567c02aab681a81539e92/logo.png?1620629606",
+  "tags": [
+    "erc20matic"
+  ]
+}

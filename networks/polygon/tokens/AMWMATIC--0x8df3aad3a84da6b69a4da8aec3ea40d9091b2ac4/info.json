@@ -1,0 +1,11 @@
+{
+  "name": "Aave Polygon WMATIC",
+  "address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+  "symbol": "AMWMATIC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AMWMATIC--0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4/logo.png?1626967624",
+  "tags": [
+    "erc20matic"
+  ]
+}

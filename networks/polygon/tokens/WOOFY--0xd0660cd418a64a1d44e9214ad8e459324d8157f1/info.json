@@ -1,0 +1,11 @@
+{
+  "name": "Woofy",
+  "address": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+  "symbol": "WOOFY",
+  "decimals": 12,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WOOFY--0xd0660cd418a64a1d44e9214ad8e459324d8157f1/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DinoSwap",
+  "address": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+  "symbol": "DINO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DINO--0xaa9654becca45b5bdfa5ac646c939c62b527d394/logo.png?1626244014",
+  "tags": [
+    "erc20matic"
+  ]
+}

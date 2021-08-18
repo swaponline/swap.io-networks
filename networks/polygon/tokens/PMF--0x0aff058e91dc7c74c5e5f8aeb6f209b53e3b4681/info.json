@@ -1,0 +1,11 @@
+{
+  "name": "PolyMath Finance",
+  "address": "0x0aff058e91dc7c74c5e5f8aeb6f209b53e3b4681",
+  "symbol": "PMF",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PMF--0x0aff058e91dc7c74c5e5f8aeb6f209b53e3b4681/logo.png?1625191638",
+  "tags": [
+    "erc20matic"
+  ]
+}

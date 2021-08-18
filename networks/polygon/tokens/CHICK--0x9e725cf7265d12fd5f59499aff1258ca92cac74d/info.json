@@ -1,0 +1,11 @@
+{
+  "name": "loserchick",
+  "address": "0x9e725cf7265d12fd5f59499aff1258ca92cac74d",
+  "symbol": "CHICK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CHICK--0x9e725cf7265d12fd5f59499aff1258ca92cac74d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

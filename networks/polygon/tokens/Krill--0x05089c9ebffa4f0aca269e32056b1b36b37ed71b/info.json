@@ -1,0 +1,11 @@
+{
+  "name": "Polywhale",
+  "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
+  "symbol": "KRILL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KRILL--0x05089c9ebffa4f0aca269e32056b1b36b37ed71b/logo.png?1619442213",
+  "tags": [
+    "erc20matic"
+  ]
+}

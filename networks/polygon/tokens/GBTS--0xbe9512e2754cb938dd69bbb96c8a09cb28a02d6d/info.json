@@ -1,0 +1,11 @@
+{
+  "name": "GemBites",
+  "address": "0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d",
+  "symbol": "GBTS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GBTS--0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PolyPup",
+  "address": "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
+  "symbol": "PUP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PUP--0xcfe2cf35d2bdde84967e67d00ad74237e234ce59/logo.png?1623983944",
+  "tags": [
+    "erc20matic"
+  ]
+}

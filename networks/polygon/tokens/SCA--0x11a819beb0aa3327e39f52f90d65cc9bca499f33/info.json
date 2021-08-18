@@ -1,0 +1,11 @@
+{
+  "name": "Scaleswap Token",
+  "address": "0x11a819beb0aa3327e39f52f90d65cc9bca499f33",
+  "symbol": "SCA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SCA--0x11a819beb0aa3327e39f52f90d65cc9bca499f33/logo.png?1623810516",
+  "tags": [
+    "erc20matic"
+  ]
+}

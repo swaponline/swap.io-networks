@@ -1,0 +1,11 @@
+{
+  "name": "Zeus",
+  "address": "0x232eab56c4fb3f84c6fb0a50c087c74b7b43c6ad",
+  "symbol": "ZUZ",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ZUZ--0x232eab56c4fb3f84c6fb0a50c087c74b7b43c6ad/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

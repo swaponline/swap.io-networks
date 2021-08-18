@@ -1,0 +1,11 @@
+{
+  "name": "DEGEN Index",
+  "address": "0x8a2870fb69a90000d6439b7adfb01d4ba383a415",
+  "symbol": "DEGEN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DEGEN--0x8a2870fb69a90000d6439b7adfb01d4ba383a415/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

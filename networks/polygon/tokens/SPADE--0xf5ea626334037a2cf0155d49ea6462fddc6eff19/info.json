@@ -1,0 +1,11 @@
+{
+  "name": "PolygonFarm Finance",
+  "address": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19",
+  "symbol": "SPADE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SPADE--0xf5ea626334037a2cf0155d49ea6462fddc6eff19/logo.png?1627389003",
+  "tags": [
+    "erc20matic"
+  ]
+}

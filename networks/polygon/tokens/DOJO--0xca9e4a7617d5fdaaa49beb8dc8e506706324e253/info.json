@@ -1,0 +1,11 @@
+{
+  "name": "DojoFarm Finance",
+  "address": "0xca9e4a7617d5fdaaa49beb8dc8e506706324e253",
+  "symbol": "DOJO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DOJO--0xca9e4a7617d5fdaaa49beb8dc8e506706324e253/logo.png?1625628859",
+  "tags": [
+    "erc20matic"
+  ]
+}

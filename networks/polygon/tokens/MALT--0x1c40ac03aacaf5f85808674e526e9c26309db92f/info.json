@@ -1,0 +1,11 @@
+{
+  "name": "Malt Stablecoin",
+  "address": "0x1c40ac03aacaf5f85808674e526e9c26309db92f",
+  "symbol": "MALT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MALT--0x1c40ac03aacaf5f85808674e526e9c26309db92f/logo.png?1623305711",
+  "tags": [
+    "erc20matic"
+  ]
+}

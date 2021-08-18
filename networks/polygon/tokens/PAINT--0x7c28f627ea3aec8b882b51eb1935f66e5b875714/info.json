@@ -1,0 +1,11 @@
+{
+  "name": "MurAll",
+  "address": "0x7c28f627ea3aec8b882b51eb1935f66e5b875714",
+  "symbol": "PAINT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PAINT--0x7c28f627ea3aec8b882b51eb1935f66e5b875714/logo.png?1614325640",
+  "tags": [
+    "erc20matic"
+  ]
+}

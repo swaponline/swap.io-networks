@@ -1,0 +1,11 @@
+{
+  "name": "MeebMaster.com Token",
+  "address": "0x64afdf9e28946419e325d801fb3053d8b8ffdc23",
+  "symbol": "MEEB",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MEEB--0x64afdf9e28946419e325d801fb3053d8b8ffdc23/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

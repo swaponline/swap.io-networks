@@ -1,0 +1,11 @@
+{
+  "name": "DokiDokiAzuki",
+  "address": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
+  "symbol": "AZUKI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AZUKI--0x7cdc0421469398e0f3aa8890693d86c840ac8931/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

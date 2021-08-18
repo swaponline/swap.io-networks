@@ -1,0 +1,11 @@
+{
+  "name": "Basic Attention Tok",
+  "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+  "symbol": "BAT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BAT--0x3cef98bb43d732e2f285ee605a8158cde967d219/logo.png?1547034427",
+  "tags": [
+    "erc20matic"
+  ]
+}

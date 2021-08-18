@@ -1,0 +1,11 @@
+{
+  "name": "Quickswap",
+  "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+  "symbol": "QUICK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/QUICK--0x831753dd7087cac61ab5644b308642cc1c33dc13/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}

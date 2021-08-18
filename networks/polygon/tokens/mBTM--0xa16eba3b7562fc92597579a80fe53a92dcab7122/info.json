@@ -1,0 +1,11 @@
+{
+  "name": "Bytom minted",
+  "address": "0xa16eba3b7562fc92597579a80fe53a92dcab7122",
+  "symbol": "mBTM",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/mBTM--0xa16eba3b7562fc92597579a80fe53a92dcab7122/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

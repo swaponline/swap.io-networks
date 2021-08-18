@@ -1,0 +1,11 @@
+{
+  "name": "Vision Token",
+  "address": "0x034b2090b579228482520c589dbd397c53fc51cc",
+  "symbol": "VISION",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/VISION--0x034b2090b579228482520c589dbd397c53fc51cc/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

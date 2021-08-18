@@ -1,0 +1,11 @@
+{
+  "name": "Digital Reserve Currency",
+  "address": "0xfed16c746cb5bfed009730f9e3e6a673006105c7",
+  "symbol": "DRC",
+  "decimals": 0,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DRC--0xfed16c746cb5bfed009730f9e3e6a673006105c7/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

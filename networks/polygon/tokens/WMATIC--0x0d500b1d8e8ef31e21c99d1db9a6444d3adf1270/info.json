@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Matic",
+  "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+  "symbol": "WMATIC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WMATIC--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

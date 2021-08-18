@@ -1,0 +1,11 @@
+{
+  "name": "HONOR",
+  "address": "0xb82a20b4522680951f11c94c54b8800c1c237693",
+  "symbol": "HONOR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HONOR--0xb82a20b4522680951f11c94c54b8800c1c237693/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

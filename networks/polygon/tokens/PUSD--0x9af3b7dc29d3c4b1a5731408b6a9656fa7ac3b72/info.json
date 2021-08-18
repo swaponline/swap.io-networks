@@ -1,0 +1,11 @@
+{
+  "name": "PUSD",
+  "address": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72",
+  "symbol": "PUSD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PUSD--0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72/logo.png?1624937879",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PolyShark Finance",
+  "address": "0xd201b8511aab3e9b094b35abcd5d7863c78d6d0e",
+  "symbol": "SHARK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SHARK--0xd201b8511aab3e9b094b35abcd5d7863c78d6d0e/logo.png?1620714513",
+  "tags": [
+    "erc20matic"
+  ]
+}

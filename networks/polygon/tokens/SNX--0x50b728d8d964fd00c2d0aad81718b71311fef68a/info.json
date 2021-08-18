@@ -1,0 +1,11 @@
+{
+  "name": "Synthetix Network T",
+  "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+  "symbol": "SNX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SNX--0x50b728d8d964fd00c2d0aad81718b71311fef68a/logo.png?1598631139",
+  "tags": [
+    "erc20matic"
+  ]
+}

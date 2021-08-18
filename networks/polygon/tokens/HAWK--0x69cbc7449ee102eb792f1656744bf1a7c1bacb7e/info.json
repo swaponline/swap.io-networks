@@ -1,0 +1,11 @@
+{
+  "name": "HawkDex",
+  "address": "0x69cbc7449ee102eb792f1656744bf1a7c1bacb7e",
+  "symbol": "HAWK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HAWK--0x69cbc7449ee102eb792f1656744bf1a7c1bacb7e/logo.jpg?1619924676",
+  "tags": [
+    "erc20matic"
+  ]
+}

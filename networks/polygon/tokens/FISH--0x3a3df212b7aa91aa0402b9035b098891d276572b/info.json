@@ -1,0 +1,11 @@
+{
+  "name": "Fish",
+  "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
+  "symbol": "FISH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FISH--0x3a3df212b7aa91aa0402b9035b098891d276572b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

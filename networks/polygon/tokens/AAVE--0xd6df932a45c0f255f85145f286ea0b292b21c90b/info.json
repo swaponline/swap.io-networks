@@ -1,0 +1,11 @@
+{
+  "name": "Aave",
+  "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+  "symbol": "AAVE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AAVE--0xd6df932a45c0f255f85145f286ea0b292b21c90b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

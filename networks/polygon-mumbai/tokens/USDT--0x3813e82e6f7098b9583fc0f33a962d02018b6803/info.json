@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "address": "0x3813e82e6f7098b9583fc0f33a962d02018b6803",
+  "symbol": "USDT",
+  "decimals": 6,
+  "chainId": 80001,
+  "logo": "/networks/polygon-mumbai/tokens/USDT--0x3813e82e6f7098b9583fc0f33a962d02018b6803/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WazirX",
+  "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
+  "symbol": "WRX",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WRX--0x72d6066f486bd0052eefb9114b66ae40e0a6031a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

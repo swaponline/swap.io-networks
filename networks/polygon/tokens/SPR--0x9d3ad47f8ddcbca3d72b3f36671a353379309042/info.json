@@ -1,0 +1,11 @@
+{
+  "name": "PolyVolve Finance",
+  "address": "0x9d3ad47f8ddcbca3d72b3f36671a353379309042",
+  "symbol": "SPR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SPR--0x9d3ad47f8ddcbca3d72b3f36671a353379309042/logo.png?1620088203",
+  "tags": [
+    "erc20matic"
+  ]
+}

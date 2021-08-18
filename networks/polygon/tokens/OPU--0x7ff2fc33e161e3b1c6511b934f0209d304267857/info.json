@@ -1,0 +1,11 @@
+{
+  "name": "Opu Coin",
+  "address": "0x7ff2fc33e161e3b1c6511b934f0209d304267857",
+  "symbol": "OPU",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/OPU--0x7ff2fc33e161e3b1c6511b934f0209d304267857/logo.svg",
+  "tags": [
+    "erc20matic"
+  ]
+}

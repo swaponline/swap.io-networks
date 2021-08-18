@@ -1,0 +1,11 @@
+{
+  "name": "Mysterium",
+  "address": "0x1379e8886a944d2d9d440b3d88df536aea08d9f3",
+  "symbol": "MYST",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MYST--0x1379e8886a944d2d9d440b3d88df536aea08d9f3/logo.png?1547034503",
+  "tags": [
+    "erc20matic"
+  ]
+}

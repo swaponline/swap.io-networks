@@ -1,0 +1,11 @@
+{
+  "name": "PolyQuity",
+  "address": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+  "symbol": "PYQ",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PYQ--0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8/logo.png?1624869736",
+  "tags": [
+    "erc20matic"
+  ]
+}

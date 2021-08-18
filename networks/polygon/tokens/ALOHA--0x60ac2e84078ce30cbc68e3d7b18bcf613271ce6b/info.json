@@ -1,0 +1,11 @@
+{
+  "name": "Aloha",
+  "address": "0x60ac2e84078ce30cbc68e3d7b18bcf613271ce6b",
+  "symbol": "ALOHA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ALOHA--0x60ac2e84078ce30cbc68e3d7b18bcf613271ce6b/logo.png?1615527835",
+  "tags": [
+    "erc20matic"
+  ]
+}

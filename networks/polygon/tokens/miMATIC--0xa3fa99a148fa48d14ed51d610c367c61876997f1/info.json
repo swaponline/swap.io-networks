@@ -1,0 +1,11 @@
+{
+  "name": "MAI",
+  "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+  "symbol": "MIMATIC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MIMATIC--0xa3fa99a148fa48d14ed51d610c367c61876997f1/logo.png?1620281018",
+  "tags": [
+    "erc20matic"
+  ]
+}

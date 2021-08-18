@@ -1,0 +1,11 @@
+{
+  "name": "Ball Token",
+  "address": "0x883abe4168705d2e5da925d28538b7a6aa9d8419",
+  "symbol": "BALL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BALL--0x883abe4168705d2e5da925d28538b7a6aa9d8419/logo.png?1628228675",
+  "tags": [
+    "erc20matic"
+  ]
+}

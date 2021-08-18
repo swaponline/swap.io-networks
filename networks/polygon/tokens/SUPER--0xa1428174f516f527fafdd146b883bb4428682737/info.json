@@ -1,0 +1,11 @@
+{
+  "name": "SuperFarm",
+  "address": "0xa1428174f516f527fafdd146b883bb4428682737",
+  "symbol": "SUPER",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SUPER--0xa1428174f516f527fafdd146b883bb4428682737/logo.png?1613975899",
+  "tags": [
+    "erc20matic"
+  ]
+}

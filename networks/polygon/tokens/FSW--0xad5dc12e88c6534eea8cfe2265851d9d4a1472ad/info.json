@@ -1,0 +1,11 @@
+{
+  "name": "FalconSwap Token",
+  "address": "0xad5dc12e88c6534eea8cfe2265851d9d4a1472ad",
+  "symbol": "FSW",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FSW--0xad5dc12e88c6534eea8cfe2265851d9d4a1472ad/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}
