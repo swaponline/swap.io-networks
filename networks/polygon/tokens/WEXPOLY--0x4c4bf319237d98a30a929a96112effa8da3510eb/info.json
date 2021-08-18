@@ -4,7 +4,7 @@
   "symbol": "WEXPOLY",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/WEXPOLY--0x4c4bf319237d98a30a929a96112effa8da3510eb/logo.png?1623639146",
+  "logo": "/networks/polygon/tokens/WEXPOLY--0x4c4bf319237d98a30a929a96112effa8da3510eb/logo.png",
   "tags": [
     "erc20matic"
   ]

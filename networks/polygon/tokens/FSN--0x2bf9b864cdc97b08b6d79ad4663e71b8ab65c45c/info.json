@@ -4,7 +4,7 @@
   "symbol": "FSN",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/FSN--0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c/logo.png?v=010",
+  "logo": "/networks/polygon/tokens/FSN--0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c/logo.png",
   "tags": [
     "erc20matic"
   ]

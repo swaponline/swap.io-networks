@@ -4,7 +4,7 @@
   "symbol": "BAS",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BAS--0x83a6da342099835bcaa9c219dd76a5033c837de5/logo.png?1613231139",
+  "logo": "/networks/polygon/tokens/BAS--0x83a6da342099835bcaa9c219dd76a5033c837de5/logo.png",
   "tags": [
     "erc20matic"
   ]

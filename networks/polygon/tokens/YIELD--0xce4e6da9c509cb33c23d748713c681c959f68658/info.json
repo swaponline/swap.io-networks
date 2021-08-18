@@ -4,7 +4,7 @@
   "symbol": "YIELD",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/YIELD--0xce4e6da9c509cb33c23d748713c681c959f68658/logo.png?1624602286",
+  "logo": "/networks/polygon/tokens/YIELD--0xce4e6da9c509cb33c23d748713c681c959f68658/logo.png",
   "tags": [
     "erc20matic"
   ]

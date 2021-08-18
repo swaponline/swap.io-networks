@@ -4,7 +4,7 @@
   "symbol": "SNX",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SNX--0x50b728d8d964fd00c2d0aad81718b71311fef68a/logo.png?1598631139",
+  "logo": "/networks/polygon/tokens/SNX--0x50b728d8d964fd00c2d0aad81718b71311fef68a/logo.png",
   "tags": [
     "erc20matic"
   ]

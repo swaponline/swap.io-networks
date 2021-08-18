@@ -4,7 +4,7 @@
   "symbol": "OMNIUNIT",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/OMNIUNIT--0xfd6cf3a1fcb42371fd7e69633d31303868b8171a/logo.png?1612219908",
+  "logo": "/networks/polygon/tokens/OMNIUNIT--0xfd6cf3a1fcb42371fd7e69633d31303868b8171a/logo.png",
   "tags": [
     "erc20matic"
   ]

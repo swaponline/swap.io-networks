@@ -4,7 +4,7 @@
   "symbol": "MAHA",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MAHA--0xedd6ca8a4202d4a36611e2fff109648c4863ae19/logo.png?1625651604",
+  "logo": "/networks/polygon/tokens/MAHA--0xedd6ca8a4202d4a36611e2fff109648c4863ae19/logo.png",
   "tags": [
     "erc20matic"
   ]

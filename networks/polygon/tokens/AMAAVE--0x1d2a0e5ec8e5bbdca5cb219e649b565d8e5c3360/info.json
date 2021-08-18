@@ -4,7 +4,7 @@
   "symbol": "AMAAVE",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/AMAAVE--0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360/logo.png?1626940769",
+  "logo": "/networks/polygon/tokens/AMAAVE--0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360/logo.png",
   "tags": [
     "erc20matic"
   ]

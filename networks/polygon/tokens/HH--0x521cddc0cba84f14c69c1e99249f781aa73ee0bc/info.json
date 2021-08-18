@@ -4,7 +4,7 @@
   "symbol": "HH",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/HH--0x521cddc0cba84f14c69c1e99249f781aa73ee0bc/logo.png?1611137626",
+  "logo": "/networks/polygon/tokens/HH--0x521cddc0cba84f14c69c1e99249f781aa73ee0bc/logo.png",
   "tags": [
     "erc20matic"
   ]

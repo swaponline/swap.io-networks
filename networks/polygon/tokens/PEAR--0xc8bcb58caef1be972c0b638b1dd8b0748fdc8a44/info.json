@@ -4,7 +4,7 @@
   "symbol": "PEAR",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PEAR--0xc8bcb58caef1be972c0b638b1dd8b0748fdc8a44/logo.png?1626793002",
+  "logo": "/networks/polygon/tokens/PEAR--0xc8bcb58caef1be972c0b638b1dd8b0748fdc8a44/logo.png",
   "tags": [
     "erc20matic"
   ]

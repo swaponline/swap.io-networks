@@ -4,7 +4,7 @@
   "symbol": "POLYBUNNY",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/POLYBUNNY--0x4c16f69302ccb511c5fac682c7626b9ef0dc126a/logo.png?1625455221",
+  "logo": "/networks/polygon/tokens/POLYBUNNY--0x4c16f69302ccb511c5fac682c7626b9ef0dc126a/logo.png",
   "tags": [
     "erc20matic"
   ]

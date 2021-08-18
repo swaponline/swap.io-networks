@@ -4,7 +4,7 @@
   "symbol": "LPK",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LPK--0x9b71b5511998e0798625b8fa74e86d8192de78c1/logo.jpg?1547040298",
+  "logo": "/networks/polygon/tokens/LPK--0x9b71b5511998e0798625b8fa74e86d8192de78c1/logo.jpg",
   "tags": [
     "erc20matic"
   ]

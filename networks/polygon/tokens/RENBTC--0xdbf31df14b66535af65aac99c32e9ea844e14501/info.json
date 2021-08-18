@@ -4,7 +4,7 @@
   "symbol": "RENBTC",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg?1628072791",
+  "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
   "tags": [
     "erc20matic"
   ]

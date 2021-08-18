@@ -4,7 +4,7 @@
   "symbol": "LAIKA",
   "decimals": 9,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LAIKA--0x468003b688943977e6130f4f68f23aad939a1040/logo.PNG?1622067228",
+  "logo": "/networks/polygon/tokens/LAIKA--0x468003b688943977e6130f4f68f23aad939a1040/logo.PNG",
   "tags": [
     "erc20matic"
   ]

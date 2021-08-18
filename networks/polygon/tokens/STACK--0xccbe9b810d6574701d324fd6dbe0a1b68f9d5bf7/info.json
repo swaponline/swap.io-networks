@@ -4,7 +4,7 @@
   "symbol": "STACK",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/STACK--0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7/logo.jpg?1615000614",
+  "logo": "/networks/polygon/tokens/STACK--0xccbe9b810d6574701d324fd6dbe0a1b68f9d5bf7/logo.jpg",
   "tags": [
     "erc20matic"
   ]

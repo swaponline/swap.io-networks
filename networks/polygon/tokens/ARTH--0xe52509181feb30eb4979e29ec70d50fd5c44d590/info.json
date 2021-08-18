@@ -4,7 +4,7 @@
   "symbol": "ARTH",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ARTH--0xe52509181feb30eb4979e29ec70d50fd5c44d590/logo.png?1625651538",
+  "logo": "/networks/polygon/tokens/ARTH--0xe52509181feb30eb4979e29ec70d50fd5c44d590/logo.png",
   "tags": [
     "erc20matic"
   ]

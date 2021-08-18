@@ -4,7 +4,7 @@
   "symbol": "MATPAD",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MATPAD--0x3bfce6d6f0d3d3f1326d86abdbe2845b4740dc2e/logo.jpg?1623983140",
+  "logo": "/networks/polygon/tokens/MATPAD--0x3bfce6d6f0d3d3f1326d86abdbe2845b4740dc2e/logo.jpg",
   "tags": [
     "erc20matic"
   ]

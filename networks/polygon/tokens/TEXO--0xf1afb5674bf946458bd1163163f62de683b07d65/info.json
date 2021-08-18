@@ -4,7 +4,7 @@
   "symbol": "TEXO",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/TEXO--0xf1afb5674bf946458bd1163163f62de683b07d65/logo.png?1628838752",
+  "logo": "/networks/polygon/tokens/TEXO--0xf1afb5674bf946458bd1163163f62de683b07d65/logo.png",
   "tags": [
     "erc20matic"
   ]

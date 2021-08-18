@@ -4,7 +4,7 @@
   "symbol": "KIWI",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/KIWI--0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f/logo.png?1583736957",
+  "logo": "/networks/polygon/tokens/KIWI--0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f/logo.png",
   "tags": [
     "erc20matic"
   ]

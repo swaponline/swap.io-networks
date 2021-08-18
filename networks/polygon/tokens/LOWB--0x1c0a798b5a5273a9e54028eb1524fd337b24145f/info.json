@@ -4,7 +4,7 @@
   "symbol": "LOWB",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LOWB--0x1c0a798b5a5273a9e54028eb1524fd337b24145f/logo.PNG?1620693920",
+  "logo": "/networks/polygon/tokens/LOWB--0x1c0a798b5a5273a9e54028eb1524fd337b24145f/logo.PNG",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "MOMA",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MOMA--0xe3ab61371ecc88534c522922a026f2296116c109/logo.PNG?1619390399",
+  "logo": "/networks/polygon/tokens/MOMA--0xe3ab61371ecc88534c522922a026f2296116c109/logo.PNG",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "GFI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/GFI--0x874e178a2f3f3f9d34db862453cd756e7eab0381/logo.png?1622178588",
+  "logo": "/networks/polygon/tokens/GFI--0x874e178a2f3f3f9d34db862453cd756e7eab0381/logo.png",
   "tags": [
     "erc20matic"
   ]

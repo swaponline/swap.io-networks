@@ -4,7 +4,7 @@
   "symbol": "DEFI++",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/DEFI++--0x5b6ab5078bd2bbf1a215fffba16a94b7df7f639d/logo.png?1607322674",
+  "logo": "/networks/polygon/tokens/DEFI++--0x5b6ab5078bd2bbf1a215fffba16a94b7df7f639d/logo.png",
   "tags": [
     "erc20matic"
   ]

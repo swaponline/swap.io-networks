@@ -4,7 +4,7 @@
   "symbol": "BSCGIRL",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BSCGIRL--0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2/logo.png?1627005622",
+  "logo": "/networks/polygon/tokens/BSCGIRL--0x4e9a46ea6a22f3894abee2302ad42fd3b69e21e2/logo.png",
   "tags": [
     "erc20matic"
   ]

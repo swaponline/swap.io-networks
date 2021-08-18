@@ -4,7 +4,7 @@
   "symbol": "APW",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/APW--0x6c0ab120dbd11ba701aff6748568311668f63fe0/logo.png?1621340387",
+  "logo": "/networks/polygon/tokens/APW--0x6c0ab120dbd11ba701aff6748568311668f63fe0/logo.png",
   "tags": [
     "erc20matic"
   ]

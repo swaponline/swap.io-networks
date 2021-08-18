@@ -4,7 +4,7 @@
   "symbol": "KOM",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/KOM--0xc004e2318722ea2b15499d6375905d75ee5390b8/logo.jpeg?1627956421",
+  "logo": "/networks/polygon/tokens/KOM--0xc004e2318722ea2b15499d6375905d75ee5390b8/logo.jpeg",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "ERN",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ERN--0x0e50bea95fe001a370a4f1c220c49aedcb982dec/logo.png?1615189750",
+  "logo": "/networks/polygon/tokens/ERN--0x0e50bea95fe001a370a4f1c220c49aedcb982dec/logo.png",
   "tags": [
     "erc20matic"
   ]

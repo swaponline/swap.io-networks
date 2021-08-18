@@ -4,7 +4,7 @@
   "symbol": "PERI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PERI--0xdc0e17eae3b9651875030244b971fa0223a1764f/logo.png?1620375905",
+  "logo": "/networks/polygon/tokens/PERI--0xdc0e17eae3b9651875030244b971fa0223a1764f/logo.png",
   "tags": [
     "erc20matic"
   ]

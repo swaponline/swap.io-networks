@@ -4,7 +4,7 @@
   "symbol": "AURORA",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/AURORA--0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01/logo.png?1620622117",
+  "logo": "/networks/polygon/tokens/AURORA--0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01/logo.png",
   "tags": [
     "erc20matic"
   ]

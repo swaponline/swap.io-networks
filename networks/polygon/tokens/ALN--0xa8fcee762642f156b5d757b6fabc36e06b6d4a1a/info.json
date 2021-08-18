@@ -4,7 +4,7 @@
   "symbol": "ALN",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ALN--0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a/logo.png?1627873106",
+  "logo": "/networks/polygon/tokens/ALN--0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a/logo.png",
   "tags": [
     "erc20matic"
   ]

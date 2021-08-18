@@ -4,7 +4,7 @@
   "symbol": "PCAKE",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PCAKE--0xd9a2c5c0fb2f138c2b96582d29a648df70f80465/logo.jpg?1621844145",
+  "logo": "/networks/polygon/tokens/PCAKE--0xd9a2c5c0fb2f138c2b96582d29a648df70f80465/logo.jpg",
   "tags": [
     "erc20matic"
   ]

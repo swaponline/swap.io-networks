@@ -4,7 +4,7 @@
   "symbol": "ARTHX",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ARTHX--0xd354d56dae3588f1145dd664bc5094437b889d6f/logo.png?1625651571",
+  "logo": "/networks/polygon/tokens/ARTHX--0xd354d56dae3588f1145dd664bc5094437b889d6f/logo.png",
   "tags": [
     "erc20matic"
   ]

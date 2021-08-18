@@ -4,7 +4,7 @@
   "symbol": "POLYSTAR",
   "decimals": 9,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/POLYSTAR--0x4deb2036240f74ea5a6e7ce8bf32f74e3502cf38/logo.PNG?1620105606",
+  "logo": "/networks/polygon/tokens/POLYSTAR--0x4deb2036240f74ea5a6e7ce8bf32f74e3502cf38/logo.PNG",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "SHIB",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SHIB--0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec/logo.png?1622619446",
+  "logo": "/networks/polygon/tokens/SHIB--0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec/logo.png",
   "tags": [
     "erc20matic"
   ]

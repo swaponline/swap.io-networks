@@ -4,7 +4,7 @@
   "symbol": "LION",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LION--0x1da554d34027ca8de74c5b1cd2fa53a8a1492c94/logo.png?1621239357",
+  "logo": "/networks/polygon/tokens/LION--0x1da554d34027ca8de74c5b1cd2fa53a8a1492c94/logo.png",
   "tags": [
     "erc20matic"
   ]

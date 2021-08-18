@@ -4,7 +4,7 @@
   "symbol": "KNC",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/KNC--0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c/logo.jpg?1618923851",
+  "logo": "/networks/polygon/tokens/KNC--0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c/logo.jpg",
   "tags": [
     "erc20matic"
   ]

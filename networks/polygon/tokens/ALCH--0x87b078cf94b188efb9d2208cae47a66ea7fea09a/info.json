@@ -4,7 +4,7 @@
   "symbol": "ALCH",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ALCH--0x87b078cf94b188efb9d2208cae47a66ea7fea09a/logo.png?1617939648",
+  "logo": "/networks/polygon/tokens/ALCH--0x87b078cf94b188efb9d2208cae47a66ea7fea09a/logo.png",
   "tags": [
     "erc20matic"
   ]

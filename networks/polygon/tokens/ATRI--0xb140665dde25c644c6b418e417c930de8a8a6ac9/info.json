@@ -4,7 +4,7 @@
   "symbol": "ATRI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ATRI--0xb140665dde25c644c6b418e417c930de8a8a6ac9/logo.png?1604212345",
+  "logo": "/networks/polygon/tokens/ATRI--0xb140665dde25c644c6b418e417c930de8a8a6ac9/logo.png",
   "tags": [
     "erc20matic"
   ]

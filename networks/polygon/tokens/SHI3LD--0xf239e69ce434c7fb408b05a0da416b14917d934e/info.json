@@ -4,7 +4,7 @@
   "symbol": "SHI3LD",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SHI3LD--0xf239e69ce434c7fb408b05a0da416b14917d934e/logo.png?1628741510",
+  "logo": "/networks/polygon/tokens/SHI3LD--0xf239e69ce434c7fb408b05a0da416b14917d934e/logo.png",
   "tags": [
     "erc20matic"
   ]

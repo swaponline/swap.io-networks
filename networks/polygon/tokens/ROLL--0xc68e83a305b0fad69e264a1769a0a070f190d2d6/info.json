@@ -4,7 +4,7 @@
   "symbol": "ROLL",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ROLL--0xc68e83a305b0fad69e264a1769a0a070f190d2d6/logo.png?1624523906",
+  "logo": "/networks/polygon/tokens/ROLL--0xc68e83a305b0fad69e264a1769a0a070f190d2d6/logo.png",
   "tags": [
     "erc20matic"
   ]

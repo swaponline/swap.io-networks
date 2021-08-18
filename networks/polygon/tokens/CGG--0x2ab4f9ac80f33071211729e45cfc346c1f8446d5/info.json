@@ -4,7 +4,7 @@
   "symbol": "CGG",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/CGG--0x2ab4f9ac80f33071211729e45cfc346c1f8446d5/logo.png?1615429976",
+  "logo": "/networks/polygon/tokens/CGG--0x2ab4f9ac80f33071211729e45cfc346c1f8446d5/logo.png",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "SURF",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SURF--0x1e42edbe5376e717c1b22904c59e406426e8173f/logo.png?1604050261",
+  "logo": "/networks/polygon/tokens/SURF--0x1e42edbe5376e717c1b22904c59e406426e8173f/logo.png",
   "tags": [
     "erc20matic"
   ]

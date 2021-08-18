@@ -4,7 +4,7 @@
   "symbol": "DPI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/DPI--0x85955046df4668e1dd369d2de9f3aeb98dd2a369/logo.png?1600051053",
+  "logo": "/networks/polygon/tokens/DPI--0x85955046df4668e1dd369d2de9f3aeb98dd2a369/logo.png",
   "tags": [
     "erc20matic"
   ]

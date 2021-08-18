@@ -4,7 +4,7 @@
   "symbol": "renDOGE",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/renDOGE--0xce829a89d4a55a63418bcc43f00145adef0edb8e/logo.png?1611897869",
+  "logo": "/networks/polygon/tokens/renDOGE--0xce829a89d4a55a63418bcc43f00145adef0edb8e/logo.png",
   "tags": [
     "erc20matic"
   ]

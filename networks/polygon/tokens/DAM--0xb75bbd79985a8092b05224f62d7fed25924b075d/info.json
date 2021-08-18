@@ -4,7 +4,7 @@
   "symbol": "DAM",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/DAM--0xb75bbd79985a8092b05224f62d7fed25924b075d/logo.png?1592880463",
+  "logo": "/networks/polygon/tokens/DAM--0xb75bbd79985a8092b05224f62d7fed25924b075d/logo.png",
   "tags": [
     "erc20matic"
   ]

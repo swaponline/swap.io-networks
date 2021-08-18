@@ -4,7 +4,7 @@
   "symbol": "MOWL",
   "decimals": 9,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MOWL--0x9c9c3d859a4c0dd0505ae57714f3231fe8a07149/logo.jpg?1621313210",
+  "logo": "/networks/polygon/tokens/MOWL--0x9c9c3d859a4c0dd0505ae57714f3231fe8a07149/logo.jpg",
   "tags": [
     "erc20matic"
   ]

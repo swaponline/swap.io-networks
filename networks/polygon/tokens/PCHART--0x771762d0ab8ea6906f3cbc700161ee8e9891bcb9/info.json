@@ -4,7 +4,7 @@
   "symbol": "PCHART",
   "decimals": 9,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PCHART--0x771762d0ab8ea6906f3cbc700161ee8e9891bcb9/logo.PNG?1623274329",
+  "logo": "/networks/polygon/tokens/PCHART--0x771762d0ab8ea6906f3cbc700161ee8e9891bcb9/logo.PNG",
   "tags": [
     "erc20matic"
   ]

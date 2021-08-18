@@ -4,7 +4,7 @@
   "symbol": "UST",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.png?1620910058",
+  "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.png",
   "tags": [
     "erc20matic"
   ]

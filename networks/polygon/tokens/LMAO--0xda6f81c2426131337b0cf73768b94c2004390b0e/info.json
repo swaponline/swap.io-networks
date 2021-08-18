@@ -4,7 +4,7 @@
   "symbol": "LMAO",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LMAO--0xda6f81c2426131337b0cf73768b94c2004390b0e/logo.png?1628083987",
+  "logo": "/networks/polygon/tokens/LMAO--0xda6f81c2426131337b0cf73768b94c2004390b0e/logo.png",
   "tags": [
     "erc20matic"
   ]

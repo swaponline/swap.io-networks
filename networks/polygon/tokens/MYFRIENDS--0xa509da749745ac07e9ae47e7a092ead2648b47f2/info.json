@@ -4,7 +4,7 @@
   "symbol": "MYFRIENDS",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MYFRIENDS--0xa509da749745ac07e9ae47e7a092ead2648b47f2/logo.png?1629085804",
+  "logo": "/networks/polygon/tokens/MYFRIENDS--0xa509da749745ac07e9ae47e7a092ead2648b47f2/logo.png",
   "tags": [
     "erc20matic"
   ]

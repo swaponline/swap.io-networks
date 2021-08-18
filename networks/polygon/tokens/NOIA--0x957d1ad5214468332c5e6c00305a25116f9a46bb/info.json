@@ -4,7 +4,7 @@
   "symbol": "NOIA",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/NOIA--0x957d1ad5214468332c5e6c00305a25116f9a46bb/logo.png?1608275724",
+  "logo": "/networks/polygon/tokens/NOIA--0x957d1ad5214468332c5e6c00305a25116f9a46bb/logo.png",
   "tags": [
     "erc20matic"
   ]

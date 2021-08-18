@@ -4,7 +4,7 @@
   "symbol": "XIV",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/XIV--0xde799636af0d8d65a17aaa83b66cbbe9b185eb01/logo.jpg?1623075271",
+  "logo": "/networks/polygon/tokens/XIV--0xde799636af0d8d65a17aaa83b66cbbe9b185eb01/logo.jpg",
   "tags": [
     "erc20matic"
   ]

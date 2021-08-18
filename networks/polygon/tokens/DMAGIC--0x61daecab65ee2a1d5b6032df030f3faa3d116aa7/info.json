@@ -4,7 +4,7 @@
   "symbol": "DMAGIC",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/DMAGIC--0x61daecab65ee2a1d5b6032df030f3faa3d116aa7/logo.png?1622092194",
+  "logo": "/networks/polygon/tokens/DMAGIC--0x61daecab65ee2a1d5b6032df030f3faa3d116aa7/logo.png",
   "tags": [
     "erc20matic"
   ]

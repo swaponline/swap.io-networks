@@ -4,7 +4,7 @@
   "symbol": "PLR",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PLR--0xa6b37fc85d870711c56fbcb8afe2f8db049ae774/logo.png?1624906282",
+  "logo": "/networks/polygon/tokens/PLR--0xa6b37fc85d870711c56fbcb8afe2f8db049ae774/logo.png",
   "tags": [
     "erc20matic"
   ]

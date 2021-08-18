@@ -11,6 +11,7 @@ import {
   getNetworkFolderFilesList,
   networkFolderAllowedFiles,
   getNetworkInfoPath,
+  getLogoExtensioFromUrl,
 } from "../common/repo-structure"
 import {
   readDirSync,
@@ -143,8 +144,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       let logoPath = ''
       if (logoURIs.length) {
         for (const logoURI of logoURIs) {
-          const splitedLogoString = logoURI.split('.')
-          const logoExtension = splitedLogoString[splitedLogoString.length - 1]
+          const logoExtension = getLogoExtensioFromUrl(logoURI)
           logoPath = `${tokenPath}/logo.${logoExtension}`
           try {
             await saveLogo(logoURI, getAbsolutePath(logoPath))

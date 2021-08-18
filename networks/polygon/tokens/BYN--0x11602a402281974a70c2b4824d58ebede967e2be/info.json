@@ -4,7 +4,7 @@
   "symbol": "BYN",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BYN--0x11602a402281974a70c2b4824d58ebede967e2be/logo.jpg?1618078874",
+  "logo": "/networks/polygon/tokens/BYN--0x11602a402281974a70c2b4824d58ebede967e2be/logo.jpg",
   "tags": [
     "erc20matic"
   ]

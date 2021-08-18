@@ -4,7 +4,7 @@
   "symbol": "BEL",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BEL--0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42/logo.png?1602230054",
+  "logo": "/networks/polygon/tokens/BEL--0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42/logo.png",
   "tags": [
     "erc20matic"
   ]

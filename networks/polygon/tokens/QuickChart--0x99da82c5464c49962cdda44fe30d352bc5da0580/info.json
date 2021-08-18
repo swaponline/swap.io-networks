@@ -4,7 +4,7 @@
   "symbol": "QUICKCHART",
   "decimals": 9,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/QUICKCHART--0x99da82c5464c49962cdda44fe30d352bc5da0580/logo.png?1620702415",
+  "logo": "/networks/polygon/tokens/QUICKCHART--0x99da82c5464c49962cdda44fe30d352bc5da0580/logo.png",
   "tags": [
     "erc20matic"
   ]

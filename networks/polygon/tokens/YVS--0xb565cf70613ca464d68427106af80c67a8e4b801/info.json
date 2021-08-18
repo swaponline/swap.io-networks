@@ -4,7 +4,7 @@
   "symbol": "YVS",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/YVS--0xb565cf70613ca464d68427106af80c67a8e4b801/logo.png?1608852718",
+  "logo": "/networks/polygon/tokens/YVS--0xb565cf70613ca464d68427106af80c67a8e4b801/logo.png",
   "tags": [
     "erc20matic"
   ]

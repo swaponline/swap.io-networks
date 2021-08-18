@@ -4,7 +4,7 @@
   "symbol": "FEAR",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/FEAR--0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c/logo.png?1625552865",
+  "logo": "/networks/polygon/tokens/FEAR--0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c/logo.png",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "AGAR",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/AGAR--0xf84bd51eab957c2e7b7d646a3427c5a50848281d/logo.png?1614931200",
+  "logo": "/networks/polygon/tokens/AGAR--0xf84bd51eab957c2e7b7d646a3427c5a50848281d/logo.png",
   "tags": [
     "erc20matic"
   ]

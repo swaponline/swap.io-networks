@@ -4,7 +4,7 @@
   "symbol": "POLR",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/POLR--0x029c2bf9e5e7bf11328f045205308244e11efc46/logo.png?1622172524",
+  "logo": "/networks/polygon/tokens/POLR--0x029c2bf9e5e7bf11328f045205308244e11efc46/logo.png",
   "tags": [
     "erc20matic"
   ]

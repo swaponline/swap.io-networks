@@ -4,7 +4,7 @@
   "symbol": "LOAD",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LOAD--0x81c88f5cff4fd506df906cb32f8b02218701b0c7/logo.png?1606880512",
+  "logo": "/networks/polygon/tokens/LOAD--0x81c88f5cff4fd506df906cb32f8b02218701b0c7/logo.png",
   "tags": [
     "erc20matic"
   ]

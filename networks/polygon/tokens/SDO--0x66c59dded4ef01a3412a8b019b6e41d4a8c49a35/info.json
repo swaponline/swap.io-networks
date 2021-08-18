@@ -4,7 +4,7 @@
   "symbol": "SDO",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SDO--0x66c59dded4ef01a3412a8b019b6e41d4a8c49a35/logo.png?1625549180",
+  "logo": "/networks/polygon/tokens/SDO--0x66c59dded4ef01a3412a8b019b6e41d4a8c49a35/logo.png",
   "tags": [
     "erc20matic"
   ]

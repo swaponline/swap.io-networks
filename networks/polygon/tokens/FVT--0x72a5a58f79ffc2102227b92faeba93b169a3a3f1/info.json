@@ -4,7 +4,7 @@
   "symbol": "FVT",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/FVT--0x72a5a58f79ffc2102227b92faeba93b169a3a3f1/logo.png?1606015010",
+  "logo": "/networks/polygon/tokens/FVT--0x72a5a58f79ffc2102227b92faeba93b169a3a3f1/logo.png",
   "tags": [
     "erc20matic"
   ]

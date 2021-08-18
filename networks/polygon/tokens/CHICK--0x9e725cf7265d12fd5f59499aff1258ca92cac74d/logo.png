@@ -13,8 +13,8 @@
     <link href="/assets/css/lib/fontawesome/css/all.min.css" media="all" rel="stylesheet" type="text/css" />
     <!-- Ionicons -->
     <link rel="stylesheet" href="https://cdnjs.rsb.net/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
-    <link rel="stylesheet" href="/assets/css/notifyme.css?version=1629267812">
-    <link rel="stylesheet" href="/assets/css/indexstyle.css?version=1629267812">
+    <link rel="stylesheet" href="/assets/css/notifyme.css?version=1629268595">
+    <link rel="stylesheet" href="/assets/css/indexstyle.css?version=1629268595">
     
     <style>
         .image-container{
@@ -26,7 +26,7 @@
     </style>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.rsb.net/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css" media="screen" />
 
-    <link rel="stylesheet" href="/assets/css/customDark.css?version=1629267812">
+    <link rel="stylesheet" href="/assets/css/customDark.css?version=1629268595">
     <!-- Load google font-->
     <link rel="stylesheet" href="//fonts.rsb.net/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic"  media="none" onload="if(media!='all')media='all'">
 
@@ -186,9 +186,9 @@
 <script src="https://cdnjs.rsb.net/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.rsb.net/ajax/libs/layer/2.3/layer.js"></script>
 <script src="https://cdnjs.rsb.net/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
-<script src="/assets/js/notifyme.js?version=1629267812"></script>
+<script src="/assets/js/notifyme.js?version=1629268595"></script>
 
-    <script type="text/javascript" src="/assets/js/wwads_blocked.js?version=1629267812"></script>
+    <script type="text/javascript" src="/assets/js/wwads_blocked.js?version=1629268595"></script>
 
 
     <!-- Add fancyBox main JS and CSS files -->

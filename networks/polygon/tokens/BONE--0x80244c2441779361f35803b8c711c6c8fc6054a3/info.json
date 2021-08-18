@@ -4,7 +4,7 @@
   "symbol": "BONE",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BONE--0x80244c2441779361f35803b8c711c6c8fc6054a3/logo.png?1626402887",
+  "logo": "/networks/polygon/tokens/BONE--0x80244c2441779361f35803b8c711c6c8fc6054a3/logo.png",
   "tags": [
     "erc20matic"
   ]

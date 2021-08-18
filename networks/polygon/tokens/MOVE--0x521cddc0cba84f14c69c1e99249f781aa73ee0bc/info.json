@@ -4,7 +4,7 @@
   "symbol": "MOVE",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MOVE--0x521cddc0cba84f14c69c1e99249f781aa73ee0bc/logo.jpg?1617672818",
+  "logo": "/networks/polygon/tokens/MOVE--0x521cddc0cba84f14c69c1e99249f781aa73ee0bc/logo.jpg",
   "tags": [
     "erc20matic"
   ]

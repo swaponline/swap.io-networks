@@ -4,7 +4,7 @@
   "symbol": "PLA",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PLA--0x8765f05adce126d70bcdf1b0a48db573316662eb/logo.png?1615366911",
+  "logo": "/networks/polygon/tokens/PLA--0x8765f05adce126d70bcdf1b0a48db573316662eb/logo.png",
   "tags": [
     "erc20matic"
   ]

@@ -4,7 +4,7 @@
   "symbol": "COR",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/COR--0x4fdce518fe527439fe76883e6b51a1c522b61b7c/logo.png?1620210966",
+  "logo": "/networks/polygon/tokens/COR--0x4fdce518fe527439fe76883e6b51a1c522b61b7c/logo.png",
   "tags": [
     "erc20matic"
   ]

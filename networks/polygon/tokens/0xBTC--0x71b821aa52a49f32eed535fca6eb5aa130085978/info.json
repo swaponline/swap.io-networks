@@ -4,7 +4,7 @@
   "symbol": "0XBTC",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/0XBTC--0x71b821aa52a49f32eed535fca6eb5aa130085978/logo.png?1561603765",
+  "logo": "/networks/polygon/tokens/0XBTC--0x71b821aa52a49f32eed535fca6eb5aa130085978/logo.png",
   "tags": [
     "erc20matic"
   ]

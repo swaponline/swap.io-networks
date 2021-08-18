@@ -4,7 +4,7 @@
   "symbol": "SOL",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SOL--0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4/logo.png?1616489452",
+  "logo": "/networks/polygon/tokens/SOL--0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4/logo.png",
   "tags": [
     "erc20matic"
   ]

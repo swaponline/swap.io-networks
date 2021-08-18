@@ -4,7 +4,7 @@
   "symbol": "CRV",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/CRV--0x172370d5cd63279efa6d502dab29171933a610af/logo.png?1597369484",
+  "logo": "/networks/polygon/tokens/CRV--0x172370d5cd63279efa6d502dab29171933a610af/logo.png",
   "tags": [
     "erc20matic"
   ]

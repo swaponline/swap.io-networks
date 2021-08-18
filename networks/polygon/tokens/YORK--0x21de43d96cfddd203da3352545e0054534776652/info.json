@@ -4,7 +4,7 @@
   "symbol": "YORK",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/YORK--0x21de43d96cfddd203da3352545e0054534776652/logo.PNG?1628228872",
+  "logo": "/networks/polygon/tokens/YORK--0x21de43d96cfddd203da3352545e0054534776652/logo.PNG",
   "tags": [
     "erc20matic"
   ]

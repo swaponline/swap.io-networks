@@ -4,7 +4,7 @@
   "symbol": "YCORN",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/YCORN--0x98b1d7ba836a0a73d741735a309a18febeb6299c/logo.png?1627607047",
+  "logo": "/networks/polygon/tokens/YCORN--0x98b1d7ba836a0a73d741735a309a18febeb6299c/logo.png",
   "tags": [
     "erc20matic"
   ]

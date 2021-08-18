@@ -4,7 +4,7 @@
   "symbol": "BPUL",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BPUL--0x68f044b59d96ec856ac72c29df997348c8c1fff3/logo.png?1624587337",
+  "logo": "/networks/polygon/tokens/BPUL--0x68f044b59d96ec856ac72c29df997348c8c1fff3/logo.png",
   "tags": [
     "erc20matic"
   ]

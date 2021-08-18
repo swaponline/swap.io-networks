@@ -4,7 +4,7 @@
   "symbol": "ARIA20",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ARIA20--0x46f48fbdedaa6f5500993bede9539ef85f4bee8e/logo.png?1610097866",
+  "logo": "/networks/polygon/tokens/ARIA20--0x46f48fbdedaa6f5500993bede9539ef85f4bee8e/logo.png",
   "tags": [
     "erc20matic"
   ]

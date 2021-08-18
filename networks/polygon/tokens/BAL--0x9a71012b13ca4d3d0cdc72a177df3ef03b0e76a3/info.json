@@ -4,7 +4,7 @@
   "symbol": "BAL",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/BAL--0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3/logo.png?1592792958",
+  "logo": "/networks/polygon/tokens/BAL--0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3/logo.png",
   "tags": [
     "erc20matic"
   ]

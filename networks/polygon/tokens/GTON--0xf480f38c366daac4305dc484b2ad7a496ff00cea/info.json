@@ -4,7 +4,7 @@
   "symbol": "GTON",
   "decimals": 15,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/GTON--0xf480f38c366daac4305dc484b2ad7a496ff00cea/logo.png?1621637194",
+  "logo": "/networks/polygon/tokens/GTON--0xf480f38c366daac4305dc484b2ad7a496ff00cea/logo.png",
   "tags": [
     "erc20matic"
   ]

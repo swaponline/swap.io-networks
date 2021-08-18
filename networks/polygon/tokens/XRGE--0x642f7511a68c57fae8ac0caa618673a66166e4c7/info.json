@@ -4,7 +4,7 @@
   "symbol": "XRGE",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/XRGE--0x642f7511a68c57fae8ac0caa618673a66166e4c7/logo.png?1617265377",
+  "logo": "/networks/polygon/tokens/XRGE--0x642f7511a68c57fae8ac0caa618673a66166e4c7/logo.png",
   "tags": [
     "erc20matic"
   ]

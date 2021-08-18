@@ -4,7 +4,7 @@
   "symbol": "CRTS",
   "decimals": 9,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/CRTS--0xebf9b87583c284f0a1b7af72371f84d2a7567285/logo.png?1613661396",
+  "logo": "/networks/polygon/tokens/CRTS--0xebf9b87583c284f0a1b7af72371f84d2a7567285/logo.png",
   "tags": [
     "erc20matic"
   ]
