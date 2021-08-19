@@ -36,16 +36,16 @@
   "network": {
     "type": "mainnet",
     "settings": {
-    "port": 9333,
-    "magic": 4223710939,
-    "messagePrefix": "\u0019Litecoin Signed Message:\n",
-    "base58prefix": {
-      "pubKeyHash": 48,
-      "scriptHash": 50,
-      "privateKeyWIF": 176,
-      "publicKeyBIP32": 27108450,
-      "privateKeyBIP32": 27106558
-    }
+      "port": 9333,
+      "magic": 4223710939,
+      "messagePrefix": "\u0019Litecoin Signed Message:\n",
+      "base58prefix": {
+        "pubKeyHash": 48,
+        "scriptHash": 50,
+        "privateKeyWIF": 176,
+        "publicKeyBIP32": 27108450,
+        "privateKeyBIP32": 27106558
+      }
     }
   },
   "prefix": {
