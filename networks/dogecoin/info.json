@@ -1,0 +1,58 @@
+{
+  "type": "utxo",
+  "slug": "dogecoin",
+  "name": "Dogecoin",
+  "fee_max": 500000000,
+  "fee_min": 100000000,
+  "dust_amount": 100000000,
+  "isTestnet": false,
+  "priority": 15,
+  "coin": {
+    "symbol": "DOGE",
+    "slug": "dogecoin",
+    "name": "Dogecoin",
+    "name_plural": "Dogecoins",
+    "denominator": 1e-8,
+    "logo": "/networks/dogecoin/logo.svg"
+  },
+  "explorers": [
+    "https://blockchair.com/dogecoin",
+    "https://dogechain.info/chain/Dogecoin",
+    "https://doge.tokenview.com/"
+  ],
+  "rpc": [
+    {
+    "protocol": "http",
+    "user": "user",
+    "pass": "pass",
+    "host": "127.0.0.1",
+    "port": "22556"
+    }
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "3"
+  },
+  "network": {
+    "type": "mainnet",
+    "settings": {
+    "port": 22556,
+    "magic": 3233857728,
+    "messagePrefix": "\u0019Dogecoin Signed Message:\n",
+    "base58prefix": {
+      "pubKeyHash": 30,
+      "scriptHash": 22,
+      "privateKeyWIF": 158,
+      "publicKeyBIP32": 49990397,
+      "privateKeyBIP32": 49988504
+    }
+    }
+  },
+  "prefix": {
+    "message": "\u0019Dogecoin Signed Message:\n",
+    "p2pkh": "1e",
+    "p2sh": "16",
+    "bech32": "dc",
+    "wif": "9e"
+  }
+}
