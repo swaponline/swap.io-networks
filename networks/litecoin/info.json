@@ -1,0 +1,58 @@
+{
+  "type": "utxo",
+  "slug": "litecoin",
+  "name": "Litecoin",
+  "fee_max": 1000000,
+  "fee_min": 5460,
+  "dust_amount": 5460,
+  "isTestnet": false,
+  "priority": 14,
+  "coin": {
+    "symbol": "LTC",
+    "slug": "litecoin",
+    "name": "Litecoin",
+    "name_plural": "Litecoins",
+    "denominator": 1e-8,
+    "logo": "/networks/litecoin/logo.svg"
+  },
+  "explorers": [
+    "https://blockchair.com/litecoin",
+    "https://ltc.tokenview.com/en",
+    "https://chainz.cryptoid.info/ltc/"
+  ],
+  "rpc": [
+    {
+    "protocol": "http",
+    "user": "user",
+    "pass": "pass",
+    "host": "127.0.0.1",
+    "port": "9333"
+    }
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "2"
+  },
+  "network": {
+    "type": "mainnet",
+    "settings": {
+    "port": 9333,
+    "magic": 4223710939,
+    "messagePrefix": "\u0019Litecoin Signed Message:\n",
+    "base58prefix": {
+      "pubKeyHash": 48,
+      "scriptHash": 50,
+      "privateKeyWIF": 176,
+      "publicKeyBIP32": 27108450,
+      "privateKeyBIP32": 27106558
+    }
+    }
+  },
+  "prefix": {
+    "message": "\u0019Litecoin Signed Message:\n",
+    "p2pkh": "30",
+    "p2sh": "32",
+    "bech32": "ltc",
+    "wif": "b0"
+  }
+}
