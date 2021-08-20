@@ -1,14 +1,14 @@
 {
-    "parent": "polygon",
-    "slug": "polygon-mumbai",
-    "name": "Polygon Mumbai",
-    "isTestnet": true,
-    "priority": 8,
-    "chainId": "0x13881",
-    "explorers": ["https://mumbai.polygonscan.com/"],
-    "rpc": [
-      "https://rpc-mumbai.matic.today/",
-      "https://matic-mumbai.chainstacklabs.com/",
-      "https://rpc-mumbai.maticvigil.com/"
-    ]
-  }
+  "parent": "polygon",
+  "slug": "polygon-mumbai",
+  "name": "Polygon Mumbai",
+  "isTestnet": true,
+  "priority": 8,
+  "chainId": "0x13881",
+  "explorers": ["https://mumbai.polygonscan.com/"],
+  "rpc": [
+    "https://rpc-mumbai.matic.today/",
+    "https://matic-mumbai.chainstacklabs.com/",
+    "https://rpc-mumbai.maticvigil.com/"
+  ]
+}
