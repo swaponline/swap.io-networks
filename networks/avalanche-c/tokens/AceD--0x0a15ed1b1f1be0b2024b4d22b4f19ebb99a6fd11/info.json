@@ -1,0 +1,11 @@
+{
+  "name": "AceD",
+  "address": "0x0a15ed1b1f1be0b2024b4d22b4f19ebb99a6fd11",
+  "symbol": "AceD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AceD--0x0a15ed1b1f1be0b2024b4d22b4f19ebb99a6fd11/logo.png",
+  "tags": [
+    ""
+  ]
+}

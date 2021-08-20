@@ -1,0 +1,11 @@
+{
+  "name": "KUSH.FINANCE",
+  "address": "0x47e4c63922766e1b386fa7296c994ac474062bd4",
+  "symbol": "kSEED",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/kSEED--0x47e4c63922766e1b386fa7296c994ac474062bd4/logo.png",
+  "tags": [
+    ""
+  ]
+}

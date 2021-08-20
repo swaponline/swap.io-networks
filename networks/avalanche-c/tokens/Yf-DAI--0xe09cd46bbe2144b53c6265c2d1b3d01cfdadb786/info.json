@@ -1,0 +1,11 @@
+{
+  "name": "YfDAI.finance",
+  "address": "0xe09cd46bbe2144b53c6265c2d1b3d01cfdadb786",
+  "symbol": "Yf-DAI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/Yf-DAI--0xe09cd46bbe2144b53c6265c2d1b3d01cfdadb786/logo.png",
+  "tags": [
+    ""
+  ]
+}

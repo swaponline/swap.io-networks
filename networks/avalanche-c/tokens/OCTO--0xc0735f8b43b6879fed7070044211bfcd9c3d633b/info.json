@@ -1,0 +1,11 @@
+{
+  "name": "Octo.fi",
+  "address": "0xc0735f8b43b6879fed7070044211bfcd9c3d633b",
+  "symbol": "OCTO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OCTO--0xc0735f8b43b6879fed7070044211bfcd9c3d633b/logo.png",
+  "tags": [
+    ""
+  ]
+}

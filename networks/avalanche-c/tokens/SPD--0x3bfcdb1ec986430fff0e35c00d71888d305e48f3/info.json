@@ -1,0 +1,11 @@
+{
+  "name": "SPINDLE",
+  "address": "0x3bfcdb1ec986430fff0e35c00d71888d305e48f3",
+  "symbol": "SPD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SPD--0x3bfcdb1ec986430fff0e35c00d71888d305e48f3/logo.png",
+  "tags": [
+    ""
+  ]
+}

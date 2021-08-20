@@ -1,0 +1,11 @@
+{
+  "name": "ANY Blocknet",
+  "address": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
+  "symbol": "ABLOCK",
+  "decimals": 8,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ABLOCK--0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50/logo.jpg",
+  "tags": [
+    ""
+  ]
+}

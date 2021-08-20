@@ -1,0 +1,11 @@
+{
+  "name": "SnowSwap",
+  "address": "0x40eb65be917e7a5ae529b2e1279e4b548a36c465",
+  "symbol": "SNOW",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SNOW--0x40eb65be917e7a5ae529b2e1279e4b548a36c465/logo.png",
+  "tags": [
+    ""
+  ]
+}

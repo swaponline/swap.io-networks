@@ -1,0 +1,11 @@
+{
+  "name": "AgriChain Utility Token",
+  "address": "0xcc6421b76190b5e7d1029824f6c988456c798291",
+  "symbol": "AGRI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AGRI--0xcc6421b76190b5e7d1029824f6c988456c798291/logo.png",
+  "tags": [
+    ""
+  ]
+}

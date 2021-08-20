@@ -1,0 +1,11 @@
+{
+  "name": "Bancor USD Token",
+  "address": "0x764cc68cd46cb00644216682c3ee120b2f1eb5f6",
+  "symbol": "USDB",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/USDB--0x764cc68cd46cb00644216682c3ee120b2f1eb5f6/logo.png",
+  "tags": [
+    ""
+  ]
+}

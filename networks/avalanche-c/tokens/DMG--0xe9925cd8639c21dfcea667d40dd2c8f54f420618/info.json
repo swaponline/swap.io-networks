@@ -1,0 +1,11 @@
+{
+  "name": "DMM - Governance",
+  "address": "0xe9925cd8639c21dfcea667d40dd2c8f54f420618",
+  "symbol": "DMG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DMG--0xe9925cd8639c21dfcea667d40dd2c8f54f420618/logo.png",
+  "tags": [
+    ""
+  ]
+}

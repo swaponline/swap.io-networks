@@ -1,0 +1,11 @@
+{
+  "name": "LUKSO Token",
+  "address": "0xcd82b8f5f145abb08f8c495bdb675d1ac4d40eb2",
+  "symbol": "LYXe",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LYXe--0xcd82b8f5f145abb08f8c495bdb675d1ac4d40eb2/logo.png",
+  "tags": [
+    ""
+  ]
+}

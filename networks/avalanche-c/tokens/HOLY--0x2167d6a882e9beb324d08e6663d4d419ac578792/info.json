@@ -1,0 +1,11 @@
+{
+  "name": "Holyheld",
+  "address": "0x2167d6a882e9beb324d08e6663d4d419ac578792",
+  "symbol": "HOLY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HOLY--0x2167d6a882e9beb324d08e6663d4d419ac578792/logo.png",
+  "tags": [
+    ""
+  ]
+}

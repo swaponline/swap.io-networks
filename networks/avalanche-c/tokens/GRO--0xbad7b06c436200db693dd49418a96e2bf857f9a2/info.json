@@ -1,0 +1,11 @@
+{
+  "name": "Growth",
+  "address": "0xbad7b06c436200db693dd49418a96e2bf857f9a2",
+  "symbol": "GRO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GRO--0xbad7b06c436200db693dd49418a96e2bf857f9a2/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SelfKey",
+  "address": "0x858950767b333d45b90c28709e97605e1829f907",
+  "symbol": "KEY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/KEY--0x858950767b333d45b90c28709e97605e1829f907/logo.png",
+  "tags": [
+    ""
+  ]
+}

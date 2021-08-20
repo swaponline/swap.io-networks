@@ -1,0 +1,11 @@
+{
+  "name": "KEEP Token",
+  "address": "0x73945347fbcbfed872d590110f817621440a9d39",
+  "symbol": "KEEP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/KEEP--0x73945347fbcbfed872d590110f817621440a9d39/logo.png",
+  "tags": [
+    ""
+  ]
+}

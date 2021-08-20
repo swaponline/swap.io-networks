@@ -1,0 +1,11 @@
+{
+  "name": "BAC",
+  "address": "0x17002a182b20f7a393808c5e013ec5fe770c9302",
+  "symbol": "BAC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BAC--0x17002a182b20f7a393808c5e013ec5fe770c9302/logo.png",
+  "tags": [
+    ""
+  ]
+}

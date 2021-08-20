@@ -1,0 +1,11 @@
+{
+  "name": "CBI Index 7",
+  "address": "0xeed4dcdfae91d39d2b851338433f0013af5d1406",
+  "symbol": "CBIX7",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CBIX7--0xeed4dcdfae91d39d2b851338433f0013af5d1406/logo.png",
+  "tags": [
+    ""
+  ]
+}

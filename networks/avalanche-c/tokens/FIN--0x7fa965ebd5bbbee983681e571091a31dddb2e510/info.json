@@ -1,0 +1,11 @@
+{
+  "name": "DeFiner",
+  "address": "0x7fa965ebd5bbbee983681e571091a31dddb2e510",
+  "symbol": "FIN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FIN--0x7fa965ebd5bbbee983681e571091a31dddb2e510/logo.png",
+  "tags": [
+    ""
+  ]
+}

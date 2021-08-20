@@ -1,0 +1,11 @@
+{
+  "name": "X8XToken",
+  "address": "0x974e0e514d1413001201d5a629ff8defd188e3fd",
+  "symbol": "X8X",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/X8X--0x974e0e514d1413001201d5a629ff8defd188e3fd/logo.png",
+  "tags": [
+    ""
+  ]
+}

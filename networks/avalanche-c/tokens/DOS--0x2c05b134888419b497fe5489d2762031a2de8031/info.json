@@ -1,0 +1,11 @@
+{
+  "name": "DOS Network Token",
+  "address": "0x2c05b134888419b497fe5489d2762031a2de8031",
+  "symbol": "DOS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DOS--0x2c05b134888419b497fe5489d2762031a2de8031/logo.png",
+  "tags": [
+    ""
+  ]
+}

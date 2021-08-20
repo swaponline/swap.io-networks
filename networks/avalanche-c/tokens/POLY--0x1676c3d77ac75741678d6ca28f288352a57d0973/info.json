@@ -1,0 +1,11 @@
+{
+  "name": "Polymath",
+  "address": "0x1676c3d77ac75741678d6ca28f288352a57d0973",
+  "symbol": "POLY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/POLY--0x1676c3d77ac75741678d6ca28f288352a57d0973/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cap",
+  "address": "0xb2fb27f45189f3c621545e5e3aae668a9b1bdf1d",
+  "symbol": "CAP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CAP--0xb2fb27f45189f3c621545e5e3aae668a9b1bdf1d/logo.png",
+  "tags": [
+    ""
+  ]
+}

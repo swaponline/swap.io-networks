@@ -1,0 +1,11 @@
+{
+  "name": "Nsure Network Token",
+  "address": "0x6169f17c609d14f253d0d54a96df6efd2a44147a",
+  "symbol": "Nsure",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/Nsure--0x6169f17c609d14f253d0d54a96df6efd2a44147a/logo.png",
+  "tags": [
+    ""
+  ]
+}

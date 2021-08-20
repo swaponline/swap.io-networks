@@ -1,0 +1,11 @@
+{
+  "name": "DefiDollar",
+  "address": "0x71645323f647488209eaab8d08900576502160c8",
+  "symbol": "DUSD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DUSD--0x71645323f647488209eaab8d08900576502160c8/logo.png",
+  "tags": [
+    ""
+  ]
+}

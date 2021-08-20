@@ -1,0 +1,11 @@
+{
+  "name": "mStable USD",
+  "address": "0x4d06d5296c0be7857a9c43b5eb1770909d40cb25",
+  "symbol": "mUSD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/mUSD--0x4d06d5296c0be7857a9c43b5eb1770909d40cb25/logo.png",
+  "tags": [
+    ""
+  ]
+}

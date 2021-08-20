@@ -1,0 +1,11 @@
+{
+  "name": "SANtiment network token",
+  "address": "0x8ae71c763700f22f1bb137f1d8767826d7f02d3a",
+  "symbol": "SAN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SAN--0x8ae71c763700f22f1bb137f1d8767826d7f02d3a/logo.png",
+  "tags": [
+    ""
+  ]
+}

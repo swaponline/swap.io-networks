@@ -1,0 +1,11 @@
+{
+  "name": "ETH RSI 60/40 Yield II",
+  "address": "0xd7b63a3cf593e72c385a72e28029bcae6db766d5",
+  "symbol": "ETHRSIAPY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ETHRSIAPY--0xd7b63a3cf593e72c385a72e28029bcae6db766d5/logo.png",
+  "tags": [
+    ""
+  ]
+}

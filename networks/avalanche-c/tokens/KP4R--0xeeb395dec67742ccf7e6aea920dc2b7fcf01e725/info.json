@@ -1,0 +1,11 @@
+{
+  "name": "Keep4r",
+  "address": "0xeeb395dec67742ccf7e6aea920dc2b7fcf01e725",
+  "symbol": "KP4R",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/KP4R--0xeeb395dec67742ccf7e6aea920dc2b7fcf01e725/logo.png",
+  "tags": [
+    ""
+  ]
+}

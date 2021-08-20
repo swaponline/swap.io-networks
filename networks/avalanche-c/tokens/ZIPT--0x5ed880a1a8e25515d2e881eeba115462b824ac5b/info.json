@@ -1,0 +1,11 @@
+{
+  "name": "Zippie",
+  "address": "0x5ed880a1a8e25515d2e881eeba115462b824ac5b",
+  "symbol": "ZIPT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ZIPT--0x5ed880a1a8e25515d2e881eeba115462b824ac5b/logo.png",
+  "tags": [
+    ""
+  ]
+}

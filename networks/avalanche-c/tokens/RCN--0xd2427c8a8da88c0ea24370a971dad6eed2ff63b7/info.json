@@ -1,0 +1,11 @@
+{
+  "name": "Ripio Credit Network Token",
+  "address": "0xd2427c8a8da88c0ea24370a971dad6eed2ff63b7",
+  "symbol": "RCN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RCN--0xd2427c8a8da88c0ea24370a971dad6eed2ff63b7/logo.png",
+  "tags": [
+    ""
+  ]
+}

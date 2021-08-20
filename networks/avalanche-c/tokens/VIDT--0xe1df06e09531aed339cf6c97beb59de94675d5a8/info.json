@@ -1,0 +1,11 @@
+{
+  "name": "VIDT Datalink",
+  "address": "0xe1df06e09531aed339cf6c97beb59de94675d5a8",
+  "symbol": "VIDT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/VIDT--0xe1df06e09531aed339cf6c97beb59de94675d5a8/logo.png",
+  "tags": [
+    ""
+  ]
+}

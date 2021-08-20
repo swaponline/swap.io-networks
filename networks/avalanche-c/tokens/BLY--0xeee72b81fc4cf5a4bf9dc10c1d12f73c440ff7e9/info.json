@@ -1,0 +1,11 @@
+{
+  "name": "Blocery Token",
+  "address": "0xeee72b81fc4cf5a4bf9dc10c1d12f73c440ff7e9",
+  "symbol": "BLY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BLY--0xeee72b81fc4cf5a4bf9dc10c1d12f73c440ff7e9/logo.png",
+  "tags": [
+    ""
+  ]
+}

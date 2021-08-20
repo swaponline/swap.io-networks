@@ -1,0 +1,11 @@
+{
+  "name": "CurToken",
+  "address": "0x06f9fd59d9e009e7e47a07df79bc994a07dcfb95",
+  "symbol": "CUR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CUR--0x06f9fd59d9e009e7e47a07df79bc994a07dcfb95/logo.png",
+  "tags": [
+    ""
+  ]
+}

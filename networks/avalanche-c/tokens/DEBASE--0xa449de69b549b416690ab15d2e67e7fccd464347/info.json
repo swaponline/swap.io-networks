@@ -1,0 +1,11 @@
+{
+  "name": "Debase",
+  "address": "0xa449de69b549b416690ab15d2e67e7fccd464347",
+  "symbol": "DEBASE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DEBASE--0xa449de69b549b416690ab15d2e67e7fccd464347/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ink Protocol",
+  "address": "0x703a3cc60e5e7ed2b28bdc50d66c260b4aab03dc",
+  "symbol": "XNK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/XNK--0x703a3cc60e5e7ed2b28bdc50d66c260b4aab03dc/logo.png",
+  "tags": [
+    ""
+  ]
+}

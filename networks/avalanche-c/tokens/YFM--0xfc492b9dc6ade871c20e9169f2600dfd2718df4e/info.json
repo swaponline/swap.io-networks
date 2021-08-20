@@ -1,0 +1,11 @@
+{
+  "name": "yfarm.finance",
+  "address": "0xfc492b9dc6ade871c20e9169f2600dfd2718df4e",
+  "symbol": "YFM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YFM--0xfc492b9dc6ade871c20e9169f2600dfd2718df4e/logo.png",
+  "tags": [
+    ""
+  ]
+}

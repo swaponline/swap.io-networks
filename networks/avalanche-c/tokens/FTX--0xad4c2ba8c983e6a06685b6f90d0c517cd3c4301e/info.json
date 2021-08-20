@@ -1,0 +1,11 @@
+{
+  "name": "FintruX Network",
+  "address": "0xad4c2ba8c983e6a06685b6f90d0c517cd3c4301e",
+  "symbol": "FTX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FTX--0xad4c2ba8c983e6a06685b6f90d0c517cd3c4301e/logo.png",
+  "tags": [
+    ""
+  ]
+}

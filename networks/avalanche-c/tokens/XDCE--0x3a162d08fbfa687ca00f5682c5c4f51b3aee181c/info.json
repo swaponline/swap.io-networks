@@ -1,0 +1,11 @@
+{
+  "name": "XinFin XDCE",
+  "address": "0x3a162d08fbfa687ca00f5682c5c4f51b3aee181c",
+  "symbol": "XDCE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/XDCE--0x3a162d08fbfa687ca00f5682c5c4f51b3aee181c/logo.png",
+  "tags": [
+    ""
+  ]
+}

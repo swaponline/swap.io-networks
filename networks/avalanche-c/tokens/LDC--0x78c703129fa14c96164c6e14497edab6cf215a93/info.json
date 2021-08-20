@@ -1,0 +1,11 @@
+{
+  "name": "LEADCOIN",
+  "address": "0x78c703129fa14c96164c6e14497edab6cf215a93",
+  "symbol": "LDC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LDC--0x78c703129fa14c96164c6e14497edab6cf215a93/logo.png",
+  "tags": [
+    ""
+  ]
+}

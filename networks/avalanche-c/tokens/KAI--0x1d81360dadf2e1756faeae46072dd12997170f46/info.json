@@ -1,0 +1,11 @@
+{
+  "name": "KardiaChain Token",
+  "address": "0x1d81360dadf2e1756faeae46072dd12997170f46",
+  "symbol": "KAI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/KAI--0x1d81360dadf2e1756faeae46072dd12997170f46/logo.png",
+  "tags": [
+    ""
+  ]
+}

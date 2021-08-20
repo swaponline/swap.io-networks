@@ -1,0 +1,11 @@
+{
+  "name": "ROOK",
+  "address": "0x052c1e9de172366f30f300e805707a6520615977",
+  "symbol": "ROOK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ROOK--0x052c1e9de172366f30f300e805707a6520615977/logo.png",
+  "tags": [
+    ""
+  ]
+}

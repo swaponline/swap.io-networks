@@ -1,0 +1,11 @@
+{
+  "name": "YFII.finance",
+  "address": "0xa0e1645a594a3ac2556ad0707d89b908b1a17d03",
+  "symbol": "YFII",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YFII--0xa0e1645a594a3ac2556ad0707d89b908b1a17d03/logo.png",
+  "tags": [
+    ""
+  ]
+}

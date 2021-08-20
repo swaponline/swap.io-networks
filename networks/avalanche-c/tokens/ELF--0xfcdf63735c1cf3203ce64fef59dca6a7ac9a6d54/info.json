@@ -1,0 +1,11 @@
+{
+  "name": "ELF Token",
+  "address": "0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54",
+  "symbol": "ELF",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ELF--0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54/logo.png",
+  "tags": [
+    ""
+  ]
+}

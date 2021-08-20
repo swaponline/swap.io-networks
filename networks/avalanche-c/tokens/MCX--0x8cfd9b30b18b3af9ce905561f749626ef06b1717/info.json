@@ -1,0 +1,11 @@
+{
+  "name": "MachiX Token",
+  "address": "0x8cfd9b30b18b3af9ce905561f749626ef06b1717",
+  "symbol": "MCX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MCX--0x8cfd9b30b18b3af9ce905561f749626ef06b1717/logo.png",
+  "tags": [
+    ""
+  ]
+}

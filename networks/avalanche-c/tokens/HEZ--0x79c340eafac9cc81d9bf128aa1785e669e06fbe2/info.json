@@ -1,0 +1,11 @@
+{
+  "name": "Hermez Network Token",
+  "address": "0x79c340eafac9cc81d9bf128aa1785e669e06fbe2",
+  "symbol": "HEZ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HEZ--0x79c340eafac9cc81d9bf128aa1785e669e06fbe2/logo.png",
+  "tags": [
+    ""
+  ]
+}

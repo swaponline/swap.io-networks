@@ -1,0 +1,11 @@
+{
+  "name": "Binance USD",
+  "address": "0xaeb044650278731ef3dc244692ab9f64c78ffaea",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BUSD--0xaeb044650278731ef3dc244692ab9f64c78ffaea/logo.png",
+  "tags": [
+    ""
+  ]
+}

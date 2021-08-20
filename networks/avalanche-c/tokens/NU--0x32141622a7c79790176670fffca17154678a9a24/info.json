@@ -1,0 +1,11 @@
+{
+  "name": "NuCypher",
+  "address": "0x32141622a7c79790176670fffca17154678a9a24",
+  "symbol": "NU",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/NU--0x32141622a7c79790176670fffca17154678a9a24/logo.png",
+  "tags": [
+    ""
+  ]
+}

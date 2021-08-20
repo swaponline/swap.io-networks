@@ -1,0 +1,11 @@
+{
+  "name": "STONK",
+  "address": "0x571fb151cc10f76d5a9a4b48f6d568fb7e1eebf8",
+  "symbol": "STONK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/STONK--0x571fb151cc10f76d5a9a4b48f6d568fb7e1eebf8/logo.png",
+  "tags": [
+    ""
+  ]
+}

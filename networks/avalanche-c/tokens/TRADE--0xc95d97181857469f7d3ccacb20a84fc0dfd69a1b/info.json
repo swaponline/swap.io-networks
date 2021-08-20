@@ -1,0 +1,11 @@
+{
+  "name": "UniTrade",
+  "address": "0xc95d97181857469f7d3ccacb20a84fc0dfd69a1b",
+  "symbol": "TRADE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TRADE--0xc95d97181857469f7d3ccacb20a84fc0dfd69a1b/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Better Betting",
+  "address": "0xa6c55d876e920e34203072891c720ac19f425a2b",
+  "symbol": "BETR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BETR--0xa6c55d876e920e34203072891c720ac19f425a2b/logo.png",
+  "tags": [
+    ""
+  ]
+}

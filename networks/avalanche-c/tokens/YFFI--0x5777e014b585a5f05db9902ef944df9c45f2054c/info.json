@@ -1,0 +1,11 @@
+{
+  "name": "yffi.finance",
+  "address": "0x5777e014b585a5f05db9902ef944df9c45f2054c",
+  "symbol": "YFFI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YFFI--0x5777e014b585a5f05db9902ef944df9c45f2054c/logo.png",
+  "tags": [
+    ""
+  ]
+}

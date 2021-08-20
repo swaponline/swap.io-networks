@@ -1,0 +1,11 @@
+{
+  "name": "dfohub",
+  "address": "0x933753c297ade672d68fa3296fdaffd76db7dfa2",
+  "symbol": "buidl",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/buidl--0x933753c297ade672d68fa3296fdaffd76db7dfa2/logo.png",
+  "tags": [
+    ""
+  ]
+}

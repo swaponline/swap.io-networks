@@ -1,0 +1,11 @@
+{
+  "name": "cVault.finance",
+  "address": "0x424587bece1a7436ae4a38ed9e8686992236618b",
+  "symbol": "CORE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CORE--0x424587bece1a7436ae4a38ed9e8686992236618b/logo.png",
+  "tags": [
+    ""
+  ]
+}

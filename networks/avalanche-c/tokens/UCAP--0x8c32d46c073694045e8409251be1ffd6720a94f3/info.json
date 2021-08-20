@@ -1,0 +1,11 @@
+{
+  "name": "UniCap.finance",
+  "address": "0x8c32d46c073694045e8409251be1ffd6720a94f3",
+  "symbol": "UCAP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/UCAP--0x8c32d46c073694045e8409251be1ffd6720a94f3/logo.png",
+  "tags": [
+    ""
+  ]
+}

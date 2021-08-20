@@ -1,0 +1,11 @@
+{
+  "name": "Evolution",
+  "address": "0xc636ad16dd87c2d412d2c62276813dfc35558a81",
+  "symbol": "EVO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/EVO--0xc636ad16dd87c2d412d2c62276813dfc35558a81/logo.png",
+  "tags": [
+    ""
+  ]
+}

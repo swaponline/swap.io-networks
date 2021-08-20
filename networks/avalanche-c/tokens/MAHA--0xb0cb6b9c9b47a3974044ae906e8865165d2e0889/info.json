@@ -1,0 +1,11 @@
+{
+  "name": "MahaDAO",
+  "address": "0xb0cb6b9c9b47a3974044ae906e8865165d2e0889",
+  "symbol": "MAHA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MAHA--0xb0cb6b9c9b47a3974044ae906e8865165d2e0889/logo.png",
+  "tags": [
+    ""
+  ]
+}

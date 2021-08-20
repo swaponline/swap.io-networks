@@ -1,0 +1,11 @@
+{
+  "name": "Goldmint MNT Prelaunch Token",
+  "address": "0x56f45ca7c6e8d5550b36f4c69a0dea44defee3ef",
+  "symbol": "MNTP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MNTP--0x56f45ca7c6e8d5550b36f4c69a0dea44defee3ef/logo.png",
+  "tags": [
+    ""
+  ]
+}

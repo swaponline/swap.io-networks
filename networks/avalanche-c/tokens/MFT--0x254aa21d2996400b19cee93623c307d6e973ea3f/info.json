@@ -1,0 +1,11 @@
+{
+  "name": "Mainframe Token",
+  "address": "0x254aa21d2996400b19cee93623c307d6e973ea3f",
+  "symbol": "MFT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MFT--0x254aa21d2996400b19cee93623c307d6e973ea3f/logo.png",
+  "tags": [
+    ""
+  ]
+}

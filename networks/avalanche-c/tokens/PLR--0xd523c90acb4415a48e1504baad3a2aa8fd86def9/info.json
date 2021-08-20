@@ -1,0 +1,11 @@
+{
+  "name": "PILLAR",
+  "address": "0xd523c90acb4415a48e1504baad3a2aa8fd86def9",
+  "symbol": "PLR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PLR--0xd523c90acb4415a48e1504baad3a2aa8fd86def9/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Boosted Finance",
+  "address": "0x7ffc73532e29ac0845e494ec021f1a0791ebd4a7",
+  "symbol": "BOOST",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BOOST--0x7ffc73532e29ac0845e494ec021f1a0791ebd4a7/logo.png",
+  "tags": [
+    ""
+  ]
+}

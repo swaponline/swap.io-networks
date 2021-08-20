@@ -1,0 +1,11 @@
+{
+  "name": "Tendies Token",
+  "address": "0x9d8ca87a15230b112d90f9eee7c1c6fdab92caed",
+  "symbol": "TEND",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TEND--0x9d8ca87a15230b112d90f9eee7c1c6fdab92caed/logo.png",
+  "tags": [
+    ""
+  ]
+}

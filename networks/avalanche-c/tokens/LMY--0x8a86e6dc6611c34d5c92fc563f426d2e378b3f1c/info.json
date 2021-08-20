@@ -1,0 +1,11 @@
+{
+  "name": "Lunch Money",
+  "address": "0x8a86e6dc6611c34d5c92fc563f426d2e378b3f1c",
+  "symbol": "LMY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LMY--0x8a86e6dc6611c34d5c92fc563f426d2e378b3f1c/logo.png",
+  "tags": [
+    ""
+  ]
+}

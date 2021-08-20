@@ -1,0 +1,11 @@
+{
+  "name": "Synthetix Network Token",
+  "address": "0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9",
+  "symbol": "SNX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SNX--0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9/logo.png",
+  "tags": [
+    ""
+  ]
+}

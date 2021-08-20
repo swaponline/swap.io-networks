@@ -1,0 +1,11 @@
+{
+  "name": "IDEX Token",
+  "address": "0x59535b9ba6029edb7588df41ed388584fbea706c",
+  "symbol": "IDEX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/IDEX--0x59535b9ba6029edb7588df41ed388584fbea706c/logo.png",
+  "tags": [
+    ""
+  ]
+}

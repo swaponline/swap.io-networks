@@ -1,0 +1,11 @@
+{
+  "name": "SIRIN",
+  "address": "0x3365a191353a7670caac8b4be19c2f34dcd07320",
+  "symbol": "SRN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SRN--0x3365a191353a7670caac8b4be19c2f34dcd07320/logo.png",
+  "tags": [
+    ""
+  ]
+}

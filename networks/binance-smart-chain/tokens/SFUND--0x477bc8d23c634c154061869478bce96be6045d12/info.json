@@ -1,0 +1,11 @@
+{
+  "name": "Seedify",
+  "address": "0x477bc8d23c634c154061869478bce96be6045d12",
+  "symbol": "SFUND",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/SFUND--0x477bc8d23c634c154061869478bce96be6045d12/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

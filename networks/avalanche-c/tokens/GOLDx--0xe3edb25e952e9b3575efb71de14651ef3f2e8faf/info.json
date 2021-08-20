@@ -1,0 +1,11 @@
+{
+  "name": "dForce",
+  "address": "0xe3edb25e952e9b3575efb71de14651ef3f2e8faf",
+  "symbol": "GOLDx",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GOLDx--0xe3edb25e952e9b3575efb71de14651ef3f2e8faf/logo.png",
+  "tags": [
+    ""
+  ]
+}

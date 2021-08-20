@@ -1,0 +1,11 @@
+{
+  "name": "Dev",
+  "address": "0xd7c26758ca255fb1d7559b02ff36295be61f6822",
+  "symbol": "DEV",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DEV--0xd7c26758ca255fb1d7559b02ff36295be61f6822/logo.png",
+  "tags": [
+    ""
+  ]
+}

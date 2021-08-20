@@ -1,0 +1,11 @@
+{
+  "name": "MixTrust",
+  "address": "0x77d208c2b37051957c2b7d88a3682c280d70e7e6",
+  "symbol": "MXT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MXT--0x77d208c2b37051957c2b7d88a3682c280d70e7e6/logo.png",
+  "tags": [
+    ""
+  ]
+}

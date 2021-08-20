@@ -1,0 +1,11 @@
+{
+  "name": "Swapfolio",
+  "address": "0x733793e8f93afd40d9322a4fba46de661e4f8b83",
+  "symbol": "SWFL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SWFL--0x733793e8f93afd40d9322a4fba46de661e4f8b83/logo.png",
+  "tags": [
+    ""
+  ]
+}

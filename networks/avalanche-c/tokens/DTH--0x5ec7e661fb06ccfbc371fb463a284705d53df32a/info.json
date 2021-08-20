@@ -1,0 +1,11 @@
+{
+  "name": "Dether",
+  "address": "0x5ec7e661fb06ccfbc371fb463a284705d53df32a",
+  "symbol": "DTH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DTH--0x5ec7e661fb06ccfbc371fb463a284705d53df32a/logo.png",
+  "tags": [
+    ""
+  ]
+}

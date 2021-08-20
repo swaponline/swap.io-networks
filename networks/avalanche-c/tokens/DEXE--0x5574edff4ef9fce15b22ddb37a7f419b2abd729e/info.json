@@ -1,0 +1,11 @@
+{
+  "name": "Dexe",
+  "address": "0x5574edff4ef9fce15b22ddb37a7f419b2abd729e",
+  "symbol": "DEXE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DEXE--0x5574edff4ef9fce15b22ddb37a7f419b2abd729e/logo.png",
+  "tags": [
+    ""
+  ]
+}

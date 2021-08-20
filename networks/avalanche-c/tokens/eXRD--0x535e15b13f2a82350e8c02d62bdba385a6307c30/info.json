@@ -1,0 +1,11 @@
+{
+  "name": "E-RADIX",
+  "address": "0x535e15b13f2a82350e8c02d62bdba385a6307c30",
+  "symbol": "eXRD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/eXRD--0x535e15b13f2a82350e8c02d62bdba385a6307c30/logo.png",
+  "tags": [
+    ""
+  ]
+}

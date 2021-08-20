@@ -1,0 +1,11 @@
+{
+  "name": "Pundi X Token",
+  "address": "0x07d83b7101c540fcc1720c3d51923f218ae9b6ac",
+  "symbol": "NPXS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/NPXS--0x07d83b7101c540fcc1720c3d51923f218ae9b6ac/logo.png",
+  "tags": [
+    ""
+  ]
+}

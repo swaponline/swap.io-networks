@@ -1,0 +1,11 @@
+{
+  "name": "BlitzPredict",
+  "address": "0x1f5ae9f37a18aa6797cdb58838f2e05160082ae7",
+  "symbol": "XBP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/XBP--0x1f5ae9f37a18aa6797cdb58838f2e05160082ae7/logo.png",
+  "tags": [
+    ""
+  ]
+}

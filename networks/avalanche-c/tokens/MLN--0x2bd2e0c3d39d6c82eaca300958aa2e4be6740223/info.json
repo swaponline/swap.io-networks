@@ -1,0 +1,11 @@
+{
+  "name": "Melon Token",
+  "address": "0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223",
+  "symbol": "MLN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MLN--0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223/logo.png",
+  "tags": [
+    ""
+  ]
+}

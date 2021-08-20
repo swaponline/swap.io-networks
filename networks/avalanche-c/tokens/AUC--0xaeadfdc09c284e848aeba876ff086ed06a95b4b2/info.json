@@ -1,0 +1,11 @@
+{
+  "name": "Auctus Token",
+  "address": "0xaeadfdc09c284e848aeba876ff086ed06a95b4b2",
+  "symbol": "AUC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AUC--0xaeadfdc09c284e848aeba876ff086ed06a95b4b2/logo.png",
+  "tags": [
+    ""
+  ]
+}

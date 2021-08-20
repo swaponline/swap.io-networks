@@ -1,0 +1,11 @@
+{
+  "name": "Rari Governance Token",
+  "address": "0x337e4ff263bc2e8dfb9a1a8a1af883f0adf953f0",
+  "symbol": "RGT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RGT--0x337e4ff263bc2e8dfb9a1a8a1af883f0adf953f0/logo.png",
+  "tags": [
+    ""
+  ]
+}

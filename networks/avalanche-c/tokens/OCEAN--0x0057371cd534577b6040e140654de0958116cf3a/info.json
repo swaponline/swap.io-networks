@@ -1,0 +1,11 @@
+{
+  "name": "Ocean Token",
+  "address": "0x0057371cd534577b6040e140654de0958116cf3a",
+  "symbol": "OCEAN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OCEAN--0x0057371cd534577b6040e140654de0958116cf3a/logo.png",
+  "tags": [
+    ""
+  ]
+}

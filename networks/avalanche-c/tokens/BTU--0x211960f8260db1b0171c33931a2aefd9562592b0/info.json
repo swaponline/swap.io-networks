@@ -1,0 +1,11 @@
+{
+  "name": "BTU Protocol",
+  "address": "0x211960f8260db1b0171c33931a2aefd9562592b0",
+  "symbol": "BTU",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BTU--0x211960f8260db1b0171c33931a2aefd9562592b0/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "JOE",
+  "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+  "symbol": "JOE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/JOE--0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/logo.png",
+  "tags": [
+    ""
+  ]
+}

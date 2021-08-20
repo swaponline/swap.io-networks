@@ -1,0 +1,11 @@
+{
+  "name": "JUL",
+  "address": "0xc839e0d590bbb1b64a46a3f6ab6feb596ced7439",
+  "symbol": "JUL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/JUL--0xc839e0d590bbb1b64a46a3f6ab6feb596ced7439/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QuadrantProtocol",
+  "address": "0xa8990b4fa2ba67f3b14814be106b88f251397d3f",
+  "symbol": "eQUAD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/eQUAD--0xa8990b4fa2ba67f3b14814be106b88f251397d3f/logo.png",
+  "tags": [
+    ""
+  ]
+}

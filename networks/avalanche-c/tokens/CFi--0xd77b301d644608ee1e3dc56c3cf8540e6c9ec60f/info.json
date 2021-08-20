@@ -1,0 +1,11 @@
+{
+  "name": "CyberFi Token",
+  "address": "0xd77b301d644608ee1e3dc56c3cf8540e6c9ec60f",
+  "symbol": "CFi",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CFi--0xd77b301d644608ee1e3dc56c3cf8540e6c9ec60f/logo.png",
+  "tags": [
+    ""
+  ]
+}

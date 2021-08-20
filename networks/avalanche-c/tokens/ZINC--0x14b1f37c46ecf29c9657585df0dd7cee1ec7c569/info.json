@@ -1,0 +1,11 @@
+{
+  "name": "ZINC",
+  "address": "0x14b1f37c46ecf29c9657585df0dd7cee1ec7c569",
+  "symbol": "ZINC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ZINC--0x14b1f37c46ecf29c9657585df0dd7cee1ec7c569/logo.png",
+  "tags": [
+    ""
+  ]
+}

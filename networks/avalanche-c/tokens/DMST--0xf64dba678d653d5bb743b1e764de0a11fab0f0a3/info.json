@@ -1,0 +1,11 @@
+{
+  "name": "DMScript",
+  "address": "0xf64dba678d653d5bb743b1e764de0a11fab0f0a3",
+  "symbol": "DMST",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DMST--0xf64dba678d653d5bb743b1e764de0a11fab0f0a3/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Streamity",
+  "address": "0xa62cbcb4f5485ee6ef6b44083c561f9e1f2b740a",
+  "symbol": "STM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/STM--0xa62cbcb4f5485ee6ef6b44083c561f9e1f2b740a/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Oraichain Token",
+  "address": "0xd9a0b28305951758b9cdbbf7e18cc85b868f973c",
+  "symbol": "ORAI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ORAI--0xd9a0b28305951758b9cdbbf7e18cc85b868f973c/logo.png",
+  "tags": [
+    ""
+  ]
+}

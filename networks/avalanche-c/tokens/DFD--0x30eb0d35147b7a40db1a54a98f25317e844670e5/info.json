@@ -1,0 +1,11 @@
+{
+  "name": "DefiDollar DAO",
+  "address": "0x30eb0d35147b7a40db1a54a98f25317e844670e5",
+  "symbol": "DFD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DFD--0x30eb0d35147b7a40db1a54a98f25317e844670e5/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GreenTrust",
+  "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+  "symbol": "GNT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/GNT--0xf750a26eb0acf95556e8529e72ed530f3b60f348/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

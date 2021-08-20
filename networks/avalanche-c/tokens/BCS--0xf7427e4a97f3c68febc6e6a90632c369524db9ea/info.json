@@ -1,0 +1,11 @@
+{
+  "name": "BCS",
+  "address": "0xf7427e4a97f3c68febc6e6a90632c369524db9ea",
+  "symbol": "BCS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BCS--0xf7427e4a97f3c68febc6e6a90632c369524db9ea/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CryptoFranc",
+  "address": "0x3e8a3b1db5401938f6f34e4e6f2560354c182c46",
+  "symbol": "XCHF",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/XCHF--0x3e8a3b1db5401938f6f34e4e6f2560354c182c46/logo.png",
+  "tags": [
+    ""
+  ]
+}

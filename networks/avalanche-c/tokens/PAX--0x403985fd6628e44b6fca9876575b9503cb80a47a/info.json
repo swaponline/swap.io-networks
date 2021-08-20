@@ -1,0 +1,11 @@
+{
+  "name": "Paxos Standard",
+  "address": "0x403985fd6628e44b6fca9876575b9503cb80a47a",
+  "symbol": "PAX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PAX--0x403985fd6628e44b6fca9876575b9503cb80a47a/logo.png",
+  "tags": [
+    ""
+  ]
+}

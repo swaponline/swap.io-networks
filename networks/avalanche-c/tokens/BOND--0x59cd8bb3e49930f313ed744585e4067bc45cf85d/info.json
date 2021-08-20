@@ -1,0 +1,11 @@
+{
+  "name": "BarnBridge Governance Token",
+  "address": "0x59cd8bb3e49930f313ed744585e4067bc45cf85d",
+  "symbol": "BOND",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BOND--0x59cd8bb3e49930f313ed744585e4067bc45cf85d/logo.png",
+  "tags": [
+    ""
+  ]
+}

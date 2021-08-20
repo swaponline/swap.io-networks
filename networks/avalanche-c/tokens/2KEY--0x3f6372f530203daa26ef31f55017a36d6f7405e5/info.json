@@ -1,0 +1,11 @@
+{
+  "name": "TwoKeyEconomy",
+  "address": "0x3f6372f530203daa26ef31f55017a36d6f7405e5",
+  "symbol": "2KEY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/2KEY--0x3f6372f530203daa26ef31f55017a36d6f7405e5/logo.png",
+  "tags": [
+    ""
+  ]
+}

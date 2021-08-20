@@ -1,0 +1,11 @@
+{
+  "name": "PolkaCover",
+  "address": "0x606e714710b0426d3e786394ada61d5b1492c39f",
+  "symbol": "CVR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CVR--0x606e714710b0426d3e786394ada61d5b1492c39f/logo.png",
+  "tags": [
+    ""
+  ]
+}

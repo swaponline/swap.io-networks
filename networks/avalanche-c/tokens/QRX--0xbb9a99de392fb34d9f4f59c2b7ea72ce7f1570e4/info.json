@@ -1,0 +1,11 @@
+{
+  "name": "QuiverX",
+  "address": "0xbb9a99de392fb34d9f4f59c2b7ea72ce7f1570e4",
+  "symbol": "QRX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/QRX--0xbb9a99de392fb34d9f4f59c2b7ea72ce7f1570e4/logo.png",
+  "tags": [
+    ""
+  ]
+}

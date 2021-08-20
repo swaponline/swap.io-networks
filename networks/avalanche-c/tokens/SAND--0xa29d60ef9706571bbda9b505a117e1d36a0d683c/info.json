@@ -1,0 +1,11 @@
+{
+  "name": "SAND",
+  "address": "0xa29d60ef9706571bbda9b505a117e1d36a0d683c",
+  "symbol": "SAND",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SAND--0xa29d60ef9706571bbda9b505a117e1d36a0d683c/logo.png",
+  "tags": [
+    ""
+  ]
+}

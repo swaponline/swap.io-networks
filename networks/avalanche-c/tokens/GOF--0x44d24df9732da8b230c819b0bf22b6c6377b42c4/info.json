@@ -1,0 +1,11 @@
+{
+  "name": "Golff.finance",
+  "address": "0x44d24df9732da8b230c819b0bf22b6c6377b42c4",
+  "symbol": "GOF",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GOF--0x44d24df9732da8b230c819b0bf22b6c6377b42c4/logo.png",
+  "tags": [
+    ""
+  ]
+}

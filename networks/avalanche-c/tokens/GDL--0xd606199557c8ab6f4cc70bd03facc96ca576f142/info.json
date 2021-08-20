@@ -1,0 +1,11 @@
+{
+  "name": "Gondola Finance",
+  "address": "0xd606199557c8ab6f4cc70bd03facc96ca576f142",
+  "symbol": "GDL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GDL--0xd606199557c8ab6f4cc70bd03facc96ca576f142/logo.png",
+  "tags": [
+    ""
+  ]
+}

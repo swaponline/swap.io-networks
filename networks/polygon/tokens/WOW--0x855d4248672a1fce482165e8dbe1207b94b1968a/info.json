@@ -1,0 +1,11 @@
+{
+  "name": "WOWswap",
+  "address": "0x855d4248672a1fce482165e8dbe1207b94b1968a",
+  "symbol": "WOW",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WOW--0x855d4248672a1fce482165e8dbe1207b94b1968a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

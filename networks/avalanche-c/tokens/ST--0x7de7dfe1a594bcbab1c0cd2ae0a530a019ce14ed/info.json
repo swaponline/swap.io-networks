@@ -1,0 +1,11 @@
+{
+  "name": "Simple Token",
+  "address": "0x7de7dfe1a594bcbab1c0cd2ae0a530a019ce14ed",
+  "symbol": "ST",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ST--0x7de7dfe1a594bcbab1c0cd2ae0a530a019ce14ed/logo.png",
+  "tags": [
+    ""
+  ]
+}

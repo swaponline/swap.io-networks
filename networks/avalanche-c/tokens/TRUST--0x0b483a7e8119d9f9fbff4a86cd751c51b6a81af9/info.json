@@ -1,0 +1,11 @@
+{
+  "name": "TRUST DAO",
+  "address": "0x0b483a7e8119d9f9fbff4a86cd751c51b6a81af9",
+  "symbol": "TRUST",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TRUST--0x0b483a7e8119d9f9fbff4a86cd751c51b6a81af9/logo.png",
+  "tags": [
+    ""
+  ]
+}

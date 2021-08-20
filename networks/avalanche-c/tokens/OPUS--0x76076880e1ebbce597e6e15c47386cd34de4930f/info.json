@@ -1,0 +1,11 @@
+{
+  "name": "Canopus",
+  "address": "0x76076880e1ebbce597e6e15c47386cd34de4930f",
+  "symbol": "OPUS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OPUS--0x76076880e1ebbce597e6e15c47386cd34de4930f/logo.png",
+  "tags": [
+    ""
+  ]
+}

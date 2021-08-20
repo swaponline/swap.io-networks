@@ -1,0 +1,11 @@
+{
+  "name": "FERA",
+  "address": "0x5dc1e85c8db7f79bbd63e6ae35abeb50ad55756d",
+  "symbol": "FERA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FERA--0x5dc1e85c8db7f79bbd63e6ae35abeb50ad55756d/logo.png",
+  "tags": [
+    ""
+  ]
+}

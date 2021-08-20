@@ -1,0 +1,11 @@
+{
+  "name": "SAFE2",
+  "address": "0x2a1f8a24575261919f839f4254fde9bc4b8ede7a",
+  "symbol": "SAFE2",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SAFE2--0x2a1f8a24575261919f839f4254fde9bc4b8ede7a/logo.png",
+  "tags": [
+    ""
+  ]
+}

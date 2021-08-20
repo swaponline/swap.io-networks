@@ -1,0 +1,11 @@
+{
+  "name": "UniLend Finance Token",
+  "address": "0xf5182c77b4a5dd11a59a83fb54abaf7dd3099041",
+  "symbol": "UFT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/UFT--0xf5182c77b4a5dd11a59a83fb54abaf7dd3099041/logo.png",
+  "tags": [
+    ""
+  ]
+}

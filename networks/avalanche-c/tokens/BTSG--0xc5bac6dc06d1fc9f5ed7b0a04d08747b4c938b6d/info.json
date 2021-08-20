@@ -1,0 +1,11 @@
+{
+  "name": "BitSong",
+  "address": "0xc5bac6dc06d1fc9f5ed7b0a04d08747b4c938b6d",
+  "symbol": "BTSG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BTSG--0xc5bac6dc06d1fc9f5ed7b0a04d08747b4c938b6d/logo.png",
+  "tags": [
+    ""
+  ]
+}

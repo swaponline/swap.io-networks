@@ -1,0 +1,11 @@
+{
+  "name": "Props Token",
+  "address": "0x2a5a930d00110a4970bc68cf4bcb207588ca0d2d",
+  "symbol": "PROPS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PROPS--0x2a5a930d00110a4970bc68cf4bcb207588ca0d2d/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PickleToken",
+  "address": "0xd9ed8258c3ecbb5e4ecf3b91dc0ca693e80934cc",
+  "symbol": "PICKLE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PICKLE--0xd9ed8258c3ecbb5e4ecf3b91dc0ca693e80934cc/logo.png",
+  "tags": [
+    ""
+  ]
+}

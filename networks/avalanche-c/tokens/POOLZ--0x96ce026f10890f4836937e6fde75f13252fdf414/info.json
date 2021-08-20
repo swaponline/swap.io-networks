@@ -1,0 +1,11 @@
+{
+  "name": "Poolz Finance",
+  "address": "0x96ce026f10890f4836937e6fde75f13252fdf414",
+  "symbol": "POOLZ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/POOLZ--0x96ce026f10890f4836937e6fde75f13252fdf414/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PeerEx Network",
+  "address": "0x02f8a8e78e02768a5c2f9cf1bfa8ec2f821e869d",
+  "symbol": "PERX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PERX--0x02f8a8e78e02768a5c2f9cf1bfa8ec2f821e869d/logo.png",
+  "tags": [
+    ""
+  ]
+}

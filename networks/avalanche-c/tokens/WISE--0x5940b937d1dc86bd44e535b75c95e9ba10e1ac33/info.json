@@ -1,0 +1,11 @@
+{
+  "name": "Wise Token",
+  "address": "0x5940b937d1dc86bd44e535b75c95e9ba10e1ac33",
+  "symbol": "WISE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WISE--0x5940b937d1dc86bd44e535b75c95e9ba10e1ac33/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TrueAUD",
+  "address": "0x82913383a48712c6a876e611a0412395b86e74b1",
+  "symbol": "TAUD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TAUD--0x82913383a48712c6a876e611a0412395b86e74b1/logo.png",
+  "tags": [
+    ""
+  ]
+}

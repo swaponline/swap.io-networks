@@ -1,0 +1,11 @@
+{
+  "name": "AVME",
+  "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
+  "symbol": "AVME",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AVME--0x1ecd47ff4d9598f89721a2866bfeb99505a413ed/logo.png",
+  "tags": [
+    ""
+  ]
+}

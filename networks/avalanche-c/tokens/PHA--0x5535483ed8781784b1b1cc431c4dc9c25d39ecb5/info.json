@@ -1,0 +1,11 @@
+{
+  "name": "Phala",
+  "address": "0x5535483ed8781784b1b1cc431c4dc9c25d39ecb5",
+  "symbol": "PHA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PHA--0x5535483ed8781784b1b1cc431c4dc9c25d39ecb5/logo.png",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pNetwork Token",
+  "address": "0xa4efc8d7007851cfe5313c02ac2516f33f199364",
+  "symbol": "PNT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PNT--0xa4efc8d7007851cfe5313c02ac2516f33f199364/logo.png",
+  "tags": [
+    ""
+  ]
+}

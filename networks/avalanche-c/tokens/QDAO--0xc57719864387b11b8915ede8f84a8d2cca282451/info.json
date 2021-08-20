@@ -1,0 +1,11 @@
+{
+  "name": "Q DAO Governance token v1.0",
+  "address": "0xc57719864387b11b8915ede8f84a8d2cca282451",
+  "symbol": "QDAO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/QDAO--0xc57719864387b11b8915ede8f84a8d2cca282451/logo.png",
+  "tags": [
+    ""
+  ]
+}

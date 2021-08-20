@@ -1,0 +1,11 @@
+{
+  "name": "Cover Protocol Governance Token",
+  "address": "0xe35f68f3de8590f3fd6884eef166af9f414d75f7",
+  "symbol": "COVER",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "",
+  "tags": [
+    ""
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Utrust Token",
+  "address": "0x994921badc83d4f16eede22b81b64162c50a49eb",
+  "symbol": "UTK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/UTK--0x994921badc83d4f16eede22b81b64162c50a49eb/logo.png",
+  "tags": [
+    ""
+  ]
+}

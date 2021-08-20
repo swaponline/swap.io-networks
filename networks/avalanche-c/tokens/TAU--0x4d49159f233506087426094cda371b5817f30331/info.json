@@ -1,0 +1,11 @@
+{
+  "name": "Lamden Tau",
+  "address": "0x4d49159f233506087426094cda371b5817f30331",
+  "symbol": "TAU",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TAU--0x4d49159f233506087426094cda371b5817f30331/logo.png",
+  "tags": [
+    ""
+  ]
+}
