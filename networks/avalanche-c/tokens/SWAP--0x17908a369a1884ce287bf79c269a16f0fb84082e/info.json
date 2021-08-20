@@ -1,0 +1,11 @@
+{
+  "name": "TrustSwap Token",
+  "address": "0x17908a369a1884ce287bf79c269a16f0fb84082e",
+  "symbol": "SWAP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SWAP--0x17908a369a1884ce287bf79c269a16f0fb84082e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

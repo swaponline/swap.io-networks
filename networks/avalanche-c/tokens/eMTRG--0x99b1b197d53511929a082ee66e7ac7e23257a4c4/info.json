@@ -1,0 +1,11 @@
+{
+  "name": "Meter Governance mapped by Meter.io",
+  "address": "0x99b1b197d53511929a082ee66e7ac7e23257a4c4",
+  "symbol": "eMTRG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/eMTRG--0x99b1b197d53511929a082ee66e7ac7e23257a4c4/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

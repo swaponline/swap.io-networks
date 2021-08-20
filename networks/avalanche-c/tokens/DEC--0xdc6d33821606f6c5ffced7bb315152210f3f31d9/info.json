@@ -1,0 +1,11 @@
+{
+  "name": "Decentr",
+  "address": "0xdc6d33821606f6c5ffced7bb315152210f3f31d9",
+  "symbol": "DEC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DEC--0xdc6d33821606f6c5ffced7bb315152210f3f31d9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

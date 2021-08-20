@@ -1,0 +1,11 @@
+{
+  "name": "Plasma",
+  "address": "0x3b295608d13083270214c0778624bcebca5df3da",
+  "symbol": "PPAY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PPAY--0x3b295608d13083270214c0778624bcebca5df3da/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

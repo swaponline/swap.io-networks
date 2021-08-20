@@ -1,0 +1,11 @@
+{
+  "name": "PowerTrade Fuel Token",
+  "address": "0x01cc32a282050740a88c43dac0b56bf90f6435ef",
+  "symbol": "PTF",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PTF--0x01cc32a282050740a88c43dac0b56bf90f6435ef/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ethverse Token",
+  "address": "0xb98b8ea9e894caa5155da32646152303839890a3",
+  "symbol": "ETHV",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ETHV--0xb98b8ea9e894caa5155da32646152303839890a3/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

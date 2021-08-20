@@ -1,0 +1,11 @@
+{
+  "name": "MyBit",
+  "address": "0x3d7af5cc0143402a65d0ddc7e4c559fed65ae78c",
+  "symbol": "MYB",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MYB--0x3d7af5cc0143402a65d0ddc7e4c559fed65ae78c/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

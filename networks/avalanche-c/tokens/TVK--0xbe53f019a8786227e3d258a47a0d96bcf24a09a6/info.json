@@ -1,0 +1,11 @@
+{
+  "name": "Terra Virtua Kolect",
+  "address": "0xbe53f019a8786227e3d258a47a0d96bcf24a09a6",
+  "symbol": "TVK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TVK--0xbe53f019a8786227e3d258a47a0d96bcf24a09a6/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

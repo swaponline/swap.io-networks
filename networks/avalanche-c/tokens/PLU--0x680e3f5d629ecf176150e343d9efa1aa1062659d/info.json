@@ -1,0 +1,11 @@
+{
+  "name": "Pluton",
+  "address": "0x680e3f5d629ecf176150e343d9efa1aa1062659d",
+  "symbol": "PLU",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PLU--0x680e3f5d629ecf176150e343d9efa1aa1062659d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

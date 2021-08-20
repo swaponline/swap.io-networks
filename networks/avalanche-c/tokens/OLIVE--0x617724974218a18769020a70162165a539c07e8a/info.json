@@ -1,0 +1,11 @@
+{
+  "name": "Olive Cash",
+  "address": "0x617724974218a18769020a70162165a539c07e8a",
+  "symbol": "OLIVE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OLIVE--0x617724974218a18769020a70162165a539c07e8a/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

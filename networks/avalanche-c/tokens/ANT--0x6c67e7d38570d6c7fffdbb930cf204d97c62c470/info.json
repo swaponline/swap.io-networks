@@ -1,0 +1,11 @@
+{
+  "name": "Aragon Network Token",
+  "address": "0x6c67e7d38570d6c7fffdbb930cf204d97c62c470",
+  "symbol": "ANT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ANT--0x6c67e7d38570d6c7fffdbb930cf204d97c62c470/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

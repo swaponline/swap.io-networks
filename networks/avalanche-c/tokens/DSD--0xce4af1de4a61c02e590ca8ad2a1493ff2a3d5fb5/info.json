@@ -1,0 +1,11 @@
+{
+  "name": "Dynamic Set Dollar",
+  "address": "0xce4af1de4a61c02e590ca8ad2a1493ff2a3d5fb5",
+  "symbol": "DSD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DSD--0xce4af1de4a61c02e590ca8ad2a1493ff2a3d5fb5/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

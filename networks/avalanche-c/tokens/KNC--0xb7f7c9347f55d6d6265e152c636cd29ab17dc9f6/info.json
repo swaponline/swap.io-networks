@@ -1,0 +1,11 @@
+{
+  "name": "Kyber Network Crystal",
+  "address": "0xb7f7c9347f55d6d6265e152c636cd29ab17dc9f6",
+  "symbol": "KNC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/KNC--0xb7f7c9347f55d6d6265e152c636cd29ab17dc9f6/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

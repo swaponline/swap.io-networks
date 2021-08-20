@@ -1,0 +1,11 @@
+{
+  "name": "Verso",
+  "address": "0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a",
+  "symbol": "VSO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/VSO--0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

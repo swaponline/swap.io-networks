@@ -1,0 +1,11 @@
+{
+  "name": "Bondly Token",
+  "address": "0xd61b293aefb71f9b83670133d1faad8487567a53",
+  "symbol": "BONDLY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BONDLY--0xd61b293aefb71f9b83670133d1faad8487567a53/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

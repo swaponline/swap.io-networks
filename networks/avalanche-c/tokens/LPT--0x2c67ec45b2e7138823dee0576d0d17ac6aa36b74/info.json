@@ -1,0 +1,11 @@
+{
+  "name": "Livepeer Token",
+  "address": "0x2c67ec45b2e7138823dee0576d0d17ac6aa36b74",
+  "symbol": "LPT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LPT--0x2c67ec45b2e7138823dee0576d0d17ac6aa36b74/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

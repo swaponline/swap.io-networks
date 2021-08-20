@@ -1,0 +1,11 @@
+{
+  "name": "ORO Token",
+  "address": "0x2796213bd26ce2270839b6d40e8d5904d8cdaa42",
+  "symbol": "ORO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ORO--0x2796213bd26ce2270839b6d40e8d5904d8cdaa42/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

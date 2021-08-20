@@ -1,0 +1,11 @@
+{
+  "name": "COL",
+  "address": "0xefb603a7844f11d17ada15b63e3a876ab443372c",
+  "symbol": "COL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/COL--0xefb603a7844f11d17ada15b63e3a876ab443372c/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

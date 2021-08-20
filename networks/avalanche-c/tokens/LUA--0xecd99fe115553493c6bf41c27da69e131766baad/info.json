@@ -1,0 +1,11 @@
+{
+  "name": "LuaToken",
+  "address": "0xecd99fe115553493c6bf41c27da69e131766baad",
+  "symbol": "LUA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LUA--0xecd99fe115553493c6bf41c27da69e131766baad/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

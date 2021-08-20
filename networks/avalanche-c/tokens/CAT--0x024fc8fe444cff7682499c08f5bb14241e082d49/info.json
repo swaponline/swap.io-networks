@@ -1,0 +1,11 @@
+{
+  "name": "BitClave",
+  "address": "0x024fc8fe444cff7682499c08f5bb14241e082d49",
+  "symbol": "CAT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CAT--0x024fc8fe444cff7682499c08f5bb14241e082d49/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Parachute",
+  "address": "0x53b464bb9efebe9b314f97e631b47e1c0300fe21",
+  "symbol": "PAR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PAR--0x53b464bb9efebe9b314f97e631b47e1c0300fe21/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

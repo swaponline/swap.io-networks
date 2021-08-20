@@ -1,0 +1,11 @@
+{
+  "name": "Energy Web Token Bridged",
+  "address": "0x3447d187934d323bdd1bcc6edc643d3c8d05d86c",
+  "symbol": "EWTB",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/EWTB--0x3447d187934d323bdd1bcc6edc643d3c8d05d86c/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

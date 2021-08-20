@@ -1,0 +1,11 @@
+{
+  "name": "Geeq",
+  "address": "0x3326235ec1aff2799de463413114b800d251089d",
+  "symbol": "GEEQ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GEEQ--0x3326235ec1aff2799de463413114b800d251089d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

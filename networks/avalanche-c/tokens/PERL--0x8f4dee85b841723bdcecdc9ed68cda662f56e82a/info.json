@@ -1,0 +1,11 @@
+{
+  "name": "Perlin",
+  "address": "0x8f4dee85b841723bdcecdc9ed68cda662f56e82a",
+  "symbol": "PERL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PERL--0x8f4dee85b841723bdcecdc9ed68cda662f56e82a/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

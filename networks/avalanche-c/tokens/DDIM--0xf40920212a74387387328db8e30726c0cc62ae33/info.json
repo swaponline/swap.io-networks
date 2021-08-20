@@ -1,0 +1,11 @@
+{
+  "name": "DuckDaoDime",
+  "address": "0xf40920212a74387387328db8e30726c0cc62ae33",
+  "symbol": "DDIM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DDIM--0xf40920212a74387387328db8e30726c0cc62ae33/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

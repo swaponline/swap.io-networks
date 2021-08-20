@@ -1,0 +1,11 @@
+{
+  "name": "GHOST",
+  "address": "0x4f229ff652d4db584bf4b3512ae430edecb85971",
+  "symbol": "GHOST",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GHOST--0x4f229ff652d4db584bf4b3512ae430edecb85971/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

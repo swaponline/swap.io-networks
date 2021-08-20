@@ -1,0 +1,11 @@
+{
+  "name": "MATH Token",
+  "address": "0x374c62a3b07350de41c4a95c4094474f84d7bf66",
+  "symbol": "MATH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MATH--0x374c62a3b07350de41c4a95c4094474f84d7bf66/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

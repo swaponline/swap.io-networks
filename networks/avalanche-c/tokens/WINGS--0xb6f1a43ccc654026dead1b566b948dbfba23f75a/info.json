@@ -1,0 +1,11 @@
+{
+  "name": "WINGS",
+  "address": "0xb6f1a43ccc654026dead1b566b948dbfba23f75a",
+  "symbol": "WINGS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WINGS--0xb6f1a43ccc654026dead1b566b948dbfba23f75a/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

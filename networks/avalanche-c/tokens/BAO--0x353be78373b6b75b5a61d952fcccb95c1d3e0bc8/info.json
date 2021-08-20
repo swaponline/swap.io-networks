@@ -1,0 +1,11 @@
+{
+  "name": "BaoToken",
+  "address": "0x353be78373b6b75b5a61d952fcccb95c1d3e0bc8",
+  "symbol": "BAO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BAO--0x353be78373b6b75b5a61d952fcccb95c1d3e0bc8/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DEXTools",
+  "address": "0x618b994f06f7168bd3e24c05321ccf0afd30d6bc",
+  "symbol": "DEXT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DEXT--0x618b994f06f7168bd3e24c05321ccf0afd30d6bc/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

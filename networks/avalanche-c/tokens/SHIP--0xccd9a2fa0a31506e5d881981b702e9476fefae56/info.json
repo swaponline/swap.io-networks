@@ -1,0 +1,11 @@
+{
+  "name": "ShipChain SHIP",
+  "address": "0xccd9a2fa0a31506e5d881981b702e9476fefae56",
+  "symbol": "SHIP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SHIP--0xccd9a2fa0a31506e5d881981b702e9476fefae56/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

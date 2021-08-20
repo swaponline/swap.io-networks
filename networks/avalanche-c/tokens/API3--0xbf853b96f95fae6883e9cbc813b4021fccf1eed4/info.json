@@ -1,0 +1,11 @@
+{
+  "name": "API3",
+  "address": "0xbf853b96f95fae6883e9cbc813b4021fccf1eed4",
+  "symbol": "API3",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/API3--0xbf853b96f95fae6883e9cbc813b4021fccf1eed4/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

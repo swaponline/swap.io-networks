@@ -1,0 +1,11 @@
+{
+  "name": "Zero.Exchange Token",
+  "address": "0x9bdd302e506c3f6c23c085c37789cce6d3c1a233",
+  "symbol": "ZERO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ZERO--0x9bdd302e506c3f6c23c085c37789cce6d3c1a233/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

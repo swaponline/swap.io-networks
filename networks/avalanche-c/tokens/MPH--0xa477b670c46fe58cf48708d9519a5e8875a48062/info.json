@@ -1,0 +1,11 @@
+{
+  "name": "88mph.app",
+  "address": "0xa477b670c46fe58cf48708d9519a5e8875a48062",
+  "symbol": "MPH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MPH--0xa477b670c46fe58cf48708d9519a5e8875a48062/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flexacoin",
+  "address": "0xe9c418927b36f2668dc4fe02028aa08535a8e347",
+  "symbol": "FXC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FXC--0xe9c418927b36f2668dc4fe02028aa08535a8e347/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FinNexus",
+  "address": "0x85b87e0a36865dbdef50bdfafb49b272077e0026",
+  "symbol": "FNX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FNX--0x85b87e0a36865dbdef50bdfafb49b272077e0026/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

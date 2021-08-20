@@ -1,0 +1,11 @@
+{
+  "name": "Trendering",
+  "address": "0x3a2d191ae83223ed0668d9aaf180be147ec05ad3",
+  "symbol": "TRND",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TRND--0x3a2d191ae83223ed0668d9aaf180be147ec05ad3/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

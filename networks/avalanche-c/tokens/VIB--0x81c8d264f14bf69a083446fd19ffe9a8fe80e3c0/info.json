@@ -1,0 +1,11 @@
+{
+  "name": "Vibe",
+  "address": "0x81c8d264f14bf69a083446fd19ffe9a8fe80e3c0",
+  "symbol": "VIB",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/VIB--0x81c8d264f14bf69a083446fd19ffe9a8fe80e3c0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

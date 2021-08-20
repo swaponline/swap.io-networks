@@ -1,0 +1,11 @@
+{
+  "name": "FOAM Token",
+  "address": "0x23f3c4ff7ef5c752593966bde70de2db81398aa6",
+  "symbol": "FOAM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FOAM--0x23f3c4ff7ef5c752593966bde70de2db81398aa6/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

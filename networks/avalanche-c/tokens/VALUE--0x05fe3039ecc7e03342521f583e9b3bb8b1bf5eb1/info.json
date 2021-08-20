@@ -1,0 +1,11 @@
+{
+  "name": "Value Liquidity",
+  "address": "0x05fe3039ecc7e03342521f583e9b3bb8b1bf5eb1",
+  "symbol": "VALUE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/VALUE--0x05fe3039ecc7e03342521f583e9b3bb8b1bf5eb1/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

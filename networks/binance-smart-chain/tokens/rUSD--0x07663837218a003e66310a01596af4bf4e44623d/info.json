@@ -1,0 +1,11 @@
+{
+  "name": "rUSD",
+  "address": "0x07663837218a003e66310a01596af4bf4e44623d",
+  "symbol": "rUSD",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/rUSD--0x07663837218a003e66310a01596af4bf4e44623d/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

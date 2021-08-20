@@ -1,0 +1,11 @@
+{
+  "name": "Bamboo Token",
+  "address": "0x9a928d7dcd8d7e5cb6860b7768ec2d87b8934267",
+  "symbol": "BAMBOO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BAMBOO--0x9a928d7dcd8d7e5cb6860b7768ec2d87b8934267/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

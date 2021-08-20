@@ -1,0 +1,11 @@
+{
+  "name": "Relay Token",
+  "address": "0x78c42324016cd91d1827924711563fb66e33a83a",
+  "symbol": "RELAY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RELAY--0x78c42324016cd91d1827924711563fb66e33a83a/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

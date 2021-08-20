@@ -1,0 +1,11 @@
+{
+  "name": "yearn.finance",
+  "address": "0x99519acb025a0e0d44c3875a4bbf03af65933627",
+  "symbol": "YFI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YFI--0x99519acb025a0e0d44c3875a4bbf03af65933627/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

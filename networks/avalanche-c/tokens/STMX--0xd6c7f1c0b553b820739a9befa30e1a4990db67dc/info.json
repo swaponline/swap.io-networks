@@ -1,0 +1,11 @@
+{
+  "name": "StormX",
+  "address": "0xd6c7f1c0b553b820739a9befa30e1a4990db67dc",
+  "symbol": "STMX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/STMX--0xd6c7f1c0b553b820739a9befa30e1a4990db67dc/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

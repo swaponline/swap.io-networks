@@ -1,0 +1,23 @@
+{
+  "parent": "ethereum",
+  "slug": "avalanche-c",
+  "name": "Avalanche C-Chain",
+  "priority": 13,
+  "chainId": "0xa86a",
+  "tokensType": "ERC20AVAX",
+  "coin": {
+    "symbol": "AVAX",
+    "slug": "avalanche-c",
+    "name": "Avalanche",
+    "name_plural": "Avalanches",
+    "denominator": 1e-18,
+    "logo": "/networks/avalanche-c/logo.svg"
+  },
+  "explorers": [
+    "https://avascan.info/blockchain/c/txs",
+    "https://cchain.explorer.avax.network/"
+  ],
+  "rpc": [
+    "https://api.avax.network/ext/bc/C/rpc"
+  ]
+}

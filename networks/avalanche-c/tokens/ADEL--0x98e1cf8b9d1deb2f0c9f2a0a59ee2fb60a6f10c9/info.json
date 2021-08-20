@@ -1,0 +1,11 @@
+{
+  "name": "Akropolis Delphi",
+  "address": "0x98e1cf8b9d1deb2f0c9f2a0a59ee2fb60a6f10c9",
+  "symbol": "ADEL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ADEL--0x98e1cf8b9d1deb2f0c9f2a0a59ee2fb60a6f10c9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

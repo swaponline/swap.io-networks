@@ -1,0 +1,11 @@
+{
+  "name": "EQUUSMiningToken",
+  "address": "0x964a11836e6ac44e07f8632a9ff6c380ef0113fd",
+  "symbol": "EQMT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/EQMT--0x964a11836e6ac44e07f8632a9ff6c380ef0113fd/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

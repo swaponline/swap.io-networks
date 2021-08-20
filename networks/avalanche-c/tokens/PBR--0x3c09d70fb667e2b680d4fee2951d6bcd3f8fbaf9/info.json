@@ -1,0 +1,11 @@
+{
+  "name": "PolkaBridge",
+  "address": "0x3c09d70fb667e2b680d4fee2951d6bcd3f8fbaf9",
+  "symbol": "PBR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PBR--0x3c09d70fb667e2b680d4fee2951d6bcd3f8fbaf9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

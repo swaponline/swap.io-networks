@@ -6,7 +6,7 @@
   "fee_min": 5460,
   "dust_amount": 5460,
   "isTestnet": false,
-  "priority": 14,
+  "priority": 15,
   "coin": {
     "symbol": "LTC",
     "slug": "litecoin",

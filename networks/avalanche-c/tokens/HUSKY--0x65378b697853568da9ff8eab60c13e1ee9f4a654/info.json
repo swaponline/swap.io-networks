@@ -1,0 +1,11 @@
+{
+  "name": "Husky AVAX",
+  "address": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+  "symbol": "HUSKY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HUSKY--0x65378b697853568da9ff8eab60c13e1ee9f4a654/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

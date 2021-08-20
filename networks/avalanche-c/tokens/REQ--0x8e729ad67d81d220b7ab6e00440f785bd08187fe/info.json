@@ -1,0 +1,11 @@
+{
+  "name": "Request Token",
+  "address": "0x8e729ad67d81d220b7ab6e00440f785bd08187fe",
+  "symbol": "REQ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/REQ--0x8e729ad67d81d220b7ab6e00440f785bd08187fe/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

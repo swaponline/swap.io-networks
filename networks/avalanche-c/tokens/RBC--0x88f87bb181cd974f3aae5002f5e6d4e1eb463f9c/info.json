@@ -1,0 +1,11 @@
+{
+  "name": "Rubic",
+  "address": "0x88f87bb181cd974f3aae5002f5e6d4e1eb463f9c",
+  "symbol": "RBC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RBC--0x88f87bb181cd974f3aae5002f5e6d4e1eb463f9c/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

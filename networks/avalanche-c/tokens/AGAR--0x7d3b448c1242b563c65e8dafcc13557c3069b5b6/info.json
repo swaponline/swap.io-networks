@@ -1,0 +1,11 @@
+{
+  "name": "AGA Rewards",
+  "address": "0x7d3b448c1242b563c65e8dafcc13557c3069b5b6",
+  "symbol": "AGAR",
+  "decimals": 8,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AGAR--0x7d3b448c1242b563c65e8dafcc13557c3069b5b6/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

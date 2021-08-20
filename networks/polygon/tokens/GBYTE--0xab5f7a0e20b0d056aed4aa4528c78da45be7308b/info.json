@@ -1,0 +1,11 @@
+{
+  "name": "Obyte",
+  "address": "0xab5f7a0e20b0d056aed4aa4528c78da45be7308b",
+  "symbol": "GBYTE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GBYTE--0xab5f7a0e20b0d056aed4aa4528c78da45be7308b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

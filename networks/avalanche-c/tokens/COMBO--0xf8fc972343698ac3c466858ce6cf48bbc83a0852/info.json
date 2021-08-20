@@ -1,0 +1,11 @@
+{
+  "name": "Furucombo",
+  "address": "0xf8fc972343698ac3c466858ce6cf48bbc83a0852",
+  "symbol": "COMBO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/COMBO--0xf8fc972343698ac3c466858ce6cf48bbc83a0852/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

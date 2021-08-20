@@ -1,0 +1,11 @@
+{
+  "name": "TornadoCash",
+  "address": "0x7ccf19824c351e57c00633b46bbbff495e12d89d",
+  "symbol": "TORN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TORN--0x7ccf19824c351e57c00633b46bbbff495e12d89d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

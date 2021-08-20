@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap",
+  "address": "0xf39f9671906d8630812f9d9863bbef5d523c84ab",
+  "symbol": "UNI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/UNI--0xf39f9671906d8630812f9d9863bbef5d523c84ab/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Stabilize Token",
+  "address": "0x5a21a9e09667a67a898de061d4bc61e92f20404e",
+  "symbol": "STBZ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/STBZ--0x5a21a9e09667a67a898de061d4bc61e92f20404e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

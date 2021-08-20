@@ -1,0 +1,11 @@
+{
+  "name": "0xMonero",
+  "address": "0xc309fd43f845a46aa2a4c75459b076543c6e9f4a",
+  "symbol": "0xMR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/0xMR--0xc309fd43f845a46aa2a4c75459b076543c6e9f4a/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EFFORCE IEO",
+  "address": "0x1830dd37a0ddd3207ffac9013e4f4d60fec22036",
+  "symbol": "WOZX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WOZX--0x1830dd37a0ddd3207ffac9013e4f4d60fec22036/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bankroll Vault",
+  "address": "0xd02d849512780bf29cf48d56900a4b025e478d3e",
+  "symbol": "VLT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/VLT--0xd02d849512780bf29cf48d56900a4b025e478d3e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

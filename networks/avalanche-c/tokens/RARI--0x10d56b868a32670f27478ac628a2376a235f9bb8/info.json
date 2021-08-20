@@ -1,0 +1,11 @@
+{
+  "name": "Rarible",
+  "address": "0x10d56b868a32670f27478ac628a2376a235f9bb8",
+  "symbol": "RARI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RARI--0x10d56b868a32670f27478ac628a2376a235f9bb8/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

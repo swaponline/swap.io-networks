@@ -1,0 +1,11 @@
+{
+  "name": "Reef.finance",
+  "address": "0x90557e63339caed393ee15cb6236bb746ded11d3",
+  "symbol": "REEF",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/REEF--0x90557e63339caed393ee15cb6236bb746ded11d3/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

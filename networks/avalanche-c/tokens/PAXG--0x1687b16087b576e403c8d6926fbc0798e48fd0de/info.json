@@ -1,0 +1,11 @@
+{
+  "name": "Paxos Gold",
+  "address": "0x1687b16087b576e403c8d6926fbc0798e48fd0de",
+  "symbol": "PAXG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PAXG--0x1687b16087b576e403c8d6926fbc0798e48fd0de/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

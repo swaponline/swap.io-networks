@@ -1,0 +1,11 @@
+{
+  "name": "zLOT",
+  "address": "0xf9f0bb57d247a8c55c463b9a231de7e998bdc9a0",
+  "symbol": "zLOT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/zLOT--0xf9f0bb57d247a8c55c463b9a231de7e998bdc9a0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

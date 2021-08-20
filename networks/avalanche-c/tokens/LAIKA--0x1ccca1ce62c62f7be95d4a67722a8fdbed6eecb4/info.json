@@ -1,0 +1,11 @@
+{
+  "name": "Laika Protocol",
+  "address": "0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4",
+  "symbol": "LAIKA",
+  "decimals": 9,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LAIKA--0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

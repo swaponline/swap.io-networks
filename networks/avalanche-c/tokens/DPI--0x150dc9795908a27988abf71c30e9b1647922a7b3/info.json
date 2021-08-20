@@ -1,0 +1,11 @@
+{
+  "name": "DefiPulse Index",
+  "address": "0x150dc9795908a27988abf71c30e9b1647922a7b3",
+  "symbol": "DPI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DPI--0x150dc9795908a27988abf71c30e9b1647922a7b3/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

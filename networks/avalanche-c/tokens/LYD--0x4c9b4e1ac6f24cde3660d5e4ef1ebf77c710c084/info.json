@@ -1,0 +1,11 @@
+{
+  "name": "Lydia Finance",
+  "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+  "symbol": "LYD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LYD--0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

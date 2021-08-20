@@ -1,0 +1,11 @@
+{
+  "name": "SushiToken",
+  "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+  "symbol": "SUSHI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SUSHI--0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

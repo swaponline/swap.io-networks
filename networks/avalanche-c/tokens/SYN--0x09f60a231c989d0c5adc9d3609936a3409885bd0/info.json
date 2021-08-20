@@ -1,0 +1,11 @@
+{
+  "name": "SynLev",
+  "address": "0x09f60a231c989d0c5adc9d3609936a3409885bd0",
+  "symbol": "SYN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SYN--0x09f60a231c989d0c5adc9d3609936a3409885bd0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

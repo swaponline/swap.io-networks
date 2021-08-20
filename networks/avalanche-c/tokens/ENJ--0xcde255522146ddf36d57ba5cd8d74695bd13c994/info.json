@@ -1,0 +1,11 @@
+{
+  "name": "Enjin Coin",
+  "address": "0xcde255522146ddf36d57ba5cd8d74695bd13c994",
+  "symbol": "ENJ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ENJ--0xcde255522146ddf36d57ba5cd8d74695bd13c994/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

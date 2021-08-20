@@ -1,0 +1,11 @@
+{
+  "name": "Relevant",
+  "address": "0x8ff91e20aab3d5a21b0c5ecd45fc942c52f578b3",
+  "symbol": "REL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/REL--0x8ff91e20aab3d5a21b0c5ecd45fc942c52f578b3/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RAE Token",
+  "address": "0x4732cc19937e4daf4bdca6698f2552b2e9f04813",
+  "symbol": "RAE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RAE--0x4732cc19937e4daf4bdca6698f2552b2e9f04813/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -25,7 +25,7 @@ export const syncUniqExternalTokens = async () => {
   for (const listName of Object.keys(externalTokensListsLinks)) {
     try {
       const externalTokensList = await getExternalTokensList(externalTokensListsLinks[listName])
-      externalTokensLists[externalTokensList.name] = externalTokensList.tokens
+      externalTokensLists[listName] = externalTokensList.tokens
     } catch (error) {
       console.error(error)
     }

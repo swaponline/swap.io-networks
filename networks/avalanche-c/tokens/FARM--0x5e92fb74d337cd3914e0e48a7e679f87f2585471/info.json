@@ -1,0 +1,11 @@
+{
+  "name": "FARM Reward Token",
+  "address": "0x5e92fb74d337cd3914e0e48a7e679f87f2585471",
+  "symbol": "FARM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FARM--0x5e92fb74d337cd3914e0e48a7e679f87f2585471/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

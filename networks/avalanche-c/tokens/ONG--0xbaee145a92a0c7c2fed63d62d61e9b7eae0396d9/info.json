@@ -1,0 +1,11 @@
+{
+  "name": "onG",
+  "address": "0xbaee145a92a0c7c2fed63d62d61e9b7eae0396d9",
+  "symbol": "ONG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ONG--0xbaee145a92a0c7c2fed63d62d61e9b7eae0396d9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

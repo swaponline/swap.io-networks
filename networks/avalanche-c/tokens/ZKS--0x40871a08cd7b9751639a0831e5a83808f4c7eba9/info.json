@@ -1,0 +1,11 @@
+{
+  "name": "Zks",
+  "address": "0x40871a08cd7b9751639a0831e5a83808f4c7eba9",
+  "symbol": "ZKS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ZKS--0x40871a08cd7b9751639a0831e5a83808f4c7eba9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

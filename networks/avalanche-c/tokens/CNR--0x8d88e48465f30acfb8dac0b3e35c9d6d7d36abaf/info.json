@@ -1,0 +1,11 @@
+{
+  "name": "Canary",
+  "address": "0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf",
+  "symbol": "CNR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CNR--0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

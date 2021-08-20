@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped NXM",
+  "address": "0x3585e1f43af5a0e5a9429a8058bdf999ed67f81d",
+  "symbol": "wNXM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/wNXM--0x3585e1f43af5a0e5a9429a8058bdf999ed67f81d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

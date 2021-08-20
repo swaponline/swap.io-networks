@@ -1,0 +1,11 @@
+{
+  "name": "Cycle Token",
+  "address": "0x81440c939f2c1e34fc7048e518a637205a632a74",
+  "symbol": "CYCLE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CYCLE--0x81440c939f2c1e34fc7048e518a637205a632a74/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

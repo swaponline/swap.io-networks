@@ -1,0 +1,11 @@
+{
+  "name": "SHAKE token by SpaceSwap v2",
+  "address": "0x0680298eea69e413ed02b393fc269c2757033ab0",
+  "symbol": "SHAKE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SHAKE--0x0680298eea69e413ed02b393fc269c2757033ab0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

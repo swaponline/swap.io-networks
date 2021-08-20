@@ -1,0 +1,11 @@
+{
+  "name": "Robonomics Web Services - V1",
+  "address": "0x0cb3fe222303e1419ee73216e90322ae4635fc5e",
+  "symbol": "RWS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RWS--0x0cb3fe222303e1419ee73216e90322ae4635fc5e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

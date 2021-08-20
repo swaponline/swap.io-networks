@@ -1,0 +1,11 @@
+{
+  "name": "AdEx Network",
+  "address": "0xedd6ce14626b228d90af0fb126a432e4b2174844",
+  "symbol": "ADX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ADX--0xedd6ce14626b228d90af0fb126a432e4b2174844/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

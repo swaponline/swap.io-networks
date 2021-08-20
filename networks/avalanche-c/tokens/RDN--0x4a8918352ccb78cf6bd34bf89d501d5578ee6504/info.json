@@ -1,0 +1,11 @@
+{
+  "name": "Raiden Token",
+  "address": "0x4a8918352ccb78cf6bd34bf89d501d5578ee6504",
+  "symbol": "RDN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RDN--0x4a8918352ccb78cf6bd34bf89d501d5578ee6504/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

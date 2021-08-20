@@ -1,0 +1,11 @@
+{
+  "name": "BENQI",
+  "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+  "symbol": "QI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/QI--0x8729438eb15e2c8b576fcc6aecda6a148776c0f5/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

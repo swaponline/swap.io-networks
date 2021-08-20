@@ -1,0 +1,11 @@
+{
+  "name": "yAxis",
+  "address": "0x977788025632e20360e4bb4867ef2c498a4ee4a6",
+  "symbol": "YAX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YAX--0x977788025632e20360e4bb4867ef2c498a4ee4a6/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

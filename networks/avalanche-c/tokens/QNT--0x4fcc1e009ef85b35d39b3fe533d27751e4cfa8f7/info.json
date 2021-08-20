@@ -1,0 +1,11 @@
+{
+  "name": "Quant",
+  "address": "0x4fcc1e009ef85b35d39b3fe533d27751e4cfa8f7",
+  "symbol": "QNT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/QNT--0x4fcc1e009ef85b35d39b3fe533d27751e4cfa8f7/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

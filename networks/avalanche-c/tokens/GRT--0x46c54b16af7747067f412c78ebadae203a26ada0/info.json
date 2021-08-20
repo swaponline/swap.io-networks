@@ -1,0 +1,11 @@
+{
+  "name": "Graph Token",
+  "address": "0x46c54b16af7747067f412c78ebadae203a26ada0",
+  "symbol": "GRT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GRT--0x46c54b16af7747067f412c78ebadae203a26ada0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

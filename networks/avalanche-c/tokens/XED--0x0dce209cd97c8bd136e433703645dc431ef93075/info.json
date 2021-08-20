@@ -1,0 +1,11 @@
+{
+  "name": "Exeedme",
+  "address": "0x0dce209cd97c8bd136e433703645dc431ef93075",
+  "symbol": "XED",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/XED--0x0dce209cd97c8bd136e433703645dc431ef93075/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

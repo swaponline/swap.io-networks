@@ -1,0 +1,11 @@
+{
+  "name": "Linkart",
+  "address": "0xc162e489c7f39676f6376ca79df3e728f101a895",
+  "symbol": "LAR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LAR--0xc162e489c7f39676f6376ca79df3e728f101a895/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

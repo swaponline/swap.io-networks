@@ -1,0 +1,11 @@
+{
+  "name": "Polytrade",
+  "address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
+  "symbol": "TRADE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TRADE--0x692ac1e363ae34b6b489148152b12e2785a3d8d6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

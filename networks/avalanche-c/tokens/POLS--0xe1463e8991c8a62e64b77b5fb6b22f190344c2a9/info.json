@@ -1,0 +1,11 @@
+{
+  "name": "PolkastarterToken",
+  "address": "0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9",
+  "symbol": "POLS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/POLS--0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Empty Set Dollar",
+  "address": "0x455b3fd5ef7bca83c0c1cd71695ec7aeda773e4f",
+  "symbol": "ESD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ESD--0x455b3fd5ef7bca83c0c1cd71695ec7aeda773e4f/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

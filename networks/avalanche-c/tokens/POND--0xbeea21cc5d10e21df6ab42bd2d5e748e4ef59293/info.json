@@ -1,0 +1,11 @@
+{
+  "name": "Marlin POND",
+  "address": "0xbeea21cc5d10e21df6ab42bd2d5e748e4ef59293",
+  "symbol": "POND",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/POND--0xbeea21cc5d10e21df6ab42bd2d5e748e4ef59293/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

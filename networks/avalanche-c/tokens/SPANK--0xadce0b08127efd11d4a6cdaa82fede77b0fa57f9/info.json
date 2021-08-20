@@ -1,0 +1,11 @@
+{
+  "name": "SPANK",
+  "address": "0xadce0b08127efd11d4a6cdaa82fede77b0fa57f9",
+  "symbol": "SPANK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SPANK--0xadce0b08127efd11d4a6cdaa82fede77b0fa57f9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "YFLink",
+  "address": "0xe3a13e41ecadcc611a5d8415c2b8c0802197ba96",
+  "symbol": "YFL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YFL--0xe3a13e41ecadcc611a5d8415c2b8c0802197ba96/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

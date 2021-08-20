@@ -1,0 +1,11 @@
+{
+  "name": "OWL Token",
+  "address": "0xe49403892253a3d7952a45d43c630126d0b8d1f2",
+  "symbol": "OWL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OWL--0xe49403892253a3d7952a45d43c630126d0b8d1f2/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

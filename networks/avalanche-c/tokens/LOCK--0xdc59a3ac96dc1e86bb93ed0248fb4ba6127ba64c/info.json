@@ -1,0 +1,11 @@
+{
+  "name": "Meridian Network",
+  "address": "0xdc59a3ac96dc1e86bb93ed0248fb4ba6127ba64c",
+  "symbol": "LOCK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LOCK--0xdc59a3ac96dc1e86bb93ed0248fb4ba6127ba64c/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

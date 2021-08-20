@@ -1,0 +1,11 @@
+{
+  "name": "Beefy Finance",
+  "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+  "symbol": "BIFI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BIFI--0xd6070ae98b8069de6b494332d1a1a81b6179d960/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

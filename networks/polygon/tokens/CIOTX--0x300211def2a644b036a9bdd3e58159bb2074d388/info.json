@@ -1,0 +1,11 @@
+{
+  "name": "Crosschain IOTX",
+  "address": "0x300211def2a644b036a9bdd3e58159bb2074d388",
+  "symbol": "CIOTX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CIOTX--0x300211def2a644b036a9bdd3e58159bb2074d388/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

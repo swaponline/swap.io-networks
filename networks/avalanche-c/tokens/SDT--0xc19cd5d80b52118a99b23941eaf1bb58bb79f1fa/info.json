@@ -1,0 +1,11 @@
+{
+  "name": "Stake DAO Token",
+  "address": "0xc19cd5d80b52118a99b23941eaf1bb58bb79f1fa",
+  "symbol": "SDT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SDT--0xc19cd5d80b52118a99b23941eaf1bb58bb79f1fa/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

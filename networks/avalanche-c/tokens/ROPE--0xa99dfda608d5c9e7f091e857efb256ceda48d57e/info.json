@@ -1,0 +1,11 @@
+{
+  "name": "ROPE",
+  "address": "0xa99dfda608d5c9e7f091e857efb256ceda48d57e",
+  "symbol": "ROPE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ROPE--0xa99dfda608d5c9e7f091e857efb256ceda48d57e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

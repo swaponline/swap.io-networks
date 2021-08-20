@@ -1,0 +1,11 @@
+{
+  "name": "Parsiq Token",
+  "address": "0x6a8e6794ab77c63c3c90a62f1088f16ac61f463d",
+  "symbol": "PRQ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PRQ--0x6a8e6794ab77c63c3c90a62f1088f16ac61f463d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

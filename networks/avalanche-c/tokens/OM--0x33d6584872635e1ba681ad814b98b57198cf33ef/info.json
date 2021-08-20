@@ -1,0 +1,11 @@
+{
+  "name": "MANTRA DAO",
+  "address": "0x33d6584872635e1ba681ad814b98b57198cf33ef",
+  "symbol": "OM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "",
+  "tags": [
+    "erc20avax"
+  ]
+}

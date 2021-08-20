@@ -1,0 +1,11 @@
+{
+  "name": "Frax",
+  "address": "0xbb69c92fbb4f1aff528875056650c862f94d3cc1",
+  "symbol": "FRAX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FRAX--0xbb69c92fbb4f1aff528875056650c862f94d3cc1/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

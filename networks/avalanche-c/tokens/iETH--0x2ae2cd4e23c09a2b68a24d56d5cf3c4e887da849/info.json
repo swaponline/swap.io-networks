@@ -1,0 +1,11 @@
+{
+  "name": "Fulcrum ETH iToken",
+  "address": "0x2ae2cd4e23c09a2b68a24d56d5cf3c4e887da849",
+  "symbol": "iETH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/iETH--0x2ae2cd4e23c09a2b68a24d56d5cf3c4e887da849/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

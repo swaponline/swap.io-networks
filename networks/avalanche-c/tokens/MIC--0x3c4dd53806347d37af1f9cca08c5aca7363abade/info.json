@@ -1,0 +1,11 @@
+{
+  "name": "MIC",
+  "address": "0x3c4dd53806347d37af1f9cca08c5aca7363abade",
+  "symbol": "MIC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MIC--0x3c4dd53806347d37af1f9cca08c5aca7363abade/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DCTDAO",
+  "address": "0x8db2dbdfb50480fe79f6576deaa4f6e68dcbfb15",
+  "symbol": "DCTD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DCTD--0x8db2dbdfb50480fe79f6576deaa4f6e68dcbfb15/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

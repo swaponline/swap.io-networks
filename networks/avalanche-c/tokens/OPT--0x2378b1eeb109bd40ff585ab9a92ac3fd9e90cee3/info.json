@@ -1,0 +1,11 @@
+{
+  "name": "Open Predict Token",
+  "address": "0x2378b1eeb109bd40ff585ab9a92ac3fd9e90cee3",
+  "symbol": "OPT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OPT--0x2378b1eeb109bd40ff585ab9a92ac3fd9e90cee3/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Cover Protocol",
+  "address": "0xe0976dca075c4055cada33c2452429572885ae7e",
+  "symbol": "COVER",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/COVER--0xe0976dca075c4055cada33c2452429572885ae7e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

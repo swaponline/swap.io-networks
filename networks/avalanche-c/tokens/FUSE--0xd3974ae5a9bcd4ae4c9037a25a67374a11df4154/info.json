@@ -1,0 +1,11 @@
+{
+  "name": "Fuse Token",
+  "address": "0xd3974ae5a9bcd4ae4c9037a25a67374a11df4154",
+  "symbol": "FUSE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FUSE--0xd3974ae5a9bcd4ae4c9037a25a67374a11df4154/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

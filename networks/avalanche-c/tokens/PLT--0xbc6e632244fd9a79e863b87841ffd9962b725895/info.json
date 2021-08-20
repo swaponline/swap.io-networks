@@ -1,0 +1,11 @@
+{
+  "name": "PlutusDeFi",
+  "address": "0xbc6e632244fd9a79e863b87841ffd9962b725895",
+  "symbol": "PLT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PLT--0xbc6e632244fd9a79e863b87841ffd9962b725895/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

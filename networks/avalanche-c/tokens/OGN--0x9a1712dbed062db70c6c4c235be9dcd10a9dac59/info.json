@@ -1,0 +1,11 @@
+{
+  "name": "OriginToken",
+  "address": "0x9a1712dbed062db70c6c4c235be9dcd10a9dac59",
+  "symbol": "OGN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OGN--0x9a1712dbed062db70c6c4c235be9dcd10a9dac59/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

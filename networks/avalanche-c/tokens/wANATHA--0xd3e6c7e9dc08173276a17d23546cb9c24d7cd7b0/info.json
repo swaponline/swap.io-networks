@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ANATHA",
+  "address": "0xd3e6c7e9dc08173276a17d23546cb9c24d7cd7b0",
+  "symbol": "wANATHA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/wANATHA--0xd3e6c7e9dc08173276a17d23546cb9c24d7cd7b0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

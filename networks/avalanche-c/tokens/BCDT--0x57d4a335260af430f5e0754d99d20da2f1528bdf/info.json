@@ -1,0 +1,11 @@
+{
+  "name": "Blockchain Certified Data Token",
+  "address": "0x57d4a335260af430f5e0754d99d20da2f1528bdf",
+  "symbol": "BCDT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BCDT--0x57d4a335260af430f5e0754d99d20da2f1528bdf/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ether",
+  "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+  "symbol": "ETH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ETH--0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

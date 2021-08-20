@@ -1,0 +1,11 @@
+{
+  "name": "Swag Token",
+  "address": "0xe8dde6e36ae86e3c61dc13dff908b4a12d50f754",
+  "symbol": "SWAG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SWAG--0xe8dde6e36ae86e3c61dc13dff908b4a12d50f754/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

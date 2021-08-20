@@ -1,0 +1,11 @@
+{
+  "name": "Strong",
+  "address": "0xcf68248eef35b725512724178da55ad7db59a5f1",
+  "symbol": "STRONG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/STRONG--0xcf68248eef35b725512724178da55ad7db59a5f1/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

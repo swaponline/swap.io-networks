@@ -1,0 +1,11 @@
+{
+  "name": "Pareto Network Token",
+  "address": "0x54266eda68834321b5bb81a8a8a48d5459c92456",
+  "symbol": "PARETO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PARETO--0x54266eda68834321b5bb81a8a8a48d5459c92456/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

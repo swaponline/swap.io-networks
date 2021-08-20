@@ -6,7 +6,7 @@
   "fee_min": 100000000,
   "dust_amount": 100000000,
   "isTestnet": false,
-  "priority": 15,
+  "priority": 16,
   "coin": {
     "symbol": "DOGE",
     "slug": "dogecoin",

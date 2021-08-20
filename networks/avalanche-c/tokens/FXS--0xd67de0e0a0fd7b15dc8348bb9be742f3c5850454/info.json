@@ -1,0 +1,11 @@
+{
+  "name": "Frax Share",
+  "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+  "symbol": "FXS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/FXS--0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OM Token",
+  "address": "0x27850fcbcff7dafb16176144b9193c6d310dcf72",
+  "symbol": "OM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OM--0x27850fcbcff7dafb16176144b9193c6d310dcf72/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}
