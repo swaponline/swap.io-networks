@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/SFI--0xc386282f66c090a1e42c39e83dbd2c2d447de506/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

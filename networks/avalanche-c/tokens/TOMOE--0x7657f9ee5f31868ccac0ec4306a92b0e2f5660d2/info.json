@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/TOMOE--0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

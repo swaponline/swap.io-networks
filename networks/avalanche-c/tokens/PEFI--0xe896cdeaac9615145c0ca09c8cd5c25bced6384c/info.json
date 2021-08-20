@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/PEFI--0xe896cdeaac9615145c0ca09c8cd5c25bced6384c/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

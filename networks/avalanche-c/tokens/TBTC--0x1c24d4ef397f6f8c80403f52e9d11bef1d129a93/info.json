@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/TBTC--0x1c24d4ef397f6f8c80403f52e9d11bef1d129a93/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

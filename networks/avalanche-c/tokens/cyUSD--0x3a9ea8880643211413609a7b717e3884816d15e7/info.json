@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/cyUSD--0x3a9ea8880643211413609a7b717e3884816d15e7/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

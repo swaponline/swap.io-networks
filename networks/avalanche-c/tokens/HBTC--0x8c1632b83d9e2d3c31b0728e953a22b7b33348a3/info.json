@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/HBTC--0x8c1632b83d9e2d3c31b0728e953a22b7b33348a3/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

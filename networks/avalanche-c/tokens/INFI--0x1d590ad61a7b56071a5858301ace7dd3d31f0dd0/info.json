@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/INFI--0x1d590ad61a7b56071a5858301ace7dd3d31f0dd0/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

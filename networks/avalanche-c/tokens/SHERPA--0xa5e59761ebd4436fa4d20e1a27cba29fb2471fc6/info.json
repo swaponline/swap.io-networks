@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/SHERPA--0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

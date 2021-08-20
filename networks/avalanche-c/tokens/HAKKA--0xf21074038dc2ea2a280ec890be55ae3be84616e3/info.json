@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/HAKKA--0xf21074038dc2ea2a280ec890be55ae3be84616e3/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

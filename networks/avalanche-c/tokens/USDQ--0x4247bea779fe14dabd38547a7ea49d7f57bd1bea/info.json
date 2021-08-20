@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/USDQ--0x4247bea779fe14dabd38547a7ea49d7f57bd1bea/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

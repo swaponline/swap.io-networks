@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/AKRO--0x086a23685f2a33bfdedf4ded738e9afddfb854ed/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

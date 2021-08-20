@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/CUDOS--0x422b2328a16b41ecca56e1854be9943526ad7647/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/POOLZ--0x96ce026f10890f4836937e6fde75f13252fdf414/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

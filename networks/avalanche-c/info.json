@@ -4,7 +4,7 @@
   "name": "Avalanche C-Chain",
   "priority": 13,
   "chainId": "0xa86a",
-  "tokensType": "",
+  "tokensType": "ERC20AVAX",
   "coin": {
     "symbol": "AVAX",
     "slug": "avalanche-c",

@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/MINI--0xf553b0fa370e11d945d1eda4267437c9e4c51d8a/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

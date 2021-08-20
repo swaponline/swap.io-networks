@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/RFuel--0x3361a925ecba04e4de70c0fa6310e710a2079a28/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

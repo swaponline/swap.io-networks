@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/ANKR--0xd09af6a3c12ec24ced114a0829f5bf73d40dc5a8/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

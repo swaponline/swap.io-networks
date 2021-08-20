@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/DODO--0x480d6193b2a2db2702f3ce6fe5bc1f0c8a95336b/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

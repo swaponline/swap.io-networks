@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/ASKO--0xadcfcb796ab61ebcd0676c6b6e13a270fd55b402/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }

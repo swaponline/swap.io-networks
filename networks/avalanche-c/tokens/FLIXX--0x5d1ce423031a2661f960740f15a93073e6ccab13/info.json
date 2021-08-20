@@ -6,6 +6,6 @@
   "chainId": 43114,
   "logo": "/networks/avalanche-c/tokens/FLIXX--0x5d1ce423031a2661f960740f15a93073e6ccab13/logo.png",
   "tags": [
-    ""
+    "erc20avax"
   ]
 }
