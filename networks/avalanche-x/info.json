@@ -1,0 +1,25 @@
+{
+  "type": "avm",
+  "slug": "avalanche-x",
+  "name": "Avalanche X-Chain",
+  "isTestnet": false,
+  "priority": 14,
+  "coin": {
+    "symbol": "AVAX",
+    "slug": "avalanche-x",
+    "name": "Avalanche",
+    "name_plural": "Avalanches",
+    "denominator": 1e-9,
+    "logo": "/networks/avalanche-c/logo.svg"
+  },
+  "explorers": [
+    "https://avascan.info/blockchain/x/txs"
+  ],
+  "rpc": [
+    "https://api.avax.network/ext/vm/avm"
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "9000"
+  }
+}

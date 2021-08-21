@@ -10,7 +10,7 @@
     "slug": "avalanche-c",
     "name": "Avalanche",
     "name_plural": "Avalanches",
-    "denominator": 1e-18,
+    "denominator": 1e-9,
     "logo": "/networks/avalanche-c/logo.svg"
   },
   "explorers": [

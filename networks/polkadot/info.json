@@ -1,0 +1,27 @@
+{
+  "type": "substrate",
+  "slug": "polkadot",
+  "name": "Polkadot",
+  "isTestnet": false,
+  "priority": 10,
+  "coin": {
+    "symbol": "DOT",
+    "slug": "polkadot",
+    "name": "Polkadot",
+    "name_plural": "Polkadots",
+    "denominator": 1e-10,
+    "logo": "/networks/polkadot/logo.svg"
+  },
+  "explorers": [
+    "https://polkadot.subscan.io/",
+    "https://polkascan.io/polkadot",
+    "https://polkastats.io/"
+  ],
+  "rpc": [
+    "https://api.elara.patract.io/polkadot/YOUR-PROJECT-ID"
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "354"
+  }
+}
