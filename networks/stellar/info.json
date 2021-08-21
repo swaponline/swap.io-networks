@@ -1,0 +1,28 @@
+{
+  "type": "ab",
+  "slug": "stellar",
+  "name": "Stellar",
+  "isTestnet": false,
+  "priority": 18,
+  "coin": {
+    "symbol": "XLM",
+    "slug": "stellar-lumen",
+    "name": "Stellar Lumen",
+    "name_plural": "Stellar Lumens",
+    "denominator": 1e-6,
+    "logo": "/networks/stellar/logo.svg"
+  },
+  "explorers": [
+    "https://blockchair.com/stellar/",
+    "https://steexp.com/",
+    "https://stellar.expert/explorer/public/",
+    "https://dashboard.stellar.org/"
+  ],
+  "rpc": [
+    "https://horizon.stellar.org/"
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "148"
+  }
+}

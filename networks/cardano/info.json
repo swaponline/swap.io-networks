@@ -1,0 +1,26 @@
+{
+  "type": "eutxo",
+  "slug": "cardano",
+  "name": "Cardano",
+  "isTestnet": false,
+  "priority": 17,
+  "coin": {
+    "symbol": "ADA",
+    "slug": "ada",
+    "name": "Ada",
+    "name_plural": "Ada",
+    "denominator": 1e-6,
+    "logo": "/networks/cardano/logo.svg"
+  },
+  "explorers": [
+    "https://explorer.cardano.org/",
+    "https://cardanoscan.io/",
+    "https://blockchair.com/cardano"
+  ],
+  "rpc": [
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "1815"
+  }
+}
