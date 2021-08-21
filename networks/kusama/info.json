@@ -1,0 +1,22 @@
+{
+  "parent": "polkadot",
+  "slug": "kusama",
+  "name": "Polkadot",
+  "priority": 11,
+  "coin": {
+    "symbol": "KSM",
+    "slug": "kusama",
+    "name": "Kusama",
+    "name_plural": "Kusama",
+    "denominator": 1e-12,
+    "logo": "/networks/kusama/logo.svg"
+  },
+  "explorers": [
+    "https://kusama.subscan.io/",
+    "https://polkascan.io/kusama",
+    "https://kusama.polkastats.io/"
+  ],
+  "rpc": [
+    "https://api.elara.patract.io/kusama/YOUR-PROJECT-ID"
+  ]
+}
