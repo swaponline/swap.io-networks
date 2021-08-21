@@ -1,0 +1,54 @@
+{
+  "type": "utxo",
+  "slug": "monero",
+  "name": "Monero",
+  "isTestnet": false,
+  "priority": 20,
+  "coin": {
+    "symbol": "XMR",
+    "slug": "monero",
+    "name": "Monero",
+    "name_plural": "Monero",
+    "denominator": 1e-12,
+    "logo": "/networks/monero/logo.svg"
+  },
+  "explorers": [
+    "https://xmr.tokenview.com/",
+    "https://localmonero.co/blocks",
+    "https://blockchair.com/monero"
+  ],
+  "rpc": [
+    {
+      "protocol": "http",
+      "user": "",
+      "pass": "",
+      "host": "node.moneroworld.com",
+      "port": "18089"
+    },
+    {
+      "protocol": "http",
+      "user": "",
+      "pass": "",
+      "host": "opennode.xmr-tw.org",
+      "port": "18089"
+    },
+    {
+      "protocol": "http",
+      "user": "",
+      "pass": "",
+      "host": "uwillrunanodesoon.moneroworld.com",
+      "port": "18089"
+    },
+    {
+      "protocol": "http",
+      "user": "user",
+      "pass": "pass",
+      "host": "127.0.0.1",
+      "port": "18081"
+    }
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "128"
+  }
+}
