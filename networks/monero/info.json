@@ -50,5 +50,20 @@
   "bip44": {
     "purpose": "44",
     "cointype": "128"
+  },
+  "network": {
+    "type": "mainnet",
+    "settings": {
+      "port": 18081,
+      "magic": null,
+      "messagePrefix": "\u0017Monero Signed Message:\n",
+      "base58prefix": {
+        "pubKeyHash": null,
+        "scriptHash": 19,
+        "privateKeyWIF": null,
+        "publicKeyBIP32": null,
+        "privateKeyBIP32": null
+      }
+    }
   }
 }
