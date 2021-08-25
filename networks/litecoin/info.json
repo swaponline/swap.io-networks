@@ -16,8 +16,8 @@
     "logo": "/networks/litecoin/logo.svg"
   },
   "explorers": [
-    "https://blockchair.com/litecoin",
-    "https://ltc.tokenview.com/en",
+    "https://blockchair.com/litecoin/",
+    "https://ltc.tokenview.com/en/",
     "https://chainz.cryptoid.info/ltc/"
   ],
   "rpc": [

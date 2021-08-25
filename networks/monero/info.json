@@ -14,8 +14,8 @@
   },
   "explorers": [
     "https://xmr.tokenview.com/",
-    "https://localmonero.co/blocks",
-    "https://blockchair.com/monero"
+    "https://localmonero.co/blocks/",
+    "https://blockchair.com/monero/"
   ],
   "rpc": [
     {
