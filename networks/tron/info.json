@@ -1,0 +1,39 @@
+{
+  "type": "evm",
+  "slug": "tron",
+  "name": "TRON",
+  "isTestnet": false,
+  "priority": 22,
+  "chainId": 1,
+  "tokensType": "TRC20",
+  "coin": {
+    "symbol": "TRX",
+    "slug": "tronix",
+    "name": "Tronix",
+    "name_plural": "Tronixs",
+    "denominator": 1e-6,
+    "logo": "/networks/tron/logo.svg"
+  },
+  "explorers": [
+    "https://tronscan.org/#/",
+    "https://trx.tokenview.com/en/"
+  ],
+  "rpc": [
+    "http://3.225.171.164:8090",
+    "http://52.53.189.99:8090",
+    "http://18.196.99.16:8090",
+    "http://34.253.187.192:8090",
+    "http://18.133.82.227:8090"
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "195"
+  },
+  "prefix": {
+    "message": "\u0019TRON Signed Message:\n",
+    "base58prefix": {
+      "publicKeyBIP32": 76067358,
+      "privateKeyBIP32": 76066276
+    }
+  }
+}

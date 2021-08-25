@@ -19,7 +19,10 @@
     "https://ethplorer.io/",
     "https://blockchair.com/ethereum/"
   ],
-  "rpc": ["https://mainnet.infura.io/v3/5ffc47f65c4042ce847ef66a3fa70d4c"],
+  "rpc": [
+    "https://mainnet.infura.io/v3/5ffc47f65c4042ce847ef66a3fa70d4c",
+    "https://api.mycryptoapi.com/eth"
+  ],
   "bip44": {
     "purpose": "44",
     "cointype": "60"
