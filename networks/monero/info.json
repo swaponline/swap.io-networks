@@ -56,7 +56,7 @@
     "settings": {
       "port": 18081,
       "magic": null,
-      "messagePrefix": "\u0017Monero Signed Message:\n",
+      "messagePrefix": "",
       "base58prefix": {
         "pubKeyHash": null,
         "scriptHash": 19,
