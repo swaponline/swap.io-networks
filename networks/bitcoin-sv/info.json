@@ -1,0 +1,39 @@
+{
+  "parent": "bitcoin",
+  "slug": "bitcoin-sv",
+  "name": "Bitcoin SV",
+  "priority": 21,
+  "coin": {
+    "symbol": "BSV",
+    "slug": "bitcoin-sv",
+    "name": "Bitcoin SV",
+    "name_plural": "Bitcoin SV",
+    "denominator": 1e-8,
+    "logo": "/networks/bitcoin-sv/logo.svg"
+  },
+  "explorers": [
+    "https://www.blockchain.com/bitcoin-sv/",
+    "https://www.oklink.com/bsv/",
+    "https://bsv.tokenview.com/en/",
+    "https://explorer.viawallet.com/bsv/"
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "236"
+  },
+  "network": {
+    "type": "mainnet",
+    "settings": {
+      "port": 8333,
+      "magic": 3823236072,
+      "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+      "base58prefix": {
+        "pubKeyHash": 0,
+        "scriptHash": 5,
+        "privateKeyWIF": 128,
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    }
+  }
+}

@@ -15,7 +15,7 @@
   "explorers": [
     "https://explorer.cardano.org/",
     "https://cardanoscan.io/",
-    "https://blockchair.com/cardano"
+    "https://blockchair.com/cardano/"
   ],
   "rpc": [
   ],

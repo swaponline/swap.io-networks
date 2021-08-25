@@ -14,8 +14,8 @@
   },
   "explorers": [
     "https://xmr.tokenview.com/",
-    "https://localmonero.co/blocks",
-    "https://blockchair.com/monero"
+    "https://localmonero.co/blocks/",
+    "https://blockchair.com/monero/"
   ],
   "rpc": [
     {
@@ -50,5 +50,20 @@
   "bip44": {
     "purpose": "44",
     "cointype": "128"
+  },
+  "network": {
+    "type": "mainnet",
+    "settings": {
+      "port": 18081,
+      "magic": null,
+      "messagePrefix": "",
+      "base58prefix": {
+        "pubKeyHash": null,
+        "scriptHash": 19,
+        "privateKeyWIF": null,
+        "publicKeyBIP32": null,
+        "privateKeyBIP32": null
+      }
+    }
   }
 }

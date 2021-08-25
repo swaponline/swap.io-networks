@@ -1,0 +1,39 @@
+{
+  "type": "evm",
+  "slug": "vechain",
+  "name": "Vechain",
+  "isTestnet": false,
+  "priority": 3,
+  "genesisId": "0x00000000851caf3cfdb6e899cf5958bfb1ac3413d346d43539627e6be7ec1b4a",
+  "tokensType": "VIP180",
+  "gasToken": "VTHO--0x0000000000000000000000000000456e65726779",
+  "coin": {
+    "symbol": "VET",
+    "slug": "vechain",
+    "name": "VeChain",
+    "name_plural": "VeChain",
+    "denominator": 1e-18,
+    "logo": "/networks/vechain/logo.svg"
+  },
+  "explorers": [
+    "https://explore.vechain.org/",
+    "https://insight.vecha.in/#/main/",
+    "https://explorer.vtho.net/#/"
+  ],
+  "rpc": [
+    "https://vethor-node.vechain.com/",
+    "https://mainnet.veblocks.net/",
+    "http://45.32.212.120:8669/"
+  ],
+  "bip44": {
+    "purpose": "44",
+    "cointype": "818"
+  },
+  "prefix": {
+    "message": "\u0019VeChain Signed Message:\n",
+    "base58prefix": {
+      "publicKeyBIP32": 76067358,
+      "privateKeyBIP32": 76066276
+    }
+  }
+}

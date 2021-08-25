@@ -16,8 +16,8 @@
     "logo": "/networks/dogecoin/logo.svg"
   },
   "explorers": [
-    "https://blockchair.com/dogecoin",
-    "https://dogechain.info/chain/Dogecoin",
+    "https://blockchair.com/dogecoin/",
+    "https://dogechain.info/chain/Dogecoin/",
     "https://doge.tokenview.com/"
   ],
   "rpc": [

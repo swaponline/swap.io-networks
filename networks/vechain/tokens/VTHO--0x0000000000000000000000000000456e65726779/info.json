@@ -1,0 +1,9 @@
+{
+  "name": "VeThor",
+  "address": "0x0000000000000000000000000000456e65726779",
+  "symbol": "VTHO",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/vechain/tokens/VTHO--0x0000000000000000000000000000456e65726779/logo.svg",
+  "tags": ["vip180"]
+}
