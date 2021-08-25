@@ -6,6 +6,7 @@
   "priority": 3,
   "genesisId": "0x00000000851caf3cfdb6e899cf5958bfb1ac3413d346d43539627e6be7ec1b4a",
   "tokensType": "VIP180",
+  "gasToken": "VTHO--0x0000000000000000000000000000456e65726779",
   "coin": {
     "symbol": "VET",
     "slug": "vechain",
