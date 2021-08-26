@@ -32,7 +32,7 @@
     "settings": {
     "port": 12037,
     "magic": 1533997779,
-    "messagePrefix": "",
+    "messagePrefix": "\u001aHandshake Signed Message:\n",
     "base58prefix": {
       "pubKeyHash": 0,
       "scriptHash": 5,
@@ -42,16 +42,8 @@
     }
     }
   },
-  "keyPrefix": {
-    "privkey": "0x80",
-    "xpubkey": "0x0488b21e",
-    "xprivkey": "0x0488ade4",
-    "xpubkey58": "xpub",
-    "xprivkey58": "xprv",
-    "coinType": 5353
-  },
   "prefix": {
-    "message": "",
+    "message": "\u001aHandshake Signed Message:\n",
     "p2pkh": "00",
     "p2sh": "05",
     "bech32": "hs",
