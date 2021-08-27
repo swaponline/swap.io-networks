@@ -106,6 +106,14 @@ function clearUnimportantFields(list: List) {
   list.version = new Version(0, 0, 0)
 }
 
+export const sanitizeSymbol = (symbol: string): string => {
+  return symbol.replace(/[\[\]\/\\|,.+=:;*?«<>]/g, '').trim()
+}
+
+export const sanitizeAddress = (address: string): string => {
+  return address.toLowerCase().trim()
+}
+
 export const getExternalTokensList = (url: string) =>
   axios.get(url)
     .then(response => response.data)

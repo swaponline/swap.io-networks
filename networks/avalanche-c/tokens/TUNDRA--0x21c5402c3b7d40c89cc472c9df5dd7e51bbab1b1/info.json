@@ -1,0 +1,11 @@
+{
+  "name": "Tundra Token",
+  "address": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
+  "symbol": "TUNDRA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TUNDRA--0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

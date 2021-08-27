@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Bitcoin",
+  "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

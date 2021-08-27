@@ -1,0 +1,11 @@
+{
+  "name": "Ape X",
+  "address": "0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5",
+  "symbol": "APE-X",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/APE-X--0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

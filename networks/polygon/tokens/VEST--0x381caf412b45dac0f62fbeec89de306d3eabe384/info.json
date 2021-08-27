@@ -1,0 +1,11 @@
+{
+  "name": "DAO Invest",
+  "address": "0x381caf412b45dac0f62fbeec89de306d3eabe384",
+  "symbol": "VEST",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/VEST--0x381caf412b45dac0f62fbeec89de306d3eabe384/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

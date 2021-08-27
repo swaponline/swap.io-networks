@@ -1,0 +1,11 @@
+{
+  "name": "Render Token",
+  "address": "0x61299774020da444af134c82fa83e3810b309991",
+  "symbol": "RNDR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RNDR--0x61299774020da444af134c82fa83e3810b309991/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

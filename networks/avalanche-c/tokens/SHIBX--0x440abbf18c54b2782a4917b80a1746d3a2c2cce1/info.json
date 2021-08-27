@@ -1,0 +1,11 @@
+{
+  "name": "Shibavax",
+  "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
+  "symbol": "SHIBX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SHIBX--0x440abbf18c54b2782a4917b80a1746d3a2c2cce1/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

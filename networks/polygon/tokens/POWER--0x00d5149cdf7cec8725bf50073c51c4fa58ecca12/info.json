@@ -1,0 +1,11 @@
+{
+  "name": "UniPower",
+  "address": "0x00d5149cdf7cec8725bf50073c51c4fa58ecca12",
+  "symbol": "POWER",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POWER--0x00d5149cdf7cec8725bf50073c51c4fa58ecca12/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

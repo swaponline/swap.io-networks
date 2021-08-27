@@ -1,0 +1,11 @@
+{
+  "name": "Gaj Finance",
+  "address": "0x595c8481c48894771ce8fade54ac6bf59093f9e8",
+  "symbol": "GAJ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GAJ--0x595c8481c48894771ce8fade54ac6bf59093f9e8/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

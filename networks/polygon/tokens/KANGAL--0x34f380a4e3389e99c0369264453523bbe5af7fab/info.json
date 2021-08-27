@@ -1,0 +1,11 @@
+{
+  "name": "Kangal",
+  "address": "0x34f380a4e3389e99c0369264453523bbe5af7fab",
+  "symbol": "KANGAL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KANGAL--0x34f380a4e3389e99c0369264453523bbe5af7fab/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}
