@@ -1,6 +1,6 @@
 
 import { getAbsolutePath } from "../common/repo-structure"
-import { getExternalTokensList } from "../common/token-lists"
+import { sanitizeSymbol, sanitizeAddress, getExternalTokensList } from "../common/token-lists"
 import { writeToFileWithUpdate } from "../common/json"
 import { externalTokensListsLinks } from "../constants/externalTokensListsLinks"
 
@@ -40,7 +40,9 @@ export const syncUniqExternalTokens = async () => {
         return console.error(`Token haven't some prop for add to tokens list: ${JSON.stringify(token, null, 2)}`)
       }
 
-      const tokenID = `${symbol}--${address.toLowerCase()}`
+      const tokenAddress = sanitizeAddress(address)
+
+      const tokenID = `${sanitizeSymbol(symbol)}--${tokenAddress}`
 
       if (uniqExternalTokens[tokenID]) {
         !uniqExternalTokens[tokenID].names.includes(name) && uniqExternalTokens[tokenID].names.push(name)
@@ -50,7 +52,7 @@ export const syncUniqExternalTokens = async () => {
       } else {
         uniqExternalTokens[tokenID] = {
           names: [name],
-          address: address.toLowerCase(),
+          address: tokenAddress,
           symbol,
           decimals,
           chainIds: [chainId],
@@ -65,6 +67,5 @@ export const syncUniqExternalTokens = async () => {
 
   writeToFileWithUpdate(getAbsolutePath(`/cache`), 'uniqExternalTokens.json', uniqExternalTokens)
 }
-
 
 syncUniqExternalTokens()

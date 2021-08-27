@@ -21,6 +21,7 @@ import {
 } from "../common/filesystem"
 import { readJsonFile, writeJsonFile } from "../common/json"
 import { getFullNetworkInfo } from "../common/networks"
+import { sanitizeSymbol, sanitizeAddress } from "../common/token-lists"
 
 type UniqToken = {
   names: string[],
@@ -113,7 +114,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
 
   const networkTokensAddresses = Object.keys(tokens).map(tokensID => {
     const [symbol, address] = tokensID.split("--")
-    return address.toLowerCase()
+    return sanitizeAddress(address)
   })
 
   console.log(`   ${networkTokensAddresses.length} tokens in self folder`)
@@ -134,7 +135,9 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       continue
     }
 
-    if (networkTokensAddresses.includes(address)) {
+    const tokenAddress = sanitizeAddress(address)
+
+    if (networkTokensAddresses.includes(tokenAddress)) {
       alreadyExistsTokens.push(tokenID)
       continue // need add logic for exists tokens
     } else {
@@ -157,7 +160,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
 
       const tokenInfo: tokenInfo = {
         name: names[0],
-        address,
+        address: tokenAddress,
         symbol,
         decimals,
         chainId: +networkInfo.chainId,
