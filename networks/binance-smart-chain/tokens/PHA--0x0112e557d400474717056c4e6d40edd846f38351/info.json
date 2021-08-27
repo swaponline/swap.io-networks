@@ -1,0 +1,11 @@
+{
+  "name": "Phala Network",
+  "address": "0x0112e557d400474717056c4e6d40edd846f38351",
+  "symbol": "PHA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PHA--0x0112e557d400474717056c4e6d40edd846f38351/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

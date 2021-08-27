@@ -1,0 +1,11 @@
+{
+  "name": "Aave",
+  "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+  "symbol": "AAVE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AAVE--0x63a72806098bd3d9520cc43356dd78afe5d386d9/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UMA",
+  "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
+  "symbol": "UMA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/UMA--0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

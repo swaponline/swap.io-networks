@@ -1,0 +1,11 @@
+{
+  "name": "SandMan",
+  "address": "0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75",
+  "symbol": "SANDMAN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SANDMAN--0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TETU Reward Token",
+  "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+  "symbol": "TETU",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TETU--0x255707b70bf90aa112006e1b07b9aea6de021424/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

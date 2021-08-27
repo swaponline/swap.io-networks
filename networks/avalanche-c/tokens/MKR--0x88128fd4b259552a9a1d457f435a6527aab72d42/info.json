@@ -1,0 +1,11 @@
+{
+  "name": "Maker",
+  "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+  "symbol": "MKR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MKR--0x88128fd4b259552a9a1d457f435a6527aab72d42/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

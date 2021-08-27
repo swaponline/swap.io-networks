@@ -1,0 +1,11 @@
+{
+  "name": "OpenOcean",
+  "address": "0x9d5565da88e596730522cbc5a918d2a89dbc16d9",
+  "symbol": "OOE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/OOE--0x9d5565da88e596730522cbc5a918d2a89dbc16d9/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

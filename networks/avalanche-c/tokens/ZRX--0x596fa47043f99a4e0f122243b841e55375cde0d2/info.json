@@ -1,0 +1,11 @@
+{
+  "name": "0x",
+  "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+  "symbol": "ZRX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ZRX--0x596fa47043f99a4e0f122243b841e55375cde0d2/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

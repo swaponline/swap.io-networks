@@ -1,0 +1,11 @@
+{
+  "name": "Orbs",
+  "address": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff",
+  "symbol": "ORBS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ORBS--0x614389eaae0a6821dc49062d56bda3d9d45fa2ff/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}
