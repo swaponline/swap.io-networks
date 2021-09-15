@@ -3,14 +3,7 @@
   "slug": "bitcoin-sv",
   "name": "Bitcoin SV",
   "priority": 21,
-  "coin": {
-    "symbol": "BSV",
-    "slug": "bitcoin-sv",
-    "name": "Bitcoin SV",
-    "name_plural": "Bitcoin SV",
-    "denominator": 1e-8,
-    "logo": "/networks/bitcoin-sv/logo.svg"
-  },
+  "baseCoin": "BSV",
   "explorers": [
     "https://www.blockchain.com/bitcoin-sv/",
     "https://www.oklink.com/bsv/",

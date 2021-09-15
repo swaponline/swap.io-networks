@@ -4,14 +4,7 @@
   "name": "Polkadot",
   "isTestnet": false,
   "priority": 10,
-  "coin": {
-    "symbol": "DOT",
-    "slug": "polkadot",
-    "name": "Polkadot",
-    "name_plural": "Polkadots",
-    "denominator": 1e-10,
-    "logo": "/networks/polkadot/logo.svg"
-  },
+  "baseCoin": "DOT",
   "explorers": [
     "https://polkadot.subscan.io/",
     "https://polkascan.io/polkadot",

@@ -1,0 +1,9 @@
+{
+  "symbol": "ADA",
+  "slug": "ada",
+  "name": "Ada",
+  "name_plural": "Ada",
+  "denominator": 1e-6,
+  "type": "coin",
+  "logo": "/networks/cardano/coins/ADA/logo.svg"
+}

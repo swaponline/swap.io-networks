@@ -7,14 +7,7 @@
   "dust_amount": 1000,
   "isTestnet": false,
   "priority": 1,
-  "coin": {
-    "symbol": "BTC",
-    "slug": "bitcoin",
-    "name": "Bitcoin",
-    "name_plural": "Bitcoins",
-    "denominator": 1e-8,
-    "logo": "/networks/bitcoin/logo.svg"
-  },
+  "baseCoin": "BTC",
   "explorers": [
     "https://www.blockchain.com/btc/",
     "https://live.blockcypher.com/",

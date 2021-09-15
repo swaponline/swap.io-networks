@@ -1,0 +1,9 @@
+{
+  "symbol": "xDAI",
+  "slug": "xdai",
+  "name": "xDai",
+  "name_plural": "xDai",
+  "denominator": 1e-18,
+  "type": "coin",
+  "logo": "/networks/xdai/coins/xDAI/logo.svg"
+}

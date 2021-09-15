@@ -4,15 +4,8 @@
   "name": "xDai",
   "priority": 23,
   "chainId": "0x64",
-  "tokensType": "ERC20MATIC",
-  "coin": {
-    "symbol": "xDAI",
-    "slug": "xdai",
-    "name": "xDai",
-    "name_plural": "xDai",
-    "denominator": 1e-18,
-    "logo": "/networks/xdai/logo.svg"
-  },
+  "tokensType": "ERC20XDAI",
+  "baseCoin": "xDAI",
   "explorers": ["https://blockscout.com/xdai/mainnet/"],
   "rpc": [
     "https://rpc.xdaichain.com/",

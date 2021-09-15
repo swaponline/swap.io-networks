@@ -1,0 +1,9 @@
+{
+  "symbol": "XLM",
+  "slug": "stellar-lumen",
+  "name": "Stellar Lumen",
+  "name_plural": "Stellar Lumens",
+  "denominator": 1e-6,
+  "type": "coin",
+  "logo": "/networks/stellar/coins/XLM/logo.svg"
+}

@@ -5,14 +5,7 @@
   "priority": 5,
   "chainId": "0x38",
   "tokensType": "BEP20",
-  "coin": {
-    "symbol": "BNB",
-    "slug": "binance-coin",
-    "name": "Binance Coin",
-    "name_plural": "Binance Coins",
-    "denominator": 1e-18,
-    "logo": "/networks/binance-smart-chain/logo.svg"
-  },
+  "baseCoin": "BNB",
   "explorers": ["https://bscscan.com/"],
   "rpc": [
     "https://bsc-dataseed.binance.org/",

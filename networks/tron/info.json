@@ -6,14 +6,7 @@
   "priority": 22,
   "chainId": 1,
   "tokensType": "TRC20",
-  "coin": {
-    "symbol": "TRX",
-    "slug": "tronix",
-    "name": "Tronix",
-    "name_plural": "Tronixs",
-    "denominator": 1e-6,
-    "logo": "/networks/tron/logo.svg"
-  },
+  "baseCoin": "TRX",
   "explorers": [
     "https://tronscan.org/#/",
     "https://trx.tokenview.com/en/"

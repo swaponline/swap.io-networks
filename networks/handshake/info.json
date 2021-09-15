@@ -7,14 +7,7 @@
   "fee_min": 1000,
   "dust_amount": 1000,
   "priority": 9,
-  "coin": {
-    "symbol": "HNS",
-    "slug": "handshake",
-    "name": "Handshake",
-    "name_plural": "Handshakes",
-    "denominator": 1e-6,
-    "logo": "/networks/bitcoin/logo.png"
-  },
+  "baseCoin": "HNS",
   "explorers": [
     "https://hnscan.com/"
   ],

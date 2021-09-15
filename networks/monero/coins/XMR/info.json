@@ -1,0 +1,9 @@
+{
+  "symbol": "XMR",
+  "slug": "monero",
+  "name": "Monero",
+  "name_plural": "Monero",
+  "denominator": 1e-12,
+  "type": "coin",
+  "logo": "/networks/monero/coins/XMR/logo.svg"
+}

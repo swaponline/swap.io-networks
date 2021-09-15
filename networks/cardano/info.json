@@ -4,14 +4,7 @@
   "name": "Cardano",
   "isTestnet": false,
   "priority": 17,
-  "coin": {
-    "symbol": "ADA",
-    "slug": "ada",
-    "name": "Ada",
-    "name_plural": "Ada",
-    "denominator": 1e-6,
-    "logo": "/networks/cardano/logo.svg"
-  },
+  "baseCoin": "ADA",
   "explorers": [
     "https://explorer.cardano.org/",
     "https://cardanoscan.io/",

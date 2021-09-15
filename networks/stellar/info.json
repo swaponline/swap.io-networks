@@ -4,14 +4,7 @@
   "name": "Stellar",
   "isTestnet": false,
   "priority": 18,
-  "coin": {
-    "symbol": "XLM",
-    "slug": "stellar-lumen",
-    "name": "Stellar Lumen",
-    "name_plural": "Stellar Lumens",
-    "denominator": 1e-6,
-    "logo": "/networks/stellar/logo.svg"
-  },
+  "baseCoin": "XLM",
   "explorers": [
     "https://blockchair.com/stellar/",
     "https://steexp.com/",

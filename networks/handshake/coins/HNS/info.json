@@ -1,0 +1,9 @@
+{
+  "symbol": "HNS",
+  "slug": "handshake",
+  "name": "Handshake",
+  "name_plural": "Handshakes",
+  "denominator": 1e-6,
+  "type": "coin",
+  "logo": "/networks/bitcoin/coins/HNS/logo.png"
+}

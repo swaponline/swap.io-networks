@@ -1,0 +1,9 @@
+{
+  "symbol": "ETH",
+  "slug": "ether",
+  "name": "Ether",
+  "name_plural": "Ethers",
+  "denominator": 1e-18,
+  "type": "coin",
+  "logo": "/networks/ethereum/coins/ETH/logo.svg"
+}

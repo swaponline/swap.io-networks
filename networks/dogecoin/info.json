@@ -7,14 +7,7 @@
   "dust_amount": 100000000,
   "isTestnet": false,
   "priority": 16,
-  "coin": {
-    "symbol": "DOGE",
-    "slug": "dogecoin",
-    "name": "Dogecoin",
-    "name_plural": "Dogecoins",
-    "denominator": 1e-8,
-    "logo": "/networks/dogecoin/logo.svg"
-  },
+  "baseCoin": "DOGE",
   "explorers": [
     "https://blockchair.com/dogecoin/",
     "https://dogechain.info/chain/Dogecoin/",

@@ -4,14 +4,7 @@
   "name": "Monero",
   "isTestnet": false,
   "priority": 20,
-  "coin": {
-    "symbol": "XMR",
-    "slug": "monero",
-    "name": "Monero",
-    "name_plural": "Monero",
-    "denominator": 1e-12,
-    "logo": "/networks/monero/logo.svg"
-  },
+  "baseCoin": "XMR",
   "explorers": [
     "https://xmr.tokenview.com/",
     "https://localmonero.co/blocks/",

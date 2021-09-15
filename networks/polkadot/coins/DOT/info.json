@@ -1,0 +1,9 @@
+{
+    "symbol": "DOT",
+    "slug": "polkadot",
+    "name": "Polkadot",
+    "name_plural": "Polkadots",
+    "denominator": 1e-10,
+    "type": "coin",
+    "logo": "/networks/polkadot/coins/DOT/logo.svg"
+  }

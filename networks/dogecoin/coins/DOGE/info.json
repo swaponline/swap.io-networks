@@ -1,0 +1,9 @@
+{
+  "symbol": "DOGE",
+  "slug": "dogecoin",
+  "name": "Dogecoin",
+  "name_plural": "Dogecoins",
+  "denominator": 1e-8,
+  "type": "coin",
+  "logo": "/networks/dogecoin/coins/DOGE/logo.svg"
+}

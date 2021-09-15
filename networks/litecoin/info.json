@@ -7,14 +7,7 @@
   "dust_amount": 5460,
   "isTestnet": false,
   "priority": 15,
-  "coin": {
-    "symbol": "LTC",
-    "slug": "litecoin",
-    "name": "Litecoin",
-    "name_plural": "Litecoins",
-    "denominator": 1e-8,
-    "logo": "/networks/litecoin/logo.svg"
-  },
+  "baseCoin": "LTC",
   "explorers": [
     "https://blockchair.com/litecoin/",
     "https://ltc.tokenview.com/en/",

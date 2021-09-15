@@ -6,14 +6,7 @@
   "priority": 3,
   "chainId": "0x1",
   "tokensType": "ERC20",
-  "coin": {
-    "symbol": "ETH",
-    "slug": "ether",
-    "name": "Ether",
-    "name_plural": "Ethers",
-    "denominator": 1e-18,
-    "logo": "/networks/ethereum/logo.svg"
-  },
+  "baseCoin": "ETH",
   "explorers": [
     "https://etherscan.io/",
     "https://ethplorer.io/",

@@ -4,14 +4,7 @@
   "name": "Solana",
   "isTestnet": false,
   "priority": 12,
-  "coin": {
-    "symbol": "SOL",
-    "slug": "solana",
-    "name": "Solana",
-    "name_plural": "Solana",
-    "denominator": 1e-9,
-    "logo": "/networks/solana/logo.svg"
-  },
+  "baseCoin": "SOL",
   "explorers": [
       "https://explorer.solana.com/"
   ],

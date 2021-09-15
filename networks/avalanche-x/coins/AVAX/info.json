@@ -1,0 +1,8 @@
+{
+  "symbol": "AVAX",
+  "slug": "avalanche-x",
+  "name": "Avalanche",
+  "name_plural": "Avalanches",
+  "denominator": 1e-9,
+  "logo": "/networks/avalanche-x/coins/AVAX/logo.svg"
+}

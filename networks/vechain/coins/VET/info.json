@@ -1,0 +1,9 @@
+{
+  "symbol": "VET",
+  "slug": "vechain",
+  "name": "VeChain",
+  "name_plural": "VeChain",
+  "denominator": 1e-18,
+  "type": "coin",
+  "logo": "/networks/vechain/coins/VET/logo.svg"
+}

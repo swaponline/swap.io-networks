@@ -5,14 +5,7 @@
   "priority": 7,
   "chainId": "0x89",
   "tokensType": "ERC20MATIC",
-  "coin": {
-    "symbol": "MATIC",
-    "slug": "polygon",
-    "name": "Polygon",
-    "name_plural": "Polygons",
-    "denominator": 1e-18,
-    "logo": "/networks/polygon/logo.svg"
-  },
+  "baseCoin": "MATIC",
   "explorers": ["https://polygonscan.com/"],
   "rpc": [
     "https://rpc-mainnet.matic.network",

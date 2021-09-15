@@ -1,0 +1,9 @@
+{
+  "symbol": "BTC",
+  "slug": "bitcoin",
+  "name": "Bitcoin",
+  "name_plural": "Bitcoins",
+  "denominator": 1e-8,
+  "type": "coin",
+  "logo": "/networks/bitcoin/coins/BTC/logo.svg"
+}

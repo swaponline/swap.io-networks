@@ -1,0 +1,9 @@
+{
+  "symbol": "SOL",
+  "slug": "solana",
+  "name": "Solana",
+  "name_plural": "Solana",
+  "denominator": 1e-9,
+  "type": "coin",
+  "logo": "/networks/solana/coins/SOL/logo.svg"
+}

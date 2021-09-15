@@ -1,0 +1,9 @@
+{
+  "symbol": "BSV",
+  "slug": "bitcoin-sv",
+  "name": "Bitcoin SV",
+  "name_plural": "Bitcoin SV",
+  "denominator": 1e-8,
+  "type": "coin",
+  "logo": "/networks/bitcoin-sv/coins/BSV/logo.svg"
+}

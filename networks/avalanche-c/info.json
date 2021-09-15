@@ -5,14 +5,7 @@
   "priority": 13,
   "chainId": "0xa86a",
   "tokensType": "ERC20AVAX",
-  "coin": {
-    "symbol": "AVAX",
-    "slug": "avalanche-c",
-    "name": "Avalanche",
-    "name_plural": "Avalanches",
-    "denominator": 1e-9,
-    "logo": "/networks/avalanche-c/logo.svg"
-  },
+  "baseCoin": "AVAX",
   "explorers": [
     "https://avascan.info/blockchain/c/txs",
     "https://cchain.explorer.avax.network/"

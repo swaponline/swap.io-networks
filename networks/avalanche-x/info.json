@@ -4,14 +4,7 @@
   "name": "Avalanche X-Chain",
   "isTestnet": false,
   "priority": 14,
-  "coin": {
-    "symbol": "AVAX",
-    "slug": "avalanche-x",
-    "name": "Avalanche",
-    "name_plural": "Avalanches",
-    "denominator": 1e-9,
-    "logo": "/networks/avalanche-c/logo.svg"
-  },
+  "baseCoin": "AVAX",
   "explorers": [
     "https://avascan.info/blockchain/x/txs"
   ],

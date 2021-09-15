@@ -1,0 +1,9 @@
+{
+  "symbol": "MATIC",
+  "slug": "polygon",
+  "name": "Polygon",
+  "name_plural": "Polygons",
+  "denominator": 1e-18,
+  "type": "coin",
+  "logo": "/networks/polygon/coinst/MATIC/logo.svg"
+}
