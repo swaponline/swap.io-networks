@@ -4,7 +4,7 @@
   "name": "Monero",
   "isTestnet": false,
   "priority": 20,
-  "baseCoin": "XMR",
+  "coins": ["/networks/monero/coins/XMR/info.json"],
   "explorers": [
     "https://xmr.tokenview.com/",
     "https://localmonero.co/blocks/",

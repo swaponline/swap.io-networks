@@ -7,7 +7,7 @@
   "fee_min": 1000,
   "dust_amount": 1000,
   "priority": 9,
-  "baseCoin": "HNS",
+  "coins": ["/networks/handshake/coins/HNS/info.json"],
   "explorers": [
     "https://hnscan.com/"
   ],

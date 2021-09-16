@@ -5,7 +5,7 @@
   "priority": 13,
   "chainId": "0xa86a",
   "tokensType": "ERC20AVAX",
-  "baseCoin": "AVAX",
+  "coins": ["/networks/avalanche-c/coins/AVAX/info.json"],
   "explorers": [
     "https://avascan.info/blockchain/c/txs",
     "https://cchain.explorer.avax.network/"

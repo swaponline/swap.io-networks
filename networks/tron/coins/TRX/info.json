@@ -2,7 +2,7 @@
   "symbol": "TRX",
   "slug": "tronix",
   "name": "Tronix",
-  "name_plural": "Tronixs",
+  "name_plural": "Tronixes",
   "denominator": 1e-6,
   "type": "coin",
   "logo": "/networks/tron/coins/TRX/logo.svg"

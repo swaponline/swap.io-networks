@@ -7,7 +7,7 @@
   "dust_amount": 5460,
   "isTestnet": false,
   "priority": 15,
-  "baseCoin": "LTC",
+  "coins": ["/networks/litecoin/coins/LTC/info.json"],
   "explorers": [
     "https://blockchair.com/litecoin/",
     "https://ltc.tokenview.com/en/",

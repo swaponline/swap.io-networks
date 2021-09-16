@@ -3,7 +3,7 @@
   "slug": "kusama",
   "name": "Polkadot",
   "priority": 11,
-  "baseCoin": "KSM",
+  "coins": ["/networks/kusama/coins/KSM/info.json"],
   "explorers": [
     "https://kusama.subscan.io/",
     "https://polkascan.io/kusama",

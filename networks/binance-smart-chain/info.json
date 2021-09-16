@@ -5,7 +5,7 @@
   "priority": 5,
   "chainId": "0x38",
   "tokensType": "BEP20",
-  "baseCoin": "BNB",
+  "coins": ["/networks/binance-smart-chain/coins/BNB/info.json"],
   "explorers": ["https://bscscan.com/"],
   "rpc": [
     "https://bsc-dataseed.binance.org/",

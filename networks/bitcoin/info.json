@@ -7,7 +7,7 @@
   "dust_amount": 1000,
   "isTestnet": false,
   "priority": 1,
-  "baseCoin": "BTC",
+  "coins": ["/networks/bitcoin/coins/BTC/info.json"],
   "explorers": [
     "https://www.blockchain.com/btc/",
     "https://live.blockcypher.com/",

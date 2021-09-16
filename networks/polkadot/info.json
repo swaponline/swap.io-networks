@@ -4,7 +4,7 @@
   "name": "Polkadot",
   "isTestnet": false,
   "priority": 10,
-  "baseCoin": "DOT",
+  "coins": ["/networks/polkadot/coins/DOT/info.json"],
   "explorers": [
     "https://polkadot.subscan.io/",
     "https://polkascan.io/polkadot",

@@ -6,7 +6,7 @@
   "priority": 3,
   "chainId": "0x1",
   "tokensType": "ERC20",
-  "baseCoin": "ETH",
+  "coins": ["/networks/ethereum/coins/ETH/info.json"],
   "explorers": [
     "https://etherscan.io/",
     "https://ethplorer.io/",

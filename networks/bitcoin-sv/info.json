@@ -3,7 +3,7 @@
   "slug": "bitcoin-sv",
   "name": "Bitcoin SV",
   "priority": 21,
-  "baseCoin": "BSV",
+  "coins": ["/networks/bitcoin-sv/coins/BSV/info.json"],
   "explorers": [
     "https://www.blockchain.com/bitcoin-sv/",
     "https://www.oklink.com/bsv/",

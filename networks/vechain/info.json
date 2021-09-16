@@ -7,8 +7,10 @@
   "chainId": 1,
   "genesisId": "0x00000000851caf3cfdb6e899cf5958bfb1ac3413d346d43539627e6be7ec1b4a",
   "tokensType": "VIP180",
-  "baseCoin": "VET",
-  "gasToken": "VTHO--0x0000000000000000000000000000456e65726779",
+  "coins": [
+    "/networks/vechain/coins/VET/info.json",
+    "/networks/vechain/tokens/VTHO--0x0000000000000000000000000000456e65726779/info.json"
+  ],
   "explorers": [
     "https://explore.vechain.org/",
     "https://insight.vecha.in/#/main/",

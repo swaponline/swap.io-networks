@@ -6,7 +6,7 @@
   "priority": 22,
   "chainId": 1,
   "tokensType": "TRC20",
-  "baseCoin": "TRX",
+  "coins": ["/networks/tron/coins/TRX/info.json"],
   "explorers": [
     "https://tronscan.org/#/",
     "https://trx.tokenview.com/en/"

@@ -4,7 +4,7 @@
   "name": "Avalanche X-Chain",
   "isTestnet": false,
   "priority": 14,
-  "baseCoin": "AVAX",
+  "coins": ["/networks/avalanche-x/coins/AVAX/info.json"],
   "explorers": [
     "https://avascan.info/blockchain/x/txs"
   ],

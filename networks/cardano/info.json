@@ -4,7 +4,7 @@
   "name": "Cardano",
   "isTestnet": false,
   "priority": 17,
-  "baseCoin": "ADA",
+  "coins": ["/networks/cardano/coins/ADA/info.json"],
   "explorers": [
     "https://explorer.cardano.org/",
     "https://cardanoscan.io/",

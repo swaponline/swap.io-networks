@@ -7,7 +7,7 @@
   "dust_amount": 100000000,
   "isTestnet": false,
   "priority": 16,
-  "baseCoin": "DOGE",
+  "coins": ["/networks/dogecoin/coins/DOGE/info.json"],
   "explorers": [
     "https://blockchair.com/dogecoin/",
     "https://dogechain.info/chain/Dogecoin/",

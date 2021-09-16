@@ -4,7 +4,7 @@
   "name": "Stellar",
   "isTestnet": false,
   "priority": 18,
-  "baseCoin": "XLM",
+  "coins": ["/networks/stellar/coins/XLM/info.json"],
   "explorers": [
     "https://blockchair.com/stellar/",
     "https://steexp.com/",

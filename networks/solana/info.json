@@ -5,6 +5,7 @@
   "isTestnet": false,
   "priority": 12,
   "baseCoin": "SOL",
+  "coins": ["/networks/solana/coins/SOL/info.json"],
   "explorers": [
       "https://explorer.solana.com/"
   ],

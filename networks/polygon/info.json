@@ -5,7 +5,7 @@
   "priority": 7,
   "chainId": "0x89",
   "tokensType": "ERC20MATIC",
-  "baseCoin": "MATIC",
+  "coins": ["/networks/polygon/coins/MATIC/info.json"],
   "explorers": ["https://polygonscan.com/"],
   "rpc": [
     "https://rpc-mainnet.matic.network",
