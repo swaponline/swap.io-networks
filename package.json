@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "updateTokens": "ts-node ./scripts/entrypoint/updateTokens",
     "syncExternalTokens": "ts-node ./scripts/entrypoint/syncUniqExternalTokensLists",
-    "updateNetworks": "ts-node ./scripts/entrypoint/updateNetworks",
-    "updateTokensLists": "ts-node ./scripts/entrypoint/updateTokensLists"
+    "updateNetworks": "ts-node ./scripts/entrypoint/updateNetworks"
   },
   "repository": {
     "type": "git",

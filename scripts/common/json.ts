@@ -1,7 +1,10 @@
 import {
   readFileSync,
-  writeFileSync
-} from "./filesystem"
+  writeFileSync,
+  createDirSync,
+  isPathExistsSync,
+  getFileSizeInKilobyte,
+} from "../common/filesystem"
 import { sortElements } from "./types"
 import { diff } from "jsondiffpatch"
 
@@ -73,4 +76,23 @@ export const diffData = (Data1: any, Data2: any): any => {
   // compare
   const diffs = diff(data1, data2)
   return diffs
+}
+
+export const checkFile = (fileDir: string, fileName: string, initialData: any): void => {
+  const isFileDirExists = isPathExistsSync(fileDir)
+
+  if (!isFileDirExists) {
+    createDirSync(fileDir)
+  }
+
+  const filePath = `${fileDir}/${fileName}`
+  const isFileExists = isPathExistsSync(filePath)
+
+  if (!isFileExists) {
+    writeJsonFile(filePath, initialData)
+  }
+
+  if (getFileSizeInKilobyte(filePath) === 0) {
+    writeToFileWithUpdate(fileDir, fileName, initialData)
+  }
 }
