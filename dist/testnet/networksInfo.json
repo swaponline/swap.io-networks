@@ -1,0 +1,151 @@
+[
+  {
+    "type": "evm",
+    "slug": "binance-smart-chain-testnet",
+    "name": "Binance Smart Chain Testnet",
+    "isTestnet": true,
+    "priority": 6,
+    "chainId": "0x61",
+    "tokensType": "BEP20",
+    "coins": [
+      "/networks/binance-smart-chain/coins/BNB/info.json"
+    ],
+    "explorers": [
+      "https://testnet.bscscan.com/"
+    ],
+    "rpc": [
+      "https://data-seed-prebsc-1-s1.binance.org:8545/",
+      "https://data-seed-prebsc-2-s1.binance.org:8545/",
+      "https://data-seed-prebsc-1-s2.binance.org:8545/",
+      "https://data-seed-prebsc-2-s2.binance.org:8545/"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  },
+  {
+    "type": "utxo",
+    "slug": "bitcoin-testnet",
+    "name": "Bitcoin Testnet",
+    "fee_max": 1000000,
+    "fee_min": 1024,
+    "dust_amount": 1000,
+    "isTestnet": true,
+    "priority": 2,
+    "coins": [
+      "/networks/bitcoin/coins/BTC/info.json"
+    ],
+    "explorers": [
+      "https://www.blockchain.com/btc-testnet/",
+      "https://live.blockcypher.com/btc-testnet/",
+      "https://blockchair.com/bitcoin/testnet/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "user": "user",
+        "pass": "pass",
+        "host": "127.0.0.1",
+        "port": "18333"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "1"
+    },
+    "network": {
+      "type": "testnet",
+      "settings": {
+        "port": 18333,
+        "magic": 185665799,
+        "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+        "base58prefix": {
+          "pubKeyHash": 111,
+          "scriptHash": 196,
+          "privateKeyWIF": 239,
+          "publicKeyBIP32": 70617039,
+          "privateKeyBIP32": 70615956
+        }
+      }
+    },
+    "prefix": {
+      "message": "\u0018Bitcoin Signed Message:\n",
+      "p2pkh": "6f",
+      "p2sh": "c4",
+      "bech32": "tb",
+      "wif": "ef"
+    },
+    "parent": "bitcoin"
+  },
+  {
+    "type": "evm",
+    "slug": "ethereum-ropsten",
+    "name": "Ethereum (Ropsten)",
+    "isTestnet": true,
+    "priority": 4,
+    "chainId": "0x3",
+    "tokensType": "ERC20",
+    "coins": [
+      "/networks/ethereum/coins/ETH/info.json"
+    ],
+    "explorers": [
+      "https://ropsten.etherscan.io/"
+    ],
+    "rpc": [
+      "https://ropsten.infura.io/v3/5ffc47f65c4042ce847ef66a3fa70d4c"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  },
+  {
+    "type": "evm",
+    "slug": "polygon-mumbai",
+    "name": "Polygon Mumbai",
+    "isTestnet": true,
+    "priority": 8,
+    "chainId": "0x13881",
+    "tokensType": "ERC20MATIC",
+    "coins": [
+      "/networks/polygon/coins/MATIC/info.json"
+    ],
+    "explorers": [
+      "https://mumbai.polygonscan.com/"
+    ],
+    "rpc": [
+      "https://rpc-mumbai.matic.today/",
+      "https://matic-mumbai.chainstacklabs.com/",
+      "https://rpc-mumbai.maticvigil.com/"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  }
+]

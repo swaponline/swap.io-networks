@@ -1,0 +1,689 @@
+[
+  {
+    "type": "evm",
+    "slug": "avalanche-c",
+    "name": "Avalanche C-Chain",
+    "isTestnet": false,
+    "priority": 13,
+    "chainId": "0xa86a",
+    "tokensType": "ERC20AVAX",
+    "coins": [
+      "/networks/avalanche-c/coins/AVAX/info.json"
+    ],
+    "explorers": [
+      "https://avascan.info/blockchain/c/txs",
+      "https://cchain.explorer.avax.network/"
+    ],
+    "rpc": [
+      "https://api.avax.network/ext/bc/C/rpc"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  },
+  {
+    "type": "avm",
+    "slug": "avalanche-x",
+    "name": "Avalanche X-Chain",
+    "isTestnet": false,
+    "priority": 14,
+    "coins": [
+      "/networks/avalanche-x/coins/AVAX/info.json"
+    ],
+    "explorers": [
+      "https://avascan.info/blockchain/x/txs"
+    ],
+    "rpc": [
+      "https://api.avax.network/ext/vm/avm"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "9000"
+    }
+  },
+  {
+    "type": "evm",
+    "slug": "binance-smart-chain",
+    "name": "Binance Smart Chain",
+    "isTestnet": false,
+    "priority": 5,
+    "chainId": "0x38",
+    "tokensType": "BEP20",
+    "coins": [
+      "/networks/binance-smart-chain/coins/BNB/info.json"
+    ],
+    "explorers": [
+      "https://bscscan.com/"
+    ],
+    "rpc": [
+      "https://bsc-dataseed.binance.org/",
+      "https://bsc-dataseed1.defibit.io/",
+      "https://bsc-dataseed1.ninicoin.io/"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  },
+  {
+    "type": "utxo",
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "fee_max": 1000000,
+    "fee_min": 1024,
+    "dust_amount": 1000,
+    "isTestnet": false,
+    "priority": 1,
+    "coins": [
+      "/networks/bitcoin/coins/BTC/info.json"
+    ],
+    "explorers": [
+      "https://www.blockchain.com/btc/",
+      "https://live.blockcypher.com/",
+      "https://blockchair.com/bitcoin/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "user": "user",
+        "pass": "pass",
+        "host": "127.0.0.1",
+        "port": "8333"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "0"
+    },
+    "network": {
+      "type": "mainnet",
+      "settings": {
+        "port": 8333,
+        "magic": 4190024921,
+        "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+        "base58prefix": {
+          "pubKeyHash": 0,
+          "scriptHash": 5,
+          "privateKeyWIF": 128,
+          "publicKeyBIP32": 76067358,
+          "privateKeyBIP32": 76066276
+        }
+      }
+    },
+    "prefix": {
+      "message": "\u0018Bitcoin Signed Message:\n",
+      "p2pkh": "00",
+      "p2sh": "05",
+      "bech32": "bc",
+      "wif": "80"
+    }
+  },
+  {
+    "type": "utxo",
+    "slug": "bitcoin-sv",
+    "name": "Bitcoin SV",
+    "fee_max": 1000000,
+    "fee_min": 1024,
+    "dust_amount": 1000,
+    "isTestnet": false,
+    "priority": 21,
+    "coins": [
+      "/networks/bitcoin-sv/coins/BSV/info.json"
+    ],
+    "explorers": [
+      "https://www.blockchain.com/bitcoin-sv/",
+      "https://www.oklink.com/bsv/",
+      "https://bsv.tokenview.com/en/",
+      "https://explorer.viawallet.com/bsv/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "user": "user",
+        "pass": "pass",
+        "host": "127.0.0.1",
+        "port": "8333"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "236"
+    },
+    "network": {
+      "type": "mainnet",
+      "settings": {
+        "port": 8333,
+        "magic": 3823236072,
+        "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+        "base58prefix": {
+          "pubKeyHash": 0,
+          "scriptHash": 5,
+          "privateKeyWIF": 128,
+          "publicKeyBIP32": 76067358,
+          "privateKeyBIP32": 76066276
+        }
+      }
+    },
+    "prefix": {
+      "message": "\u0018Bitcoin Signed Message:\n",
+      "p2pkh": "00",
+      "p2sh": "05",
+      "bech32": "bc",
+      "wif": "80"
+    },
+    "parent": "bitcoin"
+  },
+  {
+    "type": "eutxo",
+    "slug": "cardano",
+    "name": "Cardano",
+    "isTestnet": false,
+    "priority": 17,
+    "coins": [
+      "/networks/cardano/coins/ADA/info.json"
+    ],
+    "explorers": [
+      "https://explorer.cardano.org/",
+      "https://cardanoscan.io/",
+      "https://blockchair.com/cardano/"
+    ],
+    "rpc": [],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "1815"
+    }
+  },
+  {
+    "type": "utxo",
+    "slug": "dogecoin",
+    "name": "Dogecoin",
+    "fee_max": 500000000,
+    "fee_min": 100000000,
+    "dust_amount": 100000000,
+    "isTestnet": false,
+    "priority": 16,
+    "coins": [
+      "/networks/dogecoin/coins/DOGE/info.json"
+    ],
+    "explorers": [
+      "https://blockchair.com/dogecoin/",
+      "https://dogechain.info/chain/Dogecoin/",
+      "https://doge.tokenview.com/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "user": "user",
+        "pass": "pass",
+        "host": "127.0.0.1",
+        "port": "22556"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "3"
+    },
+    "network": {
+      "type": "mainnet",
+      "settings": {
+        "port": 22556,
+        "magic": 3233857728,
+        "messagePrefix": "\u0019Dogecoin Signed Message:\n",
+        "base58prefix": {
+          "pubKeyHash": 30,
+          "scriptHash": 22,
+          "privateKeyWIF": 158,
+          "publicKeyBIP32": 49990397,
+          "privateKeyBIP32": 49988504
+        }
+      }
+    },
+    "prefix": {
+      "message": "\u0019Dogecoin Signed Message:\n",
+      "p2pkh": "1e",
+      "p2sh": "16",
+      "bech32": "dc",
+      "wif": "9e"
+    }
+  },
+  {
+    "type": "evm",
+    "slug": "ethereum",
+    "name": "Ethereum",
+    "isTestnet": false,
+    "priority": 3,
+    "chainId": "0x1",
+    "tokensType": "ERC20",
+    "coins": [
+      "/networks/ethereum/coins/ETH/info.json"
+    ],
+    "explorers": [
+      "https://etherscan.io/",
+      "https://ethplorer.io/",
+      "https://blockchair.com/ethereum/"
+    ],
+    "rpc": [
+      "https://mainnet.infura.io/v3/5ffc47f65c4042ce847ef66a3fa70d4c",
+      "https://api.mycryptoapi.com/eth"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    }
+  },
+  {
+    "type": "utxo",
+    "slug": "handshake",
+    "name": "Handshake",
+    "isTestnet": false,
+    "fee_max": 400000,
+    "fee_min": 1000,
+    "dust_amount": 1000,
+    "priority": 9,
+    "coins": [
+      "/networks/handshake/coins/HNS/info.json"
+    ],
+    "explorers": [
+      "https://hnscan.com/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "host": "127.0.0.1",
+        "port": "12037"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "5353"
+    },
+    "network": {
+      "type": "mainnet",
+      "settings": {
+        "port": 12037,
+        "magic": 1533997779,
+        "messagePrefix": "\u001aHandshake Signed Message:\n",
+        "base58prefix": {
+          "pubKeyHash": 0,
+          "scriptHash": 5,
+          "privateKeyWIF": 128,
+          "publicKeyBIP32": 76067358,
+          "privateKeyBIP32": 76066276
+        }
+      }
+    },
+    "prefix": {
+      "message": "\u001aHandshake Signed Message:\n",
+      "p2pkh": "00",
+      "p2sh": "05",
+      "bech32": "hs",
+      "wif": "0x80"
+    }
+  },
+  {
+    "type": "substrate",
+    "slug": "kusama",
+    "name": "Polkadot",
+    "isTestnet": false,
+    "priority": 11,
+    "coins": [
+      "/networks/kusama/coins/KSM/info.json"
+    ],
+    "explorers": [
+      "https://kusama.subscan.io/",
+      "https://polkascan.io/kusama",
+      "https://kusama.polkastats.io/"
+    ],
+    "rpc": [
+      "https://api.elara.patract.io/kusama/YOUR-PROJECT-ID"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "354"
+    },
+    "parent": "polkadot"
+  },
+  {
+    "type": "utxo",
+    "slug": "litecoin",
+    "name": "Litecoin",
+    "fee_max": 1000000,
+    "fee_min": 5460,
+    "dust_amount": 5460,
+    "isTestnet": false,
+    "priority": 15,
+    "coins": [
+      "/networks/litecoin/coins/LTC/info.json"
+    ],
+    "explorers": [
+      "https://blockchair.com/litecoin/",
+      "https://ltc.tokenview.com/en/",
+      "https://chainz.cryptoid.info/ltc/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "user": "user",
+        "pass": "pass",
+        "host": "127.0.0.1",
+        "port": "9333"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "2"
+    },
+    "network": {
+      "type": "mainnet",
+      "settings": {
+        "port": 9333,
+        "magic": 4223710939,
+        "messagePrefix": "\u0019Litecoin Signed Message:\n",
+        "base58prefix": {
+          "pubKeyHash": 48,
+          "scriptHash": 50,
+          "privateKeyWIF": 176,
+          "publicKeyBIP32": 27108450,
+          "privateKeyBIP32": 27106558
+        }
+      }
+    },
+    "prefix": {
+      "message": "\u0019Litecoin Signed Message:\n",
+      "p2pkh": "30",
+      "p2sh": "32",
+      "bech32": "ltc",
+      "wif": "b0"
+    }
+  },
+  {
+    "type": "utxo",
+    "slug": "monero",
+    "name": "Monero",
+    "isTestnet": false,
+    "priority": 20,
+    "coins": [
+      "/networks/monero/coins/XMR/info.json"
+    ],
+    "explorers": [
+      "https://xmr.tokenview.com/",
+      "https://localmonero.co/blocks/",
+      "https://blockchair.com/monero/"
+    ],
+    "rpc": [
+      {
+        "protocol": "http",
+        "user": "",
+        "pass": "",
+        "host": "node.moneroworld.com",
+        "port": "18089"
+      },
+      {
+        "protocol": "http",
+        "user": "",
+        "pass": "",
+        "host": "opennode.xmr-tw.org",
+        "port": "18089"
+      },
+      {
+        "protocol": "http",
+        "user": "",
+        "pass": "",
+        "host": "uwillrunanodesoon.moneroworld.com",
+        "port": "18089"
+      },
+      {
+        "protocol": "http",
+        "user": "user",
+        "pass": "pass",
+        "host": "127.0.0.1",
+        "port": "18081"
+      }
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "128"
+    },
+    "network": {
+      "type": "mainnet",
+      "settings": {
+        "port": 18081,
+        "magic": null,
+        "messagePrefix": "",
+        "base58prefix": {
+          "pubKeyHash": null,
+          "scriptHash": 19,
+          "privateKeyWIF": null,
+          "publicKeyBIP32": null,
+          "privateKeyBIP32": null
+        }
+      }
+    }
+  },
+  {
+    "type": "substrate",
+    "slug": "polkadot",
+    "name": "Polkadot",
+    "isTestnet": false,
+    "priority": 10,
+    "coins": [
+      "/networks/polkadot/coins/DOT/info.json"
+    ],
+    "explorers": [
+      "https://polkadot.subscan.io/",
+      "https://polkascan.io/polkadot",
+      "https://polkastats.io/"
+    ],
+    "rpc": [
+      "https://api.elara.patract.io/polkadot/YOUR-PROJECT-ID"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "354"
+    }
+  },
+  {
+    "type": "evm",
+    "slug": "polygon",
+    "name": "Polygon",
+    "isTestnet": false,
+    "priority": 7,
+    "chainId": "0x89",
+    "tokensType": "ERC20MATIC",
+    "coins": [
+      "/networks/polygon/coins/MATIC/info.json"
+    ],
+    "explorers": [
+      "https://polygonscan.com/"
+    ],
+    "rpc": [
+      "https://rpc-mainnet.matic.network",
+      "https://matic-mainnet.chainstacklabs.com",
+      "https://rpc-mainnet.maticvigil.com",
+      "https://rpc-mainnet.matic.quiknode.pro"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  },
+  {
+    "type": "unknown",
+    "slug": "solana",
+    "name": "Solana",
+    "isTestnet": false,
+    "priority": 12,
+    "baseCoin": "SOL",
+    "coins": [
+      "/networks/solana/coins/SOL/info.json"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/"
+    ],
+    "rpc": [
+      "https://api.mainnet-beta.solana.com",
+      "https://solana-api.projectserum.com"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "501"
+    }
+  },
+  {
+    "type": "ab",
+    "slug": "stellar",
+    "name": "Stellar",
+    "isTestnet": false,
+    "priority": 18,
+    "coins": [
+      "/networks/stellar/coins/XLM/info.json"
+    ],
+    "explorers": [
+      "https://blockchair.com/stellar/",
+      "https://steexp.com/",
+      "https://stellar.expert/explorer/public/",
+      "https://dashboard.stellar.org/"
+    ],
+    "rpc": [
+      "https://horizon.stellar.org/"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "148"
+    }
+  },
+  {
+    "type": "evm",
+    "slug": "tron",
+    "name": "TRON",
+    "isTestnet": false,
+    "priority": 22,
+    "chainId": 1,
+    "tokensType": "TRC20",
+    "coins": [
+      "/networks/tron/coins/TRX/info.json"
+    ],
+    "explorers": [
+      "https://tronscan.org/#/",
+      "https://trx.tokenview.com/en/"
+    ],
+    "rpc": [
+      "http://3.225.171.164:8090",
+      "http://52.53.189.99:8090",
+      "http://18.196.99.16:8090",
+      "http://34.253.187.192:8090",
+      "http://18.133.82.227:8090"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "195"
+    },
+    "prefix": {
+      "message": "\u0019TRON Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    }
+  },
+  {
+    "type": "evm",
+    "slug": "vechain",
+    "name": "Vechain",
+    "isTestnet": false,
+    "priority": 19,
+    "chainId": 1,
+    "genesisId": "0x00000000851caf3cfdb6e899cf5958bfb1ac3413d346d43539627e6be7ec1b4a",
+    "tokensType": "VIP180",
+    "coins": [
+      "/networks/vechain/coins/VET/info.json",
+      "/networks/vechain/tokens/VTHO--0x0000000000000000000000000000456e65726779/info.json"
+    ],
+    "explorers": [
+      "https://explore.vechain.org/",
+      "https://insight.vecha.in/#/main/",
+      "https://explorer.vtho.net/#/"
+    ],
+    "rpc": [
+      "https://vethor-node.vechain.com/",
+      "https://mainnet.veblocks.net/",
+      "http://45.32.212.120:8669/"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "818"
+    },
+    "prefix": {
+      "message": "\u0019VeChain Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    }
+  },
+  {
+    "type": "evm",
+    "slug": "xdai",
+    "name": "xDai",
+    "isTestnet": false,
+    "priority": 23,
+    "chainId": "0x64",
+    "tokensType": "ERC20XDAI",
+    "coins": [
+      "/networks/xdai/coins/xDAI/info.json"
+    ],
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/"
+    ],
+    "rpc": [
+      "https://rpc.xdaichain.com/",
+      "https://xdai.poanetwork.dev/",
+      "http://xdai.poanetwork.dev/",
+      "https://dai.poa.network/"
+    ],
+    "bip44": {
+      "purpose": "44",
+      "cointype": "60"
+    },
+    "prefix": {
+      "message": "\u0019Ethereum Signed Message:\n",
+      "base58prefix": {
+        "publicKeyBIP32": 76067358,
+        "privateKeyBIP32": 76066276
+      }
+    },
+    "parent": "ethereum"
+  }
+]

@@ -8,11 +8,17 @@ import { readJsonFile, checkFile, writeToFileWithUpdate } from "../common/json"
 
 const updateNetworks = () => {
   const distPath = getAbsolutePath('/dist')
+  const mainnetPath = `${distPath}/mainnet`
+  const testnetPath = `${distPath}/testnet`
   const networksFileName = 'networks.json'
   const networksInfoFileName = 'networksInfo.json'
 
-  checkFile(distPath, networksFileName, [])
+  const mainnetNetworks: string[] = []
+  const mainnetNetworksInfo: any[]= []
+  const testnetNetworks: string[] = []
+  const testnetNetworksInfo: any[]= []
 
+  checkFile(distPath, networksFileName, [])
   writeToFileWithUpdate(distPath, networksFileName, allNetworks)
 
   const networksList = readJsonFile(`${distPath}/${networksFileName}`) as string[]
@@ -20,9 +26,32 @@ const updateNetworks = () => {
   checkFile(distPath, networksInfoFileName, [])
 
   const networksFullInfo = networksList
-    .map(network => getFullNetworkInfo({ network }))
+    .map(network => {
+      const networkFullInfo = getFullNetworkInfo({ network })
+      if (networkFullInfo.isTestnet) {
+        testnetNetworks.push(network)
+        testnetNetworksInfo.push(networkFullInfo)
+      } else {
+        mainnetNetworks.push(network)
+        mainnetNetworksInfo.push(networkFullInfo)
+      }
+
+      return networkFullInfo
+    })
 
   writeToFileWithUpdate(distPath, networksInfoFileName, networksFullInfo)
+
+  checkFile(mainnetPath, networksFileName, [])
+  writeToFileWithUpdate(mainnetPath, networksFileName, mainnetNetworks)
+
+  checkFile(mainnetPath, networksInfoFileName, [])
+  writeToFileWithUpdate(mainnetPath, networksInfoFileName, mainnetNetworksInfo)
+
+  checkFile(testnetPath, networksFileName, [])
+  writeToFileWithUpdate(testnetPath, networksFileName, testnetNetworks)
+
+  checkFile(testnetPath, networksInfoFileName, [])
+  writeToFileWithUpdate(testnetPath, networksInfoFileName, testnetNetworksInfo)
 }
 
 updateNetworks()
