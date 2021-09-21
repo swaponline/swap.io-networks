@@ -16,6 +16,8 @@ You will soon be able to explore the repository with a web app:
 
 https://networks.swap.io
 
+# doc
+
 ### The network parameters
 
 > This is only a template...
