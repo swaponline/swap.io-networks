@@ -6,6 +6,8 @@
   "chainId": 1,
   "logo": "/networks/ethereum/tokens/tBTC--0x8daebade922df735c38c80c7ebd708af50815faa/logo.png",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "bitcoin"
   ]
 }

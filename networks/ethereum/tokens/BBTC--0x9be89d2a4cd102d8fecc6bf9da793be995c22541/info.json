@@ -1,11 +1,13 @@
 {
-  "name": "BinanceWrappedBTC",
+  "name": "Binance Wrapped BTC",
   "address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
   "symbol": "BBTC",
   "decimals": 8,
   "chainId": 1,
   "logo": "/networks/ethereum/tokens/BBTC--0x9be89d2a4cd102d8fecc6bf9da793be995c22541/logo.png",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "bitcoin"
   ]
 }

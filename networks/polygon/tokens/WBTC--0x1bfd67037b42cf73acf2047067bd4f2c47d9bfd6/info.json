@@ -6,6 +6,8 @@
   "chainId": 137,
   "logo": "/networks/polygon/tokens/WBTC--0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/logo.png",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "bitcoin"
   ]
 }

@@ -1,9 +1,0 @@
-{
-  "name": "Wrapped BTC",
-  "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-  "symbol": "WBTC",
-  "decimals": 8,
-  "chainId": 1,
-  "logo": "/networks/ethereum/tokens/WBTC--0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.svg",
-  "tags": ["erc20"]
-}
