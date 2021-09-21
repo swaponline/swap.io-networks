@@ -10,6 +10,12 @@ Here is the outline of the structure of the repo:
 ![image](https://user-images.githubusercontent.com/22708849/134170629-0f2d19f7-b732-4732-b4d4-3467f7c25a8e.png)
 
 
+# explore
+
+You will soon be able to explore the repository on a web app:
+
+https://networks.swap.io
+
 ### The network parameters
 
 > This is only a template...
