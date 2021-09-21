@@ -12,7 +12,7 @@ Here is the outline of the structure of the repo:
 
 # explore
 
-You will soon be able to explore the repository on a web app:
+You will soon be able to explore the repository with a web app:
 
 https://networks.swap.io
 
