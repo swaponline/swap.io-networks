@@ -1,0 +1,8 @@
+{
+  "symbol": "HNS",
+  "name": "Handshake",
+  "logo": "/networks/handshake/coins/HNS/logo.png",
+  "asset-list": [
+    "/networks/handshake/coins/HNS/info.json"
+  ]
+}

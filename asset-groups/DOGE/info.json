@@ -1,6 +1,6 @@
 {
-  "symbol": "BSV",
-  "name": "Bitcoin SV",
+  "symbol": "DOGE",
+  "name": "Dogecoin",
   "logo": "/networks/dogecoin/coins/DOGE/logo.svg",
   "asset-list": [
     "/networks/dogecoin/coins/DOGE/info.json",

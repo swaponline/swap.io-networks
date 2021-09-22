@@ -1,0 +1,8 @@
+{
+  "symbol": "KSM",
+  "name": "Kusama",
+  "logo": "/networks/kusama/coins/KSM/logo.svg",
+  "asset-list": [
+    "/networks/kusama/coins/KSM/info.json"
+  ]
+}
