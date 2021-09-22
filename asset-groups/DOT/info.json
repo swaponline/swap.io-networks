@@ -1,0 +1,9 @@
+{
+  "symbol": "DOT",
+  "name": "Polkadot",
+  "logo": "/networks/polkadot/coins/DOT/logo.svg",
+  "asset-list": [
+    "/networks/polkadot/coins/DOT/info.json",
+    "/networks/binance-smart-chain/tokens/DOT--0x7083609fce4d1d8dc0c979aab8c869ea2c873402/info.json"
+  ]
+}
