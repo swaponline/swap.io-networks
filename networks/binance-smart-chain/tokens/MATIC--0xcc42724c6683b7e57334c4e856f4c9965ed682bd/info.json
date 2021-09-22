@@ -1,0 +1,13 @@
+{
+  "name": "Polygon",
+  "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/polygon/coinst/MATIC/logo.svg",
+  "tags": [
+    "bep20",
+    "wrapped",
+    "polygon"
+  ]
+}
