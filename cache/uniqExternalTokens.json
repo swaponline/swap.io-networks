@@ -49728,23 +49728,6 @@
       "quickswap token list"
     ]
   },
-  "ETH--0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
-    "names": [
-      "Ether"
-    ],
-    "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-    "symbol": "ETH",
-    "decimals": 18,
-    "chainIds": [
-      137
-    ],
-    "logoURIs": [
-      "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    ],
-    "tags": [
-      "quickswap token list"
-    ]
-  },
   "EZ--0x34c1b299a74588d6abdc1b85a53345a48428a521": {
     "names": [
       "EASY V2",

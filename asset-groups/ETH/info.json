@@ -1,0 +1,12 @@
+{
+  "symbol": "ETH",
+  "name": "Ether",
+  "logo": "/networks/ethereum/coins/ETH/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/coins/ETH/info.json",
+    "/networks/ethereum/tokens/WETH--0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/info.json",
+    "/networks/binance-smart-chain/tokens/ETH--0x2170Ed0880ac9A755fd29B2688956BD959F933F8/info.json",
+    "/networks/polygon/tokens/WETH--0x7ceb23fd6bc0add59e62ac25578270cff1b9f619/info.json",
+    "/networks/avalanche-c/tokens/WETH--0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab/info.json"
+  ]
+}

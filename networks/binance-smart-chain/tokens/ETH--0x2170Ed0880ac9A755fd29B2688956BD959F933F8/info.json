@@ -6,6 +6,8 @@
   "chainId": 56,
   "logo": "/networks/binance-smart-chain/tokens/ETH--0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "ether"
   ]
 }
