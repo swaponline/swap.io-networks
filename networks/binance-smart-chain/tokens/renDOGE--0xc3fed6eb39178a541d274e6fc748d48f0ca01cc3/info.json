@@ -6,6 +6,8 @@
   "chainId": 56,
   "logo": "/networks/binance-smart-chain/tokens/renDOGE--0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3/logo.png",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "dogecoin"
   ]
 }

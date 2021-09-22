@@ -1,0 +1,12 @@
+{
+  "symbol": "BSV",
+  "name": "Bitcoin SV",
+  "logo": "/networks/dogecoin/coins/DOGE/logo.svg",
+  "asset-list": [
+    "/networks/dogecoin/coins/DOGE/info.json",
+    "/networks/binance-smart-chain/tokens/DOGE--0xba2ae424d960c26247dd6c32edc70b295c744c43/info.json",
+    "/networks/ethereum/tokens/renDOGE--0x3832d2f059e55934220881f831be501d180671a7/info.json",
+    "/networks/binance-smart-chain/tokens/renDOGE--0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3/info.json",
+    "/networks/polygon/tokens/renDOGE--0xce829a89d4a55a63418bcc43f00145adef0edb8e/info.json"
+  ]
+}

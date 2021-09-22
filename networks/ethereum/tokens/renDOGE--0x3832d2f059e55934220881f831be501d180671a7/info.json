@@ -6,6 +6,8 @@
   "chainId": 1,
   "logo": "/networks/ethereum/tokens/renDOGE--0x3832d2f059e55934220881f831be501d180671a7/logo.png",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "dogecoin"
   ]
 }

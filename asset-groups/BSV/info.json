@@ -1,0 +1,8 @@
+{
+  "symbol": "BSV",
+  "name": "Bitcoin SV",
+  "logo": "/networks/bitcoin-sv/coins/BSV/logo.svg",
+  "asset-list": [
+    "/networks/bitcoin-sv/coins/BSV/info.json"
+  ]
+}
