@@ -6,6 +6,10 @@
   "chainId": 137,
   "logo": "/networks/polygon/tokens/DAI--0x8f3cf7ad23cd3cadbd9735aff958023239c6a063/logo.png",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "xdai",
+    "stablecoin",
+    "usd"
   ]
 }

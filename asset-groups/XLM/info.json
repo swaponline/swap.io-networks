@@ -1,0 +1,8 @@
+{
+  "symbol": "XLM",
+  "name": "Stellar Lumen",
+  "logo": "/networks/stellar/coins/XLM/logo.svg",
+  "asset-list": [
+    "/networks/stellar/coins/XLM/info.json"
+  ]
+}

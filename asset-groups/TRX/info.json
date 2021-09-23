@@ -1,0 +1,9 @@
+{
+  "symbol": "TRX",
+  "name": "Tron",
+  "logo": "/networks/tron/coins/TRX/logo.svg",
+  "asset-list": [
+    "/networks/tron/coins/TRX/info.json",
+    "/networks/binance-smart-chain/tokens/TRX--0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b/info.json"
+  ]
+}
