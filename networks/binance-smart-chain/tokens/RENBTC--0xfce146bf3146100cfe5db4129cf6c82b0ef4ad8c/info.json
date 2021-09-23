@@ -6,6 +6,8 @@
   "chainId": 56,
   "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.png",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "bitcoin"
   ]
 }

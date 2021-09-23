@@ -6,6 +6,8 @@
   "chainId": 56,
   "logo": "/networks/binance-smart-chain/tokens/LTC--0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "litecoin"
   ]
 }

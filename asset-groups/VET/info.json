@@ -1,0 +1,8 @@
+{
+  "symbol": "VET",
+  "name": "VeChain",
+  "logo": "/networks/vechain/coins/VET/logo.svg",
+  "asset-list": [
+    "/networks/vechain/coins/VET/info.json"
+  ]
+}

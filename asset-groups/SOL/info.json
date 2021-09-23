@@ -1,0 +1,8 @@
+{
+  "symbol": "SOL",
+  "name": "Solana",
+  "logo": "/networks/solana/coins/SOL/logo.svg",
+  "asset-list": [
+    "/networks/solana/coins/SOL/info.json"
+  ]
+}

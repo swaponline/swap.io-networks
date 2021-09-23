@@ -1,0 +1,11 @@
+{
+  "symbol": "AVAX",
+  "name": "Avalanche",
+  "logo": "/networks/avalanche-c/coins/AVAX/logo.svg",
+  "asset-list": [
+    "/networks/avalanche-c/coins/AVAX/info.json",
+    "/networks/avalanche-x/coins/AVAX/info.json",
+    "/networks/avalanche-c/tokens/WAVAX--0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/info.json",
+    "/networks/binance-smart-chain/tokens/AVAX--0x1ce0c2827e2ef14d5c4f29a091d735a204794041/info.json"
+  ]
+}

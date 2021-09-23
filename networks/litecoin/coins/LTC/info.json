@@ -1,9 +1,9 @@
 {
-    "symbol": "LTC",
-    "slug": "litecoin",
-    "name": "Litecoin",
-    "name_plural": "Litecoins",
-    "denominator": 1e-8,
-    "type": "coin",
-    "logo": "/networks/litecoin/coins/LTC/logo.svg"
-  }
+  "symbol": "LTC",
+  "slug": "litecoin",
+  "name": "Litecoin",
+  "name_plural": "Litecoins",
+  "denominator": 1e-8,
+  "type": "coin",
+  "logo": "/networks/litecoin/coins/LTC/logo.svg"
+}

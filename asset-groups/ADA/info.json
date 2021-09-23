@@ -1,0 +1,9 @@
+{
+  "symbol": "ADA",
+  "name": "Cardano",
+  "logo": "/networks/cardano/coins/ADA/logo.svg",
+  "asset-list": [
+    "/networks/cardano/coins/ADA/info.json",
+    "/networks/binance-smart-chain/tokens/ADA--0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/info.json"
+  ]
+}

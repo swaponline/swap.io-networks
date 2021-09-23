@@ -6,6 +6,8 @@
   "chainId": 137,
   "logo": "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/logo.png",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "binance"
   ]
 }

@@ -6,6 +6,8 @@
   "chainId": 1,
   "logo": "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.png",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "bitcoin"
   ]
 }
