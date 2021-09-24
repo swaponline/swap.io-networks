@@ -1,9 +1,9 @@
 {
-    "symbol": "BNB",
-    "slug": "binance-coin",
-    "name": "Binance Coin",
-    "name_plural": "Binance Coins",
-    "denominator": 1e-18,
-    "type": "coin",
-    "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-  }
+  "symbol": "BNB",
+  "slug": "binance-coin",
+  "name": "Binance Coin",
+  "name_plural": "Binance Coins",
+  "denominator": 1e-18,
+  "type": "coin",
+  "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+}
