@@ -9,7 +9,7 @@ import {
 import { readJsonFile, checkFile, writeToFileWithUpdate } from "../common/json"
 
 
-const updateNetworks = () => {
+const generateAssetGroups = () => {
   const distPath = getAbsolutePath('/dist')
   const mainnetPath = `${distPath}/mainnet`
   const testnetPath = `${distPath}/testnet`
@@ -41,4 +41,4 @@ const updateNetworks = () => {
   writeToFileWithUpdate(testnetPath, assetGroupsFileName, testnetAssetGroups)
 }
 
-updateNetworks()
+generateAssetGroups()
