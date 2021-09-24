@@ -1,7 +1,8 @@
 import * as path from "path"
 import {
   isPathExistsSync,
-  readDirSync
+  readDirSync,
+  readOnlyDirSync,
 } from "./filesystem"
 
 export const logoName = `logo`
@@ -21,9 +22,17 @@ export const networkFolderAllowedFiles = [
 ]
 
 export const getAbsolutePath = (relativePath: string): string => path.join(process.cwd(), relativePath)
-export const networksPath: string = path.join(process.cwd(), '/networks')
-export const getNetworkPath = (network: string): string => `${networksPath}/${network}`
+
+export const customAssetGroupsPath = getAbsolutePath('/asset-groups')
+export const customAssetGroups = readOnlyDirSync(customAssetGroupsPath)
+
+export const getAssetGroupPath = (assetGroup: string): string => `${customAssetGroupsPath}/${assetGroup}`
+export const getAssetGroupInfoPath = (assetGroup: string): string => `${getAssetGroupPath(assetGroup)}/${infoFullName}`
+
+export const networksPath = getAbsolutePath('/networks')
 export const allNetworks = readDirSync(networksPath)
+
+export const getNetworkPath = (network: string): string => `${networksPath}/${network}`
 export const getNetworkInfoPath = (network: string): string => `${getNetworkPath(network)}/${infoFullName}`
 export const getNetworkLogoPaths = (network: string): string[] => logoFullNames.map(logoFullName => `${getNetworkInfoPath(network)}/${logoFullName}`)
 export const getNetworkCoinInfoPath = (network: string): string => `${getNetworkInfoPath(network)}/${infoFullName}`
