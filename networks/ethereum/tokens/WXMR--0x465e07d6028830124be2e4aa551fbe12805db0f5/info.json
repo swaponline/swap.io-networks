@@ -6,6 +6,8 @@
   "chainId": 1,
   "logo": "/networks/ethereum/tokens/WXMR--0x465e07d6028830124be2e4aa551fbe12805db0f5/logo.png",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "monero"
   ]
 }

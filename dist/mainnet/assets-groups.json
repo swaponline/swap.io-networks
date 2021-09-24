@@ -450,7 +450,6 @@
             "symbol": "AGA",
             "decimals": 4,
             "type": "token",
-            "type": "token",
             "chainId": 137,
             "logo": "/networks/polygon/tokens/AGA--0x033d942a6b495c4071083f4cde1f17e986fe856c/logo.png",
             "tags": [
