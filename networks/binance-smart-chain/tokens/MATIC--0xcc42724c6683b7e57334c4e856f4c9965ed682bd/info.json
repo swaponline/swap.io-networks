@@ -4,7 +4,7 @@
   "symbol": "MATIC",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/polygon/coinst/MATIC/logo.svg",
+  "logo": "/networks/polygon/coins/MATIC/logo.svg",
   "tags": [
     "bep20",
     "wrapped",

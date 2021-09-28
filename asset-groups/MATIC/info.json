@@ -1,9 +1,9 @@
 {
   "symbol": "MATIC",
   "name": "Polygon",
-  "logo": "/networks/polygon/coinst/MATIC/logo.svg",
+  "logo": "/networks/polygon/coins/MATIC/logo.svg",
   "asset-list": [
-    "/networks/polygon/coinst/MATIC/info.json",
+    "/networks/polygon/coins/MATIC/info.json",
     "/networks/polygon/tokens/WMATIC--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/info.json",
     "/networks/ethereum/tokens/MATIC--0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/info.json",
     "/networks/binance-smart-chain/tokens/MATIC--0xcc42724c6683b7e57334c4e856f4c9965ed682bd/info.json"

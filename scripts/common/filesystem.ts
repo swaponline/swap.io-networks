@@ -9,6 +9,10 @@ export const getFileExt = (name: string): string => name.slice((Math.max(0, name
 export const readFileSync = (path: string): string => fs.readFileSync(path, 'utf8')
 export const writeFileSync = (path: string, data: any): void => fs.writeFileSync(path, data)
 export const readDirSync = (path: string): string[] => fs.readdirSync(path)
+export const readOnlyDirSync = (path: string): string[] =>
+  fs.readdirSync(path, { withFileTypes: true })
+    .filter(dirent => dirent.isDirectory())
+    .map(dirent => dirent.name)
 export const isPathExistsSync = (path: string): boolean => fs.existsSync(path)
 export const getFileSizeInKilobyte = (path: string): number => fs.statSync(path).size / 1000
 export const createDirSync = (path: string): void | false => !isPathExistsSync(path) && fs.mkdirSync(path)
