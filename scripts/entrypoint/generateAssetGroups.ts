@@ -71,6 +71,29 @@ type tokenInfo = {
   tags: string[]
 }
 
+type NetworkFullInfo = {
+  type: string
+  slug: string
+  name: string
+  priority: number
+  isTestnet: boolean
+  coins: string[]
+  explorers: string[]
+
+  rpc?: UniversalObj[]
+  bip44?: UniversalObj
+  network?: UniversalObj
+  prefix?: UniversalObj
+  parent?: string
+
+  fee_max?: number
+  fee_min?: number
+  dust_amount?: number
+
+  chainId?: string,
+  tokensType?: string,
+}
+
 type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
 
 
@@ -84,10 +107,10 @@ const generateAssetGroups = (dataType = "mainnet") => {
   const assetGroupsBySymbol: AssetGroupsBySymbol = {}
 
   // Preparing networks info for fast access to it
-  const networksInfo = readJsonFile(`${dataPath}/${networksInfoFileName}`) as UniversalObj[]
+  const networksInfo = readJsonFile(`${dataPath}/${networksInfoFileName}`) as NetworkFullInfo[]
 
   const networkPriorityBySlug: {[network: string]: number} = {}
-  const networkInfoBySlug: UniversalObj = {}
+  const networkInfoBySlug: {[network: string]: NetworkFullInfo} = {}
 
   const sortedNetworksInfo = networksInfo.sort((a,b) => a.priority - b.priority)
 
@@ -163,10 +186,44 @@ const generateAssetGroups = (dataType = "mainnet") => {
       return assetGroup
     })
 
-  assetGroups.push(...generatedCustomAssetGroups)
-
   // Generating networks coins asset-groups
-  console.log('assetGroupsBySymbol', Object.keys(assetGroupsBySymbol))
+  const generatedNetworksCoinstAssetGroups: AssetGroup[] = []
+
+  Object.keys(networkInfoBySlug).forEach(network => {
+    const {coins: networkCoins} = networkInfoBySlug[network]
+    const assetNetworkInfo = getAssetNetworkInfoBySlug(network)
+
+    networkCoins.forEach((coinPath: string) => {
+      const assetInfo = getAssetInfo(coinPath)
+      const { symbol, name, logo } = assetInfo
+
+      if (assetGroupsBySymbol[symbol]) return // you can add logic if asset-group is exist
+
+      const networksWithAssets: NetworkWithAssets[] = []
+
+      networksWithAssets.push({
+        network: assetNetworkInfo,
+        assets: [assetInfo]
+      })
+
+      const assetGroup: AssetGroup = {
+        symbol,
+        name,
+        logo,
+        priority: generatedCustomAssetGroups.length,
+        networks: networksWithAssets
+      }
+
+      generatedNetworksCoinstAssetGroups.push(assetGroup)
+      assetGroupsBySymbol[symbol] = assetGroup
+    })
+  })
+
+  // Generating networks tokens asset-groups
+
+
+
+  assetGroups.push(...generatedCustomAssetGroups, ...generatedNetworksCoinstAssetGroups)
 
   checkFile(dataPath, assetGroupsFileName, [])
   writeToFileWithUpdate(dataPath, assetGroupsFileName, assetGroups)
@@ -175,9 +232,9 @@ const generateAssetGroups = (dataType = "mainnet") => {
 const getNetworkSlugByAssetRelativePath = (relativePath: string): string => relativePath.split('/')[2]
 
 const getAssetNetworkInfoBySlug = (network: string): AssetNetworkInfo => {
-  const networkInfo = getFullNetworkInfo({ network })
+  const networkInfo = getFullNetworkInfo({ network }) as NetworkFullInfo
   const mainNetworkCoinPath = getAbsolutePath(networkInfo.coins[0])
-  const mainNetworkCoinInfo = readJsonFile(mainNetworkCoinPath) as AssetInfo
+  const mainNetworkCoinInfo = getAssetInfo(mainNetworkCoinPath)
 
   return {
     name: networkInfo.name,
@@ -187,7 +244,11 @@ const getAssetNetworkInfoBySlug = (network: string): AssetNetworkInfo => {
 }
 
 const getAssetInfo = (assetRelativePath: string) => {
-  const assetAbsolutePath = getAbsolutePath(assetRelativePath)
+
+  const assetAbsolutePath =
+    isPathExistsSync(assetRelativePath) ?
+      assetRelativePath :
+      getAbsolutePath(assetRelativePath)
 
   const assetInfo = readJsonFile(assetAbsolutePath) as AssetInfo
 
