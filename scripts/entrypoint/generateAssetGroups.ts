@@ -50,6 +50,10 @@ type AssetGroup = {
   networks: NetworkWithAssets[]
 }
 
+type AssetGroupsBySymbol = {
+  [symbol: string]: AssetGroup
+}
+
 type CustomAssetGroup = {
   symbol: string
   name: string
@@ -77,16 +81,17 @@ const generateAssetGroups = (dataType = "mainnet") => {
   const assetGroupsFileName = 'assets-groups.json'
 
   const assetGroups: AssetGroup[] = []
+  const assetGroupsBySymbol: AssetGroupsBySymbol = {}
 
   // Preparing networks info for fast access to it
-  const networksInfoList = readJsonFile(`${dataPath}/${networksInfoFileName}`) as UniversalObj[]
+  const networksInfo = readJsonFile(`${dataPath}/${networksInfoFileName}`) as UniversalObj[]
 
   const networkPriorityBySlug: {[network: string]: number} = {}
   const networkInfoBySlug: UniversalObj = {}
 
-  networksInfoList
-    .sort((a,b) => a.priority - b.priority)
-    .forEach((networkInfo, index) => {
+  const sortedNetworksInfo = networksInfo.sort((a,b) => a.priority - b.priority)
+
+  sortedNetworksInfo.forEach((networkInfo, index) => {
       networkPriorityBySlug[networkInfo.slug] = index
       networkInfoBySlug[networkInfo.slug] = networkInfo
     })
@@ -148,7 +153,20 @@ const generateAssetGroups = (dataType = "mainnet") => {
     generatedCustomAssetGroups.push(assetGroup)
   })
 
-  assetGroups.push(...generatedCustomAssetGroups.sort((a,b) => a.priority - b.priority))
+  // Sorting and set priority for custom asset-groups, it need for this expample:
+  // we have 2 Avalanche mainet networks and 1 AVAX asset-groups
+  generatedCustomAssetGroups
+    .sort((a,b) => a.priority - b.priority)
+    .map((assetGroup, index) => {
+      assetGroup.priority = index
+      assetGroupsBySymbol[assetGroup.symbol] = assetGroup
+      return assetGroup
+    })
+
+  assetGroups.push(...generatedCustomAssetGroups)
+
+  // Generating networks coins asset-groups
+  console.log('assetGroupsBySymbol', Object.keys(assetGroupsBySymbol))
 
   checkFile(dataPath, assetGroupsFileName, [])
   writeToFileWithUpdate(dataPath, assetGroupsFileName, assetGroups)

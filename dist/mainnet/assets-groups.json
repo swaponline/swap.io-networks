@@ -643,7 +643,7 @@
     "symbol": "LTC",
     "name": "Litecoin",
     "logo": "/networks/litecoin/coins/LTC/logo.svg",
-    "priority": 10,
+    "priority": 9,
     "networks": [
       {
         "network": {
@@ -692,7 +692,7 @@
     "symbol": "DOGE",
     "name": "Dogecoin",
     "logo": "/networks/dogecoin/coins/DOGE/logo.svg",
-    "priority": 11,
+    "priority": 10,
     "networks": [
       {
         "network": {
@@ -801,7 +801,7 @@
     "symbol": "ADA",
     "name": "Cardano",
     "logo": "/networks/cardano/coins/ADA/logo.svg",
-    "priority": 12,
+    "priority": 11,
     "networks": [
       {
         "network": {
@@ -850,7 +850,7 @@
     "symbol": "XLM",
     "name": "Stellar Lumen",
     "logo": "/networks/stellar/coins/XLM/logo.svg",
-    "priority": 13,
+    "priority": 12,
     "networks": [
       {
         "network": {
@@ -876,7 +876,7 @@
     "symbol": "VET",
     "name": "VeChain",
     "logo": "/networks/vechain/coins/VET/logo.svg",
-    "priority": 14,
+    "priority": 13,
     "networks": [
       {
         "network": {
@@ -902,7 +902,7 @@
     "symbol": "XMR",
     "name": "Monero",
     "logo": "/networks/monero/coins/XMR/logo.svg",
-    "priority": 15,
+    "priority": 14,
     "networks": [
       {
         "network": {
@@ -988,7 +988,7 @@
     "symbol": "BSV",
     "name": "Bitcoin SV",
     "logo": "/networks/bitcoin-sv/coins/BSV/logo.svg",
-    "priority": 16,
+    "priority": 15,
     "networks": [
       {
         "network": {
@@ -1014,7 +1014,7 @@
     "symbol": "TRX",
     "name": "Tron",
     "logo": "/networks/tron/coins/TRX/logo.svg",
-    "priority": 17,
+    "priority": 16,
     "networks": [
       {
         "network": {
@@ -1063,7 +1063,7 @@
     "symbol": "xDAI",
     "name": "xDai",
     "logo": "/networks/xdai/coins/xDAI/logo.svg",
-    "priority": 18,
+    "priority": 17,
     "networks": [
       {
         "network": {
