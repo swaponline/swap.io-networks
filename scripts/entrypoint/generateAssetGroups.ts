@@ -2,6 +2,8 @@ import {
   getAbsolutePath,
   customAssetGroups,
   getAssetGroupInfoPath,
+  getNetworkPath,
+  getNetworkTokenInfoPath,
 } from "../common/repo-structure"
 import {
   isPathExistsSync
@@ -190,7 +192,7 @@ const generateAssetGroups = (dataType = "mainnet") => {
   const generatedNetworksCoinstAssetGroups: AssetGroup[] = []
 
   Object.keys(networkInfoBySlug).forEach(network => {
-    const {coins: networkCoins} = networkInfoBySlug[network]
+    const { coins: networkCoins } = networkInfoBySlug[network]
     const assetNetworkInfo = getAssetNetworkInfoBySlug(network)
 
     networkCoins.forEach((coinPath: string) => {
@@ -220,10 +222,62 @@ const generateAssetGroups = (dataType = "mainnet") => {
   })
 
   // Generating networks tokens asset-groups
+  const generatedNetworksTokensAssetGroups: AssetGroup[] = []
+  const assetGroupWithDuplicatedSymbol: AssetGroup[] = []
+
+  Object.keys(networkInfoBySlug).forEach(network => {
+    const networkPath = getNetworkPath(network)
+    const allowlistFileName = 'allowlist.json'
+    const allowlistPath = `${networkPath}/${allowlistFileName}`
+
+    if (!isPathExistsSync(allowlistPath)) return
+
+    const assetNetworkInfo = getAssetNetworkInfoBySlug(network)
+    const allowlist = readJsonFile(allowlistPath) as string[]
+
+    allowlist.forEach((tokenID: string) => {
+      const tokenPath = getNetworkTokenInfoPath(network, tokenID)
+      const assetInfo = getAssetInfo(tokenPath)
+      const { symbol, name, logo } = assetInfo
+
+      const networksWithAssets: NetworkWithAssets[] = []
+
+      networksWithAssets.push({
+        network: assetNetworkInfo,
+        assets: [assetInfo]
+      })
+
+      const assetGroup: AssetGroup = {
+        symbol,
+        name,
+        logo,
+        priority: generatedCustomAssetGroups.length,
+        networks: networksWithAssets
+      }
+
+      if (assetGroupsBySymbol[symbol]) {
+        assetGroup.priority = -1
+        return assetGroupWithDuplicatedSymbol.push(assetGroup)
+      }
+
+      generatedNetworksTokensAssetGroups.push(assetGroup)
+      assetGroupsBySymbol[symbol] = assetGroup
+    })
+  })
 
 
+  assetGroups.push(
+    ...generatedCustomAssetGroups,
+    ...generatedNetworksCoinstAssetGroups,
+    ...generatedNetworksTokensAssetGroups
+  )
 
-  assetGroups.push(...generatedCustomAssetGroups, ...generatedNetworksCoinstAssetGroups)
+
+  if (assetGroupWithDuplicatedSymbol.length) {
+    const duplicatedAssetGroups = 'duplicatedAssetGroups.json'
+    checkFile(dataPath, duplicatedAssetGroups, [])
+    writeToFileWithUpdate(dataPath, duplicatedAssetGroups, assetGroupWithDuplicatedSymbol)
+  }
 
   checkFile(dataPath, assetGroupsFileName, [])
   writeToFileWithUpdate(dataPath, assetGroupsFileName, assetGroups)
@@ -243,12 +297,12 @@ const getAssetNetworkInfoBySlug = (network: string): AssetNetworkInfo => {
   }
 }
 
-const getAssetInfo = (assetRelativePath: string) => {
+const getAssetInfo = (assetPath: string) => {
 
   const assetAbsolutePath =
-    isPathExistsSync(assetRelativePath) ?
-      assetRelativePath :
-      getAbsolutePath(assetRelativePath)
+    isPathExistsSync(assetPath) ?
+      assetPath :
+      getAbsolutePath(assetPath)
 
   const assetInfo = readJsonFile(assetAbsolutePath) as AssetInfo
 
