@@ -123,6 +123,7 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
   // Generating custom asset-groups
   const generatedCustomAssetGroups: AssetGroup[] = []
+  const customAssetsAbsolutePaths: string[] = []
 
   const customAssetGroupsInfo: CustomAssetGroup[] = customAssetGroups.map(assetGroup => {
     const assetGroupInfoPath = getAssetGroupInfoPath(assetGroup)
@@ -145,6 +146,9 @@ const generateAssetGroups = (dataType = "mainnet") => {
     const networksWithAssets: NetworkWithAssets[] = []
 
     assetList.forEach(assetRelativePath => {
+      const assetAbsolutePath = getAbsolutePath(assetRelativePath)
+      customAssetsAbsolutePaths.push(assetAbsolutePath)
+
       const assetNetworkSlug = getNetworkSlugByAssetRelativePath(assetRelativePath)
 
       const networkWithAssetsIndex =
@@ -153,7 +157,7 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
       const isAlreadyHaveNetwork = networkWithAssetsIndex !== -1
 
-      const assetInfo = getAssetInfo(assetRelativePath)
+      const assetInfo = getAssetInfo(assetAbsolutePath)
 
       if (isAlreadyHaveNetwork) {
         return networksWithAssets[networkWithAssetsIndex].assets.push(assetInfo)
@@ -190,13 +194,17 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
   // Generating networks coins asset-groups
   const generatedNetworksCoinstAssetGroups: AssetGroup[] = []
+  const networksCoinsAbsolutePaths: string[] = []
 
   Object.keys(networkInfoBySlug).forEach(network => {
     const { coins: networkCoins } = networkInfoBySlug[network]
     const assetNetworkInfo = getAssetNetworkInfoBySlug(network)
 
     networkCoins.forEach((coinPath: string) => {
-      const assetInfo = getAssetInfo(coinPath)
+      const coinAbsolutePath = getAbsolutePath(coinPath)
+      networksCoinsAbsolutePaths.push(coinAbsolutePath)
+
+      const assetInfo = getAssetInfo(coinAbsolutePath)
       const { symbol, name, logo } = assetInfo
 
       if (assetGroupsBySymbol[symbol]) return // you can add logic if asset-group is exist
@@ -237,6 +245,13 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
     allowlist.forEach((tokenID: string) => {
       const tokenPath = getNetworkTokenInfoPath(network, tokenID)
+
+      // Don't add asset if it includes in customAssets or networks coins
+      if (
+        customAssetsAbsolutePaths.includes(tokenPath) ||
+        networksCoinsAbsolutePaths.includes(tokenPath)
+      ) return
+
       const assetInfo = getAssetInfo(tokenPath)
       const { symbol, name, logo } = assetInfo
 

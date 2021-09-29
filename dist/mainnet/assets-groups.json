@@ -1244,37 +1244,6 @@
     ]
   },
   {
-    "symbol": "0XMR",
-    "name": "0xMonero",
-    "logo": "/networks/ethereum/tokens/0XMR--0x035df12e0f3ac6671126525f1015e47d79dfeddf/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "0xMonero",
-            "address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
-            "symbol": "0XMR",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/0XMR--0x035df12e0f3ac6671126525f1015e47d79dfeddf/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "monero"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "10SET",
     "name": "10SetToken",
     "logo": "/networks/ethereum/tokens/10SET--0x7ff4169a6b5122b664c51c95727d87750ec07c84/logo.png",
@@ -6081,37 +6050,6 @@
             "logo": "/networks/ethereum/tokens/BBRA--0x70460c3bb9abcc0aa51f922c00d37816d6ede4d7/logo.png",
             "tags": [
               "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BBTC",
-    "name": "Binance Wrapped BTC",
-    "logo": "/networks/ethereum/tokens/BBTC--0x9be89d2a4cd102d8fecc6bf9da793be995c22541/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Wrapped BTC",
-            "address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
-            "symbol": "BBTC",
-            "decimals": 8,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/BBTC--0x9be89d2a4cd102d8fecc6bf9da793be995c22541/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "bitcoin"
             ],
             "type": "token"
           }
@@ -13420,39 +13358,6 @@
             "logo": "/networks/ethereum/tokens/DAFI--0xfc979087305a826c2b2a0056cfaba50aad3e6439/logo.png",
             "tags": [
               "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "DAI",
-    "name": "DaiStablecoin",
-    "logo": "/networks/ethereum/tokens/DAI--0x6b175474e89094c44da98b954eedeac495271d0f/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "DaiStablecoin",
-            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-            "symbol": "DAI",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/DAI--0x6b175474e89094c44da98b954eedeac495271d0f/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "xdai",
-              "stablecoin",
-              "usd"
             ],
             "type": "token"
           }
@@ -56468,37 +56373,6 @@
     ]
   },
   {
-    "symbol": "WBTC",
-    "name": "WrappedBTC",
-    "logo": "/networks/ethereum/tokens/WBTC--0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "WrappedBTC",
-            "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-            "symbol": "WBTC",
-            "decimals": 8,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/WBTC--0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "bitcoin"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "WCCX",
     "name": "Wrapped Conceal",
     "logo": "/networks/ethereum/tokens/WCCX--0x21686f8ce003a95c99acd297e302faacf742f7d4/logo.png",
@@ -56607,37 +56481,6 @@
             "logo": "/networks/ethereum/tokens/WENB--0x46f4e420c75401494a39b70653f4bbb88ad2d728/logo.png",
             "tags": [
               "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "logo": "/networks/ethereum/tokens/WETH--0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped Ether",
-            "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-            "symbol": "WETH",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/WETH--0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "ether"
             ],
             "type": "token"
           }
@@ -57566,37 +57409,6 @@
             "logo": "/networks/ethereum/tokens/WVG0--0x25c7b64a93eb1261e130ec21a3e9918caa38b611/logo.png",
             "tags": [
               "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "WXMR",
-    "name": "Wrapped XMR by BTSE",
-    "logo": "/networks/ethereum/tokens/WXMR--0x465e07d6028830124be2e4aa551fbe12805db0f5/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped XMR by BTSE",
-            "address": "0x465e07d6028830124be2e4aa551fbe12805db0f5",
-            "symbol": "WXMR",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/WXMR--0x465e07d6028830124be2e4aa551fbe12805db0f5/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "monero"
             ],
             "type": "token"
           }
@@ -68944,37 +68756,6 @@
     ]
   },
   {
-    "symbol": "renBTC",
-    "name": "renBTC",
-    "logo": "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renBTC",
-            "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
-            "symbol": "renBTC",
-            "decimals": 8,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "bitcoin"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "renDGB",
     "name": "renDGB",
     "logo": "",
@@ -68996,37 +68777,6 @@
             "logo": "",
             "tags": [
               "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "renDOGE",
-    "name": "renDOGE",
-    "logo": "/networks/ethereum/tokens/renDOGE--0x3832d2f059e55934220881f831be501d180671a7/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renDOGE",
-            "address": "0x3832d2f059e55934220881f831be501d180671a7",
-            "symbol": "renDOGE",
-            "decimals": 8,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/renDOGE--0x3832d2f059e55934220881f831be501d180671a7/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "dogecoin"
             ],
             "type": "token"
           }
@@ -70477,37 +70227,6 @@
             "logo": "/networks/ethereum/tokens/stZEN--0x31b595e7cfdb624d10a3e7a562ed98c3567e3865/logo.png",
             "tags": [
               "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "tBTC",
-    "name": "tBTC",
-    "logo": "/networks/ethereum/tokens/tBTC--0x8daebade922df735c38c80c7ebd708af50815faa/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "tBTC",
-            "address": "0x8daebade922df735c38c80c7ebd708af50815faa",
-            "symbol": "tBTC",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/tBTC--0x8daebade922df735c38c80c7ebd708af50815faa/logo.png",
-            "tags": [
-              "erc20",
-              "wrapped",
-              "bitcoin"
             ],
             "type": "token"
           }
@@ -74636,6 +74355,37 @@
     ]
   },
   {
+    "symbol": "renBTC",
+    "name": "renBTC",
+    "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "renBTC",
+            "address": "0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c",
+            "symbol": "renBTC",
+            "decimals": 8,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.png",
+            "tags": [
+              "bep20",
+              "wrapped",
+              "bitcoin"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "RFIBSC",
     "name": "RFIBSC Token",
     "logo": "/networks/binance-smart-chain/tokens/RFIBSC--0x122bf64edc48d1fb0c08f6c2bd7bbee5c3546038/logo.png",
@@ -75324,37 +75074,6 @@
             "logo": "/networks/binance-smart-chain/tokens/WAULTx--0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21/logo.png",
             "tags": [
               "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "WBNB",
-    "name": "Wrapped BNB",
-    "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped BNB",
-            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-            "symbol": "WBNB",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
-            "tags": [
-              "bep20",
-              "wrapped",
-              "binance"
             ],
             "type": "token"
           }
@@ -76078,6 +75797,35 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/sBDO--0x0d9319565be7f53cefe84ad201be3f40feae2740/logo.png",
+            "tags": [
+              "bep20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "tBTC",
+    "name": "Tau Bitcoin",
+    "logo": "/networks/binance-smart-chain/tokens/tBTC--0x2cd1075682b0fccaadd0ca629e138e64015ba11c/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Tau Bitcoin",
+            "address": "0x2cd1075682b0fccaadd0ca629e138e64015ba11c",
+            "symbol": "tBTC",
+            "decimals": 9,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/tBTC--0x2cd1075682b0fccaadd0ca629e138e64015ba11c/logo.png",
             "tags": [
               "bep20"
             ],
@@ -78930,37 +78678,6 @@
     ]
   },
   {
-    "symbol": "PBNB",
-    "name": "Orbit Bridge Polygon Binance Coin",
-    "logo": "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Orbit Bridge Polygon Binance Coin",
-            "address": "0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4",
-            "symbol": "PBNB",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/logo.png",
-            "tags": [
-              "erc20matic",
-              "wrapped",
-              "binance"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "PCAKE",
     "name": "PolyCake Finance",
     "logo": "/networks/polygon/tokens/PCAKE--0xd9a2c5c0fb2f138c2b96582d29a648df70f80465/logo.jpg",
@@ -80614,37 +80331,6 @@
     ]
   },
   {
-    "symbol": "WMATIC",
-    "name": "Wrapped Matic",
-    "logo": "/networks/polygon/tokens/WMATIC--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped Matic",
-            "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
-            "symbol": "WMATIC",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/WMATIC--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.png",
-            "tags": [
-              "erc20matic",
-              "wrapped",
-              "polygon"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "WOLF",
     "name": "moonwolf.io",
     "logo": "/networks/polygon/tokens/WOLF--0x8f18dc399594b451eda8c5da02d0563c0b2d0f16/logo.png",
@@ -81776,6 +81462,35 @@
     ]
   },
   {
+    "symbol": "DAI",
+    "name": "Dai Stablecoin v1.0",
+    "logo": "/networks/avalanche-c/tokens/DAI--0x095370ae41ff23798d96c1adf7d58ae6a2b05b18/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Dai Stablecoin v1.0",
+            "address": "0x095370ae41ff23798d96c1adf7d58ae6a2b05b18",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/DAI--0x095370ae41ff23798d96c1adf7d58ae6a2b05b18/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "ELK",
     "name": "Elk Finance",
     "logo": "/networks/avalanche-c/tokens/ELK--0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png",
@@ -82472,9 +82187,9 @@
     ]
   },
   {
-    "symbol": "WAVAX",
-    "name": "Wrapped AVAX",
-    "logo": "/networks/avalanche-c/tokens/WAVAX--0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/logo.png",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -82485,16 +82200,14 @@
         },
         "assets": [
           {
-            "name": "Wrapped AVAX",
-            "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-            "symbol": "WAVAX",
-            "decimals": 18,
+            "name": "Wrapped Bitcoin",
+            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC",
+            "decimals": 8,
             "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/WAVAX--0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/logo.png",
+            "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.png",
             "tags": [
-              "erc20avax",
-              "wrapped",
-              "avalanche"
+              "erc20avax"
             ],
             "type": "token"
           }
