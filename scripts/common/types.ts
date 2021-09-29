@@ -84,3 +84,93 @@ export function reverseCase(s: string): string {
   }
   return out
 }
+
+declare global {
+
+  type UniversalObj = {
+    [key: string]: any
+  }
+
+  type AssetInfo = {
+    name: string
+    symbol: string
+    logo: string
+    type?: "coin" | "token"
+
+    // "coin" type
+    slug?: string
+    name_plural?: string
+    denominator?: number
+
+    // "token" type
+    address?: string
+    decimals?: number
+    chainId?: number
+    tags?: string[]
+  }
+
+  type AssetNetworkInfo = {
+    name: string
+    slug: string
+    logo: string
+  }
+
+  type NetworkWithAssets = {
+    network: AssetNetworkInfo
+    assets: AssetInfo[]
+  }
+
+  type AssetGroup = {
+    symbol: string,
+    name: string,
+    logo: string,
+    priority: number
+    networks: NetworkWithAssets[]
+  }
+
+  type AssetGroupsBySymbol = {
+    [symbol: string]: AssetGroup
+  }
+
+  type CustomAssetGroup = {
+    symbol: string
+    name: string
+    logo: string
+    "asset-list": string[]
+  }
+
+  type NetworkFullInfo = {
+    type: string
+    slug: string
+    name: string
+    priority: number
+    isTestnet: boolean
+    coins: string[]
+    explorers: string[]
+
+    rpc?: UniversalObj[]
+    bip44?: UniversalObj
+    network?: UniversalObj
+    prefix?: UniversalObj
+    parent?: string
+
+    fee_max?: number
+    fee_min?: number
+    dust_amount?: number
+
+    chainId?: string,
+    tokensType?: string,
+  }
+
+  type tokenInfo = {
+    name: string
+    address: string
+    symbol: string,
+    decimals: number
+    chainId: number
+    logo: string
+    tags: string[]
+  }
+
+  type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
+}
