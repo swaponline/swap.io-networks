@@ -1,0 +1,11 @@
+{
+  "name": "Teddy Cash",
+  "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
+  "symbol": "TEDDY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TEDDY--0x094bd7b2d99711a1486fb94d4395801c6d0fddcc/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

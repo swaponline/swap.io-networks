@@ -1,0 +1,11 @@
+{
+  "name": "Qubit Token",
+  "address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+  "symbol": "QBT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/QBT--0x17b7163cf1dbd286e262ddc68b553d899b93f526/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

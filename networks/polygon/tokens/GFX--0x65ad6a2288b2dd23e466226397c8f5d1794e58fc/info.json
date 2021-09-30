@@ -1,0 +1,11 @@
+{
+  "name": "GamyFi Token",
+  "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+  "symbol": "GFX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GFX--0x65ad6a2288b2dd23e466226397c8f5d1794e58fc/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

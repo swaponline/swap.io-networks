@@ -1,0 +1,11 @@
+{
+  "name": "TORG",
+  "address": "0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8",
+  "symbol": "TORG",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TORG--0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QuickChart",
+  "address": "0x0af77b096cbdf53b5c39c2fcff8f14c5e3a36356",
+  "symbol": "QuickChart",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/QuickChart--0x0af77b096cbdf53b5c39c2fcff8f14c5e3a36356/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xDollar",
+  "address": "0x3509f19581afedeff07c53592bc0ca84e4855475",
+  "symbol": "XDO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/XDO--0x3509f19581afedeff07c53592bc0ca84e4855475/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

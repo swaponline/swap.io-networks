@@ -4,7 +4,7 @@
   "symbol": "USDT",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/USDT--0x55d398326f99059fF775485246999027B3197955/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/USDT--0x55d398326f99059ff775485246999027b3197955/logo.png",
   "tags": [
     "bep20"
   ]

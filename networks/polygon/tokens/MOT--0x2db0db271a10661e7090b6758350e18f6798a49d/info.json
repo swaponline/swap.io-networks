@@ -1,0 +1,11 @@
+{
+  "name": "Mobius Token",
+  "address": "0x2db0db271a10661e7090b6758350e18f6798a49d",
+  "symbol": "MOT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MOT--0x2db0db271a10661e7090b6758350e18f6798a49d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

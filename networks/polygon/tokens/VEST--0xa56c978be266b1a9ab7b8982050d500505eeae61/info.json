@@ -1,0 +1,11 @@
+{
+  "name": "START Vesting",
+  "address": "0xa56c978be266b1a9ab7b8982050d500505eeae61",
+  "symbol": "VEST",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/VEST--0xa56c978be266b1a9ab7b8982050d500505eeae61/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

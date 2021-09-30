@@ -1,0 +1,11 @@
+{
+  "name": "StepHero",
+  "address": "0xe8176d414560cfe1bf82fd73b986823b89e4f545",
+  "symbol": "HERO",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/HERO--0xe8176d414560cfe1bf82fd73b986823b89e4f545/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

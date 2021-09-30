@@ -1,0 +1,11 @@
+{
+  "name": "Dogematic",
+  "address": "0xed42605d2f2abd7dff808662a322a87804ef3a00",
+  "symbol": "DM",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DM--0xed42605d2f2abd7dff808662a322a87804ef3a00/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

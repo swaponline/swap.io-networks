@@ -1,0 +1,11 @@
+{
+  "name": "PERA",
+  "address": "0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284",
+  "symbol": "PERA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PERA--0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

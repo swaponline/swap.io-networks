@@ -1,0 +1,11 @@
+{
+  "name": "ETHA",
+  "address": "0x59e9261255644c411afdd00bd89162d09d862e38",
+  "symbol": "ETHA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ETHA--0x59e9261255644c411afdd00bd89162d09d862e38/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Reverse",
+  "address": "0x5dd175a4242afe19e5c1051d8cd13fc8979f2329",
+  "symbol": "RVRS",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RVRS--0x5dd175a4242afe19e5c1051d8cd13fc8979f2329/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

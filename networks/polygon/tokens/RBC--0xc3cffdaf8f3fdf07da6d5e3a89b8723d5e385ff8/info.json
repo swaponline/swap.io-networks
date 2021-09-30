@@ -1,0 +1,11 @@
+{
+  "name": "Rubic",
+  "address": "0xc3cffdaf8f3fdf07da6d5e3a89b8723d5e385ff8",
+  "symbol": "RBC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RBC--0xc3cffdaf8f3fdf07da6d5e3a89b8723d5e385ff8/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

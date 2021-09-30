@@ -1,0 +1,11 @@
+{
+  "name": "Spell Token",
+  "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+  "symbol": "SPELL",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SPELL--0xce1bffbd5374dac86a2893119683f4911a2f7814/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

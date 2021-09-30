@@ -1,0 +1,11 @@
+{
+  "name": "AstroFarms",
+  "address": "0xbe8dab8ce8521ecfde43a8ff8d5c6644f4dcecb7",
+  "symbol": "LEO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LEO--0xbe8dab8ce8521ecfde43a8ff8d5c6644f4dcecb7/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

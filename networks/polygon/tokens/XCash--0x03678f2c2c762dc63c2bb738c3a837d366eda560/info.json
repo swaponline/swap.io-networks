@@ -1,0 +1,11 @@
+{
+  "name": "X-Cash",
+  "address": "0x03678f2c2c762dc63c2bb738c3a837d366eda560",
+  "symbol": "XCash",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XCash--0x03678f2c2c762dc63c2bb738c3a837d366eda560/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

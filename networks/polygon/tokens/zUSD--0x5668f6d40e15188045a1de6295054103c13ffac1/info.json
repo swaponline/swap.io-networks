@@ -1,0 +1,11 @@
+{
+  "name": "Zerogoki USD",
+  "address": "0x5668f6d40e15188045a1de6295054103c13ffac1",
+  "symbol": "zUSD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/zUSD--0x5668f6d40e15188045a1de6295054103c13ffac1/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

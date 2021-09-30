@@ -1,0 +1,11 @@
+{
+  "name": "Autonio",
+  "address": "0xad684e79ce4b6d464f2ff7c3fd51646892e24b96",
+  "symbol": "NIOX",
+  "decimals": 4,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/NIOX--0xad684e79ce4b6d464f2ff7c3fd51646892e24b96/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

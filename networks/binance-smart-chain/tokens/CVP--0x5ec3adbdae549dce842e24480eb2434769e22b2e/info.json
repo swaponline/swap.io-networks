@@ -1,0 +1,11 @@
+{
+  "name": "Concentrated Voting Power",
+  "address": "0x5ec3adbdae549dce842e24480eb2434769e22b2e",
+  "symbol": "CVP",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CVP--0x5ec3adbdae549dce842e24480eb2434769e22b2e/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CZDiamond",
+  "address": "0x6664c64c8582e62da861fcac33a627b0f92ff0f8",
+  "symbol": "CZDIAMOND",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CZDIAMOND--0x6664c64c8582e62da861fcac33a627b0f92ff0f8/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

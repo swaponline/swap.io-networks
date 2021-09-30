@@ -1,9 +1,11 @@
 {
-  "name": "Tether USD",
-  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "name": "TetherUSD",
+  "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
   "symbol": "USDT",
   "decimals": 6,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/USDT--0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.svg",
-  "tags": ["erc20"]
+  "logo": "/networks/ethereum/tokens/USDT--0xdac17f958d2ee523a2206206994597c13d831ec7/logo.svg",
+  "tags": [
+    "erc20"
+  ]
 }

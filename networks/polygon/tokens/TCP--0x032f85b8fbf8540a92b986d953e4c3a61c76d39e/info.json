@@ -1,0 +1,11 @@
+{
+  "name": "The Crypto Prophecies",
+  "address": "0x032f85b8fbf8540a92b986d953e4c3a61c76d39e",
+  "symbol": "TCP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TCP--0x032f85b8fbf8540a92b986d953e4c3a61c76d39e/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

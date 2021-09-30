@@ -1,0 +1,11 @@
+{
+  "name": "APENFT",
+  "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
+  "symbol": "NFT",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/NFT--0x1fc9004ec7e5722891f5f38bae7678efcb11d34d/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Synapse",
+  "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+  "symbol": "SYN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SYN--0x1f1e7c893855525b303f99bdf5c3c05be09ca251/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

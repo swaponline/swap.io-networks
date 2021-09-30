@@ -1,0 +1,11 @@
+{
+  "name": "Chihuahuax",
+  "address": "0x4735721ed62713e3a141c939f4aa55ca8ad5f66a",
+  "symbol": "CHIHUA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CHIHUA--0x4735721ed62713e3a141c939f4aa55ca8ad5f66a/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kampay",
+  "address": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+  "symbol": "KAMPAY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KAMPAY--0x39fc9e94caeacb435842fadedecb783589f50f5f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

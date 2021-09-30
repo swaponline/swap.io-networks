@@ -1,0 +1,11 @@
+{
+  "name": "YfDAI.finance",
+  "address": "0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8",
+  "symbol": "Yf-DAI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/Yf-DAI--0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

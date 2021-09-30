@@ -1,0 +1,11 @@
+{
+  "name": "BABYQUICK",
+  "address": "0x9a05d1ff699ea187dc8523e333ed63503f0d82db",
+  "symbol": "BABYQUICK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BABYQUICK--0x9a05d1ff699ea187dc8523e333ed63503f0d82db/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

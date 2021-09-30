@@ -1,0 +1,11 @@
+{
+  "name": "Weble Ecosystem Tok",
+  "address": "0x632b8c4e95b2f8a9309417f8d990ab9c04c77369",
+  "symbol": "WET",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WET--0x632b8c4e95b2f8a9309417f8d990ab9c04c77369/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

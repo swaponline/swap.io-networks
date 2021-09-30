@@ -1,0 +1,11 @@
+{
+  "name": "Zabu Token",
+  "address": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
+  "symbol": "ZABU",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ZABU--0xdd453dbd253fa4e5e745047d93667ce9da93bbcf/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

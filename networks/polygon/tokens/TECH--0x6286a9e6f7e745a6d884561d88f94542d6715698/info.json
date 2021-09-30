@@ -1,0 +1,11 @@
+{
+  "name": "Cryptomeda",
+  "address": "0x6286a9e6f7e745a6d884561d88f94542d6715698",
+  "symbol": "TECH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TECH--0x6286a9e6f7e745a6d884561d88f94542d6715698/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

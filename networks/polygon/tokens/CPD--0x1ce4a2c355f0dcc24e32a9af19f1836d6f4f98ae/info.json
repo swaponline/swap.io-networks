@@ -1,0 +1,11 @@
+{
+  "name": "CoinsPaid",
+  "address": "0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae",
+  "symbol": "CPD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CPD--0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

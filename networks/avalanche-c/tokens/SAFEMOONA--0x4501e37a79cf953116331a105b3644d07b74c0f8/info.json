@@ -1,0 +1,11 @@
+{
+  "name": "SafemoonAvax",
+  "address": "0x4501e37a79cf953116331a105b3644d07b74c0f8",
+  "symbol": "SAFEMOONA",
+  "decimals": 9,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SAFEMOONA--0x4501e37a79cf953116331a105b3644d07b74c0f8/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

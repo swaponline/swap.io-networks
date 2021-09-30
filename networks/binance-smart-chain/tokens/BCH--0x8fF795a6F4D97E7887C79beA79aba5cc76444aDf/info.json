@@ -4,7 +4,7 @@
   "symbol": "BCH",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/BCH--0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/BCH--0x8ff795a6f4d97e7887c79bea79aba5cc76444adf/logo.png",
   "tags": [
     "bep20"
   ]

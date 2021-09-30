@@ -1,0 +1,11 @@
+{
+  "name": "Polly Finance",
+  "address": "0x4c392822d4be8494b798cea17b43d48b2308109c",
+  "symbol": "POLLY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLLY--0x4c392822d4be8494b798cea17b43d48b2308109c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

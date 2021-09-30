@@ -1,0 +1,11 @@
+{
+  "name": "Binance Token",
+  "address": "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
+  "symbol": "BNB",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BNB--0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

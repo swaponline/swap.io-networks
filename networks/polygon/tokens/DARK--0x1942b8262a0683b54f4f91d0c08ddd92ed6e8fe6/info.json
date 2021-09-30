@@ -1,0 +1,11 @@
+{
+  "name": "Darkcoin",
+  "address": "0x1942b8262a0683b54f4f91d0c08ddd92ed6e8fe6",
+  "symbol": "DARK",
+  "decimals": 19,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DARK--0x1942b8262a0683b54f4f91d0c08ddd92ed6e8fe6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

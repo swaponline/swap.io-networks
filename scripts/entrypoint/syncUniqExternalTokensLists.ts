@@ -7,8 +7,8 @@ import { externalTokensListsLinks } from "../constants/externalTokensListsLinks"
 type UniqToken = {
   names: string[],
   address: string,
-  symbol: string,
-  decimals: number,
+  symbols: string[],
+  decimals: number[],
   chainIds: number[],
   logoURIs: string[],
   tags: string[]
@@ -41,20 +41,21 @@ export const syncUniqExternalTokens = async () => {
       }
 
       const tokenAddress = sanitizeAddress(address)
+      const tokenSymbol = sanitizeSymbol(symbol)
 
-      const tokenID = `${sanitizeSymbol(symbol)}--${tokenAddress}`
-
-      if (uniqExternalTokens[tokenID]) {
-        !uniqExternalTokens[tokenID].names.includes(name) && uniqExternalTokens[tokenID].names.push(name)
-        !uniqExternalTokens[tokenID].chainIds.includes(chainId) && uniqExternalTokens[tokenID].chainIds.push(chainId)
-        uniqExternalTokens[tokenID].logoURIs.push(logoURI)
-        uniqExternalTokens[tokenID].tags.push(listName.toLowerCase())
+      if (uniqExternalTokens[tokenAddress]) {
+        !uniqExternalTokens[tokenAddress].names.includes(name) && uniqExternalTokens[tokenAddress].names.push(name)
+        !uniqExternalTokens[tokenAddress].chainIds.includes(chainId) && uniqExternalTokens[tokenAddress].chainIds.push(chainId)
+        !uniqExternalTokens[tokenAddress].symbols.includes(tokenSymbol) && uniqExternalTokens[tokenAddress].symbols.push(tokenSymbol)
+        !uniqExternalTokens[tokenAddress].decimals.includes(decimals) && uniqExternalTokens[tokenAddress].decimals.push(decimals)
+        uniqExternalTokens[tokenAddress].logoURIs.push(logoURI)
+        uniqExternalTokens[tokenAddress].tags.push(listName.toLowerCase())
       } else {
-        uniqExternalTokens[tokenID] = {
+        uniqExternalTokens[tokenAddress] = {
           names: [name],
           address: tokenAddress,
-          symbol,
-          decimals,
+          symbols: [tokenSymbol],
+          decimals: [decimals],
           chainIds: [chainId],
           "logoURIs": [logoURI],
           "tags": [listName.toLowerCase()]

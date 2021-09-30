@@ -1,0 +1,11 @@
+{
+  "name": "Foobee",
+  "address": "0x6f0dcc6597c86a2fde9795f634f621f947ca125c",
+  "symbol": "FBE",
+  "decimals": 4,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FBE--0x6f0dcc6597c86a2fde9795f634f621f947ca125c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

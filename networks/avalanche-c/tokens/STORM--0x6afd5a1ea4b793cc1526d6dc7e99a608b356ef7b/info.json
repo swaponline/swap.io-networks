@@ -1,0 +1,11 @@
+{
+  "name": "Storm Token",
+  "address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+  "symbol": "STORM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/STORM--0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

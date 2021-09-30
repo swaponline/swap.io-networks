@@ -1,0 +1,11 @@
+{
+  "name": "Kaby Arena",
+  "address": "0x5198e7cc1640049de37d1bd10b03fa5a3afda120",
+  "symbol": "KABY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KABY--0x5198e7cc1640049de37d1bd10b03fa5a3afda120/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

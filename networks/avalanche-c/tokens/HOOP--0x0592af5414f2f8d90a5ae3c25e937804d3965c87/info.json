@@ -1,0 +1,11 @@
+{
+  "name": "Hoopoe",
+  "address": "0x0592af5414f2f8d90a5ae3c25e937804d3965c87",
+  "symbol": "HOOP",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HOOP--0x0592af5414f2f8d90a5ae3c25e937804d3965c87/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

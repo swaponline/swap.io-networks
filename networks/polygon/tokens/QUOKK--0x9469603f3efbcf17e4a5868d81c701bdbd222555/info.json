@@ -1,0 +1,11 @@
+{
+  "name": "PolyQuokka Finance",
+  "address": "0x9469603f3efbcf17e4a5868d81c701bdbd222555",
+  "symbol": "QUOKK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/QUOKK--0x9469603f3efbcf17e4a5868d81c701bdbd222555/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

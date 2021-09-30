@@ -1,0 +1,11 @@
+{
+  "name": "Swift Finance",
+  "address": "0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa",
+  "symbol": "SWIFT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SWIFT--0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}
