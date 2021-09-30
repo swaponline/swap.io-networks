@@ -26,8 +26,8 @@ import { sanitizeSymbol, sanitizeAddress } from "../common/token-lists"
 type UniqToken = {
   names: string[],
   address: string,
-  symbol: string,
-  decimals: number,
+  symbols: string[],
+  decimals: number[],
   chainIds: number[],
   logoURIs: string[],
   tags: string[]
@@ -43,41 +43,41 @@ type tokenInfo = {
   "tags": string[]
 }
 
-type UniqTokensListObj = {[tokenID: string]: UniqToken}
+type UniqTokensListObj = {[tokenAddress: string]: UniqToken}
 type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
 
 const syncUniqTokensWithNetworks = async () => {
-  const networksWithTokensIDs: {[network: string]: string[]} = {}
+  const networksWithTokensAddresses: {[network: string]: string[]} = {}
   const networksIndexesBySlug: {[network: string]: number} = {}
 
   const evmNetworksFullInfo = allNetworks
     .map(network => getFullNetworkInfo({ network }))
     .filter(network => network.type === 'evm')
     .map((network, index) => {
-      networksWithTokensIDs[network.slug] = []
+      networksWithTokensAddresses[network.slug] = []
       networksIndexesBySlug[network.slug] = index
       return network
     })
 
   const uniqExternalTokens = readJsonFile(getAbsolutePath(`/cache/uniqExternalTokens.json`)) as UniqTokensListObj
-  const uniqExternalTokensIDs = Object.keys(uniqExternalTokens)
+  const uniqExternalTokensAddresses = Object.keys(uniqExternalTokens)
 
-  if (!uniqExternalTokensIDs.length)
+  if (!uniqExternalTokensAddresses.length)
     throw new Error('Firstly, you need run "npm run syncExternalTokens" script in terminal for fetching uniqExternalTokens')
 
-  uniqExternalTokensIDs.forEach(tokenID => {
-    const { chainIds } = uniqExternalTokens[tokenID]
+    uniqExternalTokensAddresses.forEach(tokenAddress => {
+    const { chainIds } = uniqExternalTokens[tokenAddress]
     chainIds.forEach(chainId => {
       const networkIndex = evmNetworksFullInfo.findIndex(network => +network.chainId === chainId)
       const tokenNetwork = networkIndex !== -1 && evmNetworksFullInfo[networkIndex]
-      if (tokenNetwork) networksWithTokensIDs[tokenNetwork.slug].push(tokenID)
+      if (tokenNetwork) networksWithTokensAddresses[tokenNetwork.slug].push(tokenAddress)
     })
   })
 
-  for (const network of Object.keys(networksWithTokensIDs)) {
-    if (!networksWithTokensIDs[network].length) continue
+  for (const network of Object.keys(networksWithTokensAddresses)) {
+    if (!networksWithTokensAddresses[network].length) continue
     try {
-      await updateTokensByNetwork(evmNetworksFullInfo[networksIndexesBySlug[network]], networksWithTokensIDs[network], uniqExternalTokens)
+      await updateTokensByNetwork(evmNetworksFullInfo[networksIndexesBySlug[network]], networksWithTokensAddresses[network], uniqExternalTokens)
     } catch (error) {
       console.error(error)
     }
@@ -85,10 +85,10 @@ const syncUniqTokensWithNetworks = async () => {
 
 }
 
-const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokensIDs: string[], uniqExternalTokens: UniqTokensListObj) => {
+const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokensAddresses: string[], uniqExternalTokens: UniqTokensListObj) => {
   const network = networkInfo.slug
   console.log(`${networkInfo.name} have:`)
-  console.log(`   ${networkUniqExternalTokensIDs.length} external tokens`)
+  console.log(`   ${networkUniqExternalTokensAddresses.length} external tokens`)
 
   const tokensIDs: string[] = []
   const tokens: NetworkTokensListObj = {} // need for update tokens
@@ -128,20 +128,20 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
   const addedTokens: string[] = []
   const alreadyExistsTokens: string[] = []
 
-  for (const tokenID of networkUniqExternalTokensIDs) {
-    const { names, address, symbol, decimals, chainIds, logoURIs } = uniqExternalTokens[tokenID]
+  for (const tokenAddress of networkUniqExternalTokensAddresses) {
+    const { names, address, symbols, decimals, chainIds, logoURIs } = uniqExternalTokens[tokenAddress]
 
-    if ((!names || !names.length) || !symbol || !address || (!decimals && decimals !== 0) || (!chainIds || !chainIds.length)) {
-      console.error(`Token haven't some prop for add to network tokens list: ${tokenID}`)
+    if ((!names || !names.length) || (!symbols || !symbols.length) || !address || (!decimals || !decimals.length) || (!chainIds || !chainIds.length)) {
+      console.error(`Token haven't some prop for add to network tokens list: ${tokenAddress}`)
       continue
     }
 
     if (!chainIds.includes(+networkInfo.chainId)) {
-      console.error(`Token ${tokenID} from different network`)
+      console.error(`Token ${tokenAddress} from different network`)
       continue
     }
 
-    const tokenAddress = sanitizeAddress(address)
+    const tokenID = `${symbols[0]}--${address}`
 
     if (exsistsTokensAddresses.includes(tokenAddress)) {
       alreadyExistsTokens.push(tokenID)
@@ -167,8 +167,8 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       const tokenInfo: tokenInfo = {
         name: names[0],
         address: tokenAddress,
-        symbol,
-        decimals,
+        symbol: symbols[0],
+        decimals: decimals[0],
         chainId: +networkInfo.chainId,
         "logo": logoPath,
         "tags": [networkInfo.tokensType.toLowerCase()]
