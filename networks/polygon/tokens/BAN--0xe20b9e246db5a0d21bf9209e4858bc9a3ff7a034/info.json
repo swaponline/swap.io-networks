@@ -1,0 +1,11 @@
+{
+  "name": "Banano",
+  "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+  "symbol": "BAN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BAN--0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

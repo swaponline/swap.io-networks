@@ -1,0 +1,11 @@
+{
+  "name": "TangleV3",
+  "address": "0xaf1843657f00f8c048139b7103784fdefc403702",
+  "symbol": "TNGLV3",
+  "decimals": 9,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TNGLV3--0xaf1843657f00f8c048139b7103784fdefc403702/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

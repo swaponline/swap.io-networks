@@ -1,0 +1,11 @@
+{
+  "name": "Telos",
+  "address": "0xb6c53431608e626ac81a9776ac3e999c5556717c",
+  "symbol": "TLOS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/TLOS--0xb6c53431608e626ac81a9776ac3e999c5556717c/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

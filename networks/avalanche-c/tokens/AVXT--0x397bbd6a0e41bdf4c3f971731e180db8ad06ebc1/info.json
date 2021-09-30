@@ -1,0 +1,11 @@
+{
+  "name": "Avaxtars Token",
+  "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+  "symbol": "AVXT",
+  "decimals": 6,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AVXT--0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

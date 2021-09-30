@@ -1,0 +1,11 @@
+{
+  "name": "InsurAce",
+  "address": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+  "symbol": "INSUR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/INSUR--0x8a0e8b4b0903929f47c3ea30973940d4a9702067/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

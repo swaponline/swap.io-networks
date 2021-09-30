@@ -1,0 +1,11 @@
+{
+  "name": "MiniYAK",
+  "address": "0xddaaad7366b455aff8e7c82940c43ceb5829b604",
+  "symbol": "MYAK",
+  "decimals": 12,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MYAK--0xddaaad7366b455aff8e7c82940c43ceb5829b604/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

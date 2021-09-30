@@ -1,0 +1,11 @@
+{
+  "name": "Raider Aurum",
+  "address": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+  "symbol": "AURUM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AURUM--0x34d4ab47bee066f361fa52d792e69ac7bd05ee23/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

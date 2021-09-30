@@ -1,0 +1,11 @@
+{
+  "name": "Arctic Finance",
+  "address": "0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8",
+  "symbol": "AURORA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AURORA--0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

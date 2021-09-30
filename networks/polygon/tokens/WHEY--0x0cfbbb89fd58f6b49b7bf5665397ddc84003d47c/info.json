@@ -1,0 +1,11 @@
+{
+  "name": "WHEY",
+  "address": "0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c",
+  "symbol": "WHEY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WHEY--0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

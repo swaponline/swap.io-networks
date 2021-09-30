@@ -1,0 +1,11 @@
+{
+  "name": "Daily COP",
+  "address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a",
+  "symbol": "DLYCOP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DLYCOP--0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

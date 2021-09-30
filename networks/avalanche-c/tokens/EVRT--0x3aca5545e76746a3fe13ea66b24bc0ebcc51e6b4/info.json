@@ -1,0 +1,11 @@
+{
+  "name": "Everest Token",
+  "address": "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4",
+  "symbol": "EVRT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/EVRT--0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

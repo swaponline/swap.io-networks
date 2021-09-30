@@ -1,0 +1,11 @@
+{
+  "name": "YAY Games",
+  "address": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
+  "symbol": "YAY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YAY--0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

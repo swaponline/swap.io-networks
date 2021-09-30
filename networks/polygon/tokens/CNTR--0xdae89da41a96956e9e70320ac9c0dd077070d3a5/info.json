@@ -1,0 +1,11 @@
+{
+  "name": "Centaur Token",
+  "address": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5",
+  "symbol": "CNTR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CNTR--0xdae89da41a96956e9e70320ac9c0dd077070d3a5/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

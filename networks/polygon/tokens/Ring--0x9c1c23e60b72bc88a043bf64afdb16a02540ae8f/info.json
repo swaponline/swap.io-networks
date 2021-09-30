@@ -1,0 +1,11 @@
+{
+  "name": "Darwinia",
+  "address": "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f",
+  "symbol": "Ring",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/Ring--0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

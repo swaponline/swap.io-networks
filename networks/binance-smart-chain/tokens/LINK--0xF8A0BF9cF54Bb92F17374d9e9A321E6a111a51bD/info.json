@@ -4,7 +4,7 @@
   "symbol": "LINK",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/LINK--0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/LINK--0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/logo.png",
   "tags": [
     "bep20"
   ]

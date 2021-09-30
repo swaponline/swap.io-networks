@@ -7,7 +7,7 @@ import {
 
 export const logoName = `logo`
 export const infoName = `info`
-export const logoExtensions = ["svg", "png"]
+export const logoExtensions = ["svg", "png", "jpg", "jpeg", "SVG", "PNG", "JPG", "JPEG"]
 export const jsonExtension = "json"
 export const logoFullNames = logoExtensions.map(logoExtension => `${logoName}.${logoExtension}`)
 export const infoFullName = `${infoName}.${jsonExtension}`

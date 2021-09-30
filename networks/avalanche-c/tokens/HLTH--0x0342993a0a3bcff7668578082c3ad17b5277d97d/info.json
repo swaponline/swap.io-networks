@@ -1,0 +1,11 @@
+{
+  "name": "HLTH Token",
+  "address": "0x0342993a0a3bcff7668578082c3ad17b5277d97d",
+  "symbol": "HLTH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HLTH--0x0342993a0a3bcff7668578082c3ad17b5277d97d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Black Market Gaming",
+  "address": "0xc7d5a5df6ae030520366ef8a300543941b99e843",
+  "symbol": "BMG",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BMG--0xc7d5a5df6ae030520366ef8a300543941b99e843/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

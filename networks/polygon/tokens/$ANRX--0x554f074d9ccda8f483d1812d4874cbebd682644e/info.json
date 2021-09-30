@@ -1,0 +1,11 @@
+{
+  "name": "AnRKey X",
+  "address": "0x554f074d9ccda8f483d1812d4874cbebd682644e",
+  "symbol": "$ANRX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/$ANRX--0x554f074d9ccda8f483d1812d4874cbebd682644e/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

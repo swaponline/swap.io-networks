@@ -1,0 +1,11 @@
+{
+  "name": "NASDEX Token",
+  "address": "0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6",
+  "symbol": "NSDX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/NSDX--0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

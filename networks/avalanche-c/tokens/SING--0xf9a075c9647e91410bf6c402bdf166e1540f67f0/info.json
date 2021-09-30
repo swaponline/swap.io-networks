@@ -1,0 +1,11 @@
+{
+  "name": "Sing Token",
+  "address": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
+  "symbol": "SING",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SING--0xf9a075c9647e91410bf6c402bdf166e1540f67f0/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

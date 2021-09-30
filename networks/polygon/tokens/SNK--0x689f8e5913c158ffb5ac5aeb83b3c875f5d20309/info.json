@@ -1,0 +1,11 @@
+{
+  "name": "Snook",
+  "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+  "symbol": "SNK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SNK--0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

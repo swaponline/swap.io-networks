@@ -1,0 +1,11 @@
+{
+  "name": "Vee Finance",
+  "address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+  "symbol": "VEE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/VEE--0x3709e8615e02c15b096f8a9b460ccb8ca8194e86/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

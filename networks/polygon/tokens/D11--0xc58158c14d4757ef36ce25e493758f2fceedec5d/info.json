@@ -1,0 +1,11 @@
+{
+  "name": "DeFi11",
+  "address": "0xc58158c14d4757ef36ce25e493758f2fceedec5d",
+  "symbol": "D11",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/D11--0xc58158c14d4757ef36ce25e493758f2fceedec5d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

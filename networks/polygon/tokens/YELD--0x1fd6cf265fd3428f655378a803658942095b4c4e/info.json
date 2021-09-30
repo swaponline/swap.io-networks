@@ -1,0 +1,11 @@
+{
+  "name": "PolyYeld Token",
+  "address": "0x1fd6cf265fd3428f655378a803658942095b4c4e",
+  "symbol": "YELD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/YELD--0x1fd6cf265fd3428f655378a803658942095b4c4e/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

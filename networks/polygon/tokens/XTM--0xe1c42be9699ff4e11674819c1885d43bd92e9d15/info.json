@@ -1,0 +1,11 @@
+{
+  "name": "Torum",
+  "address": "0xe1c42be9699ff4e11674819c1885d43bd92e9d15",
+  "symbol": "XTM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XTM--0xe1c42be9699ff4e11674819c1885d43bd92e9d15/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

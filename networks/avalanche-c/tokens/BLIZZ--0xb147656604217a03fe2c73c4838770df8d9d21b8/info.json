@@ -1,0 +1,11 @@
+{
+  "name": "Blizzard Network",
+  "address": "0xb147656604217a03fe2c73c4838770df8d9d21b8",
+  "symbol": "BLIZZ",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BLIZZ--0xb147656604217a03fe2c73c4838770df8d9d21b8/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

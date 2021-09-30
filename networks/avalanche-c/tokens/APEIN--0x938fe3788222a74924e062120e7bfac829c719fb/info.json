@@ -1,0 +1,11 @@
+{
+  "name": "Ape In",
+  "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
+  "symbol": "APEIN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/APEIN--0x938fe3788222a74924e062120e7bfac829c719fb/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

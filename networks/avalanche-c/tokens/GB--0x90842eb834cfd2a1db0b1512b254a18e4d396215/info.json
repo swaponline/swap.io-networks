@@ -1,0 +1,11 @@
+{
+  "name": "Good Bridging",
+  "address": "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
+  "symbol": "GB",
+  "decimals": 9,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GB--0x90842eb834cfd2a1db0b1512b254a18e4d396215/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

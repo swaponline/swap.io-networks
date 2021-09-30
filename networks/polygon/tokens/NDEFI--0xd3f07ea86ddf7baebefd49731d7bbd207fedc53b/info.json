@@ -1,0 +1,11 @@
+{
+  "name": "Polly DeFi Nest",
+  "address": "0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b",
+  "symbol": "NDEFI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/NDEFI--0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Prosper",
+  "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+  "symbol": "PROS",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PROS--0xed8c8aa8299c10f067496bb66f8cc7fb338a3405/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

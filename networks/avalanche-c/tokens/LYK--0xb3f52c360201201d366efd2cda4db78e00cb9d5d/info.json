@@ -1,0 +1,11 @@
+{
+  "name": "Luyuka",
+  "address": "0xb3f52c360201201d366efd2cda4db78e00cb9d5d",
+  "symbol": "LYK",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/LYK--0xb3f52c360201201d366efd2cda4db78e00cb9d5d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

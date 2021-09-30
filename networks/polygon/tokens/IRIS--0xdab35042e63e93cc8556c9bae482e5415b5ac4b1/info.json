@@ -1,0 +1,11 @@
+{
+  "name": "Iris",
+  "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+  "symbol": "IRIS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IRIS--0xdab35042e63e93cc8556c9bae482e5415b5ac4b1/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

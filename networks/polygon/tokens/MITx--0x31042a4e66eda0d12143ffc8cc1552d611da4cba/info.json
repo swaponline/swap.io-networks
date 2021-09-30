@@ -1,0 +1,11 @@
+{
+  "name": "Morpheus Infrastructure Token",
+  "address": "0x31042a4e66eda0d12143ffc8cc1552d611da4cba",
+  "symbol": "MITx",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MITx--0x31042a4e66eda0d12143ffc8cc1552d611da4cba/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

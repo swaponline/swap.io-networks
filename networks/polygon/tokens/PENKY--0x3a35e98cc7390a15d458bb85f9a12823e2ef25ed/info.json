@@ -1,0 +1,11 @@
+{
+  "name": "Penky",
+  "address": "0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed",
+  "symbol": "PENKY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PENKY--0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

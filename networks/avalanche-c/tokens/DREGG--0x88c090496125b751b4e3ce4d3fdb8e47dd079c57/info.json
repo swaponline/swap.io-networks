@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Egg",
+  "address": "0x88c090496125b751b4e3ce4d3fdb8e47dd079c57",
+  "symbol": "DREGG",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/DREGG--0x88c090496125b751b4e3ce4d3fdb8e47dd079c57/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

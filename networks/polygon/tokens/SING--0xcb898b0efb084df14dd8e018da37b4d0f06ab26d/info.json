@@ -1,0 +1,11 @@
+{
+  "name": "Sing Token",
+  "address": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d",
+  "symbol": "SING",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SING--0xcb898b0efb084df14dd8e018da37b4d0f06ab26d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

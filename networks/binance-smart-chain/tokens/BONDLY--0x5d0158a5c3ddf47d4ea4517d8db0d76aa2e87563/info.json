@@ -1,0 +1,11 @@
+{
+  "name": "Bondly",
+  "address": "0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563",
+  "symbol": "BONDLY",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BONDLY--0x5d0158a5c3ddf47d4ea4517d8db0d76aa2e87563/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BSC Ecosystem Defi blue chips",
+  "address": "0x40e46de174dfb776bb89e04df1c47d8a66855eb3",
+  "symbol": "BSCDEFI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/BSCDEFI--0x40e46de174dfb776bb89e04df1c47d8a66855eb3/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

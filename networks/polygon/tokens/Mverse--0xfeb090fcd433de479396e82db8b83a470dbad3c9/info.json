@@ -1,0 +1,11 @@
+{
+  "name": "MaticVerse",
+  "address": "0xfeb090fcd433de479396e82db8b83a470dbad3c9",
+  "symbol": "Mverse",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/Mverse--0xfeb090fcd433de479396e82db8b83a470dbad3c9/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

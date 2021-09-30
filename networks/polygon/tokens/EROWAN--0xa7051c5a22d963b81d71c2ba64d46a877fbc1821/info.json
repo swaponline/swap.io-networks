@@ -1,0 +1,11 @@
+{
+  "name": "SifChain",
+  "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
+  "symbol": "EROWAN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/EROWAN--0xa7051c5a22d963b81d71c2ba64d46a877fbc1821/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}
