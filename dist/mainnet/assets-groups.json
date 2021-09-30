@@ -101,7 +101,7 @@
             "symbol": "BTCB",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
             "tags": [
               "bep20",
               "wrapped",
@@ -224,7 +224,7 @@
             "symbol": "ETH",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/ETH--0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/ETH--0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.png",
             "tags": [
               "bep20",
               "wrapped",
@@ -305,12 +305,12 @@
             "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
           },
           {
-            "name": "Wrapped BNB",
+            "name": "WBNB Token",
             "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
             "symbol": "WBNB",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
             "tags": [
               "bep20",
               "wrapped",
@@ -494,7 +494,7 @@
             "symbol": "DOT",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/DOT--0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/DOT--0x7083609fce4d1d8dc0c979aab8c869ea2c873402/logo.png",
             "tags": [
               "bep20",
               "wrapped",
@@ -676,7 +676,7 @@
             "symbol": "LTC",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/LTC--0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/LTC--0x4338665cbb7b2485a8855a139b75d5e34ab0db94/logo.png",
             "tags": [
               "bep20",
               "wrapped",
@@ -720,7 +720,7 @@
         },
         "assets": [
           {
-            "name": "DOGE Token",
+            "name": "Dogecoin",
             "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
             "symbol": "DOGE",
             "decimals": 8,
@@ -1121,7 +1121,7 @@
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/DAI--0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.png",
             "tags": [
               "bep20",
               "wrapped",
@@ -11877,6 +11877,35 @@
             "decimals": 18,
             "chainId": 1,
             "logo": "/networks/ethereum/tokens/COVER--0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713/logo.png",
+            "tags": [
+              "erc20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "COVER[old]",
+    "name": "Cover Protocol old",
+    "logo": "",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Ethereum",
+          "slug": "ethereum",
+          "logo": "/networks/ethereum/coins/ETH/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Cover Protocol old",
+            "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+            "symbol": "COVER[old]",
+            "decimals": 18,
+            "chainId": 1,
+            "logo": "",
             "tags": [
               "erc20"
             ],
@@ -54257,8 +54286,8 @@
   },
   {
     "symbol": "USDT",
-    "name": "Tether USD",
-    "logo": "/networks/ethereum/tokens/USDT--0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.svg",
+    "name": "TetherUSD",
+    "logo": "/networks/ethereum/tokens/USDT--0xdac17f958d2ee523a2206206994597c13d831ec7/logo.svg",
     "priority": 18,
     "networks": [
       {
@@ -54269,12 +54298,12 @@
         },
         "assets": [
           {
-            "name": "Tether USD",
-            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "name": "TetherUSD",
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "symbol": "USDT",
             "decimals": 6,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/USDT--0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.svg",
+            "logo": "/networks/ethereum/tokens/USDT--0xdac17f958d2ee523a2206206994597c13d831ec7/logo.svg",
             "tags": [
               "erc20"
             ],
@@ -71861,7 +71890,7 @@
   {
     "symbol": "ATOM",
     "name": "Cosmos Token",
-    "logo": "/networks/binance-smart-chain/tokens/ATOM--0x0Eb3a705fc54725037CC9e008bDede697f62F335/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/ATOM--0x0eb3a705fc54725037cc9e008bdede697f62f335/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -71877,7 +71906,7 @@
             "symbol": "ATOM",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/ATOM--0x0Eb3a705fc54725037CC9e008bDede697f62F335/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/ATOM--0x0eb3a705fc54725037cc9e008bdede697f62f335/logo.png",
             "tags": [
               "bep20"
             ],
@@ -71889,7 +71918,7 @@
   },
   {
     "symbol": "AUTO",
-    "name": "AUTO Farm",
+    "name": "AUTOv2",
     "logo": "/networks/binance-smart-chain/tokens/AUTO--0xa184088a740c695e156f91f5cc086a06bb78b827/logo.png",
     "priority": 18,
     "networks": [
@@ -71901,7 +71930,7 @@
         },
         "assets": [
           {
-            "name": "AUTO Farm",
+            "name": "AUTOv2",
             "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
             "symbol": "AUTO",
             "decimals": 18,
@@ -71977,7 +72006,7 @@
   {
     "symbol": "BAKE",
     "name": "Bakery Token",
-    "logo": "/networks/binance-smart-chain/tokens/BAKE--0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/BAKE--0xe02df9e3e622debdd69fb838bb799e3f168902c5/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -71993,7 +72022,7 @@
             "symbol": "BAKE",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BAKE--0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/BAKE--0xe02df9e3e622debdd69fb838bb799e3f168902c5/logo.png",
             "tags": [
               "bep20"
             ],
@@ -72006,7 +72035,7 @@
   {
     "symbol": "BCH",
     "name": "Bitcoin Cash Token",
-    "logo": "/networks/binance-smart-chain/tokens/BCH--0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/BCH--0x8ff795a6f4d97e7887c79bea79aba5cc76444adf/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -72022,7 +72051,7 @@
             "symbol": "BCH",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BCH--0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/BCH--0x8ff795a6f4d97e7887c79bea79aba5cc76444adf/logo.png",
             "tags": [
               "bep20"
             ],
@@ -72468,6 +72497,35 @@
     ]
   },
   {
+    "symbol": "BSCDEFI",
+    "name": "BSC Ecosystem Defi blue chips",
+    "logo": "/networks/binance-smart-chain/tokens/BSCDEFI--0x40e46de174dfb776bb89e04df1c47d8a66855eb3/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "BSC Ecosystem Defi blue chips",
+            "address": "0x40e46de174dfb776bb89e04df1c47d8a66855eb3",
+            "symbol": "BSCDEFI",
+            "decimals": 18,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/BSCDEFI--0x40e46de174dfb776bb89e04df1c47d8a66855eb3/logo.png",
+            "tags": [
+              "bep20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "BSCPAD",
     "name": "BSCPad",
     "logo": "/networks/binance-smart-chain/tokens/BSCPAD--0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700/logo.png",
@@ -72528,7 +72586,7 @@
   {
     "symbol": "BTCB",
     "name": "Binance Pegged Bitcoin",
-    "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
     "priority": 18,
     "networks": [
       {
@@ -72544,7 +72602,7 @@
             "symbol": "BTCB",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
             "tags": [
               "bep20",
               "wrapped",
@@ -72878,7 +72936,7 @@
   {
     "symbol": "CTK",
     "name": "CertiK Token",
-    "logo": "/networks/binance-smart-chain/tokens/CTK--0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/CTK--0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -72894,7 +72952,7 @@
             "symbol": "CTK",
             "decimals": 6,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/CTK--0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/CTK--0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929/logo.png",
             "tags": [
               "bep20"
             ],
@@ -72926,6 +72984,39 @@
             "logo": "/networks/binance-smart-chain/tokens/CYC--0x810ee35443639348adbbc467b33310d2ab43c168/logo.png",
             "tags": [
               "bep20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "DAI",
+    "name": "Binance Pegged DAI",
+    "logo": "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Binance Pegged DAI",
+            "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.png",
+            "tags": [
+              "bep20",
+              "wrapped",
+              "xdai",
+              "stablecoin",
+              "usd"
             ],
             "type": "token"
           }
@@ -73023,7 +73114,7 @@
   {
     "symbol": "EARS",
     "name": "Ferengi Vaults",
-    "logo": "/networks/binance-smart-chain/tokens/EARS--0x0EC4B89462557150302AC6e81270a081F2e3BD20/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/EARS--0x0ec4b89462557150302ac6e81270a081f2e3bd20/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -73039,7 +73130,7 @@
             "symbol": "EARS",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/EARS--0x0EC4B89462557150302AC6e81270a081F2e3BD20/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/EARS--0x0ec4b89462557150302ac6e81270a081f2e3bd20/logo.png",
             "tags": [
               "bep20"
             ],
@@ -73081,7 +73172,7 @@
   {
     "symbol": "EOS",
     "name": "EOS Token",
-    "logo": "/networks/binance-smart-chain/tokens/EOS--0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/EOS--0x56b6fb708fc5732dec1afc8d8556423a2edccbd6/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -73097,7 +73188,7 @@
             "symbol": "EOS",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/EOS--0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/EOS--0x56b6fb708fc5732dec1afc8d8556423a2edccbd6/logo.png",
             "tags": [
               "bep20"
             ],
@@ -74297,6 +74388,35 @@
     ]
   },
   {
+    "symbol": "QBT",
+    "name": "Qubit Token",
+    "logo": "/networks/binance-smart-chain/tokens/QBT--0x17b7163cf1dbd286e262ddc68b553d899b93f526/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Qubit Token",
+            "address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+            "symbol": "QBT",
+            "decimals": 18,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/QBT--0x17b7163cf1dbd286e262ddc68b553d899b93f526/logo.png",
+            "tags": [
+              "bep20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "QSD",
     "name": "QIAN second generation dollar",
     "logo": "/networks/binance-smart-chain/tokens/QSD--0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2/logo.png",
@@ -74347,37 +74467,6 @@
             "logo": "/networks/binance-smart-chain/tokens/RABBIT--0x95a1199eba84ac5f19546519e287d43d2f0e1b41/logo.png",
             "tags": [
               "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "renBTC",
-    "name": "renBTC",
-    "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renBTC",
-            "address": "0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c",
-            "symbol": "renBTC",
-            "decimals": 8,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.png",
-            "tags": [
-              "bep20",
-              "wrapped",
-              "bitcoin"
             ],
             "type": "token"
           }
@@ -74475,7 +74564,7 @@
   {
     "symbol": "SAFEMOON",
     "name": "SafeMoon",
-    "logo": "/networks/binance-smart-chain/tokens/SAFEMOON--0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/SAFEMOON--0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -74491,7 +74580,7 @@
             "symbol": "SAFEMOON",
             "decimals": 9,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/SAFEMOON--0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/SAFEMOON--0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3/logo.png",
             "tags": [
               "bep20"
             ],
@@ -74620,7 +74709,7 @@
   {
     "symbol": "SPARTA",
     "name": "SPARTAN PROTOCOL TOKEN",
-    "logo": "/networks/binance-smart-chain/tokens/SPARTA--0xe4ae305ebe1abe663f261bc00534067c80ad677c/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/SPARTA--0x3910db0600ea925f63c36ddb1351ab6e2c6eb102/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -74632,11 +74721,11 @@
         "assets": [
           {
             "name": "SPARTAN PROTOCOL TOKEN",
-            "address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
+            "address": "0x3910db0600ea925f63c36ddb1351ab6e2c6eb102",
             "symbol": "SPARTA",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/SPARTA--0xe4ae305ebe1abe663f261bc00534067c80ad677c/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/SPARTA--0x3910db0600ea925f63c36ddb1351ab6e2c6eb102/logo.png",
             "tags": [
               "bep20"
             ],
@@ -74910,7 +74999,7 @@
   {
     "symbol": "TWT",
     "name": "Trust Wallet",
-    "logo": "/networks/binance-smart-chain/tokens/TWT--0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/TWT--0x4b0f1812e5df2a09796481ff14017e6005508003/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -74926,7 +75015,7 @@
             "symbol": "TWT",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/TWT--0x4B0F1812e5Df2A09796481Ff14017e6005508003/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/TWT--0x4b0f1812e5df2a09796481ff14017e6005508003/logo.png",
             "tags": [
               "bep20"
             ],
@@ -74967,7 +75056,7 @@
   },
   {
     "symbol": "VAI",
-    "name": "VAI Token",
+    "name": "VAI Stablecoin",
     "logo": "/networks/binance-smart-chain/tokens/VAI--0x4bd17003473389a42daf6a0a729f6fdb328bbbd7/logo.png",
     "priority": 18,
     "networks": [
@@ -74979,7 +75068,7 @@
         },
         "assets": [
           {
-            "name": "VAI Token",
+            "name": "VAI Stablecoin",
             "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
             "symbol": "VAI",
             "decimals": 18,
@@ -74996,7 +75085,7 @@
   },
   {
     "symbol": "VRT",
-    "name": "Venus Rewards",
+    "name": "Venus Reward Token",
     "logo": "/networks/binance-smart-chain/tokens/VRT--0x5f84ce30dc3cf7909101c69086c50de191895883/logo.png",
     "priority": 18,
     "networks": [
@@ -75008,7 +75097,7 @@
         },
         "assets": [
           {
-            "name": "Venus Rewards",
+            "name": "Venus Reward Token",
             "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
             "symbol": "VRT",
             "decimals": 18,
@@ -75074,6 +75163,37 @@
             "logo": "/networks/binance-smart-chain/tokens/WAULTx--0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21/logo.png",
             "tags": [
               "bep20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "WBNB",
+    "name": "WBNB Token",
+    "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "WBNB Token",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+            "symbol": "WBNB",
+            "decimals": 18,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
+            "tags": [
+              "bep20",
+              "wrapped",
+              "binance"
             ],
             "type": "token"
           }
@@ -75258,7 +75378,7 @@
   {
     "symbol": "XRP",
     "name": "XRP Token",
-    "logo": "/networks/binance-smart-chain/tokens/XRP--0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/XRP--0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -75274,7 +75394,7 @@
             "symbol": "XRP",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/XRP--0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/XRP--0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe/logo.png",
             "tags": [
               "bep20"
             ],
@@ -75287,7 +75407,7 @@
   {
     "symbol": "XTZ",
     "name": "Tezos Token",
-    "logo": "/networks/binance-smart-chain/tokens/XTZ--0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/XTZ--0x16939ef78684453bfdfb47825f8a5f714f12623a/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -75303,7 +75423,7 @@
             "symbol": "XTZ",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/XTZ--0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/XTZ--0x16939ef78684453bfdfb47825f8a5f714f12623a/logo.png",
             "tags": [
               "bep20"
             ],
@@ -75316,7 +75436,7 @@
   {
     "symbol": "XVS",
     "name": "Venus Token",
-    "logo": "/networks/binance-smart-chain/tokens/XVS--0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/XVS--0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -75332,7 +75452,7 @@
             "symbol": "XVS",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/XVS--0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/XVS--0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63/logo.png",
             "tags": [
               "bep20"
             ],
@@ -75345,7 +75465,7 @@
   {
     "symbol": "ZEC",
     "name": "Zcash Token",
-    "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -75361,7 +75481,7 @@
             "symbol": "ZEC",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/logo.png",
             "tags": [
               "bep20"
             ],
@@ -75923,6 +76043,64 @@
     ]
   },
   {
+    "symbol": "$ANRX",
+    "name": "AnRKey X",
+    "logo": "/networks/polygon/tokens/$ANRX--0x554f074d9ccda8f483d1812d4874cbebd682644e/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "AnRKey X",
+            "address": "0x554f074d9ccda8f483d1812d4874cbebd682644e",
+            "symbol": "$ANRX",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/$ANRX--0x554f074d9ccda8f483d1812d4874cbebd682644e/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "$DG",
+    "name": "decentral.games",
+    "logo": "/networks/polygon/tokens/$DG--0x2a93172c8dccbfbc60a39d56183b7279a2f647b4/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "decentral.games",
+            "address": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
+            "symbol": "$DG",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/$DG--0x2a93172c8dccbfbc60a39d56183b7279a2f647b4/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "50C",
     "name": "50Cent",
     "logo": "/networks/polygon/tokens/50C--0x0102bbfddffbd8d28d3a1b9c47017f62f42768f2/logo.png",
@@ -76330,7 +76508,7 @@
   },
   {
     "symbol": "ANGEL",
-    "name": "Polylauncher",
+    "name": "Angel",
     "logo": "/networks/polygon/tokens/ANGEL--0x0b6afe834dab840335f87d99b45c2a4bd81a93c7/logo.png",
     "priority": 18,
     "networks": [
@@ -76342,7 +76520,7 @@
         },
         "assets": [
           {
-            "name": "Polylauncher",
+            "name": "Angel",
             "address": "0x0b6afe834dab840335f87d99b45c2a4bd81a93c7",
             "symbol": "ANGEL",
             "decimals": 18,
@@ -76474,6 +76652,35 @@
     ]
   },
   {
+    "symbol": "AURUM",
+    "name": "Raider Aurum",
+    "logo": "/networks/polygon/tokens/AURUM--0x34d4ab47bee066f361fa52d792e69ac7bd05ee23/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Raider Aurum",
+            "address": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+            "symbol": "AURUM",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/AURUM--0x34d4ab47bee066f361fa52d792e69ac7bd05ee23/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "BABYMATIC",
     "name": "Baby Matic",
     "logo": "/networks/polygon/tokens/BABYMATIC--0x63df542b6468e2f94006a2815c9bee9f6dd9b83a/logo.png",
@@ -76493,6 +76700,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/BABYMATIC--0x63df542b6468e2f94006a2815c9bee9f6dd9b83a/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BABYQUICK",
+    "name": "BABYQUICK",
+    "logo": "/networks/polygon/tokens/BABYQUICK--0x9a05d1ff699ea187dc8523e333ed63503f0d82db/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "BABYQUICK",
+            "address": "0x9a05d1ff699ea187dc8523e333ed63503f0d82db",
+            "symbol": "BABYQUICK",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/BABYQUICK--0x9a05d1ff699ea187dc8523e333ed63503f0d82db/logo.jpg",
             "tags": [
               "erc20matic"
             ],
@@ -76532,6 +76768,35 @@
     ]
   },
   {
+    "symbol": "BAN",
+    "name": "Banano",
+    "logo": "/networks/polygon/tokens/BAN--0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Banano",
+            "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+            "symbol": "BAN",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/BAN--0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "BELUGA",
     "name": "Beluga fi",
     "logo": "/networks/polygon/tokens/BELUGA--0x47536f17f4ff30e64a96a7555826b8f9e66ec468/logo.png",
@@ -76551,6 +76816,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/BELUGA--0x47536f17f4ff30e64a96a7555826b8f9e66ec468/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BMG",
+    "name": "Black Market Gaming",
+    "logo": "/networks/polygon/tokens/BMG--0xc7d5a5df6ae030520366ef8a300543941b99e843/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Black Market Gaming",
+            "address": "0xc7d5a5df6ae030520366ef8a300543941b99e843",
+            "symbol": "BMG",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/BMG--0xc7d5a5df6ae030520366ef8a300543941b99e843/logo.PNG",
             "tags": [
               "erc20matic"
             ],
@@ -76648,35 +76942,6 @@
     ]
   },
   {
-    "symbol": "CASH",
-    "name": "Polycash",
-    "logo": "/networks/polygon/tokens/CASH--0xc22d189ff43868a347fda822842b67b1c8c57612/logo.jpg",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Polycash",
-            "address": "0xc22d189ff43868a347fda822842b67b1c8c57612",
-            "symbol": "CASH",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/CASH--0xc22d189ff43868a347fda822842b67b1c8c57612/logo.jpg",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "CFO",
     "name": "Cfoforum Token",
     "logo": "/networks/polygon/tokens/CFO--0x0e2a70c08e884ea76116fccdc8b8be559162f08e/logo.png",
@@ -76736,8 +77001,8 @@
   },
   {
     "symbol": "CHUM",
-    "name": "ChumHum",
-    "logo": "/networks/polygon/tokens/CHUM--0x2e2dde47952b9c7defde7424d00dd2341ad927ca/logo.png",
+    "name": "Chumhum Finance",
+    "logo": "/networks/polygon/tokens/CHUM--0x2e2dde47952b9c7defde7424d00dd2341ad927ca/logo.PNG",
     "priority": 18,
     "networks": [
       {
@@ -76748,12 +77013,12 @@
         },
         "assets": [
           {
-            "name": "ChumHum",
+            "name": "Chumhum Finance",
             "address": "0x2e2dde47952b9c7defde7424d00dd2341ad927ca",
             "symbol": "CHUM",
             "decimals": 18,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/CHUM--0x2e2dde47952b9c7defde7424d00dd2341ad927ca/logo.png",
+            "logo": "/networks/polygon/tokens/CHUM--0x2e2dde47952b9c7defde7424d00dd2341ad927ca/logo.PNG",
             "tags": [
               "erc20matic"
             ],
@@ -76851,6 +77116,35 @@
     ]
   },
   {
+    "symbol": "CPD",
+    "name": "CoinsPaid",
+    "logo": "/networks/polygon/tokens/CPD--0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "CoinsPaid",
+            "address": "0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae",
+            "symbol": "CPD",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/CPD--0x1ce4a2c355f0dcc24e32a9af19f1836d6f4f98ae/logo.PNG",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "CRYSTL",
     "name": "PolyCrystal",
     "logo": "/networks/polygon/tokens/CRYSTL--0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64/logo.png",
@@ -76870,6 +77164,64 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/CRYSTL--0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "CZDIAMOND",
+    "name": "CZDiamond",
+    "logo": "/networks/polygon/tokens/CZDIAMOND--0x6664c64c8582e62da861fcac33a627b0f92ff0f8/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "CZDiamond",
+            "address": "0x6664c64c8582e62da861fcac33a627b0f92ff0f8",
+            "symbol": "CZDIAMOND",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/CZDIAMOND--0x6664c64c8582e62da861fcac33a627b0f92ff0f8/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "D11",
+    "name": "DeFi11",
+    "logo": "/networks/polygon/tokens/D11--0xc58158c14d4757ef36ce25e493758f2fceedec5d/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "DeFi11",
+            "address": "0xc58158c14d4757ef36ce25e493758f2fceedec5d",
+            "symbol": "D11",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/D11--0xc58158c14d4757ef36ce25e493758f2fceedec5d/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -76909,8 +77261,37 @@
     ]
   },
   {
+    "symbol": "DAW",
+    "name": "Deswap",
+    "logo": "/networks/polygon/tokens/DAW--0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Deswap",
+            "address": "0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5",
+            "symbol": "DAW",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/DAW--0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "DB",
-    "name": "Dark.Build",
+    "name": "Dark Build",
     "logo": "/networks/polygon/tokens/DB--0x0e59d50add2d90f5111aca875bae0a72d95b4762/logo.png",
     "priority": 18,
     "networks": [
@@ -76922,7 +77303,7 @@
         },
         "assets": [
           {
-            "name": "Dark.Build",
+            "name": "Dark Build",
             "address": "0x0e59d50add2d90f5111aca875bae0a72d95b4762",
             "symbol": "DB",
             "decimals": 18,
@@ -76986,6 +77367,64 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/DINO--0xaa9654becca45b5bdfa5ac646c939c62b527d394/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "DLYCOP",
+    "name": "Daily COP",
+    "logo": "/networks/polygon/tokens/DLYCOP--0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Daily COP",
+            "address": "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a",
+            "symbol": "DLYCOP",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/DLYCOP--0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "DM",
+    "name": "Dogematic",
+    "logo": "/networks/polygon/tokens/DM--0xed42605d2f2abd7dff808662a322a87804ef3a00/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Dogematic",
+            "address": "0xed42605d2f2abd7dff808662a322a87804ef3a00",
+            "symbol": "DM",
+            "decimals": 8,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/DM--0xed42605d2f2abd7dff808662a322a87804ef3a00/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -77228,6 +77667,35 @@
     ]
   },
   {
+    "symbol": "FBE",
+    "name": "Foobee",
+    "logo": "/networks/polygon/tokens/FBE--0x6f0dcc6597c86a2fde9795f634f621f947ca125c/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Foobee",
+            "address": "0x6f0dcc6597c86a2fde9795f634f621f947ca125c",
+            "symbol": "FBE",
+            "decimals": 4,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/FBE--0x6f0dcc6597c86a2fde9795f634f621f947ca125c/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "FEAR",
     "name": "Fear NFTs",
     "logo": "/networks/polygon/tokens/FEAR--0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c/logo.png",
@@ -77345,7 +77813,7 @@
   },
   {
     "symbol": "GAJ",
-    "name": "PolyGaj",
+    "name": "Gaj Finance",
     "logo": "/networks/polygon/tokens/GAJ--0xf4b0903774532aee5ee567c02aab681a81539e92/logo.png",
     "priority": 18,
     "networks": [
@@ -77357,7 +77825,7 @@
         },
         "assets": [
           {
-            "name": "PolyGaj",
+            "name": "Gaj Finance",
             "address": "0xf4b0903774532aee5ee567c02aab681a81539e92",
             "symbol": "GAJ",
             "decimals": 18,
@@ -77837,6 +78305,35 @@
     ]
   },
   {
+    "symbol": "IRIS",
+    "name": "Iris",
+    "logo": "/networks/polygon/tokens/IRIS--0xdab35042e63e93cc8556c9bae482e5415b5ac4b1/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Iris",
+            "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+            "symbol": "IRIS",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/IRIS--0xdab35042e63e93cc8556c9bae482e5415b5ac4b1/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "IRON",
     "name": "Iron",
     "logo": "/networks/polygon/tokens/IRON--0xd86b5923f3ad7b585ed81b448170ae026c65ae9a/logo.png",
@@ -77867,7 +78364,7 @@
   },
   {
     "symbol": "JPYC",
-    "name": "JPYC",
+    "name": "JPY Coin",
     "logo": "/networks/polygon/tokens/JPYC--0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c/logo.png",
     "priority": 18,
     "networks": [
@@ -77879,12 +78376,70 @@
         },
         "assets": [
           {
-            "name": "JPYC",
+            "name": "JPY Coin",
             "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
             "symbol": "JPYC",
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/JPYC--0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "KABY",
+    "name": "Kaby Arena",
+    "logo": "/networks/polygon/tokens/KABY--0x5198e7cc1640049de37d1bd10b03fa5a3afda120/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Kaby Arena",
+            "address": "0x5198e7cc1640049de37d1bd10b03fa5a3afda120",
+            "symbol": "KABY",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/KABY--0x5198e7cc1640049de37d1bd10b03fa5a3afda120/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "KAMPAY",
+    "name": "Kampay",
+    "logo": "/networks/polygon/tokens/KAMPAY--0x39fc9e94caeacb435842fadedecb783589f50f5f/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Kampay",
+            "address": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KAMPAY",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/KAMPAY--0x39fc9e94caeacb435842fadedecb783589f50f5f/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -77955,7 +78510,7 @@
   {
     "symbol": "KOM",
     "name": "Kommunitas",
-    "logo": "/networks/polygon/tokens/KOM--0xc004e2318722ea2b15499d6375905d75ee5390b8/logo.jpeg",
+    "logo": "/networks/polygon/tokens/KOM--0xc004e2318722ea2b15499d6375905d75ee5390b8/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -77971,7 +78526,7 @@
             "symbol": "KOM",
             "decimals": 8,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/KOM--0xc004e2318722ea2b15499d6375905d75ee5390b8/logo.jpeg",
+            "logo": "/networks/polygon/tokens/KOM--0xc004e2318722ea2b15499d6375905d75ee5390b8/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -78359,6 +78914,35 @@
     ]
   },
   {
+    "symbol": "MITx",
+    "name": "Morpheus Infrastructure Token",
+    "logo": "/networks/polygon/tokens/MITx--0x31042a4e66eda0d12143ffc8cc1552d611da4cba/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Morpheus Infrastructure Token",
+            "address": "0x31042a4e66eda0d12143ffc8cc1552d611da4cba",
+            "symbol": "MITx",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/MITx--0x31042a4e66eda0d12143ffc8cc1552d611da4cba/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "MOCA",
     "name": "Museum of Crypto Ar",
     "logo": "/networks/polygon/tokens/MOCA--0xce899f26928a2b21c6a2fddd393ef37c61dba918/logo.jpeg",
@@ -78446,6 +79030,35 @@
     ]
   },
   {
+    "symbol": "MOT",
+    "name": "Mobius Token",
+    "logo": "/networks/polygon/tokens/MOT--0x2db0db271a10661e7090b6758350e18f6798a49d/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Mobius Token",
+            "address": "0x2db0db271a10661e7090b6758350e18f6798a49d",
+            "symbol": "MOT",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/MOT--0x2db0db271a10661e7090b6758350e18f6798a49d/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "MOVE",
     "name": "Mover",
     "logo": "/networks/polygon/tokens/MOVE--0x521cddc0cba84f14c69c1e99249f781aa73ee0bc/logo.jpg",
@@ -78523,6 +79136,93 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/MYFRIENDS--0xa509da749745ac07e9ae47e7a092ead2648b47f2/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "Mverse",
+    "name": "MaticVerse",
+    "logo": "/networks/polygon/tokens/Mverse--0xfeb090fcd433de479396e82db8b83a470dbad3c9/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "MaticVerse",
+            "address": "0xfeb090fcd433de479396e82db8b83a470dbad3c9",
+            "symbol": "Mverse",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/Mverse--0xfeb090fcd433de479396e82db8b83a470dbad3c9/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "NDEFI",
+    "name": "Polly DeFi Nest",
+    "logo": "/networks/polygon/tokens/NDEFI--0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Polly DeFi Nest",
+            "address": "0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b",
+            "symbol": "NDEFI",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/NDEFI--0xd3f07ea86ddf7baebefd49731d7bbd207fedc53b/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "NSDX",
+    "name": "NASDEX Token",
+    "logo": "/networks/polygon/tokens/NSDX--0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "NASDEX Token",
+            "address": "0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6",
+            "symbol": "NSDX",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/NSDX--0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6/logo.PNG",
             "tags": [
               "erc20matic"
             ],
@@ -78765,6 +79465,64 @@
     ]
   },
   {
+    "symbol": "PENKY",
+    "name": "Penky",
+    "logo": "/networks/polygon/tokens/PENKY--0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Penky",
+            "address": "0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed",
+            "symbol": "PENKY",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/PENKY--0x3a35e98cc7390a15d458bb85f9a12823e2ef25ed/logo.PNG",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "PERA",
+    "name": "PERA",
+    "logo": "/networks/polygon/tokens/PERA--0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "PERA",
+            "address": "0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284",
+            "symbol": "PERA",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/PERA--0xe95fd76cf16008c12ff3b3a937cb16cd9cc20284/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "PERI",
     "name": "PERI Finance",
     "logo": "/networks/polygon/tokens/PERI--0xdc0e17eae3b9651875030244b971fa0223a1764f/logo.png",
@@ -78900,6 +79658,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/PMF--0x0aff058e91dc7c74c5e5f8aeb6f209b53e3b4681/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "POLLY",
+    "name": "Polly Finance",
+    "logo": "/networks/polygon/tokens/POLLY--0x4c392822d4be8494b798cea17b43d48b2308109c/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Polly Finance",
+            "address": "0x4c392822d4be8494b798cea17b43d48b2308109c",
+            "symbol": "POLLY",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/POLLY--0x4c392822d4be8494b798cea17b43d48b2308109c/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -79200,6 +79987,35 @@
     ]
   },
   {
+    "symbol": "PYD",
+    "name": "PolyQuity Dollar",
+    "logo": "/networks/polygon/tokens/PYD--0x0527c8c43250279d6eb74da1078193f5316fc9a0/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "PolyQuity Dollar",
+            "address": "0x0527c8c43250279d6eb74da1078193f5316fc9a0",
+            "symbol": "PYD",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/PYD--0x0527c8c43250279d6eb74da1078193f5316fc9a0/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "PYQ",
     "name": "PolyQuity",
     "logo": "/networks/polygon/tokens/PYQ--0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8/logo.png",
@@ -79345,9 +80161,9 @@
     ]
   },
   {
-    "symbol": "RAIDER",
-    "name": "RaiderToken",
-    "logo": "/networks/polygon/tokens/RAIDER--0xcd7361ac3307d1c5a46b63086a90742ff44c63b3/logo.jpg",
+    "symbol": "QUOKK",
+    "name": "PolyQuokka Finance",
+    "logo": "/networks/polygon/tokens/QUOKK--0x9469603f3efbcf17e4a5868d81c701bdbd222555/logo.PNG",
     "priority": 18,
     "networks": [
       {
@@ -79358,12 +80174,12 @@
         },
         "assets": [
           {
-            "name": "RaiderToken",
-            "address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
-            "symbol": "RAIDER",
+            "name": "PolyQuokka Finance",
+            "address": "0x9469603f3efbcf17e4a5868d81c701bdbd222555",
+            "symbol": "QUOKK",
             "decimals": 18,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/RAIDER--0xcd7361ac3307d1c5a46b63086a90742ff44c63b3/logo.jpg",
+            "logo": "/networks/polygon/tokens/QUOKK--0x9469603f3efbcf17e4a5868d81c701bdbd222555/logo.PNG",
             "tags": [
               "erc20matic"
             ],
@@ -79374,9 +80190,9 @@
     ]
   },
   {
-    "symbol": "RBAL",
-    "name": "Rebalance Token",
-    "logo": "",
+    "symbol": "QuickChart",
+    "name": "QuickChart",
+    "logo": "/networks/polygon/tokens/QuickChart--0x0af77b096cbdf53b5c39c2fcff8f14c5e3a36356/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -79387,12 +80203,70 @@
         },
         "assets": [
           {
-            "name": "Rebalance Token",
-            "address": "0x03247a4368a280bec8133300cd930a3a61d604f6",
-            "symbol": "RBAL",
+            "name": "QuickChart",
+            "address": "0x0af77b096cbdf53b5c39c2fcff8f14c5e3a36356",
+            "symbol": "QuickChart",
+            "decimals": 9,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/QuickChart--0x0af77b096cbdf53b5c39c2fcff8f14c5e3a36356/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "RAIDER",
+    "name": "Crypto Raiders",
+    "logo": "/networks/polygon/tokens/RAIDER--0xcd7361ac3307d1c5a46b63086a90742ff44c63b3/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Crypto Raiders",
+            "address": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+            "symbol": "RAIDER",
             "decimals": 18,
             "chainId": 137,
-            "logo": "",
+            "logo": "/networks/polygon/tokens/RAIDER--0xcd7361ac3307d1c5a46b63086a90742ff44c63b3/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "REI",
+    "name": "Zerogoki Token",
+    "logo": "/networks/polygon/tokens/REI--0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Zerogoki Token",
+            "address": "0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e",
+            "symbol": "REI",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/REI--0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -79422,35 +80296,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/RELAY--0x904371845bc56dcbbcf0225ef84a669b2fd6bd0d/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "RENBTC",
-    "name": "renBTC",
-    "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renBTC",
-            "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
-            "symbol": "RENBTC",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
             "tags": [
               "erc20matic"
             ],
@@ -79491,7 +80336,7 @@
   },
   {
     "symbol": "RVF",
-    "name": "Rocket Vault",
+    "name": "Rocket Vault Rocket",
     "logo": "/networks/polygon/tokens/RVF--0x2ce13e4199443fdfff531abb30c9b6594446bbc7/logo.png",
     "priority": 18,
     "networks": [
@@ -79503,12 +80348,70 @@
         },
         "assets": [
           {
-            "name": "Rocket Vault",
+            "name": "Rocket Vault Rocket",
             "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
             "symbol": "RVF",
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/RVF--0x2ce13e4199443fdfff531abb30c9b6594446bbc7/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "RVRS",
+    "name": "Reverse",
+    "logo": "/networks/polygon/tokens/RVRS--0x5dd175a4242afe19e5c1051d8cd13fc8979f2329/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Reverse",
+            "address": "0x5dd175a4242afe19e5c1051d8cd13fc8979f2329",
+            "symbol": "RVRS",
+            "decimals": 9,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/RVRS--0x5dd175a4242afe19e5c1051d8cd13fc8979f2329/logo.PNG",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "Ring",
+    "name": "Darwinia",
+    "logo": "/networks/polygon/tokens/Ring--0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Darwinia",
+            "address": "0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f",
+            "symbol": "Ring",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/Ring--0x9c1c23e60b72bc88a043bf64afdb16a02540ae8f/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -79780,6 +80683,35 @@
     ]
   },
   {
+    "symbol": "SILVER",
+    "name": "Silver Token",
+    "logo": "/networks/polygon/tokens/SILVER--0xbc7cb585346f4f59d07121bb9ed7358076243539/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Silver Token",
+            "address": "0xbc7cb585346f4f59d07121bb9ed7358076243539",
+            "symbol": "SILVER",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/SILVER--0xbc7cb585346f4f59d07121bb9ed7358076243539/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "SIM",
     "name": "Simba Empire",
     "logo": "/networks/polygon/tokens/SIM--0x70784d8a360491562342b4f3d3d039aaacaf8f5d/logo.png",
@@ -79799,6 +80731,64 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/SIM--0x70784d8a360491562342b4f3d3d039aaacaf8f5d/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "SING",
+    "name": "Sing Token",
+    "logo": "/networks/polygon/tokens/SING--0xcb898b0efb084df14dd8e018da37b4d0f06ab26d/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Sing Token",
+            "address": "0xcb898b0efb084df14dd8e018da37b4d0f06ab26d",
+            "symbol": "SING",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/SING--0xcb898b0efb084df14dd8e018da37b4d0f06ab26d/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "SNK",
+    "name": "Snook",
+    "logo": "/networks/polygon/tokens/SNK--0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Snook",
+            "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+            "symbol": "SNK",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/SNK--0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -80012,6 +81002,35 @@
     ]
   },
   {
+    "symbol": "TECH",
+    "name": "Cryptomeda",
+    "logo": "/networks/polygon/tokens/TECH--0x6286a9e6f7e745a6d884561d88f94542d6715698/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Cryptomeda",
+            "address": "0x6286a9e6f7e745a6d884561d88f94542d6715698",
+            "symbol": "TECH",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/TECH--0x6286a9e6f7e745a6d884561d88f94542d6715698/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "TETU",
     "name": "TETU Reward Token",
     "logo": "/networks/polygon/tokens/TETU--0x255707b70bf90aa112006e1b07b9aea6de021424/logo.png",
@@ -80099,6 +81118,35 @@
     ]
   },
   {
+    "symbol": "TORG",
+    "name": "TORG",
+    "logo": "/networks/polygon/tokens/TORG--0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "TORG",
+            "address": "0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8",
+            "symbol": "TORG",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/TORG--0xe9993763e0b7f7d915a62a5f22a6e151f91d98a8/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "UBQ",
     "name": "Ubiq",
     "logo": "/networks/polygon/tokens/UBQ--0xb1c5c9b97b35592777091cd34ffff141ae866abd/logo.png",
@@ -80147,6 +81195,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/UFARM--0xa7305ae84519ff8be02484cda45834c4e7d13dd6/logo.jpeg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "UGT",
+    "name": "Unreal Governance Token",
+    "logo": "/networks/polygon/tokens/UGT--0xba4c54ea2d66b904c82847a7d2357d22b857e812/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Unreal Governance Token",
+            "address": "0xba4c54ea2d66b904c82847a7d2357d22b857e812",
+            "symbol": "UGT",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/UGT--0xba4c54ea2d66b904c82847a7d2357d22b857e812/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -80273,6 +81350,35 @@
     ]
   },
   {
+    "symbol": "WET",
+    "name": "Weble Ecosystem Tok",
+    "logo": "/networks/polygon/tokens/WET--0x632b8c4e95b2f8a9309417f8d990ab9c04c77369/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Weble Ecosystem Tok",
+            "address": "0x632b8c4e95b2f8a9309417f8d990ab9c04c77369",
+            "symbol": "WET",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/WET--0x632b8c4e95b2f8a9309417f8d990ab9c04c77369/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "WEXPOLY",
     "name": "WaultSwap Polygon",
     "logo": "/networks/polygon/tokens/WEXPOLY--0x4c4bf319237d98a30a929a96112effa8da3510eb/logo.png",
@@ -80292,6 +81398,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/WEXPOLY--0x4c4bf319237d98a30a929a96112effa8da3510eb/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "WHEY",
+    "name": "WHEY",
+    "logo": "/networks/polygon/tokens/WHEY--0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "WHEY",
+            "address": "0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c",
+            "symbol": "WHEY",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/WHEY--0x0cfbbb89fd58f6b49b7bf5665397ddc84003d47c/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -80418,6 +81553,35 @@
     ]
   },
   {
+    "symbol": "XCash",
+    "name": "X-Cash",
+    "logo": "/networks/polygon/tokens/XCash--0x03678f2c2c762dc63c2bb738c3a837d366eda560/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "X-Cash",
+            "address": "0x03678f2c2c762dc63c2bb738c3a837d366eda560",
+            "symbol": "XCash",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/XCash--0x03678f2c2c762dc63c2bb738c3a837d366eda560/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "XDO",
     "name": "xDollar",
     "logo": "/networks/polygon/tokens/XDO--0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea/logo.png",
@@ -80437,6 +81601,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/XDO--0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "XTM",
+    "name": "Torum",
+    "logo": "/networks/polygon/tokens/XTM--0xe1c42be9699ff4e11674819c1885d43bd92e9d15/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Torum",
+            "address": "0xe1c42be9699ff4e11674819c1885d43bd92e9d15",
+            "symbol": "XTM",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/XTM--0xe1c42be9699ff4e11674819c1885d43bd92e9d15/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -80621,6 +81814,35 @@
     ]
   },
   {
+    "symbol": "Yf-DAI",
+    "name": "YfDAI.finance",
+    "logo": "/networks/polygon/tokens/Yf-DAI--0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "YfDAI.finance",
+            "address": "0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8",
+            "symbol": "Yf-DAI",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/Yf-DAI--0x7e7ff932fab08a0af569f93ce65e7b8b23698ad8/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "ZNKO",
     "name": "Zenko",
     "logo": "/networks/polygon/tokens/ZNKO--0x11b077300211dc3b4b316f02440a39dbb1818f19/logo.PNG",
@@ -80698,35 +81920,6 @@
             "decimals": 8,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/mBTM--0xa16eba3b7562fc92597579a80fe53a92dcab7122/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "mDEF",
-    "name": "Matic Deflect Protocol",
-    "logo": "/networks/polygon/tokens/mDEF--0x82b6205002ecd05e97642d38d61e2cfeac0e18ce/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Matic Deflect Protocol",
-            "address": "0x82b6205002ecd05e97642d38d61e2cfeac0e18ce",
-            "symbol": "mDEF",
-            "decimals": 9,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/mDEF--0x82b6205002ecd05e97642d38d61e2cfeac0e18ce/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -81114,6 +82307,35 @@
     ]
   },
   {
+    "symbol": "RENBTC",
+    "name": "renBTC",
+    "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "renBTC",
+            "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+            "symbol": "RENBTC",
+            "decimals": 8,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "XMARK",
     "name": "xMARK",
     "logo": "/networks/polygon/tokens/XMARK--0xf153eff70dc0bf3b085134928daeea248d9b30d0/logo.jpg",
@@ -81133,6 +82355,35 @@
             "decimals": 9,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/XMARK--0xf153eff70dc0bf3b085134928daeea248d9b30d0/logo.jpg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "zUSD",
+    "name": "Zerogoki USD",
+    "logo": "/networks/polygon/tokens/zUSD--0x5668f6d40e15188045a1de6295054103c13ffac1/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Zerogoki USD",
+            "address": "0x5668f6d40e15188045a1de6295054103c13ffac1",
+            "symbol": "zUSD",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/zUSD--0x5668f6d40e15188045a1de6295054103c13ffac1/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -81230,6 +82481,35 @@
     ]
   },
   {
+    "symbol": "APEIN",
+    "name": "Ape In",
+    "logo": "/networks/avalanche-c/tokens/APEIN--0x938fe3788222a74924e062120e7bfac829c719fb/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Ape In",
+            "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
+            "symbol": "APEIN",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/APEIN--0x938fe3788222a74924e062120e7bfac829c719fb/logo.PNG",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "AVE",
     "name": "Avaware",
     "logo": "/networks/avalanche-c/tokens/AVE--0x78ea17559b3d2cf85a7f9c2c704eda119db5e6de/logo.png",
@@ -81288,6 +82568,35 @@
     ]
   },
   {
+    "symbol": "AVXT",
+    "name": "Avaxtars Token",
+    "logo": "/networks/avalanche-c/tokens/AVXT--0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Avaxtars Token",
+            "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
+            "symbol": "AVXT",
+            "decimals": 6,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/AVXT--0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.PNG",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "AceD",
     "name": "AceD",
     "logo": "/networks/avalanche-c/tokens/AceD--0x0a15ed1b1f1be0b2024b4d22b4f19ebb99a6fd11/logo.png",
@@ -81307,6 +82616,35 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/AceD--0x0a15ed1b1f1be0b2024b4d22b4f19ebb99a6fd11/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BLIZZ",
+    "name": "Blizzard Network",
+    "logo": "/networks/avalanche-c/tokens/BLIZZ--0xb147656604217a03fe2c73c4838770df8d9d21b8/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Blizzard Network",
+            "address": "0xb147656604217a03fe2c73c4838770df8d9d21b8",
+            "symbol": "BLIZZ",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/BLIZZ--0xb147656604217a03fe2c73c4838770df8d9d21b8/logo.PNG",
             "tags": [
               "erc20avax"
             ],
@@ -81404,6 +82742,35 @@
     ]
   },
   {
+    "symbol": "CHIHUA",
+    "name": "Chihuahuax",
+    "logo": "/networks/avalanche-c/tokens/CHIHUA--0x4735721ed62713e3a141c939f4aa55ca8ad5f66a/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Chihuahuax",
+            "address": "0x4735721ed62713e3a141c939f4aa55ca8ad5f66a",
+            "symbol": "CHIHUA",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/CHIHUA--0x4735721ed62713e3a141c939f4aa55ca8ad5f66a/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "CNR",
     "name": "Canary",
     "logo": "/networks/avalanche-c/tokens/CNR--0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf/logo.png",
@@ -81462,9 +82829,9 @@
     ]
   },
   {
-    "symbol": "DAI",
-    "name": "Dai Stablecoin v1.0",
-    "logo": "/networks/avalanche-c/tokens/DAI--0x095370ae41ff23798d96c1adf7d58ae6a2b05b18/logo.png",
+    "symbol": "DREGG",
+    "name": "Dragon Egg",
+    "logo": "/networks/avalanche-c/tokens/DREGG--0x88c090496125b751b4e3ce4d3fdb8e47dd079c57/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -81475,12 +82842,12 @@
         },
         "assets": [
           {
-            "name": "Dai Stablecoin v1.0",
-            "address": "0x095370ae41ff23798d96c1adf7d58ae6a2b05b18",
-            "symbol": "DAI",
+            "name": "Dragon Egg",
+            "address": "0x88c090496125b751b4e3ce4d3fdb8e47dd079c57",
+            "symbol": "DREGG",
             "decimals": 18,
             "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/DAI--0x095370ae41ff23798d96c1adf7d58ae6a2b05b18/logo.png",
+            "logo": "/networks/avalanche-c/tokens/DREGG--0x88c090496125b751b4e3ce4d3fdb8e47dd079c57/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -81510,6 +82877,64 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/ELK--0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "EVRT",
+    "name": "Everest Token",
+    "logo": "/networks/avalanche-c/tokens/EVRT--0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Everest Token",
+            "address": "0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4",
+            "symbol": "EVRT",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/EVRT--0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "GB",
+    "name": "Good Bridging",
+    "logo": "/networks/avalanche-c/tokens/GB--0x90842eb834cfd2a1db0b1512b254a18e4d396215/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Good Bridging",
+            "address": "0x90842eb834cfd2a1db0b1512b254a18e4d396215",
+            "symbol": "GB",
+            "decimals": 9,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/GB--0x90842eb834cfd2a1db0b1512b254a18e4d396215/logo.jpg",
             "tags": [
               "erc20avax"
             ],
@@ -81578,6 +83003,64 @@
     ]
   },
   {
+    "symbol": "HLTH",
+    "name": "HLTH Token",
+    "logo": "/networks/avalanche-c/tokens/HLTH--0x0342993a0a3bcff7668578082c3ad17b5277d97d/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "HLTH Token",
+            "address": "0x0342993a0a3bcff7668578082c3ad17b5277d97d",
+            "symbol": "HLTH",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/HLTH--0x0342993a0a3bcff7668578082c3ad17b5277d97d/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "HOOP",
+    "name": "Hoopoe",
+    "logo": "/networks/avalanche-c/tokens/HOOP--0x0592af5414f2f8d90a5ae3c25e937804d3965c87/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Hoopoe",
+            "address": "0x0592af5414f2f8d90a5ae3c25e937804d3965c87",
+            "symbol": "HOOP",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/HOOP--0x0592af5414f2f8d90a5ae3c25e937804d3965c87/logo.PNG",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "HUSKY",
     "name": "Husky AVAX",
     "logo": "/networks/avalanche-c/tokens/HUSKY--0x65378b697853568da9ff8eab60c13e1ee9f4a654/logo.png",
@@ -81626,6 +83109,35 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/JOE--0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "KLO",
+    "name": "Kalao",
+    "logo": "/networks/avalanche-c/tokens/KLO--0xb27c8941a7df8958a1778c0259f76d1f8b711c35/logo.jpg",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Kalao",
+            "address": "0xb27c8941a7df8958a1778c0259f76d1f8b711c35",
+            "symbol": "KLO",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/KLO--0xb27c8941a7df8958a1778c0259f76d1f8b711c35/logo.jpg",
             "tags": [
               "erc20avax"
             ],
@@ -81694,6 +83206,35 @@
     ]
   },
   {
+    "symbol": "LYK",
+    "name": "Luyuka",
+    "logo": "/networks/avalanche-c/tokens/LYK--0xb3f52c360201201d366efd2cda4db78e00cb9d5d/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Luyuka",
+            "address": "0xb3f52c360201201d366efd2cda4db78e00cb9d5d",
+            "symbol": "LYK",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/LYK--0xb3f52c360201201d366efd2cda4db78e00cb9d5d/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "LYXe",
     "name": "LUKSO Token",
     "logo": "/networks/avalanche-c/tokens/LYXe--0xcd82b8f5f145abb08f8c495bdb675d1ac4d40eb2/logo.png",
@@ -81713,6 +83254,35 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/LYXe--0xcd82b8f5f145abb08f8c495bdb675d1ac4d40eb2/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "MYAK",
+    "name": "MiniYAK",
+    "logo": "/networks/avalanche-c/tokens/MYAK--0xddaaad7366b455aff8e7c82940c43ceb5829b604/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "MiniYAK",
+            "address": "0xddaaad7366b455aff8e7c82940c43ceb5829b604",
+            "symbol": "MYAK",
+            "decimals": 12,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/MYAK--0xddaaad7366b455aff8e7c82940c43ceb5829b604/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -81897,6 +83467,35 @@
     ]
   },
   {
+    "symbol": "SAFEMOONA",
+    "name": "SafemoonAvax",
+    "logo": "/networks/avalanche-c/tokens/SAFEMOONA--0x4501e37a79cf953116331a105b3644d07b74c0f8/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "SafemoonAvax",
+            "address": "0x4501e37a79cf953116331a105b3644d07b74c0f8",
+            "symbol": "SAFEMOONA",
+            "decimals": 9,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/SAFEMOONA--0x4501e37a79cf953116331a105b3644d07b74c0f8/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "SHERPA",
     "name": "Sherpa",
     "logo": "/networks/avalanche-c/tokens/SHERPA--0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6/logo.png",
@@ -82013,6 +83612,35 @@
     ]
   },
   {
+    "symbol": "SPELL",
+    "name": "Spell Token",
+    "logo": "/networks/avalanche-c/tokens/SPELL--0xce1bffbd5374dac86a2893119683f4911a2f7814/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Spell Token",
+            "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+            "symbol": "SPELL",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/SPELL--0xce1bffbd5374dac86a2893119683f4911a2f7814/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "SPORE",
     "name": "Spore",
     "logo": "/networks/avalanche-c/tokens/SPORE--0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985/logo.png",
@@ -82100,6 +83728,64 @@
     ]
   },
   {
+    "symbol": "STORM",
+    "name": "Storm Token",
+    "logo": "/networks/avalanche-c/tokens/STORM--0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Storm Token",
+            "address": "0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b",
+            "symbol": "STORM",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/STORM--0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "SWIFT",
+    "name": "Swift Finance",
+    "logo": "/networks/avalanche-c/tokens/SWIFT--0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Swift Finance",
+            "address": "0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa",
+            "symbol": "SWIFT",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/SWIFT--0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "TBTC",
     "name": "tBTC",
     "logo": "/networks/avalanche-c/tokens/TBTC--0x1c24d4ef397f6f8c80403f52e9d11bef1d129a93/logo.png",
@@ -82119,6 +83805,64 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/TBTC--0x1c24d4ef397f6f8c80403f52e9d11bef1d129a93/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "TEDDY",
+    "name": "Teddy Cash",
+    "logo": "/networks/avalanche-c/tokens/TEDDY--0x094bd7b2d99711a1486fb94d4395801c6d0fddcc/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Teddy Cash",
+            "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
+            "symbol": "TEDDY",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/TEDDY--0x094bd7b2d99711a1486fb94d4395801c6d0fddcc/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "TNGLV3",
+    "name": "TangleV3",
+    "logo": "/networks/avalanche-c/tokens/TNGLV3--0xaf1843657f00f8c048139b7103784fdefc403702/logo.PNG",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "TangleV3",
+            "address": "0xaf1843657f00f8c048139b7103784fdefc403702",
+            "symbol": "TNGLV3",
+            "decimals": 9,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/TNGLV3--0xaf1843657f00f8c048139b7103784fdefc403702/logo.PNG",
             "tags": [
               "erc20avax"
             ],
@@ -82216,35 +83960,6 @@
     ]
   },
   {
-    "symbol": "WET",
-    "name": "Weble Ecosystem Tok",
-    "logo": "/networks/avalanche-c/tokens/WET--0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Weble Ecosystem Tok",
-            "address": "0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d",
-            "symbol": "WET",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/WET--0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "YAK",
     "name": "Yield Yak",
     "logo": "/networks/avalanche-c/tokens/YAK--0x59414b3089ce2af0010e7523dea7e2b35d776ec7/logo.png",
@@ -82274,9 +83989,9 @@
     ]
   },
   {
-    "symbol": "Yf-DAI",
-    "name": "YfDAI.finance",
-    "logo": "/networks/avalanche-c/tokens/Yf-DAI--0xe09cd46bbe2144b53c6265c2d1b3d01cfdadb786/logo.png",
+    "symbol": "YAY",
+    "name": "YAY Games",
+    "logo": "/networks/avalanche-c/tokens/YAY--0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca/logo.png",
     "priority": 18,
     "networks": [
       {
@@ -82287,12 +84002,41 @@
         },
         "assets": [
           {
-            "name": "YfDAI.finance",
-            "address": "0xe09cd46bbe2144b53c6265c2d1b3d01cfdadb786",
-            "symbol": "Yf-DAI",
+            "name": "YAY Games",
+            "address": "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca",
+            "symbol": "YAY",
             "decimals": 18,
             "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/Yf-DAI--0xe09cd46bbe2144b53c6265c2d1b3d01cfdadb786/logo.png",
+            "logo": "/networks/avalanche-c/tokens/YAY--0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "ZABU",
+    "name": "Zabu Token",
+    "logo": "/networks/avalanche-c/tokens/ZABU--0xdd453dbd253fa4e5e745047d93667ce9da93bbcf/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Zabu Token",
+            "address": "0xdd453dbd253fa4e5e745047d93667ce9da93bbcf",
+            "symbol": "ZABU",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/ZABU--0xdd453dbd253fa4e5e745047d93667ce9da93bbcf/logo.png",
             "tags": [
               "erc20avax"
             ],
