@@ -5623,35 +5623,6 @@
     ]
   },
   {
-    "symbol": "BAS",
-    "name": "BAS",
-    "logo": "/networks/ethereum/tokens/BAS--0x106538cc16f938776c7c180186975bca23875287/logo.png",
-    "priority": 18,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "BAS",
-            "address": "0x106538cc16f938776c7c180186975bca23875287",
-            "symbol": "BAS",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/BAS--0x106538cc16f938776c7c180186975bca23875287/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BASE",
     "name": "BaseProtocol",
     "logo": "/networks/ethereum/tokens/BASE--0x07150e919b4de5fd6a63de1f9384828396f25fdc/logo.png",
@@ -76787,6 +76758,35 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/BAN--0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BAS",
+    "name": "Basis Share",
+    "logo": "/networks/polygon/tokens/BAS--0x83a6da342099835bcaa9c219dd76a5033c837de5/logo.png",
+    "priority": 18,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Basis Share",
+            "address": "0x83a6da342099835bcaa9c219dd76a5033c837de5",
+            "symbol": "BAS",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/BAS--0x83a6da342099835bcaa9c219dd76a5033c837de5/logo.png",
             "tags": [
               "erc20matic"
             ],
