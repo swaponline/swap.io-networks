@@ -1,0 +1,13 @@
+{
+  "name": "USDC from Ethereum",
+  "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+  "symbol": "USDC",
+  "decimals": 6,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/USDC--0xddafbb505ad214d7b80b1f830fccc89b60fb7a83/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "stablecoin",
+    "usd"
+  ]
+}

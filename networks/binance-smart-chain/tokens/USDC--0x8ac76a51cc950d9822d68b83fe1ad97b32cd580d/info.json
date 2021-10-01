@@ -4,8 +4,10 @@
   "symbol": "USDC",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/USDC--0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/USDC--0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "stablecoin",
+    "usd"
   ]
 }

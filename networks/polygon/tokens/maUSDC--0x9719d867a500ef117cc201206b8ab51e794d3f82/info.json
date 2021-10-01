@@ -4,8 +4,12 @@
   "symbol": "MAUSDC",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MAUSDC--0x9719d867a500ef117cc201206b8ab51e794d3f82/logo.png",
+  "logo": "/networks/polygon/tokens/MAUSDC--0x9719d867a500ef117cc201206b8ab51e794d3f82/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "usdc",
+    "stablecoin",
+    "usd"
   ]
 }

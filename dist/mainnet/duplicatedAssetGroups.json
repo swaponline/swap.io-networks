@@ -3422,35 +3422,6 @@
     ]
   },
   {
-    "symbol": "USDC",
-    "name": "Binance Pegged USD Coin",
-    "logo": "/networks/binance-smart-chain/tokens/USDC--0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Pegged USD Coin",
-            "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-            "symbol": "USDC",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/USDC--0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "USDX",
     "name": "USDX",
     "logo": "/networks/binance-smart-chain/tokens/USDX--0x1203355742e76875154c0d13eb81dcd7711dc7d9/logo.png",
@@ -8429,35 +8400,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/UNI--0xb33eaad8d922b1083446dc23f610c2567fb5180f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "logo": "/networks/polygon/tokens/USDC--0x2791bca1f2de4661ed88a30c99a7a9449aa84174/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "USD Coin",
-            "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-            "symbol": "USDC",
-            "decimals": 6,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/USDC--0x2791bca1f2de4661ed88a30c99a7a9449aa84174/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -18724,35 +18666,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/USDB--0x764cc68cd46cb00644216682c3ee120b2f1eb5f6/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "logo": "/networks/avalanche-c/tokens/USDC--0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "USD Coin",
-            "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
-            "symbol": "USDC",
-            "decimals": 5,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/USDC--0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664/logo.png",
             "tags": [
               "erc20avax"
             ],
