@@ -4,6 +4,7 @@
     "name": "PieDAO Balanced Crypto Pie",
     "logo": "/networks/ethereum/tokens/BCP--0xe4f726adc8e89c6a6017f01eada77865db22da14/logo.png",
     "priority": -1,
+    "comment": "have only duplicates symbol but absolutly diff asset",
     "networks": [
       {
         "network": {
@@ -33,6 +34,7 @@
     "name": "PieDAOBTC++",
     "logo": "/networks/ethereum/tokens/BTC--0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd/logo.png",
     "priority": -1,
+    "comments": "maybe wrapped btc",
     "networks": [
       {
         "network": {
@@ -62,6 +64,7 @@
     "name": "BTUProtocol",
     "logo": "/networks/ethereum/tokens/BTU--0xb683d83a532e2cb7dfa5275eed3698436371cc9f/logo.png",
     "priority": -1,
+    "comment": "need create asset-group",
     "networks": [
       {
         "network": {
@@ -773,35 +776,6 @@
             "decimals": 6,
             "chainId": 1,
             "logo": "/networks/ethereum/tokens/aUSDC--0xbcca60bb61934080951369a648fb03df4f96263c/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "aUSDT",
-    "name": "Aave USDT",
-    "logo": "/networks/ethereum/tokens/aUSDT--0x71fc860f7d3a592a4a98740e39db31d25db65ae8/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Aave USDT",
-            "address": "0x71fc860f7d3a592a4a98740e39db31d25db65ae8",
-            "symbol": "aUSDT",
-            "decimals": 6,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/aUSDT--0x71fc860f7d3a592a4a98740e39db31d25db65ae8/logo.png",
             "tags": [
               "erc20"
             ],
@@ -3571,35 +3545,6 @@
     ]
   },
   {
-    "symbol": "USDT",
-    "name": "Binance Pegged USDT",
-    "logo": "/networks/binance-smart-chain/tokens/USDT--0x55d398326f99059ff775485246999027b3197955/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Pegged USDT",
-            "address": "0x55d398326f99059ff775485246999027b3197955",
-            "symbol": "USDT",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/USDT--0x55d398326f99059ff775485246999027b3197955/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "USDX",
     "name": "USDX",
     "logo": "/networks/binance-smart-chain/tokens/USDX--0x1203355742e76875154c0d13eb81dcd7711dc7d9/logo.png",
@@ -4851,6 +4796,7 @@
     "name": "BTU Protocol",
     "logo": "/networks/polygon/tokens/BTU--0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc/logo.png",
     "priority": -1,
+    "comment": "need create asset-group",
     "networks": [
       {
         "network": {
@@ -8646,35 +8592,6 @@
     ]
   },
   {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "logo": "/networks/polygon/tokens/USDT--0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Tether USD",
-            "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-            "symbol": "USDT",
-            "decimals": 6,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/USDT--0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "UST",
     "name": "Wrapped UST Token",
     "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.png",
@@ -10883,6 +10800,7 @@
     "name": "BTU Protocol",
     "logo": "/networks/avalanche-c/tokens/BTU--0x211960f8260db1b0171c33931a2aefd9562592b0/logo.png",
     "priority": -1,
+    "comment": "need create asset-group",
     "networks": [
       {
         "network": {
@@ -19047,64 +18965,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/USDQ--0x4247bea779fe14dabd38547a7ea49d7f57bd1bea/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "USDT",
-    "name": "Tether",
-    "logo": "/networks/avalanche-c/tokens/USDT--0xc7198437980c041c805a1edcba50c1ce5db95118/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Tether",
-            "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
-            "symbol": "USDT",
-            "decimals": 6,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/USDT--0xc7198437980c041c805a1edcba50c1ce5db95118/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "logo": "/networks/avalanche-c/tokens/USDT--0xde3a24028580884448a5397872046a019649b084/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Tether USD",
-            "address": "0xde3a24028580884448a5397872046a019649b084",
-            "symbol": "USDT",
-            "decimals": 6,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/USDT--0xde3a24028580884448a5397872046a019649b084/logo.png",
             "tags": [
               "erc20avax"
             ],

@@ -1,0 +1,17 @@
+{
+  "symbol": "USDT",
+  "name": "Tether",
+  "logo": "/networks/ethereum/tokens/USDT--0xdac17f958d2ee523a2206206994597c13d831ec7/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/USDT--0xdac17f958d2ee523a2206206994597c13d831ec7/info.json",
+    "/networks/ethereum/tokens/aUSDTv2--0x3ed3b47dd13ec9a98b44e6204a523e766b225811/info.json",
+    "/networks/ethereum/tokens/aUSDTv1--0x71fc860f7d3a592a4a98740e39db31d25db65ae8/info.json",
+    "/networks/binance-smart-chain/tokens/USDT--0x55d398326f99059ff775485246999027b3197955/info.json",
+    "/networks/polygon/tokens/USDT--0xc2132d05d31c914a87c6611c10748aeb04b58e8f/info.json",
+    "/networks/polygon/tokens/AMUSDT--0x60d55f02a771d515e077c9c2403a1ef324885cec/info.json",
+    "/networks/polygon/tokens/maUSDT--0xdae5f1590db13e3b40423b5b5c5fbf175515910b/info.json",
+    "/networks/avalanche-c/tokens/USDT--0xde3a24028580884448a5397872046a019649b084/info.json",
+    "/networks/avalanche-c/tokens/USDT--0xc7198437980c041c805a1edcba50c1ce5db95118/info.json",
+    "/networks/xdai/tokens/USDT--0x4ecaba5870353805a9f068101a40e0f32ed605c6/info.json"
+  ]
+}
