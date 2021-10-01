@@ -5,7 +5,7 @@
   "asset-list": [
     "/networks/xdai/coins/xDAI/info.json",
     "/networks/ethereum/tokens/DAI--0x6b175474e89094c44da98b954eedeac495271d0f/info.json",
-    "/networks/binance-smart-chain/tokens/DAI--0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/info.json",
+    "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/info.json",
     "/networks/polygon/tokens/DAI--0x8f3cf7ad23cd3cadbd9735aff958023239c6a063/info.json",
     "/networks/avalanche-c/tokens/DAI--0xba7deebbfc5fa1100fb055a87773e1e99cd3507a/info.json"
   ]

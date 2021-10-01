@@ -756,6 +756,29 @@
             "logo": "/networks/solana/coins/SOL/logo.svg"
           }
         ]
+      },
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "SOL",
+            "address": "0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4",
+            "symbol": "SOL",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/SOL--0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4/logo.png",
+            "tags": [
+              "erc20matic",
+              "wrapped",
+              "solana"
+            ],
+            "type": "token"
+          }
+        ]
       }
     ]
   },
@@ -72640,37 +72663,6 @@
     ]
   },
   {
-    "symbol": "BTCB",
-    "name": "Binance Pegged Bitcoin",
-    "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
-    "priority": 19,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Pegged Bitcoin",
-            "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-            "symbol": "BTCB",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.svg",
-            "tags": [
-              "bep20",
-              "wrapped",
-              "bitcoin"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BTCST",
     "name": "Standard BTC Hashrate Token",
     "logo": "/networks/binance-smart-chain/tokens/BTCST--0x78650b139471520656b9e7aa7a5e9276814a38e9/logo.png",
@@ -73040,39 +73032,6 @@
             "logo": "/networks/binance-smart-chain/tokens/CYC--0x810ee35443639348adbbc467b33310d2ab43c168/logo.png",
             "tags": [
               "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "DAI",
-    "name": "Binance Pegged DAI",
-    "logo": "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.png",
-    "priority": 19,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Pegged DAI",
-            "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-            "symbol": "DAI",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.png",
-            "tags": [
-              "bep20",
-              "wrapped",
-              "xdai",
-              "stablecoin",
-              "usd"
             ],
             "type": "token"
           }
@@ -75219,37 +75178,6 @@
             "logo": "/networks/binance-smart-chain/tokens/WAULTx--0xb64e638e60d154b43f660a6bf8fd8a3b249a6a21/logo.png",
             "tags": [
               "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "WBNB",
-    "name": "WBNB Token",
-    "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
-    "priority": 19,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "WBNB Token",
-            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-            "symbol": "WBNB",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
-            "tags": [
-              "bep20",
-              "wrapped",
-              "binance"
             ],
             "type": "token"
           }
@@ -82846,6 +82774,35 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/CYCLE--0x81440c939f2c1e34fc7048e518a637205a632a74/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "DAI",
+    "name": "Dai Stablecoin v1.0",
+    "logo": "/networks/avalanche-c/tokens/DAI--0x095370ae41ff23798d96c1adf7d58ae6a2b05b18/logo.png",
+    "priority": 19,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Dai Stablecoin v1.0",
+            "address": "0x095370ae41ff23798d96c1adf7d58ae6a2b05b18",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/DAI--0x095370ae41ff23798d96c1adf7d58ae6a2b05b18/logo.png",
             "tags": [
               "erc20avax"
             ],

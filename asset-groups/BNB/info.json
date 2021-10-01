@@ -4,7 +4,7 @@
   "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg",
   "asset-list": [
     "/networks/binance-smart-chain/coins/BNB/info.json",
-    "/networks/binance-smart-chain/tokens/WBNB--0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/info.json",
+    "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/info.json",
     "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/info.json"
   ]
 }
