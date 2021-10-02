@@ -4,7 +4,7 @@
   "symbol": "maUSDT",
   "decimals": 6,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/maUSDT--0xdae5f1590db13e3b40423b5b5c5fbf175515910b/logo.png",
+  "logo": "/networks/polygon/tokens/maUSDT--0xdae5f1590db13e3b40423b5b5c5fbf175515910b/logo.svg",
   "tags": [
     "erc20matic",
     "stablecoin",

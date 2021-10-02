@@ -4,7 +4,7 @@
   "symbol": "aUSDTv2",
   "decimals": 6,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aUSDTv2--0x3ed3b47dd13ec9a98b44e6204a523e766b225811/logo.png",
+  "logo": "/networks/ethereum/tokens/aUSDTv2--0x3ed3b47dd13ec9a98b44e6204a523e766b225811/logo.svg",
   "tags": [
     "erc20",
     "stablecoin",
