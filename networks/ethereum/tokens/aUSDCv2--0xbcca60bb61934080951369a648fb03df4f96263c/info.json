@@ -1,0 +1,15 @@
+{
+  "name": "Aave interest bearing USDC",
+  "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+  "symbol": "aUSDCv2",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/aUSDCv2--0xbcca60bb61934080951369a648fb03df4f96263c/logo.svg",
+  "tags": [
+    "erc20",
+    "wrapped",
+    "usdc",
+    "stablecoin",
+    "usd"
+  ]
+}

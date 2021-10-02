@@ -4,8 +4,11 @@
   "logo": "/networks/ethereum/tokens/USDC--0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/logo.svg",
   "asset-list": [
     "/networks/ethereum/tokens/USDC--0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/info.json",
+    "/networks/ethereum/tokens/aUSDCv2--0xbcca60bb61934080951369a648fb03df4f96263c/info.json",
+    "/networks/ethereum/tokens/aUSDCv1--0x9ba00d6856a4edf4665bca2c2309936572473b7e/info.json",
     "/networks/binance-smart-chain/tokens/USDC--0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/info.json",
     "/networks/polygon/tokens/USDC--0x2791bca1f2de4661ed88a30c99a7a9449aa84174/info.json",
+    "/networks/polygon/tokens/AMUSDC--0x1a13f4ca1d028320a707d99520abfefca3998b7f/info.json",
     "/networks/polygon/tokens/MAUSDC--0x9719d867a500ef117cc201206b8ab51e794d3f82/info.json",
     "/networks/avalanche-c/tokens/USDC--0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664/info.json",
     "/networks/xdai/tokens/USDC--0xddafbb505ad214d7b80b1f830fccc89b60fb7a83/info.json"
