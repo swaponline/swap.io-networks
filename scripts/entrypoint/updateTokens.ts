@@ -104,7 +104,10 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
         const tokenInfo = readJsonFile(infoFullPath) as tokenInfo
-        if (!logoExists) tokenInfo.logo = ''
+        const haveLogoFromInfo = isPathExistsSync(getAbsolutePath(tokenInfo.logo))
+
+        if (!logoExists && !haveLogoFromInfo) tokenInfo.logo = ''
+        if (logoExists && !haveLogoFromInfo) console.log(tokenID)
         tokens[tokenID] = tokenInfo
       }
     })
