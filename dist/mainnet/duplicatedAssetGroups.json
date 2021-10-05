@@ -725,35 +725,6 @@
     ]
   },
   {
-    "symbol": "aUSDC",
-    "name": "AaveinterestbearingUSDC",
-    "logo": "/networks/ethereum/tokens/aUSDC--0xbcca60bb61934080951369a648fb03df4f96263c/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AaveinterestbearingUSDC",
-            "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
-            "symbol": "aUSDC",
-            "decimals": 6,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/aUSDC--0xbcca60bb61934080951369a648fb03df4f96263c/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BUIDL",
     "name": "dfohub",
     "logo": "/networks/ethereum/tokens/BUIDL--0x7b123f53421b1bf8533339bfbdc7c98aa94163db/logo.png",
@@ -3393,35 +3364,6 @@
     ]
   },
   {
-    "symbol": "UNI",
-    "name": "Uniswap",
-    "logo": "/networks/binance-smart-chain/tokens/UNI--0xbf5140a22578168fd562dccf235e5d43a02ce9b1/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Uniswap",
-            "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-            "symbol": "UNI",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/UNI--0xbf5140a22578168fd562dccf235e5d43a02ce9b1/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "USDX",
     "name": "USDX",
     "logo": "/networks/binance-smart-chain/tokens/USDX--0x1203355742e76875154c0d13eb81dcd7711dc7d9/logo.png",
@@ -3453,7 +3395,7 @@
   {
     "symbol": "UST",
     "name": "UST Token",
-    "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.svg",
+    "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -3469,7 +3411,7 @@
             "symbol": "UST",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.svg",
+            "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.png",
             "tags": [
               "bep20"
             ],
@@ -8371,35 +8313,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/UMBR--0x2e4b0fb46a46c90cb410fe676f24e466753b469f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "UNI",
-    "name": "Uniswap",
-    "logo": "/networks/polygon/tokens/UNI--0xb33eaad8d922b1083446dc23f610c2567fb5180f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Uniswap",
-            "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-            "symbol": "UNI",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/UNI--0xb33eaad8d922b1083446dc23f610c2567fb5180f/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -18579,64 +18492,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/UNC--0xd084b89b8f04f3e2360ebd600360c358aa122bfb/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "UNI",
-    "name": "Uniswap",
-    "logo": "/networks/avalanche-c/tokens/UNI--0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Uniswap",
-            "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
-            "symbol": "UNI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/UNI--0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "UNI",
-    "name": "Uniswap",
-    "logo": "/networks/avalanche-c/tokens/UNI--0xf39f9671906d8630812f9d9863bbef5d523c84ab/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Uniswap",
-            "address": "0xf39f9671906d8630812f9d9863bbef5d523c84ab",
-            "symbol": "UNI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/UNI--0xf39f9671906d8630812f9d9863bbef5d523c84ab/logo.png",
             "tags": [
               "erc20avax"
             ],
