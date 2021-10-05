@@ -4,8 +4,10 @@
   "symbol": "UNI",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/UNI--0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580/logo.png",
+  "logo": "/networks/avalanche-c/tokens/UNI--0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "uniswap"
   ]
 }

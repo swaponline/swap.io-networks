@@ -4,7 +4,7 @@
   "symbol": "UNI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/UNI--0xb33eaad8d922b1083446dc23f610c2567fb5180f/logo.png",
+  "logo": "/networks/polygon/tokens/UNI--0xb33eaad8d922b1083446dc23f610c2567fb5180f/logo.svg",
   "tags": [
     "erc20matic"
   ]
