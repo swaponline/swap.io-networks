@@ -4,8 +4,10 @@
   "symbol": "LINK",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/LINK--0x5947bb275c521040051d82396192181b413227a3/logo.png",
+  "logo": "/networks/avalanche-c/tokens/LINK--0x5947bb275c521040051d82396192181b413227a3/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "chainlink"
   ]
 }

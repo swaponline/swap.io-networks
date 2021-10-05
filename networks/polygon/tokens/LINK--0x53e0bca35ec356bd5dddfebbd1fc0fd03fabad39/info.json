@@ -4,7 +4,7 @@
   "symbol": "LINK",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/LINK--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.png",
+  "logo": "/networks/polygon/tokens/LINK--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.svg",
   "tags": [
     "erc20matic"
   ]

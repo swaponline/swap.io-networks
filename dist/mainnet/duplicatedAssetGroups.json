@@ -609,35 +609,6 @@
     ]
   },
   {
-    "symbol": "aLINK",
-    "name": "Aave LINK",
-    "logo": "/networks/ethereum/tokens/aLINK--0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Aave LINK",
-            "address": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84",
-            "symbol": "aLINK",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/aLINK--0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "aSNX",
     "name": "AaveinterestbearingSNX",
     "logo": "/networks/ethereum/tokens/aSNX--0x35f6b052c598d933d69a4eec4d04c73a191fe6c2/logo.png",
@@ -2107,35 +2078,6 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/LINA--0x762539b45a1dcce3d36d080f74d1aed37844b878/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "logo": "/networks/binance-smart-chain/tokens/LINK--0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "ChainLink Token",
-            "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
-            "symbol": "LINK",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/LINK--0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/logo.png",
             "tags": [
               "bep20"
             ],
@@ -6457,35 +6399,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/LEO--0xbe8dab8ce8521ecfde43a8ff8d5c6644f4dcecb7/logo.jpg",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "logo": "/networks/polygon/tokens/LINK--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "ChainLink Token",
-            "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
-            "symbol": "LINK",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/LINK--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -13591,64 +13504,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/LID--0xb9b00fbac0f8b7c25a360664ce0bf819771b4144/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "LINK",
-    "name": "Chainlink",
-    "logo": "/networks/avalanche-c/tokens/LINK--0x5947bb275c521040051d82396192181b413227a3/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Chainlink",
-            "address": "0x5947bb275c521040051d82396192181b413227a3",
-            "symbol": "LINK",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/LINK--0x5947bb275c521040051d82396192181b413227a3/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "logo": "/networks/avalanche-c/tokens/LINK--0xb3fe5374f67d7a22886a0ee082b2e2f9d2651651/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "ChainLink Token",
-            "address": "0xb3fe5374f67d7a22886a0ee082b2e2f9d2651651",
-            "symbol": "LINK",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/LINK--0xb3fe5374f67d7a22886a0ee082b2e2f9d2651651/logo.png",
             "tags": [
               "erc20avax"
             ],
