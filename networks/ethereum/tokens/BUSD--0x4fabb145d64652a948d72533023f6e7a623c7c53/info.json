@@ -4,7 +4,7 @@
   "symbol": "BUSD",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/BUSD--0x4fabb145d64652a948d72533023f6e7a623c7c53/logo.png",
+  "logo": "/networks/ethereum/tokens/BUSD--0x4fabb145d64652a948d72533023f6e7a623c7c53/logo.svg",
   "tags": [
     "erc20"
   ]

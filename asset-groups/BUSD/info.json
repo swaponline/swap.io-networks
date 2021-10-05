@@ -1,0 +1,13 @@
+{
+  "symbol": "BUSD",
+  "name": "Binance USD",
+  "logo": "/networks/ethereum/tokens/BUSD--0x4fabb145d64652a948d72533023f6e7a623c7c53/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/BUSD--0x4fabb145d64652a948d72533023f6e7a623c7c53/info.json",
+    "/networks/ethereum/tokens/aBUSD--0xa361718326c15715591c299427c62086f69923d9/info.json",
+    "/networks/ethereum/tokens/aBUSDv1--0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8/info.json",
+    "/networks/binance-smart-chain/tokens/BUSD--0xe9e7cea3dedca5984780bafc599bd69add087d56/info.json",
+    "/networks/avalanche-c/tokens/BUSD--0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/info.json",
+    "/networks/avalanche-c/tokens/BUSD--0xaeb044650278731ef3dc244692ab9f64c78ffaea/info.json"
+  ]
+}

@@ -4,8 +4,10 @@
   "symbol": "AVAX",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/logo.png",
+  "logo": "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "avalanche"
   ]
 }

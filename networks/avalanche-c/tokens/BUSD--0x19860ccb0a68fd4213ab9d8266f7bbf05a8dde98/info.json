@@ -4,8 +4,10 @@
   "symbol": "BUSD",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/BUSD--0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/logo.png",
+  "logo": "/networks/avalanche-c/tokens/BUSD--0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "busd"
   ]
 }

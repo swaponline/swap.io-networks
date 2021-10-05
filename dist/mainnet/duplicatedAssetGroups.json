@@ -580,35 +580,6 @@
     ]
   },
   {
-    "symbol": "aBUSD",
-    "name": "AaveinterestbearingBUSD",
-    "logo": "/networks/ethereum/tokens/aBUSD--0xa361718326c15715591c299427c62086f69923d9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AaveinterestbearingBUSD",
-            "address": "0xa361718326c15715591c299427c62086f69923d9",
-            "symbol": "aBUSD",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/aBUSD--0xa361718326c15715591c299427c62086f69923d9/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "aDAI",
     "name": "Aave DAI",
     "logo": "/networks/ethereum/tokens/aDAI--0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d/logo.png",
@@ -1295,35 +1266,6 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/BUNNY--0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BUSD",
-    "name": "Binance Pegged BUSD",
-    "logo": "/networks/binance-smart-chain/tokens/BUSD--0xe9e7cea3dedca5984780bafc599bd69add087d56/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Pegged BUSD",
-            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BUSD--0xe9e7cea3dedca5984780bafc599bd69add087d56/logo.png",
             "tags": [
               "bep20"
             ],
@@ -4282,35 +4224,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/AUTO--0x7f426f6dc648e50464a0392e60e1bb465a67e9cf/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "AVAX",
-    "name": "Avalanche Token",
-    "logo": "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Avalanche Token",
-            "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
-            "symbol": "AVAX",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -10575,64 +10488,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/BUIDL--0x30d26864af10565cedd9e4d5b1fdbd52b49144dd/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BUSD",
-    "name": "Binance USD",
-    "logo": "/networks/avalanche-c/tokens/BUSD--0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance USD",
-            "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/BUSD--0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BUSD",
-    "name": "Binance USD",
-    "logo": "/networks/avalanche-c/tokens/BUSD--0xaeb044650278731ef3dc244692ab9f64c78ffaea/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance USD",
-            "address": "0xaeb044650278731ef3dc244692ab9f64c78ffaea",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/BUSD--0xaeb044650278731ef3dc244692ab9f64c78ffaea/logo.png",
             "tags": [
               "erc20avax"
             ],
