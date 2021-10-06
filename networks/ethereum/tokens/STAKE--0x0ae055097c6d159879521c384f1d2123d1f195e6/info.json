@@ -4,8 +4,10 @@
   "symbol": "STAKE",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/STAKE--0x0ae055097c6d159879521c384f1d2123d1f195e6/logo.png",
+  "logo": "/networks/ethereum/tokens/STAKE--0x0ae055097c6d159879521c384f1d2123d1f195e6/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "xdai"
   ]
 }

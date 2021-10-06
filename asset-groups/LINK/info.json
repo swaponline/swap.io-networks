@@ -1,0 +1,16 @@
+{
+  "symbol": "LINK",
+  "name": "Chainlink",
+  "logo": "/networks/ethereum/tokens/LINK--0x514910771af9ca656af840dff83e8264ecf986ca/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/LINK--0x514910771af9ca656af840dff83e8264ecf986ca/info.json",
+    "/networks/ethereum/tokens/aLINK--0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0/info.json",
+    "/networks/ethereum/tokens/aLINKv1--0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84/info.json",
+    "/networks/binance-smart-chain/tokens/LINK--0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/info.json",
+    "/networks/polygon/tokens/LINK--0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39/info.json",
+    "/networks/polygon/tokens/maLINK--0x98ea609569bd25119707451ef982b90e3eb719cd/info.json",
+    "/networks/avalanche-c/tokens/LINK--0x5947bb275c521040051d82396192181b413227a3/info.json",
+    "/networks/avalanche-c/tokens/LINK--0xb3fe5374f67d7a22886a0ee082b2e2f9d2651651/info.json",
+    "/networks/xdai/tokens/LINK--0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2/info.json"
+  ]
+}

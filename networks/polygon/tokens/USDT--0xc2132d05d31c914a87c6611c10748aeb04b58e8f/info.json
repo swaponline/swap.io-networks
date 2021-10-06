@@ -4,8 +4,10 @@
   "symbol": "USDT",
   "decimals": 6,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/USDT--0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png",
+  "logo": "/networks/polygon/tokens/USDT--0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "stablecoin",
+    "usd"
   ]
 }

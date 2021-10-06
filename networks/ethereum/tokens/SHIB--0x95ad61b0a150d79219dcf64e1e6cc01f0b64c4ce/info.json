@@ -1,10 +1,10 @@
 {
-  "name": "SHIBAINU",
+  "name": "SHIBA INU",
   "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
   "symbol": "SHIB",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/SHIB--0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/logo.png",
+  "logo": "/networks/ethereum/tokens/SHIB--0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/logo.svg",
   "tags": [
     "erc20"
   ]

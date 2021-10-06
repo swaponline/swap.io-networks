@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap from Ethereum",
+  "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+  "symbol": "UNI",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/ethereum/tokens/UNI--0x4537e328bf7e4efa29d05caea260d7fe26af9d74/logo.svg",
+  "tags": [
+    "erc20xdai"
+  ]
+}

@@ -4,8 +4,10 @@
   "symbol": "USDC",
   "decimals": 5,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/USDC--0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664/logo.png",
+  "logo": "/networks/avalanche-c/tokens/USDC--0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "stablecoin",
+    "usd"
   ]
 }

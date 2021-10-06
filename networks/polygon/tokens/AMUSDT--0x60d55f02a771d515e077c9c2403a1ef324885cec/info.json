@@ -4,8 +4,12 @@
   "symbol": "AMUSDT",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/AMUSDT--0x60d55f02a771d515e077c9c2403a1ef324885cec/logo.png",
+  "logo": "/networks/polygon/tokens/AMUSDT--0x60d55f02a771d515e077c9c2403a1ef324885cec/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "stablecoin",
+    "usd",
+    "wrapped",
+    "tether"
   ]
 }

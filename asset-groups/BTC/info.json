@@ -8,9 +8,12 @@
     "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/info.json",
     "/networks/ethereum/tokens/tBTC--0x8daebade922df735c38c80c7ebd708af50815faa/info.json",
     "/networks/ethereum/tokens/BBTC--0x9be89d2a4cd102d8fecc6bf9da793be995c22541/info.json",
-    "/networks/binance-smart-chain/tokens/BTCB--0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/info.json",
+    "/networks/binance-smart-chain/tokens/BTCB--0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/info.json",
     "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/info.json",
     "/networks/polygon/tokens/WBTC--0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/info.json",
-    "/networks/avalanche-c/tokens/WBTC--0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/info.json"
+    "/networks/polygon/tokens/renBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/info.json",
+    "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/info.json",
+    "/networks/avalanche-c/tokens/WBTC--0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/info.json",
+    "/networks/xdai/tokens/renBTC--0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb/info.json"
   ]
 }

@@ -4,7 +4,7 @@
   "symbol": "AXS",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/AXS--0x715d400f88c167884bbcc41c5fea407ed4d2f8a0/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/AXS--0x715d400f88c167884bbcc41c5fea407ed4d2f8a0/logo.svg",
   "tags": [
     "bep20"
   ]

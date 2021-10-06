@@ -4,7 +4,7 @@
   "symbol": "WBTC",
   "decimals": 8,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/WBTC--0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/logo.png",
+  "logo": "/networks/polygon/tokens/WBTC--0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/logo.svg",
   "tags": [
     "erc20matic",
     "wrapped",

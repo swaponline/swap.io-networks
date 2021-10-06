@@ -1,0 +1,11 @@
+{
+  "name": "ChainLink Token from Ethereum",
+  "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
+  "symbol": "LINK",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/avalanche-c/tokens/LINK--0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2/logo.svg",
+  "tags": [
+    "erc20xdai"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD from Ethereum",
+  "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
+  "symbol": "USDT",
+  "decimals": 6,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/USDT--0x4ecaba5870353805a9f068101a40e0f32ed605c6/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "stablecoin",
+    "usd"
+  ]
+}

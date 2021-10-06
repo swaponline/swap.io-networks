@@ -4,8 +4,10 @@
   "symbol": "USDC",
   "decimals": 6,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/USDC--0x2791bca1f2de4661ed88a30c99a7a9449aa84174/logo.png",
+  "logo": "/networks/polygon/tokens/USDC--0x2791bca1f2de4661ed88a30c99a7a9449aa84174/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "stablecoin",
+    "usd"
   ]
 }

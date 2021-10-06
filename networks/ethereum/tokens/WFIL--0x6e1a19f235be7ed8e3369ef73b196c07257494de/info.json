@@ -4,8 +4,10 @@
   "symbol": "WFIL",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/WFIL--0x6e1a19f235be7ed8e3369ef73b196c07257494de/logo.png",
+  "logo": "/networks/ethereum/tokens/WFIL--0x6e1a19f235be7ed8e3369ef73b196c07257494de/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "filecoin"
   ]
 }

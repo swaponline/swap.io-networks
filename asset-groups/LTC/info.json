@@ -4,6 +4,6 @@
   "logo": "/networks/litecoin/coins/LTC/logo.svg",
   "asset-list": [
     "/networks/litecoin/coins/LTC/info.json",
-    "/networks/binance-smart-chain/tokens/LTC--0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/info.json"
+    "/networks/binance-smart-chain/tokens/LTC--0x4338665cbb7b2485a8855a139b75d5e34ab0db94/info.json"
   ]
 }

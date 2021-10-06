@@ -1,11 +1,13 @@
 {
-  "name": "AaveinterestbearingBUSD",
+  "name": "Aave interest bearing BUSD",
   "address": "0xa361718326c15715591c299427c62086f69923d9",
   "symbol": "aBUSD",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aBUSD--0xa361718326c15715591c299427c62086f69923d9/logo.png",
+  "logo": "/networks/ethereum/tokens/aBUSD--0xa361718326c15715591c299427c62086f69923d9/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "busd"
   ]
 }

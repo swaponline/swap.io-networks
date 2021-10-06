@@ -4,12 +4,13 @@
   "symbol": "DAI",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/DAI--0xba7deebbfc5fa1100fb055a87773e1e99cd3507a/logo.png",
+  "logo": "/networks/avalanche-c/tokens/DAI--0xba7deebbfc5fa1100fb055a87773e1e99cd3507a/logo.svg",
   "tags": [
     "erc20avax",
     "wrapped",
-    "xdai",
+    "dai",
     "stablecoin",
-    "usd"
+    "usd",
+    "deprecated"
   ]
 }

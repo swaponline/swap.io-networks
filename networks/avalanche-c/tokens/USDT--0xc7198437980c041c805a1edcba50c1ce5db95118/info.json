@@ -4,8 +4,10 @@
   "symbol": "USDT",
   "decimals": 6,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/USDT--0xc7198437980c041c805a1edcba50c1ce5db95118/logo.png",
+  "logo": "/networks/avalanche-c/tokens/USDT--0xc7198437980c041c805a1edcba50c1ce5db95118/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "stablecoin",
+    "usd"
   ]
 }
