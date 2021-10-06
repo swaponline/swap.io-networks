@@ -8120,35 +8120,6 @@
     ]
   },
   {
-    "symbol": "WFIL",
-    "name": "Wrapped Filecoin",
-    "logo": "/networks/polygon/tokens/WFIL--0xede1b77c0ccc45bfa949636757cd2ca7ef30137f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped Filecoin",
-            "address": "0xede1b77c0ccc45bfa949636757cd2ca7ef30137f",
-            "symbol": "WFIL",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/WFIL--0xede1b77c0ccc45bfa949636757cd2ca7ef30137f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "WISE",
     "name": "Wise Token",
     "logo": "/networks/polygon/tokens/WISE--0xb77e62709e39ad1cbeebe77cf493745aec0f453a/logo.png",

@@ -1,0 +1,11 @@
+{
+  "symbol": "FIL",
+  "name": "Filecoin",
+  "logo": "/networks/binance-smart-chain/tokens/FIL--0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153/logo.svg",
+  "asset-list": [
+    "/networks/binance-smart-chain/tokens/FIL--0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153/info.json",
+    "/networks/ethereum/tokens/WFIL--0x6e1a19f235be7ed8e3369ef73b196c07257494de/info.json",
+    "/networks/ethereum/tokens/renFIL--0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5/info.json",
+    "/networks/polygon/tokens/WFIL--0xede1b77c0ccc45bfa949636757cd2ca7ef30137f/info.json"
+  ]
+}
