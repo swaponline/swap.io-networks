@@ -1,10 +1,10 @@
 {
-  "name": "Shiba Inu",
+  "name": "SHIBA INU",
   "address": "0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec",
   "symbol": "SHIB",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SHIB--0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec/logo.png",
+  "logo": "/networks/polygon/tokens/SHIB--0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec/logo.svg",
   "tags": [
     "erc20matic"
   ]
