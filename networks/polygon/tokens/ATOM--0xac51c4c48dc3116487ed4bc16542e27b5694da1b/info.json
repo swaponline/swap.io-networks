@@ -4,8 +4,10 @@
   "symbol": "ATOM",
   "decimals": 6,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/ATOM--0xac51c4c48dc3116487ed4bc16542e27b5694da1b/logo.png",
+  "logo": "/networks/polygon/tokens/ATOM--0xac51c4c48dc3116487ed4bc16542e27b5694da1b/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "cosmos"
   ]
 }

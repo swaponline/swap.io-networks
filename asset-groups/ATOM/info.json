@@ -1,0 +1,9 @@
+{
+  "symbol": "ATOM",
+  "name": "Cosmos",
+  "logo": "/networks/binance-smart-chain/tokens/ATOM--0x0eb3a705fc54725037cc9e008bdede697f62f335/logo.svg",
+  "asset-list": [
+    "/networks/binance-smart-chain/tokens/ATOM--0x0eb3a705fc54725037cc9e008bdede697f62f335/info.json",
+    "/networks/polygon/tokens/ATOM--0xac51c4c48dc3116487ed4bc16542e27b5694da1b/info.json"
+  ]
+}

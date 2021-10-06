@@ -4060,35 +4060,6 @@
     ]
   },
   {
-    "symbol": "ATOM",
-    "name": "Cosmos",
-    "logo": "/networks/polygon/tokens/ATOM--0xac51c4c48dc3116487ed4bc16542e27b5694da1b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Cosmos",
-            "address": "0xac51c4c48dc3116487ed4bc16542e27b5694da1b",
-            "symbol": "ATOM",
-            "decimals": 6,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/ATOM--0xac51c4c48dc3116487ed4bc16542e27b5694da1b/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "ATRI",
     "name": "Atari",
     "logo": "/networks/polygon/tokens/ATRI--0xb140665dde25c644c6b418e417c930de8a8a6ac9/logo.png",
