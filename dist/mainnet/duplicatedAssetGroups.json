@@ -1044,35 +1044,6 @@
     ]
   },
   {
-    "symbol": "AXS",
-    "name": "Axie Infinity Shard",
-    "logo": "/networks/binance-smart-chain/tokens/AXS--0x715d400f88c167884bbcc41c5fea407ed4d2f8a0/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Axie Infinity Shard",
-            "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
-            "symbol": "AXS",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/AXS--0x715d400f88c167884bbcc41c5fea407ed4d2f8a0/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BAND",
     "name": "BAND Protocol Token",
     "logo": "/networks/binance-smart-chain/tokens/BAND--0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.png",
@@ -9589,35 +9560,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/AURORA--0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8/logo.PNG",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "AXS",
-    "name": "Axie Infinity Shard",
-    "logo": "/networks/avalanche-c/tokens/AXS--0x860d87c4ee3bf2f001a641e32fbef8f0342ba924/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Axie Infinity Shard",
-            "address": "0x860d87c4ee3bf2f001a641e32fbef8f0342ba924",
-            "symbol": "AXS",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/AXS--0x860d87c4ee3bf2f001a641e32fbef8f0342ba924/logo.png",
             "tags": [
               "erc20avax"
             ],
