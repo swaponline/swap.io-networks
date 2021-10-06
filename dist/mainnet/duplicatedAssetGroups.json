@@ -6554,35 +6554,6 @@
     ]
   },
   {
-    "symbol": "MATIC",
-    "name": "Polygon",
-    "logo": "/networks/polygon/tokens/MATIC--0x0000000000000000000000000000000000001010/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Polygon",
-            "address": "0x0000000000000000000000000000000000001010",
-            "symbol": "MATIC",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/MATIC--0x0000000000000000000000000000000000001010/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "MOD",
     "name": "MODEFI",
     "logo": "/networks/polygon/tokens/MOD--0x8346ab8d5ea7a9db0209aed2d1806afa0e2c4c21/logo.png",

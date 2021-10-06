@@ -1289,12 +1289,24 @@
             "logo": "/networks/polygon/coins/MATIC/logo.svg"
           },
           {
+            "name": "Polygon",
+            "address": "0x0000000000000000000000000000000000001010",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/MATIC--0x0000000000000000000000000000000000001010/logo.svg",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          },
+          {
             "name": "Wrapped Matic",
             "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
             "symbol": "WMATIC",
             "decimals": 18,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/WMATIC--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.png",
+            "logo": "/networks/polygon/tokens/WMATIC--0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.svg",
             "tags": [
               "erc20matic",
               "wrapped",
@@ -1317,7 +1329,7 @@
             "symbol": "MATIC",
             "decimals": 18,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/MATIC--0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/logo.png",
+            "logo": "/networks/ethereum/tokens/MATIC--0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/logo.svg",
             "tags": [
               "erc20",
               "wrapped",
@@ -1340,7 +1352,7 @@
             "symbol": "MATIC",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/polygon/coins/MATIC/logo.svg",
+            "logo": "/networks/binance-smart-chain/tokens/MATIC--0xcc42724c6683b7e57334c4e856f4c9965ed682bd/logo.svg",
             "tags": [
               "bep20",
               "wrapped",
@@ -1643,7 +1655,7 @@
             "symbol": "LTC",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/LTC--0x4338665cbb7b2485a8855a139b75d5e34ab0db94/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/LTC--0x4338665cbb7b2485a8855a139b75d5e34ab0db94/logo.svg",
             "tags": [
               "bep20",
               "wrapped",
