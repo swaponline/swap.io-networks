@@ -6438,35 +6438,6 @@
     ]
   },
   {
-    "symbol": "LUNA",
-    "name": "Wrapped LUNA Token",
-    "logo": "/networks/polygon/tokens/LUNA--0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped LUNA Token",
-            "address": "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57",
-            "symbol": "LUNA",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/LUNA--0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "LUSD",
     "name": "Liquity USD",
     "logo": "/networks/polygon/tokens/LUSD--0x23001f892c0c82b79303edc9b9033cd190bb21c7/logo.png",

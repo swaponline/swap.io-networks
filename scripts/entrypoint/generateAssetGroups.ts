@@ -156,7 +156,7 @@ const generateAssetGroups = (dataType = "mainnet") => {
     const assetNetworkInfo = getAssetNetworkInfoBySlug(network)
     const allowlist = readJsonFile(allowlistPath) as string[]
 
-    allowlist.forEach((tokenID: string) => {
+    allowlist.forEach((tokenID: string, index) => {
       const tokenPath = getNetworkTokenInfoPath(network, tokenID)
 
       // Don't add asset if it includes in customAssets or networks coins
@@ -175,11 +175,16 @@ const generateAssetGroups = (dataType = "mainnet") => {
         assets: [assetInfo]
       })
 
+      const priority =
+        generatedCustomAssetGroups.length +
+        generatedNetworksCoinstAssetGroups.length +
+        generatedNetworksTokensAssetGroups.length
+
       const assetGroup: AssetGroup = {
         symbol,
         name,
         logo,
-        priority: generatedCustomAssetGroups.length,
+        priority,
         networks: networksWithAssets
       }
 
