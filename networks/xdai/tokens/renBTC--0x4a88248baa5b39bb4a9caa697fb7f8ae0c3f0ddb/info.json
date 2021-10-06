@@ -1,0 +1,13 @@
+{
+  "name": "renBTC from Ethereum",
+  "address": "0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb",
+  "symbol": "renBTC",
+  "decimals": 8,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/renBTC--0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb/logo.svg",
+  "tags": [
+    "erc20",
+    "wrapped",
+    "bitcoin"
+  ]
+}

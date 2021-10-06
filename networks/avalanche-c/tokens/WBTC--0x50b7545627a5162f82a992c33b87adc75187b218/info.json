@@ -4,8 +4,10 @@
   "symbol": "WBTC",
   "decimals": 8,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.png",
+  "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "bitcoin"
   ]
 }

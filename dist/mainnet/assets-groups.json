@@ -36,7 +36,7 @@
             "symbol": "WBTC",
             "decimals": 8,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/WBTC--0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png",
+            "logo": "/networks/ethereum/tokens/WBTC--0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.svg",
             "tags": [
               "erc20",
               "wrapped",
@@ -50,7 +50,7 @@
             "symbol": "renBTC",
             "decimals": 8,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.png",
+            "logo": "/networks/ethereum/tokens/renBTC--0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/logo.svg",
             "tags": [
               "erc20",
               "wrapped",
@@ -78,7 +78,7 @@
             "symbol": "BBTC",
             "decimals": 8,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/BBTC--0x9be89d2a4cd102d8fecc6bf9da793be995c22541/logo.png",
+            "logo": "/networks/ethereum/tokens/BBTC--0x9be89d2a4cd102d8fecc6bf9da793be995c22541/logo.svg",
             "tags": [
               "erc20",
               "wrapped",
@@ -115,7 +115,7 @@
             "symbol": "renBTC",
             "decimals": 8,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/renBTC--0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c/logo.svg",
             "tags": [
               "bep20",
               "wrapped",
@@ -138,7 +138,21 @@
             "symbol": "WBTC",
             "decimals": 8,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/WBTC--0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/logo.png",
+            "logo": "/networks/polygon/tokens/WBTC--0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/logo.svg",
+            "tags": [
+              "erc20matic",
+              "wrapped",
+              "bitcoin"
+            ],
+            "type": "token"
+          },
+          {
+            "name": "renBTC",
+            "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+            "symbol": "renBTC",
+            "decimals": 8,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/renBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.svg",
             "tags": [
               "erc20matic",
               "wrapped",
@@ -156,14 +170,52 @@
         },
         "assets": [
           {
+            "name": "Wrapped Bitcoin",
+            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.svg",
+            "tags": [
+              "erc20avax",
+              "wrapped",
+              "bitcoin"
+            ],
+            "type": "token"
+          },
+          {
             "name": "Wrapped BTC",
             "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
             "symbol": "WBTC",
             "decimals": 8,
             "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/WBTC--0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/logo.png",
+            "logo": "/networks/avalanche-c/tokens/WBTC--0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/logo.svg",
             "tags": [
               "erc20avax",
+              "wrapped",
+              "bitcoin",
+              "deprecated"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
+          "name": "xDai",
+          "slug": "xdai",
+          "logo": "/networks/xdai/coins/xDAI/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "renBTC from Ethereum",
+            "address": "0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb",
+            "symbol": "renBTC",
+            "decimals": 8,
+            "chainId": 100,
+            "logo": "/networks/xdai/tokens/renBTC--0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb/logo.svg",
+            "tags": [
+              "erc20",
               "wrapped",
               "bitcoin"
             ],
@@ -82526,35 +82578,6 @@
     ]
   },
   {
-    "symbol": "RENBTC",
-    "name": "renBTC",
-    "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
-    "priority": 23,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renBTC",
-            "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
-            "symbol": "RENBTC",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/RENBTC--0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.jpg",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "XMARK",
     "name": "xMARK",
     "logo": "/networks/polygon/tokens/XMARK--0xf153eff70dc0bf3b085134928daeea248d9b30d0/logo.jpg",
@@ -84179,35 +84202,6 @@
     ]
   },
   {
-    "symbol": "WBTC",
-    "name": "Wrapped Bitcoin",
-    "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.png",
-    "priority": 23,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped Bitcoin",
-            "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
-            "symbol": "WBTC",
-            "decimals": 8,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/WBTC--0x50b7545627a5162f82a992c33b87adc75187b218/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "YAK",
     "name": "Yield Yak",
     "logo": "/networks/avalanche-c/tokens/YAK--0x59414b3089ce2af0010e7523dea7e2b35d776ec7/logo.png",
@@ -84548,6 +84542,37 @@
             "logo": "/networks/avalanche-c/tokens/wANATHA--0xd3e6c7e9dc08173276a17d23546cb9c24d7cd7b0/logo.png",
             "tags": [
               "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether from Ethereum",
+    "logo": "/networks/xdai/tokens/WETH--0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1/logo.svg",
+    "priority": 23,
+    "networks": [
+      {
+        "network": {
+          "name": "xDai",
+          "slug": "xdai",
+          "logo": "/networks/xdai/coins/xDAI/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Wrapped Ether from Ethereum",
+            "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 100,
+            "logo": "/networks/xdai/tokens/WETH--0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1/logo.svg",
+            "tags": [
+              "erc20",
+              "wrapped",
+              "ether"
             ],
             "type": "token"
           }
