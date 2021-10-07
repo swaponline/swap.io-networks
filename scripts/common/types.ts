@@ -184,8 +184,7 @@ declare global {
     tags: string[]
   }
 
-  type UniqTokenList = {[tokenID: string]: UniqToken}
-
+  type UniqTokenList = {[tokenAddress: string]: UniqToken}
 
   type ExternalToken = {
     name: string
