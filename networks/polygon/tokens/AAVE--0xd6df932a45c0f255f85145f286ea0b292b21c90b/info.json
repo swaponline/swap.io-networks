@@ -4,8 +4,10 @@
   "symbol": "AAVE",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/AAVE--0xd6df932a45c0f255f85145f286ea0b292b21c90b/logo.png",
+  "logo": "/networks/polygon/tokens/AAVE--0xd6df932a45c0f255f85145f286ea0b292b21c90b/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "aave"
   ]
 }

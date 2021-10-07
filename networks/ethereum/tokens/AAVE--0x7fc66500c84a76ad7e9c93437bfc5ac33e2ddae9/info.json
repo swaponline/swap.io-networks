@@ -1,10 +1,10 @@
 {
-  "name": "AaveToken",
+  "name": "Aave Token",
   "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
   "symbol": "AAVE",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/AAVE--0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/logo.png",
+  "logo": "/networks/ethereum/tokens/AAVE--0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/logo.svg",
   "tags": [
     "erc20"
   ]

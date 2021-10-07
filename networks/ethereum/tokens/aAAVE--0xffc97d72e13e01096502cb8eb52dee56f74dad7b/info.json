@@ -1,11 +1,13 @@
 {
-  "name": "AaveinterestbearingAAVE",
+  "name": "Aave interest bearing AAVE",
   "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
   "symbol": "aAAVE",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aAAVE--0xffc97d72e13e01096502cb8eb52dee56f74dad7b/logo.png",
+  "logo": "/networks/ethereum/tokens/aAAVE--0xffc97d72e13e01096502cb8eb52dee56f74dad7b/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "aave"
   ]
 }

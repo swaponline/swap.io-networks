@@ -3712,35 +3712,6 @@
     ]
   },
   {
-    "symbol": "AAVE",
-    "name": "Aave",
-    "logo": "/networks/polygon/tokens/AAVE--0xd6df932a45c0f255f85145f286ea0b292b21c90b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Aave",
-            "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-            "symbol": "AAVE",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/AAVE--0xd6df932a45c0f255f85145f286ea0b292b21c90b/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "AGA",
     "name": "AGA Token",
     "logo": "/networks/polygon/tokens/AGA--0x033d942a6b495c4071083f4cde1f17e986fe856c/logo.png",
@@ -8777,64 +8748,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/2KEY--0x3f6372f530203daa26ef31f55017a36d6f7405e5/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "AAVE",
-    "name": "Aave",
-    "logo": "/networks/avalanche-c/tokens/AAVE--0x63a72806098bd3d9520cc43356dd78afe5d386d9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Aave",
-            "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
-            "symbol": "AAVE",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/AAVE--0x63a72806098bd3d9520cc43356dd78afe5d386d9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "AAVE",
-    "name": "Aave Token",
-    "logo": "/networks/avalanche-c/tokens/AAVE--0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Aave Token",
-            "address": "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9",
-            "symbol": "AAVE",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/AAVE--0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9/logo.png",
             "tags": [
               "erc20avax"
             ],

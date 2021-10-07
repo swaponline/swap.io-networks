@@ -4,8 +4,11 @@
   "symbol": "AAVE",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/AAVE--0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9/logo.png",
+  "logo": "/networks/avalanche-c/tokens/AAVE--0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "aave",
+    "deprecated"
   ]
 }
