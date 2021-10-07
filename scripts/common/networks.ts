@@ -9,11 +9,11 @@ import { readJsonFile, formatJson } from "../common/json"
 
 interface IGetFullNetworkInfoParams {
   network: string,
-  extendedNetworkInfo?: { [name: string]: any } | null,
+  extendedNetworkInfo?: { [name: string]: NetworkFullInfo } | null,
   cycleExtendDetector?: { [network: string]: boolean }
 }
 
-export const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): any => {
+export const getFullNetworkInfo = (params: IGetFullNetworkInfoParams): NetworkFullInfo => {
   const {
     network,
     extendedNetworkInfo = null,

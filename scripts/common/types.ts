@@ -162,7 +162,7 @@ declare global {
     tokensType?: string,
   }
 
-  type tokenInfo = {
+  type TokenInfo = {
     name: string
     address: string
     symbol: string,
@@ -172,5 +172,27 @@ declare global {
     tags: string[]
   }
 
-  type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
+  type NetworkTokensListObj = {[tokensID: string]: TokenInfo}
+
+  type UniqToken = {
+    names: string[]
+    address: string
+    symbols: string[]
+    decimals: number[]
+    chainIds: number[]
+    logoURIs: string[]
+    tags: string[]
+  }
+
+  type UniqTokenList = {[tokenID: string]: UniqToken}
+
+
+  type ExternalToken = {
+    name: string
+    address: string
+    symbol: string
+    decimals: number
+    chainId: number
+    logoURI: string
+  }
 }
