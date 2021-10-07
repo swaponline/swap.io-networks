@@ -4,36 +4,24 @@ import { sanitizeSymbol, sanitizeAddress, getExternalTokensList } from "../commo
 import { writeToFileWithUpdate } from "../common/json"
 import { externalTokensListsLinks } from "../constants/externalTokensListsLinks"
 
-type UniqToken = {
-  names: string[],
-  address: string,
-  symbols: string[],
-  decimals: number[],
-  chainIds: number[],
-  logoURIs: string[],
-  tags: string[]
-}
-
-type UniqTokensList = {[tokenID: string]: UniqToken}
-
 
 export const syncUniqExternalTokens = async () => {
 
-  const uniqExternalTokens: UniqTokensList = {}
-  const externalTokensLists: {[tokensList: string]: any} = {}
+  const uniqExternalTokens: UniqTokenList = {}
+  const externalTokenLists: {[tokenList: string]: ExternalToken[]} = {}
 
   for (const listName of Object.keys(externalTokensListsLinks)) {
     try {
       const externalTokensList = await getExternalTokensList(externalTokensListsLinks[listName])
-      externalTokensLists[listName] = externalTokensList.tokens
+      externalTokenLists[listName] = externalTokensList.tokens as ExternalToken[]
     } catch (error) {
       console.error(error)
     }
   }
 
-  Object.keys(externalTokensLists).forEach(listName => {
-    console.log('tokensList: ', listName, externalTokensLists[listName].length)
-    externalTokensLists[listName].forEach((token: any) => {
+  Object.keys(externalTokenLists).forEach(listName => {
+    console.log('tokensList: ', listName, externalTokenLists[listName].length)
+    externalTokenLists[listName].forEach((token) => {
       const { name, address, symbol, decimals, chainId, logoURI } = token
 
       if (!name || !symbol || !address || (!decimals && decimals !== 0) || !chainId || !logoURI) {

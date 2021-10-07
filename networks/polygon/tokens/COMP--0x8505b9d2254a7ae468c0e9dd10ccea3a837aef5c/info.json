@@ -4,8 +4,10 @@
   "symbol": "COMP",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/COMP--0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c/logo.png",
+  "logo": "/networks/polygon/tokens/COMP--0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "compound"
   ]
 }

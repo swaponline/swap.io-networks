@@ -1,0 +1,13 @@
+{
+  "symbol": "COMP",
+  "name": "Compound",
+  "logo": "/networks/ethereum/tokens/COMP--0xc00e94cb662c3520282e6f5717214004a7f26888/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/COMP--0xc00e94cb662c3520282e6f5717214004a7f26888/info.json",
+    "/networks/binance-smart-chain/tokens/COMP--0x52ce071bd9b1c4b00a0b92d298c512478cad67e8/info.json",
+    "/networks/polygon/tokens/COMP--0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c/info.json",
+    "/networks/avalanche-c/tokens/COMP--0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437/info.json",
+    "/networks/avalanche-c/tokens/COMP--0x53ceedb4f6f277edfddedb91373b044fe6ab5958/info.json",
+    "/networks/xdai/tokens/COMP--0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd/info.json"
+  ]
+}

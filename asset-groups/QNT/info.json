@@ -1,0 +1,9 @@
+{
+  "symbol": "QNT",
+  "name": "Quant",
+  "logo": "/networks/ethereum/tokens/QNT--0x4a220e6096b25eadb88358cb44068a3248254675/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/QNT--0x4a220e6096b25eadb88358cb44068a3248254675/info.json",
+    "/networks/avalanche-c/tokens/QNT--0x4fcc1e009ef85b35d39b3fe533d27751e4cfa8f7/info.json"
+  ]
+}

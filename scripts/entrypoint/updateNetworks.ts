@@ -14,9 +14,9 @@ const updateNetworks = () => {
   const networksInfoFileName = 'networksInfo.json'
 
   const mainnetNetworks: string[] = []
-  const mainnetNetworksInfo: any[]= []
+  const mainnetNetworksInfo: NetworkFullInfo[]= []
   const testnetNetworks: string[] = []
-  const testnetNetworksInfo: any[]= []
+  const testnetNetworksInfo: NetworkFullInfo[]= []
 
   checkFile(distPath, networksFileName, [])
   writeToFileWithUpdate(distPath, networksFileName, allNetworks)

@@ -4,7 +4,7 @@
   "symbol": "CHZ",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/CHZ--0x3506424f91fd33084466f402d5d97f05f8e3b4af/logo.png",
+  "logo": "/networks/ethereum/tokens/CHZ--0x3506424f91fd33084466f402d5d97f05f8e3b4af/logo.svg",
   "tags": [
     "erc20"
   ]

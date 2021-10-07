@@ -4,7 +4,7 @@
   "symbol": "COMP",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/COMP--0xc00e94cb662c3520282e6f5717214004a7f26888/logo.png",
+  "logo": "/networks/ethereum/tokens/COMP--0xc00e94cb662c3520282e6f5717214004a7f26888/logo.svg",
   "tags": [
     "erc20"
   ]

@@ -4,7 +4,7 @@
   "symbol": "MKR",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/MKR--0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/logo.png",
+  "logo": "/networks/ethereum/tokens/MKR--0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/logo.svg",
   "tags": [
     "erc20"
   ]

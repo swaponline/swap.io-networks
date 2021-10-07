@@ -1,10 +1,10 @@
 {
-  "name": "GraphToken",
+  "name": "Graph Token",
   "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
   "symbol": "GRT",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/GRT--0xc944e90c64b2c07662a292be6244bdf05cda44a7/logo.png",
+  "logo": "/networks/ethereum/tokens/GRT--0xc944e90c64b2c07662a292be6244bdf05cda44a7/logo.svg",
   "tags": [
     "erc20"
   ]

@@ -1,0 +1,17 @@
+{
+  "symbol": "AAVE",
+  "name": "Aave",
+  "logo": "/networks/ethereum/tokens/AAVE--0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/AAVE--0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/info.json",
+    "/networks/ethereum/tokens/aAAVE--0xffc97d72e13e01096502cb8eb52dee56f74dad7b/info.json",
+    "/networks/ethereum/tokens/aAAVEv1--0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5/info.json",
+    "/networks/binance-smart-chain/tokens/AAVE--0xfb6115445bff7b52feb98650c87f44907e58f802/info.json",
+    "/networks/polygon/tokens/AAVE--0xd6df932a45c0f255f85145f286ea0b292b21c90b/info.json",
+    "/networks/polygon/tokens/AMAAVE--0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360/info.json",
+    "/networks/polygon/tokens/maAAVE--0x823cd4264c1b951c9209ad0deaea9988fe8429bf/info.json",
+    "/networks/avalanche-c/tokens/AAVE--0x63a72806098bd3d9520cc43356dd78afe5d386d9/info.json",
+    "/networks/avalanche-c/tokens/AAVE--0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9/info.json",
+    "/networks/xdai/tokens/AAVE--0xdf613af6b44a31299e48131e9347f034347e2f00/info.json"
+  ]
+}

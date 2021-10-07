@@ -2,15 +2,9 @@ import {
   getAbsolutePath,
   allNetworks,
   getNetworkPath,
-  getNetworkLogoPaths,
   getNetworkTokenInfoPath,
   getNetworkTokensPath,
-  getNetworkTokenPath,
   getNetworkTokenLogoPaths,
-  tokenFolderAllowedFiles,
-  getNetworkFolderFilesList,
-  networkFolderAllowedFiles,
-  getNetworkInfoPath,
   getLogoExtensioFromUrl,
 } from "../common/repo-structure"
 import {
@@ -21,30 +15,8 @@ import {
 } from "../common/filesystem"
 import { readJsonFile, writeJsonFile, checkFile, writeToFileWithUpdate } from "../common/json"
 import { getFullNetworkInfo } from "../common/networks"
-import { sanitizeSymbol, sanitizeAddress } from "../common/token-lists"
+import { sanitizeAddress } from "../common/token-lists"
 
-type UniqToken = {
-  names: string[],
-  address: string,
-  symbols: string[],
-  decimals: number[],
-  chainIds: number[],
-  logoURIs: string[],
-  tags: string[]
-}
-
-type tokenInfo = {
-  name: string,
-  address: string,
-  symbol: string,
-  decimals: number,
-  chainId: number,
-  "logo": string,
-  "tags": string[]
-}
-
-type UniqTokensListObj = {[tokenAddress: string]: UniqToken}
-type NetworkTokensListObj = {[tokensID: string]: tokenInfo}
 
 const syncUniqTokensWithNetworks = async () => {
   const networksWithTokensAddresses: {[network: string]: string[]} = {}
@@ -59,7 +31,7 @@ const syncUniqTokensWithNetworks = async () => {
       return network
     })
 
-  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/cache/uniqExternalTokens.json`)) as UniqTokensListObj
+  const uniqExternalTokens = readJsonFile(getAbsolutePath(`/cache/uniqExternalTokens.json`)) as UniqTokenList
   const uniqExternalTokensAddresses = Object.keys(uniqExternalTokens)
 
   if (!uniqExternalTokensAddresses.length)
@@ -68,7 +40,7 @@ const syncUniqTokensWithNetworks = async () => {
     uniqExternalTokensAddresses.forEach(tokenAddress => {
     const { chainIds } = uniqExternalTokens[tokenAddress]
     chainIds.forEach(chainId => {
-      const networkIndex = evmNetworksFullInfo.findIndex(network => +network.chainId === chainId)
+      const networkIndex = evmNetworksFullInfo.findIndex(network => network?.chainId && +network.chainId === chainId)
       const tokenNetwork = networkIndex !== -1 && evmNetworksFullInfo[networkIndex]
       if (tokenNetwork) networksWithTokensAddresses[tokenNetwork.slug].push(tokenAddress)
     })
@@ -77,7 +49,11 @@ const syncUniqTokensWithNetworks = async () => {
   for (const network of Object.keys(networksWithTokensAddresses)) {
     if (!networksWithTokensAddresses[network].length) continue
     try {
-      await updateTokensByNetwork(evmNetworksFullInfo[networksIndexesBySlug[network]], networksWithTokensAddresses[network], uniqExternalTokens)
+      await updateTokensByNetwork(
+        evmNetworksFullInfo[networksIndexesBySlug[network]],
+        networksWithTokensAddresses[network],
+        uniqExternalTokens
+      )
     } catch (error) {
       console.error(error)
     }
@@ -85,7 +61,14 @@ const syncUniqTokensWithNetworks = async () => {
 
 }
 
-const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokensAddresses: string[], uniqExternalTokens: UniqTokensListObj) => {
+const updateTokensByNetwork = async (
+  networkInfo: NetworkFullInfo,
+  networkUniqExternalTokensAddresses: string[],
+  uniqExternalTokens: UniqTokenList
+) => {
+
+  if (!networkInfo?.chainId || !networkInfo?.tokensType) return
+
   const network = networkInfo.slug
   console.log(`${networkInfo.name} have:`)
   console.log(`   ${networkUniqExternalTokensAddresses.length} external tokens`)
@@ -103,7 +86,7 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
       const infoFullPath = getNetworkTokenInfoPath(network, tokenID)
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
-        const tokenInfo = readJsonFile(infoFullPath) as tokenInfo
+        const tokenInfo = readJsonFile(infoFullPath) as TokenInfo
         const haveLogoFromInfo = isPathExistsSync(getAbsolutePath(tokenInfo.logo))
 
         if (!logoExists && !haveLogoFromInfo) tokenInfo.logo = ''
@@ -134,7 +117,13 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
   for (const tokenAddress of networkUniqExternalTokensAddresses) {
     const { names, address, symbols, decimals, chainIds, logoURIs } = uniqExternalTokens[tokenAddress]
 
-    if ((!names || !names.length) || (!symbols || !symbols.length) || !address || (!decimals || !decimals.length) || (!chainIds || !chainIds.length)) {
+    if (
+      !address ||
+      (!names || !names.length) ||
+      (!symbols || !symbols.length) ||
+      (!decimals || !decimals.length) ||
+      (!chainIds || !chainIds.length)
+    ) {
       console.error(`Token haven't some prop for add to network tokens list: ${tokenAddress}`)
       continue
     }
@@ -167,14 +156,14 @@ const updateTokensByNetwork = async (networkInfo: any, networkUniqExternalTokens
         }
       }
 
-      const tokenInfo: tokenInfo = {
+      const tokenInfo: TokenInfo = {
         name: names[0],
         address: tokenAddress,
         symbol: symbols[0],
         decimals: decimals[0],
         chainId: +networkInfo.chainId,
-        "logo": logoPath,
-        "tags": [networkInfo.tokensType.toLowerCase()]
+        logo: logoPath,
+        tags: [networkInfo.tokensType.toLowerCase()]
       }
 
       writeJsonFile(getAbsolutePath(`${tokenPath}/info.json`), tokenInfo)

@@ -4,8 +4,12 @@
   "symbol": "UST",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.png",
+  "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "terrausd",
+    "stablecoin",
+    "usd"
   ]
 }

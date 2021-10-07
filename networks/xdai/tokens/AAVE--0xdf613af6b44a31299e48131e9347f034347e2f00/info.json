@@ -1,0 +1,13 @@
+{
+  "name": "Aave Token from Ethereum",
+  "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+  "symbol": "AAVE",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/AAVE--0xdf613af6b44a31299e48131e9347f034347e2f00/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "aave"
+  ]
+}
