@@ -1,0 +1,15 @@
+{
+  "name": "Binance Pegged DAI",
+  "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+  "symbol": "DAI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/DAI--0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3/logo.svg",
+  "tags": [
+    "bep20",
+    "wrapped",
+    "dai",
+    "stablecoin",
+    "usd"
+  ]
+}

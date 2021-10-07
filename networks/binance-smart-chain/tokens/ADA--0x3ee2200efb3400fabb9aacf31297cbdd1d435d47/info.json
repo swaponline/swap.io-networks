@@ -1,0 +1,13 @@
+{
+  "name": "Cardano Token",
+  "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+  "symbol": "ADA",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ADA--0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png",
+  "tags": [
+    "bep20",
+    "wrapped",
+    "cardano"
+  ]
+}
