@@ -13630,64 +13630,6 @@
     ]
   },
   {
-    "symbol": "MKR",
-    "name": "Maker",
-    "logo": "/networks/avalanche-c/tokens/MKR--0x88128fd4b259552a9a1d457f435a6527aab72d42/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Maker",
-            "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
-            "symbol": "MKR",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/MKR--0x88128fd4b259552a9a1d457f435a6527aab72d42/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "MKR",
-    "name": "Maker",
-    "logo": "/networks/avalanche-c/tokens/MKR--0x8df92e9c0508ab0030d432da9f2c65eb1ee97620/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Maker",
-            "address": "0x8df92e9c0508ab0030d432da9f2c65eb1ee97620",
-            "symbol": "MKR",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/MKR--0x8df92e9c0508ab0030d432da9f2c65eb1ee97620/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "MLN",
     "name": "Melon Token",
     "logo": "/networks/avalanche-c/tokens/MLN--0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223/logo.png",

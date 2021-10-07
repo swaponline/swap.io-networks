@@ -1,0 +1,11 @@
+{
+  "symbol": "MKR",
+  "name": "Maker",
+  "logo": "/networks/ethereum/tokens/MKR--0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/MKR--0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/info.json",
+    "/networks/ethereum/tokens/aMKR--0xc713e5e149d5d0715dcd1c156a020976e7e56b88/info.json",
+    "/networks/avalanche-c/tokens/MKR--0x88128fd4b259552a9a1d457f435a6527aab72d42/info.json",
+    "/networks/avalanche-c/tokens/MKR--0x8df92e9c0508ab0030d432da9f2c65eb1ee97620/info.json"
+  ]
+}
