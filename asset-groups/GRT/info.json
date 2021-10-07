@@ -1,0 +1,11 @@
+{
+  "symbol": "The Graph",
+  "name": "GRT",
+  "logo": "/networks/ethereum/tokens/GRT--0xc944e90c64b2c07662a292be6244bdf05cda44a7/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/GRT--0xc944e90c64b2c07662a292be6244bdf05cda44a7/info.json",
+    "/networks/polygon/tokens/GRT--0x5fe2b58c013d7601147dcdd68c143a77499f5531/info.json",
+    "/networks/avalanche-c/tokens/GRT--0x8a0cac13c7da965a312f08ea4229c37869e85cb9/info.json",
+    "/networks/avalanche-c/tokens/GRT--0x46c54b16af7747067f412c78ebadae203a26ada0/info.json"
+  ]
+}

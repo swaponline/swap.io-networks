@@ -4,7 +4,7 @@
   "symbol": "LEO",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/LEO--0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3/logo.png",
+  "logo": "/networks/ethereum/tokens/LEO--0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3/logo.svg",
   "tags": [
     "erc20"
   ]

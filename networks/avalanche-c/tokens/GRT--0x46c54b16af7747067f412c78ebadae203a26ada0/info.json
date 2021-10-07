@@ -4,8 +4,11 @@
   "symbol": "GRT",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/GRT--0x46c54b16af7747067f412c78ebadae203a26ada0/logo.png",
+  "logo": "/networks/avalanche-c/tokens/GRT--0x46c54b16af7747067f412c78ebadae203a26ada0/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "graph",
+    "deprecated"
   ]
 }

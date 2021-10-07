@@ -3248,35 +3248,6 @@
     ]
   },
   {
-    "symbol": "UST",
-    "name": "UST Token",
-    "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "UST Token",
-            "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-            "symbol": "UST",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "WOO",
     "name": "Wootrade",
     "logo": "/networks/binance-smart-chain/tokens/WOO--0x4691937a7508860f876c9c0a2a617e7d9e945d4b/logo.png",
@@ -5887,35 +5858,6 @@
     ]
   },
   {
-    "symbol": "GRT",
-    "name": "The Graph",
-    "logo": "/networks/polygon/tokens/GRT--0x5fe2b58c013d7601147dcdd68c143a77499f5531/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "The Graph",
-            "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
-            "symbol": "GRT",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/GRT--0x5fe2b58c013d7601147dcdd68c143a77499f5531/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "GTON",
     "name": "Graviton",
     "logo": "/networks/polygon/tokens/GTON--0xf480f38c366daac4305dc484b2ad7a496ff00cea/logo.png",
@@ -7936,35 +7878,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/UMBR--0x2e4b0fb46a46c90cb410fe676f24e466753b469f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "UST",
-    "name": "Wrapped UST Token",
-    "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped UST Token",
-            "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
-            "symbol": "UST",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/UST--0x692597b009d13c4049a947cab2239b7d6517875f/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -12238,64 +12151,6 @@
     ]
   },
   {
-    "symbol": "GRT",
-    "name": "Graph Token",
-    "logo": "/networks/avalanche-c/tokens/GRT--0x46c54b16af7747067f412c78ebadae203a26ada0/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Graph Token",
-            "address": "0x46c54b16af7747067f412c78ebadae203a26ada0",
-            "symbol": "GRT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/GRT--0x46c54b16af7747067f412c78ebadae203a26ada0/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "GRT",
-    "name": "The Graph",
-    "logo": "/networks/avalanche-c/tokens/GRT--0x8a0cac13c7da965a312f08ea4229c37869e85cb9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "The Graph",
-            "address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
-            "symbol": "GRT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/GRT--0x8a0cac13c7da965a312f08ea4229c37869e85cb9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "GVT",
     "name": "Genesis Vision Token",
     "logo": "/networks/avalanche-c/tokens/GVT--0x9d3b7a5e30654ab86039c929880b078b34c41625/logo.png",
@@ -15505,35 +15360,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/QKC--0xa9b41c348717f755101189b907f37ee4ec703e8c/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "QNT",
-    "name": "Quant",
-    "logo": "/networks/avalanche-c/tokens/QNT--0x4fcc1e009ef85b35d39b3fe533d27751e4cfa8f7/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Quant",
-            "address": "0x4fcc1e009ef85b35d39b3fe533d27751e4cfa8f7",
-            "symbol": "QNT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/QNT--0x4fcc1e009ef85b35d39b3fe533d27751e4cfa8f7/logo.png",
             "tags": [
               "erc20avax"
             ],

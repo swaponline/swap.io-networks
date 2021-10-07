@@ -1,11 +1,15 @@
 {
-  "name": "UST Token",
+  "name": "Wrapped UST Token",
   "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
   "symbol": "UST",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/UST--0x23396cf899ca06c4472205fc903bdb4de249d6fc/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "terrausd",
+    "stablecoin",
+    "usd"
   ]
 }
