@@ -4,7 +4,7 @@
   "symbol": "BTT",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/BTT--0x8595f9da7b868b1822194faed312235e43007b49/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/BTT--0x8595f9da7b868b1822194faed312235e43007b49/logo.svg ",
   "tags": [
     "bep20"
   ]

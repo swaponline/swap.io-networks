@@ -1305,35 +1305,6 @@
     ]
   },
   {
-    "symbol": "COMP",
-    "name": "Compound Finance",
-    "logo": "/networks/binance-smart-chain/tokens/COMP--0x52ce071bd9b1c4b00a0b92d298c512478cad67e8/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Compound Finance",
-            "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
-            "symbol": "COMP",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/COMP--0x52ce071bd9b1c4b00a0b92d298c512478cad67e8/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "CREAM",
     "name": "Cream",
     "logo": "/networks/binance-smart-chain/tokens/CREAM--0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888/logo.png",
@@ -4630,35 +4601,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/COMBO--0x6ddb31002abc64e1479fc439692f7ea061e78165/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "COMP",
-    "name": "Compound",
-    "logo": "/networks/polygon/tokens/COMP--0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Compound",
-            "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
-            "symbol": "COMP",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/COMP--0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -10150,64 +10092,6 @@
     ]
   },
   {
-    "symbol": "COMP",
-    "name": "Compound",
-    "logo": "/networks/avalanche-c/tokens/COMP--0x53ceedb4f6f277edfddedb91373b044fe6ab5958/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Compound",
-            "address": "0x53ceedb4f6f277edfddedb91373b044fe6ab5958",
-            "symbol": "COMP",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/COMP--0x53ceedb4f6f277edfddedb91373b044fe6ab5958/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "COMP",
-    "name": "Compound",
-    "logo": "/networks/avalanche-c/tokens/COMP--0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Compound",
-            "address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
-            "symbol": "COMP",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/COMP--0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "CORE",
     "name": "cVault.finance",
     "logo": "/networks/avalanche-c/tokens/CORE--0x424587bece1a7436ae4a38ed9e8686992236618b/logo.png",
@@ -14125,7 +14009,7 @@
   {
     "symbol": "OMG",
     "name": "OMGToken",
-    "logo": "/networks/avalanche-c/tokens/OMG--0x276c6670b97f22ce7ad754b08cb330decb6a3332/logo.png",
+    "logo": "/networks/avalanche-c/tokens/OMG--0x276c6670b97f22ce7ad754b08cb330decb6a3332/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14141,7 +14025,7 @@
             "symbol": "OMG",
             "decimals": 18,
             "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/OMG--0x276c6670b97f22ce7ad754b08cb330decb6a3332/logo.png",
+            "logo": "/networks/avalanche-c/tokens/OMG--0x276c6670b97f22ce7ad754b08cb330decb6a3332/logo.svg",
             "tags": [
               "erc20avax"
             ],

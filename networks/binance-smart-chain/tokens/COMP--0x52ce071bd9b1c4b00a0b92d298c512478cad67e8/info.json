@@ -1,11 +1,13 @@
 {
-  "name": "Compound Finance",
+  "name": "Binance-Peg Compound Coin",
   "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
   "symbol": "COMP",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/COMP--0x52ce071bd9b1c4b00a0b92d298c512478cad67e8/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/COMP--0x52ce071bd9b1c4b00a0b92d298c512478cad67e8/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "compound"
   ]
 }

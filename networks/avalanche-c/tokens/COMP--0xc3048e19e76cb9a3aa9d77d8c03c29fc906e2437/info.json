@@ -4,8 +4,10 @@
   "symbol": "COMP",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/COMP--0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437/logo.png",
+  "logo": "/networks/avalanche-c/tokens/COMP--0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "compound"
   ]
 }
