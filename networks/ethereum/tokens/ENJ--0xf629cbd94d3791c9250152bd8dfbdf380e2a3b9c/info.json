@@ -1,10 +1,10 @@
 {
-  "name": "EnjinCoin",
+  "name": "Enjin Coin",
   "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
   "symbol": "ENJ",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/ENJ--0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c/logo.png",
+  "logo": "/networks/ethereum/tokens/ENJ--0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c/logo.svg",
   "tags": [
     "erc20"
   ]

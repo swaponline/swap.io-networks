@@ -4,8 +4,10 @@
   "symbol": "renZEC",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/renZEC--0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2/logo.png",
+  "logo": "/networks/ethereum/tokens/renZEC--0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "zcash"
   ]
 }

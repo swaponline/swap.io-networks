@@ -6,7 +6,7 @@
   "chainId": 100,
   "logo": "/networks/ethereum/tokens/STAKE--0xb7d311e2eb55f2f68a9440da38e7989210b9a05e/logo.svg",
   "tags": [
-    "erc20",
+    "erc20xdai",
     "wrapped",
     "xdai"
   ]

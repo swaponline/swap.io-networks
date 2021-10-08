@@ -1,10 +1,10 @@
 {
-  "name": "Sushi",
+  "name": "SushiToken",
   "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
   "symbol": "SUSHI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.png",
+  "logo": "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.svg",
   "tags": [
     "erc20matic"
   ]

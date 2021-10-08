@@ -1,0 +1,11 @@
+{
+  "name": "Celsius from Ethereum",
+  "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
+  "symbol": "CEL",
+  "decimals": 4,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/CEL--0x0acd91f92fe07606ab51ea97d8521e29d110fd09/logo.svg",
+  "tags": [
+    "erc20xdai"
+  ]
+}

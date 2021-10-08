@@ -1,11 +1,13 @@
 {
-  "name": "Sushi",
+  "name": "SushiToken",
   "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
   "symbol": "SUSHI",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/logo.png",
+  "logo": "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "sushiswap"
   ]
 }

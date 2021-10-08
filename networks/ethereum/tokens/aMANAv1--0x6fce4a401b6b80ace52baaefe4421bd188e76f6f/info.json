@@ -1,11 +1,13 @@
 {
-  "name": "AaveInterestbearingMANA",
+  "name": "Aave Interest bearing MANA",
   "address": "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f",
   "symbol": "aMANAv1",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aMANAv1--0x6fce4a401b6b80ace52baaefe4421bd188e76f6f/logo.png",
+  "logo": "/networks/ethereum/tokens/aMANAv1--0x6fce4a401b6b80ace52baaefe4421bd188e76f6f/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "decentraland"
   ]
 }

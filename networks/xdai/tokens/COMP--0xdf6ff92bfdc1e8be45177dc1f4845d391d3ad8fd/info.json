@@ -6,7 +6,7 @@
   "chainId": 100,
   "logo": "/networks/xdai/tokens/COMP--0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd/logo.svg",
   "tags": [
-    "erc20",
+    "erc20xdai",
     "wrapped",
     "compound"
   ]

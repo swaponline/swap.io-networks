@@ -2842,35 +2842,6 @@
     ]
   },
   {
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logo": "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Sushi",
-            "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "SUTER",
     "name": "Suterusu",
     "logo": "/networks/binance-smart-chain/tokens/SUTER--0x4cfbbdfbd5bf0814472ff35c72717bd095ada055/logo.png",
@@ -3093,35 +3064,6 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/TRIB--0xa5b5b9ec7db8e7d181fc25525b68e0fe3c6fe068/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "TUSD",
-    "name": "True USD",
-    "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "True USD",
-            "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
-            "symbol": "TUSD",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.png",
             "tags": [
               "bep20"
             ],
@@ -3557,35 +3499,6 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/pBTC--0xed28a457a5a76596ac48d87c0f577020f6ea1c4c/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "renZEC",
-    "name": "renZEC",
-    "logo": "/networks/binance-smart-chain/tokens/renZEC--0x695fd30af473f2960e81dc9ba7cb67679d35edb7/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renZEC",
-            "address": "0x695fd30af473f2960e81dc9ba7cb67679d35edb7",
-            "symbol": "renZEC",
-            "decimals": 8,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/renZEC--0x695fd30af473f2960e81dc9ba7cb67679d35edb7/logo.png",
             "tags": [
               "bep20"
             ],
@@ -4427,35 +4340,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/CC10--0x9c49ba0212bb5db371e66b59d1565b7c06e4894e/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "CEL",
-    "name": "Celsius",
-    "logo": "/networks/polygon/tokens/CEL--0xd85d1e945766fea5eda9103f918bd915fbca63e6/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Celsius",
-            "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
-            "symbol": "CEL",
-            "decimals": 4,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/CEL--0xd85d1e945766fea5eda9103f918bd915fbca63e6/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -6293,35 +6177,6 @@
     ]
   },
   {
-    "symbol": "MANA",
-    "name": "Decentraland MANA",
-    "logo": "/networks/polygon/tokens/MANA--0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Decentraland MANA",
-            "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
-            "symbol": "MANA",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/MANA--0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "MASK",
     "name": "Mask Network",
     "logo": "/networks/polygon/tokens/MASK--0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7/logo.jpg",
@@ -7472,35 +7327,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/SURF--0x1e42edbe5376e717c1b22904c59e406426e8173f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logo": "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Sushi",
-            "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -11107,35 +10933,6 @@
     ]
   },
   {
-    "symbol": "ENJ",
-    "name": "Enjin Coin",
-    "logo": "/networks/avalanche-c/tokens/ENJ--0xcde255522146ddf36d57ba5cd8d74695bd13c994/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Enjin Coin",
-            "address": "0xcde255522146ddf36d57ba5cd8d74695bd13c994",
-            "symbol": "ENJ",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ENJ--0xcde255522146ddf36d57ba5cd8d74695bd13c994/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "EQMT",
     "name": "EQUUSMiningToken",
     "logo": "/networks/avalanche-c/tokens/EQMT--0x964a11836e6ac44e07f8632a9ff6c380ef0113fd/logo.png",
@@ -12238,35 +12035,6 @@
     ]
   },
   {
-    "symbol": "HOT",
-    "name": "HoloToken",
-    "logo": "/networks/avalanche-c/tokens/HOT--0xa471033610995eedf0d6e4c598a4a9b4ec99c700/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "HoloToken",
-            "address": "0xa471033610995eedf0d6e4c598a4a9b4ec99c700",
-            "symbol": "HOT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/HOT--0xa471033610995eedf0d6e4c598a4a9b4ec99c700/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "HT",
     "name": "HuobiToken",
     "logo": "/networks/avalanche-c/tokens/HT--0x421b2a69b886ba17a61c7dad140b9070d5ef300b/logo.png",
@@ -13098,35 +12866,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/MAHA--0xb0cb6b9c9b47a3974044ae906e8865165d2e0889/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "MANA",
-    "name": "Decentraland MANA",
-    "logo": "/networks/avalanche-c/tokens/MANA--0x332877d7b83d98efc3e22c203c54e6e62f7f35e9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Decentraland MANA",
-            "address": "0x332877d7b83d98efc3e22c203c54e6e62f7f35e9",
-            "symbol": "MANA",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/MANA--0x332877d7b83d98efc3e22c203c54e6e62f7f35e9/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -16588,64 +16327,6 @@
     ]
   },
   {
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logo": "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Sushi",
-            "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SUSHI",
-    "name": "SushiToken",
-    "logo": "/networks/avalanche-c/tokens/SUSHI--0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "SushiToken",
-            "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SUSHI--0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "SWAG",
     "name": "Swag Token",
     "logo": "/networks/avalanche-c/tokens/SWAG--0xe8dde6e36ae86e3c61dc13dff908b4a12d50f754/logo.png",
@@ -17274,35 +16955,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/TRUST--0x0b483a7e8119d9f9fbff4a86cd751c51b6a81af9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "TUSD",
-    "name": "TrueUSD",
-    "logo": "/networks/avalanche-c/tokens/TUSD--0x1c20e891bab6b1727d14da358fae2984ed9b59eb/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "TrueUSD",
-            "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
-            "symbol": "TUSD",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/TUSD--0x1c20e891bab6b1727d14da358fae2984ed9b59eb/logo.png",
             "tags": [
               "erc20avax"
             ],

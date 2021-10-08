@@ -6,7 +6,7 @@
   "chainId": 100,
   "logo": "/networks/xdai/tokens/WETH--0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1/logo.svg",
   "tags": [
-    "erc20",
+    "erc20xdai",
     "wrapped",
     "ether"
   ]

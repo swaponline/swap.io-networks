@@ -4,8 +4,10 @@
   "symbol": "renZEC",
   "decimals": 8,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/renZEC--0x695fd30af473f2960e81dc9ba7cb67679d35edb7/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/renZEC--0x695fd30af473f2960e81dc9ba7cb67679d35edb7/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "zcash"
   ]
 }
