@@ -1,0 +1,10 @@
+{
+  "symbol": "CEL",
+  "name": "Celsius",
+  "logo": "/networks/ethereum/tokens/CEL--0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/CEL--0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/info.json",
+    "/networks/polygon/tokens/CEL--0xd85d1e945766fea5eda9103f918bd915fbca63e6/info.json",
+    "/networks/xdai/tokens/CEL--0x0acd91f92fe07606ab51ea97d8521e29d110fd09/info.json"
+  ]
+}

@@ -6,7 +6,7 @@
   "chainId": 100,
   "logo": "/networks/xdai/tokens/renBTC--0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb/logo.svg",
   "tags": [
-    "erc20",
+    "erc20xdai",
     "wrapped",
     "bitcoin"
   ]
