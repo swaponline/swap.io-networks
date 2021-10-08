@@ -1,0 +1,11 @@
+{
+  "name": "Decentraland from Ethereum",
+  "address": "0x7838796b6802b18d7ef58fc8b757705d6c9d12b3",
+  "symbol": "MANA",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/xdai/tokens/MANA--0x7838796b6802b18d7ef58fc8b757705d6c9d12b3/logo.svg",
+  "tags": [
+    "erc20"
+  ]
+}

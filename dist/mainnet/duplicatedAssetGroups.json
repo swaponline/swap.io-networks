@@ -6264,35 +6264,6 @@
     ]
   },
   {
-    "symbol": "MANA",
-    "name": "Decentraland MANA",
-    "logo": "/networks/polygon/tokens/MANA--0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Decentraland MANA",
-            "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
-            "symbol": "MANA",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/MANA--0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "MASK",
     "name": "Mask Network",
     "logo": "/networks/polygon/tokens/MASK--0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7/logo.jpg",
@@ -13040,35 +13011,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/MAHA--0xb0cb6b9c9b47a3974044ae906e8865165d2e0889/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "MANA",
-    "name": "Decentraland MANA",
-    "logo": "/networks/avalanche-c/tokens/MANA--0x332877d7b83d98efc3e22c203c54e6e62f7f35e9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Decentraland MANA",
-            "address": "0x332877d7b83d98efc3e22c203c54e6e62f7f35e9",
-            "symbol": "MANA",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/MANA--0x332877d7b83d98efc3e22c203c54e6e62f7f35e9/logo.png",
             "tags": [
               "erc20avax"
             ],

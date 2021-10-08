@@ -1,0 +1,12 @@
+{
+  "symbol": "MANA",
+  "name": "Decentraland",
+  "logo": "/networks/ethereum/tokens/MANA--0x0f5d2fb29fb7d3cfee444a200298f468908cc942/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/MANA--0x0f5d2fb29fb7d3cfee444a200298f468908cc942/info.json",
+    "/networks/ethereum/tokens/aMANA--0xa685a61171bb30d4072b338c80cb7b2c865c873e/info.json",
+    "/networks/ethereum/tokens/aMANAv1--0x6fce4a401b6b80ace52baaefe4421bd188e76f6f/info.json",
+    "/networks/xdai/tokens/MANA--0x7838796b6802b18d7ef58fc8b757705d6c9d12b3/info.json",
+    "/networks/polygon/tokens/MANA--0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4/info.json"
+  ]
+}
