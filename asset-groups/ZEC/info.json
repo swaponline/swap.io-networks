@@ -1,0 +1,11 @@
+{
+  "symbol": "ZEC",
+  "name": "Zcash",
+  "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/logo.svg",
+  "asset-list": [
+    "/networks/binance-smart-chain/tokens/ZEC--0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/info.json",
+    "/networks/ethereum/tokens/WZEC--0x4a64515e5e1d1073e83f30cb97bed20400b66e10/info.json",
+    "/networks/ethereum/tokens/renZEC--0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2/info.json",
+    "/networks/binance-smart-chain/tokens/renZEC--0x695fd30af473f2960e81dc9ba7cb67679d35edb7/info.json"
+  ]
+}
