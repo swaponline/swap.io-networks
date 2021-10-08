@@ -2842,35 +2842,6 @@
     ]
   },
   {
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logo": "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Sushi",
-            "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "SUTER",
     "name": "Suterusu",
     "logo": "/networks/binance-smart-chain/tokens/SUTER--0x4cfbbdfbd5bf0814472ff35c72717bd095ada055/logo.png",
@@ -7414,35 +7385,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/SURF--0x1e42edbe5376e717c1b22904c59e406426e8173f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logo": "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Sushi",
-            "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -16433,64 +16375,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/SURF--0xfa0bdf9df8bb8b3d7687a44dad2f69bc7a7b294f/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logo": "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Sushi",
-            "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SUSHI",
-    "name": "SushiToken",
-    "logo": "/networks/avalanche-c/tokens/SUSHI--0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "SushiToken",
-            "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
-            "symbol": "SUSHI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SUSHI--0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/logo.png",
             "tags": [
               "erc20avax"
             ],

@@ -1,0 +1,11 @@
+{
+  "name": "SushiToken from Ethereum",
+  "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+  "symbol": "SUSHI",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/SUSHI--0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce/logo.svg",
+  "tags": [
+    "erc20xdai"
+  ]
+}

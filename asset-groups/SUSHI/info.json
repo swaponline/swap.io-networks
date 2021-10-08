@@ -1,0 +1,13 @@
+{
+  "symbol": "SUSHI",
+  "name": "SushiSwap",
+  "logo": "/networks/ethereum/tokens/SUSHI--0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/SUSHI--0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/info.json",
+    "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/info.json",
+    "/networks/polygon/tokens/SUSHI--0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a/info.json",
+    "/networks/avalanche-c/tokens/SUSHI--0x37b608519f91f70f2eeb0e5ed9af4061722e4f76/info.json",
+    "/networks/avalanche-c/tokens/SUSHI--0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc/info.json",
+    "/networks/xdai/tokens/SUSHI--0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce/info.json"
+  ]
+}

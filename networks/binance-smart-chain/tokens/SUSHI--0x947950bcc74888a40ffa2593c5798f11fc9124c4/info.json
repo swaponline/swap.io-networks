@@ -1,11 +1,13 @@
 {
-  "name": "Sushi",
+  "name": "Binance-Peg SushiToken",
   "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
   "symbol": "SUSHI",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/SUSHI--0x947950bcc74888a40ffa2593c5798f11fc9124c4/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "sushiswap"
   ]
 }
