@@ -1,11 +1,13 @@
 {
-  "name": "AaveInterestbearingENJ",
+  "name": "Aave Interest bearing ENJ",
   "address": "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40",
   "symbol": "aENJv1",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aENJv1--0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40/logo.png",
+  "logo": "/networks/ethereum/tokens/aENJv1--0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "enjin-coin"
   ]
 }

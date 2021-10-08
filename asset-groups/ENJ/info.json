@@ -1,0 +1,10 @@
+{
+  "symbol": "ENJ",
+  "name": "Enjin Coin",
+  "logo": "/networks/ethereum/tokens/ENJ--0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/ENJ--0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c/info.json",
+    "/networks/ethereum/tokens/aENJ--0xac6df26a590f08dcc95d5a4705ae8abbc88509ef/info.json",
+    "/networks/ethereum/tokens/aENJv1--0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40/info.json"
+  ]
+}
