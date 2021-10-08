@@ -4,8 +4,12 @@
   "symbol": "MATUSD",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MATUSD--0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9/logo.png",
+  "logo": "/networks/polygon/tokens/maTUSD--0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "trueusd",
+    "stablecoin",
+    "usd"
   ]
 }

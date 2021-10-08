@@ -4,8 +4,10 @@
   "symbol": "MAUNI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/MAUNI--0x8c8bdbe9cee455732525086264a4bf9cf821c498/logo.png",
+  "logo": "/networks/polygon/tokens/MAUNI--0x8c8bdbe9cee455732525086264a4bf9cf821c498/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "uniswap"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "symbol": "TUSD",
+  "name": "TrueUSD",
+  "logo": "/networks/ethereum/tokens/TUSD--0x0000000000085d4780b73119b644ae5ecd22b376/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/TUSD--0x0000000000085d4780b73119b644ae5ecd22b376/info.json",
+    "/networks/ethereum/tokens/aTUSD--0x101cc05f4a51c0319f570d5e146a8c625198e636/info.json",
+    "/networks/ethereum/tokens/aTUSDv1--0x4da9b813057d04baef4e5800e36083717b4a0341/info.json",
+    "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/info.json",
+    "/networks/polygon/tokens/maTUSD--0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9/info.json",
+    "/networks/avalanche-c/tokens/TUSD--0x1c20e891bab6b1727d14da358fae2984ed9b59eb/info.json"
+  ]
+}

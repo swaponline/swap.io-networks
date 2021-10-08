@@ -1,11 +1,15 @@
 {
-  "name": "True USD",
+  "name": "Binance-Peg TrueUSD Token",
   "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
   "symbol": "TUSD",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "trueusd",
+    "stablecoin",
+    "usd"
   ]
 }

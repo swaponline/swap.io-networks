@@ -3074,35 +3074,6 @@
     ]
   },
   {
-    "symbol": "TUSD",
-    "name": "True USD",
-    "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "True USD",
-            "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
-            "symbol": "TUSD",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/TUSD--0x14016e85a25aeb13065688cafb43044c2ef86784/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "TXL",
     "name": "Tixl",
     "logo": "/networks/binance-smart-chain/tokens/TXL--0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5/logo.png",
@@ -16984,35 +16955,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/TRUST--0x0b483a7e8119d9f9fbff4a86cd751c51b6a81af9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "TUSD",
-    "name": "TrueUSD",
-    "logo": "/networks/avalanche-c/tokens/TUSD--0x1c20e891bab6b1727d14da358fae2984ed9b59eb/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "TrueUSD",
-            "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
-            "symbol": "TUSD",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/TUSD--0x1c20e891bab6b1727d14da358fae2984ed9b59eb/logo.png",
             "tags": [
               "erc20avax"
             ],
