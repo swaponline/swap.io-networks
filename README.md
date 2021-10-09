@@ -8,7 +8,6 @@ Here is the outline of the structure of the repo:
 
 ![image](https://user-images.githubusercontent.com/22708849/134170629-0f2d19f7-b732-4732-b4d4-3467f7c25a8e.png)
 
-
 ## Explore
 
 You will soon be able to explore the repository with a web app:
@@ -17,7 +16,7 @@ You will soon be able to explore the repository with a web app:
 
 ## Docs
 
-### The network parameters
+### The `network` info parameters
 
 Name | Type | Default  | Description |
 ------ | ------ | ------ | ------ |
@@ -39,19 +38,18 @@ Name | Type | Default  | Description |
 `fee_min` | number | -1 | ... |
 `dust_amount` | number | -1 | ... |
 
-```text
-#TODO: describe all the coin, token and asset group meta key and value below.
-```
-
-> Bellow is only a template...
-
-#### `coin` Object
+### The `coin` info parameters
 
 Name | Type | Default | Description |
 ------ | ------ | ------ | ------ |
 `symbol` | string | - | The symbol of the coin. Usually a 3-letter capital string (e.g. `"ETH"`)
-`slug` | string | null | The slug that uniquely identifies the coin in coins.js.
-`name` | string | null|  Lower case name of the coin in english.
-`name_plural` | string | null | Lower case plural enlish name of the coin.
+`slug` | string | - | The slug that uniquely identifies the coin.
+`name` | string | -|  The name of the coin in english.
+`name_plural` | string | - | The plural enlish name of the coin.
 `denominator` | float | 1e-18 | Currency denominator.
+`type` | string | "coin" | Type of asset.
+`logo` | string | - | The string of the logo relative path.
 
+```text
+#TODO: describe all the token and asset group meta key and value below.
+```
