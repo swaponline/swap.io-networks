@@ -1,0 +1,11 @@
+{
+  "name": "Ethereum",
+  "address": "0x0000000000000000000000000000000000000000",
+  "symbol": "ETH",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/ETH--0x0000000000000000000000000000000000000000/logo.png",
+  "tags": [
+    "erc20"
+  ]
+}

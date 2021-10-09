@@ -67,11 +67,11 @@ const updateTokensByNetwork = async (
   uniqExternalTokens: UniqTokenList
 ) => {
 
-  if (!networkInfo?.chainId || !networkInfo?.tokensType) return
+  if (!networkInfo?.chainId || !networkInfo?.tokensType) throw new Error("this isn't evm network")
 
   const network = networkInfo.slug
   console.log(`${networkInfo.name} have:`)
-  console.log(`   ${networkUniqExternalTokensAddresses.length} external tokens`)
+  console.log(`  ${networkUniqExternalTokensAddresses.length} external tokens`)
 
   const tokensIDs: string[] = []
   const tokens: NetworkTokensListObj = {} // need for update tokens
@@ -87,7 +87,15 @@ const updateTokensByNetwork = async (
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
         const tokenInfo = readJsonFile(infoFullPath) as TokenInfo
-        const haveLogoFromInfo = isPathExistsSync(getAbsolutePath(tokenInfo.logo))
+        const haveLogoFromInfo = tokenInfo.logo && isPathExistsSync(getAbsolutePath(tokenInfo.logo))
+        const tokenIDFromLogo = getTokenIDByLogoRelativePath(tokenInfo.logo)
+
+        if (tokenIDFromLogo !== tokenID) {
+          // console.log('tokenIDFromLogo', tokenIDFromLogo)
+          // console.log('tokenID', tokenID)
+          // console.log('logoExists', logoExists)
+          // console.log('haveLogoFromInfo', haveLogoFromInfo)
+        }
 
         if (!logoExists && !haveLogoFromInfo) tokenInfo.logo = ''
         if (logoExists && !haveLogoFromInfo) console.log(tokenID)
@@ -108,7 +116,7 @@ const updateTokensByNetwork = async (
     exsistsTokensIDs.push(tokensID)
   })
 
-  console.log(`   ${exsistsTokensIDs.length} tokens in self folder`)
+  console.log(`  ${exsistsTokensIDs.length} tokens in self folder`)
 
   // Add new tokens
   const addedTokens: string[] = []
@@ -172,8 +180,8 @@ const updateTokensByNetwork = async (
     }
   }
 
-  console.log(`   ${addedTokens.length} added tokens`)
-  console.log(`   ${alreadyExistsTokens.length} already exists tokens`)
+  console.log(`  ${addedTokens.length} added tokens`)
+  console.log(`  ${alreadyExistsTokens.length} already exists tokens`)
 
   // Update allowed tokens list
   const allowedTokens = [...exsistsTokensIDs, ...addedTokens]
@@ -185,5 +193,7 @@ const updateTokensByNetwork = async (
   writeToFileWithUpdate(networkPath, allowlistName, allowedTokens)
 
 }
+
+const getTokenIDByLogoRelativePath = (relativePath: string): string => relativePath.split('/')[4]
 
 syncUniqTokensWithNetworks()

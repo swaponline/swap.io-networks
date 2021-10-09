@@ -4,7 +4,7 @@
   "symbol": "SXMR",
   "decimals": 18,
   "chainId": 1,
-  "logo": "",
+  "logo": "/networks/ethereum/tokens/sXMR--0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a/logo.png",
   "tags": [
     "erc20"
   ]
