@@ -4,7 +4,7 @@
   "symbol": "renDOGE",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/renDOGE--0x3832d2f059e55934220881f831be501d180671a7/logo.png",
+  "logo": "/networks/ethereum/tokens/renDOGE--0x3832d2f059e55934220881f831be501d180671a7/logo.svg",
   "tags": [
     "erc20",
     "wrapped",

@@ -4,8 +4,10 @@
   "symbol": "renDGB",
   "decimals": 8,
   "chainId": 1,
-  "logo": "",
+  "logo": "/networks/ethereum/tokens/renDGB--0xe3cb486f3f5c639e98ccbaf57d95369375687f80/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "digibyte"
   ]
 }
