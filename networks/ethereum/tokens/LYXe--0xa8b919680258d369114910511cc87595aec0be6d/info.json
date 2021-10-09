@@ -4,7 +4,7 @@
   "symbol": "LYXE",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/LYXE--0xa8b919680258d369114910511cc87595aec0be6d/logo.png",
+  "logo": "/networks/ethereum/tokens/LYXe--0xa8b919680258d369114910511cc87595aec0be6d/logo.png",
   "tags": [
     "erc20"
   ]

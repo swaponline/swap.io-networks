@@ -4,7 +4,7 @@
   "symbol": "EROWAN",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/EROWAN--0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe/logo.png",
+  "logo": "/networks/ethereum/tokens/erowan--0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe/logo.png",
   "tags": [
     "erc20"
   ]

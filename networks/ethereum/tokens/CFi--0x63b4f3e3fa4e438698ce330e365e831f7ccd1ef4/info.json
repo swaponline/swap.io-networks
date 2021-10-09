@@ -4,7 +4,7 @@
   "symbol": "CFI",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/CFI--0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4/logo.png",
+  "logo": "/networks/ethereum/tokens/CFi--0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4/logo.png",
   "tags": [
     "erc20"
   ]

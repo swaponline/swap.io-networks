@@ -4,7 +4,7 @@
   "symbol": "MARS",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/MARS--0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7/logo.png",
+  "logo": "/networks/ethereum/tokens/Mars--0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7/logo.png",
   "tags": [
     "erc20"
   ]

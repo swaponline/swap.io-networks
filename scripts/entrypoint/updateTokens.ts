@@ -87,18 +87,26 @@ const updateTokensByNetwork = async (
       const infoExists = isPathExistsSync(infoFullPath)
       if (infoExists) {
         const tokenInfo = readJsonFile(infoFullPath) as TokenInfo
-        const haveLogoFromInfo = tokenInfo.logo && isPathExistsSync(getAbsolutePath(tokenInfo.logo))
-        const tokenIDFromLogo = getTokenIDByLogoRelativePath(tokenInfo.logo)
-
-        if (tokenIDFromLogo !== tokenID) {
-          // console.log('tokenIDFromLogo', tokenIDFromLogo)
-          // console.log('tokenID', tokenID)
-          // console.log('logoExists', logoExists)
-          // console.log('haveLogoFromInfo', haveLogoFromInfo)
-        }
+        const haveLogoFromInfo = !!tokenInfo.logo && isPathExistsSync(getAbsolutePath(tokenInfo.logo))
 
         if (!logoExists && !haveLogoFromInfo) tokenInfo.logo = ''
-        if (logoExists && !haveLogoFromInfo) console.log(tokenID)
+        if (logoExists && !haveLogoFromInfo) console.log(tokenID) // add script which adding exists logo to token info
+
+        // uncommenting to check and rewrite correct tokenID in logo RelativePath
+        //
+        // if (tokenInfo.logo) {
+        //   const splitedLogoPath = tokenInfo.logo.split('/')
+        //   const tokenIDFromLogo = splitedLogoPath[4]
+
+        //   if (tokenIDFromLogo !== tokenID) {
+
+        //     splitedLogoPath[4] = tokenID
+        //     tokenInfo.logo = splitedLogoPath.join('/')
+
+        //     writeJsonFile(infoFullPath, tokenInfo)
+        //   }
+        // }
+
         tokens[tokenID] = tokenInfo
       }
     })
@@ -193,7 +201,5 @@ const updateTokensByNetwork = async (
   writeToFileWithUpdate(networkPath, allowlistName, allowedTokens)
 
 }
-
-const getTokenIDByLogoRelativePath = (relativePath: string): string => relativePath.split('/')[4]
 
 syncUniqTokensWithNetworks()
