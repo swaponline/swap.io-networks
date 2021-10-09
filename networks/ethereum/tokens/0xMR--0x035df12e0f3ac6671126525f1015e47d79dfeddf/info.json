@@ -4,7 +4,7 @@
   "symbol": "0XMR",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/0XMR--0x035df12e0f3ac6671126525f1015e47d79dfeddf/logo.png",
+  "logo": "/networks/ethereum/tokens/0xMR--0x035df12e0f3ac6671126525f1015e47d79dfeddf/logo.png",
   "tags": [
     "erc20",
     "wrapped",

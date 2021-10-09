@@ -4,7 +4,7 @@
   "symbol": "SKEY",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/SKEY--0x06a01a4d579479dd5d884ebf61a31727a3d8d442/logo.png",
+  "logo": "/networks/ethereum/tokens/Skey--0x06a01a4d579479dd5d884ebf61a31727a3d8d442/logo.png",
   "tags": [
     "erc20"
   ]

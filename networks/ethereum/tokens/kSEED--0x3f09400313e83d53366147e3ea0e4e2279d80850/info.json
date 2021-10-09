@@ -4,7 +4,7 @@
   "symbol": "KSEED",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/KSEED--0x3f09400313e83d53366147e3ea0e4e2279d80850/logo.png",
+  "logo": "/networks/ethereum/tokens/kSEED--0x3f09400313e83d53366147e3ea0e4e2279d80850/logo.png",
   "tags": [
     "erc20"
   ]

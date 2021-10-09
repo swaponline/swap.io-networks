@@ -669,7 +669,7 @@
   {
     "symbol": "BUIDL",
     "name": "dfohub",
-    "logo": "/networks/ethereum/tokens/BUIDL--0x7b123f53421b1bf8533339bfbdc7c98aa94163db/logo.png",
+    "logo": "/networks/ethereum/tokens/buidl--0x7b123f53421b1bf8533339bfbdc7c98aa94163db/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -685,7 +685,7 @@
             "symbol": "BUIDL",
             "decimals": 18,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/BUIDL--0x7b123f53421b1bf8533339bfbdc7c98aa94163db/logo.png",
+            "logo": "/networks/ethereum/tokens/buidl--0x7b123f53421b1bf8533339bfbdc7c98aa94163db/logo.png",
             "tags": [
               "erc20"
             ],
@@ -3598,7 +3598,7 @@
   {
     "symbol": "AGAR",
     "name": "AGA Rewards",
-    "logo": "/networks/polygon/tokens/AGAR--0xf84bd51eab957c2e7b7d646a3427c5a50848281d/logo.png",
+    "logo": "/networks/polygon/tokens/AGAr--0xf84bd51eab957c2e7b7d646a3427c5a50848281d/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -3614,7 +3614,7 @@
             "symbol": "AGAR",
             "decimals": 8,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/AGAR--0xf84bd51eab957c2e7b7d646a3427c5a50848281d/logo.png",
+            "logo": "/networks/polygon/tokens/AGAr--0xf84bd51eab957c2e7b7d646a3427c5a50848281d/logo.png",
             "tags": [
               "erc20matic"
             ],

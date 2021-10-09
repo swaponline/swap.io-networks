@@ -4,7 +4,7 @@
   "symbol": "PSWAMP",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/PSWAMP--0x5f1657896b38c4761dbc5484473c7a7c845910b6/logo.png",
+  "logo": "/networks/polygon/tokens/pSwamp--0x5f1657896b38c4761dbc5484473c7a7c845910b6/logo.png",
   "tags": [
     "erc20matic"
   ]

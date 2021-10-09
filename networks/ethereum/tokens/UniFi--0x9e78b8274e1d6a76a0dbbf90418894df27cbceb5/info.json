@@ -4,7 +4,7 @@
   "symbol": "UNIFI",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/UNIFI--0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5/logo.png",
+  "logo": "/networks/ethereum/tokens/UniFi--0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5/logo.png",
   "tags": [
     "erc20"
   ]

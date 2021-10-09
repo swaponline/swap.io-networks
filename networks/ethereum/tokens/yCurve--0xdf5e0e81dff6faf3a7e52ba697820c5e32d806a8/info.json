@@ -4,7 +4,7 @@
   "symbol": "YCurve",
   "decimals": 18,
   "chainId": 1,
-  "logo": "",
+  "logo": "/networks/ethereum/tokens/yCurve--0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8/logo.png",
   "tags": [
     "erc20"
   ]

@@ -4,8 +4,10 @@
   "symbol": "renBCH",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/renBCH--0x459086f2376525bdceba5bdda135e4e9d3fef5bf/logo.png",
+  "logo": "/networks/ethereum/tokens/renBCH--0x459086f2376525bdceba5bdda135e4e9d3fef5bf/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "bitcoin-cash"
   ]
 }
