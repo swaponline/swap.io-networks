@@ -4,7 +4,7 @@
   "symbol": "DHT",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/DHT--0x8c92e38eca8210f4fcbf17f0951b198dd7668292/logo.png",
+  "logo": "/networks/polygon/tokens/DHT--0x8c92e38eca8210f4fcbf17f0951b198dd7668292/logo.svg",
   "tags": [
     "erc20matic"
   ]

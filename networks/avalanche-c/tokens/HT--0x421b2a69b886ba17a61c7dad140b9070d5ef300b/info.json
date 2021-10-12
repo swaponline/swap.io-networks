@@ -1,10 +1,10 @@
 {
-  "name": "HuobiToken",
+  "name": "Huobi Token",
   "address": "0x421b2a69b886ba17a61c7dad140b9070d5ef300b",
   "symbol": "HT",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/HT--0x421b2a69b886ba17a61c7dad140b9070d5ef300b/logo.png",
+  "logo": "/networks/avalanche-c/tokens/HT--0x421b2a69b886ba17a61c7dad140b9070d5ef300b/logo.svg",
   "tags": [
     "erc20avax"
   ]

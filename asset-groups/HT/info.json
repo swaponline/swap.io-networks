@@ -1,0 +1,10 @@
+{
+  "symbol": "HT",
+  "name": "Huobi Token",
+  "logo": "/networks/ethereum/tokens/HT--0x6f259637dcd74c767781e37bc6133cd6a68aa161/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/HT--0x6f259637dcd74c767781e37bc6133cd6a68aa161/info.json",
+    "/networks/polygon/tokens/HT--0xa731349fa468614c1698fc46ebf06da6f380239e/info.json",
+    "/networks/avalanche-c/tokens/HT--0x421b2a69b886ba17a61c7dad140b9070d5ef300b/info.json"
+  ]
+}

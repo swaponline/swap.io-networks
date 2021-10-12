@@ -4814,35 +4814,6 @@
     ]
   },
   {
-    "symbol": "DHT",
-    "name": "dHEDGE DAO",
-    "logo": "/networks/polygon/tokens/DHT--0x8c92e38eca8210f4fcbf17f0951b198dd7668292/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "dHEDGE DAO",
-            "address": "0x8c92e38eca8210f4fcbf17f0951b198dd7668292",
-            "symbol": "DHT",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/DHT--0x8c92e38eca8210f4fcbf17f0951b198dd7668292/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "DMT",
     "name": "Dark Matter Token",
     "logo": "/networks/polygon/tokens/DMT--0xd28449bb9bb659725accad52947677cce3719fd7/logo.png",
@@ -5703,35 +5674,6 @@
             "decimals": 8,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "HT",
-    "name": "Huobi Token",
-    "logo": "/networks/polygon/tokens/HT--0xa731349fa468614c1698fc46ebf06da6f380239e/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Huobi Token",
-            "address": "0xa731349fa468614c1698fc46ebf06da6f380239e",
-            "symbol": "HT",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/HT--0xa731349fa468614c1698fc46ebf06da6f380239e/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -10411,35 +10353,6 @@
     ]
   },
   {
-    "symbol": "DHT",
-    "name": "dHedge DAO Token",
-    "logo": "/networks/avalanche-c/tokens/DHT--0xee33c5804b759ccf3a9de88c9e772374147dcdee/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "dHedge DAO Token",
-            "address": "0xee33c5804b759ccf3a9de88c9e772374147dcdee",
-            "symbol": "DHT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/DHT--0xee33c5804b759ccf3a9de88c9e772374147dcdee/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "DIA",
     "name": "DIAToken",
     "logo": "/networks/avalanche-c/tokens/DIA--0xd072deceb5fd919bf8853ceb1068438652a06c00/logo.png",
@@ -11967,35 +11880,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/HOLY--0x2167d6a882e9beb324d08e6663d4d419ac578792/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "HT",
-    "name": "HuobiToken",
-    "logo": "/networks/avalanche-c/tokens/HT--0x421b2a69b886ba17a61c7dad140b9070d5ef300b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "HuobiToken",
-            "address": "0x421b2a69b886ba17a61c7dad140b9070d5ef300b",
-            "symbol": "HT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/HT--0x421b2a69b886ba17a61c7dad140b9070d5ef300b/logo.png",
             "tags": [
               "erc20avax"
             ],
