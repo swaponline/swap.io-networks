@@ -3248,35 +3248,6 @@
     ]
   },
   {
-    "symbol": "YFI",
-    "name": "yearn.finance",
-    "logo": "/networks/binance-smart-chain/tokens/YFI--0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "yearn.finance",
-            "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
-            "symbol": "YFI",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/YFI--0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "YFII",
     "name": "YFII.finance Token",
     "logo": "/networks/binance-smart-chain/tokens/YFII--0x7f70642d88cf1c4a3a7abb072b53b929b653eda5/logo.png",
@@ -8023,35 +7994,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/YELD--0x1fd6cf265fd3428f655378a803658942095b4c4e/logo.jpg",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "YFI",
-    "name": "yearn.finance",
-    "logo": "/networks/polygon/tokens/YFI--0xda537104d6a5edd53c6fbba9a898708e465260b6/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "yearn.finance",
-            "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
-            "symbol": "YFI",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/YFI--0xda537104d6a5edd53c6fbba9a898708e465260b6/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -17941,64 +17883,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/YFFI--0x5777e014b585a5f05db9902ef944df9c45f2054c/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "YFI",
-    "name": "yearn.finance",
-    "logo": "/networks/avalanche-c/tokens/YFI--0x99519acb025a0e0d44c3875a4bbf03af65933627/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "yearn.finance",
-            "address": "0x99519acb025a0e0d44c3875a4bbf03af65933627",
-            "symbol": "YFI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/YFI--0x99519acb025a0e0d44c3875a4bbf03af65933627/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "YFI",
-    "name": "yearn finance",
-    "logo": "/networks/avalanche-c/tokens/YFI--0x9eaac1b23d935365bd7b542fe22ceee2922f52dc/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "yearn finance",
-            "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
-            "symbol": "YFI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/YFI--0x9eaac1b23d935365bd7b542fe22ceee2922f52dc/logo.png",
             "tags": [
               "erc20avax"
             ],

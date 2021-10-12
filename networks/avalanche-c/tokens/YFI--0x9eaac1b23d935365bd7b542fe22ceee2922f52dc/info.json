@@ -4,8 +4,10 @@
   "symbol": "YFI",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/YFI--0x9eaac1b23d935365bd7b542fe22ceee2922f52dc/logo.png",
+  "logo": "/networks/avalanche-c/tokens/YFI--0x9eaac1b23d935365bd7b542fe22ceee2922f52dc/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "yearn-finance"
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "symbol": "YFI",
+  "name": "yearn.finance",
+  "logo": "/networks/ethereum/tokens/YFI--0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/YFI--0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e/info.json",
+    "/networks/ethereum/tokens/aYFI--0x5165d24277cd063f5ac44efd447b27025e888f37/info.json",
+    "/networks/ethereum/tokens/aYFIv1--0x12e51e77daaa58aa0e9247db7510ea4b46f9bead/info.json",
+    "/networks/binance-smart-chain/tokens/YFI--0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e/info.json",
+    "/networks/polygon/tokens/YFI--0xda537104d6a5edd53c6fbba9a898708e465260b6/info.json",
+    "/networks/polygon/tokens/maYFI--0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613/info.json",
+    "/networks/avalanche-c/tokens/YFI--0x9eaac1b23d935365bd7b542fe22ceee2922f52dc/info.json",
+    "/networks/avalanche-c/tokens/YFI--0x99519acb025a0e0d44c3875a4bbf03af65933627/info.json",
+    "/networks/xdai/tokens/YFI--0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd/info.json"
+  ]
+}

@@ -1,11 +1,13 @@
 {
-  "name": "yearn.finance",
+  "name": "Binance-Peg yearn.finance",
   "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
   "symbol": "YFI",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/YFI--0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/YFI--0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "yearn-finance"
   ]
 }

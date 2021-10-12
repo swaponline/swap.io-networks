@@ -1,11 +1,13 @@
 {
-  "name": "AaveinterestbearingYFI",
+  "name": "Aave interest bearing YFI",
   "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
   "symbol": "aYFI",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aYFI--0x5165d24277cd063f5ac44efd447b27025e888f37/logo.png",
+  "logo": "/networks/ethereum/tokens/aYFI--0x5165d24277cd063f5ac44efd447b27025e888f37/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "yearn-finance"
   ]
 }

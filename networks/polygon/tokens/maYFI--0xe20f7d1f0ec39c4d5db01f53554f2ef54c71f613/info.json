@@ -1,11 +1,13 @@
 {
-  "name": "Matic Aave Interest",
+  "name": "Matic Aave interest bearing YFI",
   "address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
-  "symbol": "MAYFI",
+  "symbol": "maYFI",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/maYFI--0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613/logo.png",
+  "logo": "/networks/polygon/tokens/maYFI--0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "yearn-finance"
   ]
 }
