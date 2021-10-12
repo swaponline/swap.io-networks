@@ -4524,35 +4524,6 @@
     ]
   },
   {
-    "symbol": "CRV",
-    "name": "CRV",
-    "logo": "/networks/polygon/tokens/CRV--0x172370d5cd63279efa6d502dab29171933a610af/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "CRV",
-            "address": "0x172370d5cd63279efa6d502dab29171933a610af",
-            "symbol": "CRV",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/CRV--0x172370d5cd63279efa6d502dab29171933a610af/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "CTSI",
     "name": "Cartesi",
     "logo": "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/logo.png",

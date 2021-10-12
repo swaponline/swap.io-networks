@@ -1,0 +1,10 @@
+{
+  "symbol": "CRV",
+  "name": "Curve DAO Token",
+  "logo": "/networks/ethereum/tokens/CRV--0xd533a949740bb3306d119cc777fa900ba034cd52/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/CRV--0xd533a949740bb3306d119cc777fa900ba034cd52/info.json",
+    "/networks/polygon/tokens/CRV--0x172370d5cd63279efa6d502dab29171933a610af/info.json",
+    "/networks/xdai/tokens/CRV--0x712b3d230f3c1c19db860d80619288b1f0bdd0bd/info.json"
+  ]
+}
