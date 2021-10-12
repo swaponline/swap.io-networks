@@ -1,0 +1,14 @@
+{
+  "symbol": "SNX",
+  "name": "Synthetix",
+  "logo": "/networks/ethereum/tokens/SNX--0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/SNX--0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/info.json",
+    "/networks/ethereum/tokens/aSNX--0x35f6b052c598d933d69a4eec4d04c73a191fe6c2/info.json",
+    "/networks/ethereum/tokens/aSNXv1--0x328c4c80bc7aca0834db37e6600a6c49e12da4de/info.json",
+    "/networks/binance-smart-chain/tokens/SNX--0x9ac983826058b8a9c7aa1c9171441191232e8404/info.json",
+    "/networks/polygon/tokens/SNX--0x50b728d8d964fd00c2d0aad81718b71311fef68a/info.json",
+    "/networks/avalanche-c/tokens/SNX--0xbec243c995409e6520d7c41e404da5deba4b209b/info.json",
+    "/networks/avalanche-c/tokens/SNX--0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9/info.json"
+  ]
+}

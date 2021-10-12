@@ -1,11 +1,13 @@
 {
-  "name": "AaveInterestbearingSNX",
+  "name": "Aave Interest bearing SNX",
   "address": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
   "symbol": "aSNXv1",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aSNXv1--0x328c4c80bc7aca0834db37e6600a6c49e12da4de/logo.png",
+  "logo": "/networks/ethereum/tokens/aSNXv1--0x328c4c80bc7aca0834db37e6600a6c49e12da4de/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "synthetix"
   ]
 }

@@ -609,35 +609,6 @@
     ]
   },
   {
-    "symbol": "aSNX",
-    "name": "AaveinterestbearingSNX",
-    "logo": "/networks/ethereum/tokens/aSNX--0x35f6b052c598d933d69a4eec4d04c73a191fe6c2/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AaveinterestbearingSNX",
-            "address": "0x35f6b052c598d933d69a4eec4d04c73a191fe6c2",
-            "symbol": "aSNX",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/aSNX--0x35f6b052c598d933d69a4eec4d04c73a191fe6c2/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "aSUSD",
     "name": "AaveinterestbearingSUSD",
     "logo": "/networks/ethereum/tokens/aSUSD--0x6c5024cd4f8a59110119c56f8933403a539555eb/logo.png",
@@ -7037,35 +7008,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/SDT--0x361a5a4993493ce00f61c32d4ecca5512b82ce90/logo.jpg",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SNX",
-    "name": "Synthetix Network T",
-    "logo": "/networks/polygon/tokens/SNX--0x50b728d8d964fd00c2d0aad81718b71311fef68a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Synthetix Network T",
-            "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
-            "symbol": "SNX",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/SNX--0x50b728d8d964fd00c2d0aad81718b71311fef68a/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -15650,64 +15592,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/SNOW--0x40eb65be917e7a5ae529b2e1279e4b548a36c465/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SNX",
-    "name": "Synthetix Network Token",
-    "logo": "/networks/avalanche-c/tokens/SNX--0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Synthetix Network Token",
-            "address": "0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9",
-            "symbol": "SNX",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SNX--0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SNX",
-    "name": "Synthetix Network T",
-    "logo": "/networks/avalanche-c/tokens/SNX--0xbec243c995409e6520d7c41e404da5deba4b209b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Synthetix Network T",
-            "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
-            "symbol": "SNX",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SNX--0xbec243c995409e6520d7c41e404da5deba4b209b/logo.png",
             "tags": [
               "erc20avax"
             ],
