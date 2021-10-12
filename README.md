@@ -45,7 +45,7 @@ Name | Type | Default | Description |
 `symbol` | string | - | The symbol of the coin. Usually a 3-letter capital string (e.g. `"ETH"`)
 `slug` | string | - | The slug that uniquely identifies the coin.
 `name` | string | -|  The name of the coin in english.
-`name_plural` | string | - | The plural enlish name of the coin.
+`name_plural` | string | - | The plural english name of the coin.
 `denominator` | float | 1e-18 | Currency denominator.
 `type` | string | "coin" | Type of asset.
 `logo` | string | - | The string of the logo relative path.
