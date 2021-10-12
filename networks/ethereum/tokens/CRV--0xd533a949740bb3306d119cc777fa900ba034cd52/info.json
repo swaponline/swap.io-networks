@@ -1,10 +1,10 @@
 {
-  "name": "CurveDAOToken",
+  "name": "Curve DAO Token",
   "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
   "symbol": "CRV",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/CRV--0xd533a949740bb3306d119cc777fa900ba034cd52/logo.png",
+  "logo": "/networks/ethereum/tokens/CRV--0xd533a949740bb3306d119cc777fa900ba034cd52/logo.svg",
   "tags": [
     "erc20"
   ]

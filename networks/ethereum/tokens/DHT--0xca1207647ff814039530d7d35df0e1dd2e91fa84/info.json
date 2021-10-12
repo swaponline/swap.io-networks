@@ -1,10 +1,10 @@
 {
-  "name": "dHedgeDAOToken",
+  "name": "dHedge DAO Token",
   "address": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
   "symbol": "DHT",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/DHT--0xca1207647ff814039530d7d35df0e1dd2e91fa84/logo.png",
+  "logo": "/networks/ethereum/tokens/DHT--0xca1207647ff814039530d7d35df0e1dd2e91fa84/logo.svg",
   "tags": [
     "erc20"
   ]

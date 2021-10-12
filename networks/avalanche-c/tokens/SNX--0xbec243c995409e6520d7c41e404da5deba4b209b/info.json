@@ -1,11 +1,13 @@
 {
-  "name": "Synthetix Network T",
+  "name": "Synthetix Network Token",
   "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
   "symbol": "SNX",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/SNX--0xbec243c995409e6520d7c41e404da5deba4b209b/logo.png",
+  "logo": "/networks/avalanche-c/tokens/SNX--0xbec243c995409e6520d7c41e404da5deba4b209b/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "synthetix"
   ]
 }

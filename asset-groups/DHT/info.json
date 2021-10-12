@@ -1,0 +1,10 @@
+{
+  "symbol": "DHT",
+  "name": "dHedge DAO",
+  "logo": "/networks/ethereum/tokens/DHT--0xca1207647ff814039530d7d35df0e1dd2e91fa84/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/DHT--0xca1207647ff814039530d7d35df0e1dd2e91fa84/info.json",
+    "/networks/polygon/tokens/DHT--0x8c92e38eca8210f4fcbf17f0951b198dd7668292/info.json",
+    "/networks/avalanche-c/tokens/DHT--0xee33c5804b759ccf3a9de88c9e772374147dcdee/info.json"
+  ]
+}

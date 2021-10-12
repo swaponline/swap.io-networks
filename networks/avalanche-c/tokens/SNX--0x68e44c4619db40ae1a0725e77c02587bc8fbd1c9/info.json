@@ -4,8 +4,11 @@
   "symbol": "SNX",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/SNX--0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9/logo.png",
+  "logo": "/networks/avalanche-c/tokens/SNX--0x68e44c4619db40ae1a0725e77c02587bc8fbd1c9/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "synthetix",
+    "deprecated"
   ]
 }
