@@ -1,0 +1,13 @@
+{
+  "name": "Bancor Network Token from Ethereum",
+  "address": "0x9a495a281d959192343b0e007284bf130bd05f86",
+  "symbol": "BNT",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/BNT--0x9a495a281d959192343b0e007284bf130bd05f86/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "bancor"
+  ]
+}

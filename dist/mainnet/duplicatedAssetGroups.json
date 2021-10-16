@@ -9193,35 +9193,6 @@
     ]
   },
   {
-    "symbol": "BNT",
-    "name": "Bancor Network Token",
-    "logo": "/networks/avalanche-c/tokens/BNT--0xed44979561a797515767b0201121afc4b5ee2838/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Bancor Network Token",
-            "address": "0xed44979561a797515767b0201121afc4b5ee2838",
-            "symbol": "BNT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/BNT--0xed44979561a797515767b0201121afc4b5ee2838/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BOND",
     "name": "BarnBridge Governance Token",
     "logo": "/networks/avalanche-c/tokens/BOND--0x59cd8bb3e49930f313ed744585e4067bc45cf85d/logo.png",

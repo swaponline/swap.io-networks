@@ -1,0 +1,9 @@
+{
+  "symbol": "BNT",
+  "name": "Bancor",
+  "logo": "/networks/ethereum/tokens/BNT--0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/BNT--0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/info.json",
+    "/networks/xdai/tokens/BNT--0x9a495a281d959192343b0e007284bf130bd05f86/info.json"
+  ]
+}
