@@ -1044,35 +1044,6 @@
     ]
   },
   {
-    "symbol": "BAT",
-    "name": "Basic Attention Token",
-    "logo": "/networks/binance-smart-chain/tokens/BAT--0x101d82428437127bf1608f699cd651e6abf9766e/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Basic Attention Token",
-            "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
-            "symbol": "BAT",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BAT--0x101d82428437127bf1608f699cd651e6abf9766e/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BEL",
     "name": "Bella Protocol",
     "logo": "/networks/binance-smart-chain/tokens/BEL--0x8443f091997f06a61670b735ed92734f5628692f/logo.png",
@@ -3963,35 +3934,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/BAMBOO--0x8095d18fb1e702d69402a6a8c7a56bc1cce6ecc2/logo.PNG",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BAT",
-    "name": "Basic Attention Tok",
-    "logo": "/networks/polygon/tokens/BAT--0x3cef98bb43d732e2f285ee605a8158cde967d219/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Basic Attention Tok",
-            "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
-            "symbol": "BAT",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/BAT--0x3cef98bb43d732e2f285ee605a8158cde967d219/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -9067,35 +9009,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/BAS--0x3f4409c13c3bb310317643c6ee15576b3d427ddd/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BAT",
-    "name": "Basic Attention Token",
-    "logo": "/networks/avalanche-c/tokens/BAT--0x6b329326e0f6b95b93b52229b213334278d6f277/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Basic Attention Token",
-            "address": "0x6b329326e0f6b95b93b52229b213334278d6f277",
-            "symbol": "BAT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/BAT--0x6b329326e0f6b95b93b52229b213334278d6f277/logo.png",
             "tags": [
               "erc20avax"
             ],

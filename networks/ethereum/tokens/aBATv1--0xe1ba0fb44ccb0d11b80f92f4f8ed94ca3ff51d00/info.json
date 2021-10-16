@@ -1,11 +1,13 @@
 {
-  "name": "AaveInterestbearingBAT",
+  "name": "Aave Interest bearing BAT",
   "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
   "symbol": "aBATv1",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aBATv1--0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00/logo.png",
+  "logo": "/networks/ethereum/tokens/aBATv1--0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "basic-attention-token"
   ]
 }

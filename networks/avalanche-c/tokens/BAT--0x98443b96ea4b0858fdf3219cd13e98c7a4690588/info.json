@@ -1,0 +1,13 @@
+{
+  "name": "Basic Attention Token",
+  "address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+  "symbol": "BAT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BAT--0x98443b96ea4b0858fdf3219cd13e98c7a4690588/logo.svg",
+  "tags": [
+    "erc20avax",
+    "wrapped",
+    "basic-attention-token"
+  ]
+}

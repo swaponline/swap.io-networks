@@ -5,6 +5,7 @@
   "asset-list": [
     "/networks/ethereum/tokens/REN--0x408e41876cccdc0f92210600ef50372656052a38/info.json",
     "/networks/ethereum/tokens/aREN--0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a/info.json",
+    "/networks/ethereum/tokens/aRENv1--0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c/info.json",
     "/networks/avalanche-c/tokens/REN--0xac6c38f2dec391b478144ae7f078d08b08d0a284/info.json"
   ]
 }
