@@ -13862,35 +13862,6 @@
     ]
   },
   {
-    "symbol": "PERP",
-    "name": "Perpetual",
-    "logo": "/networks/avalanche-c/tokens/PERP--0x88af8d172e64326a71c1a7756cb4f6125d98f2a5/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Perpetual",
-            "address": "0x88af8d172e64326a71c1a7756cb4f6125d98f2a5",
-            "symbol": "PERP",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/PERP--0x88af8d172e64326a71c1a7756cb4f6125d98f2a5/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "PERX",
     "name": "PeerEx Network",
     "logo": "/networks/avalanche-c/tokens/PERX--0x02f8a8e78e02768a5c2f9cf1bfa8ec2f821e869d/logo.png",
@@ -14896,35 +14867,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/RELAY--0x78c42324016cd91d1827924711563fb66e33a83a/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "REN",
-    "name": "Republic Token",
-    "logo": "/networks/avalanche-c/tokens/REN--0xac6c38f2dec391b478144ae7f078d08b08d0a284/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Republic Token",
-            "address": "0xac6c38f2dec391b478144ae7f078d08b08d0a284",
-            "symbol": "REN",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/REN--0xac6c38f2dec391b478144ae7f078d08b08d0a284/logo.png",
             "tags": [
               "erc20avax"
             ],
