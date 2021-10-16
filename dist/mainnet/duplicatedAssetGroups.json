@@ -6177,35 +6177,6 @@
     ]
   },
   {
-    "symbol": "NEXO",
-    "name": "Nexo",
-    "logo": "/networks/polygon/tokens/NEXO--0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Nexo",
-            "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
-            "symbol": "NEXO",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/NEXO--0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "NIOX",
     "name": "Autonio",
     "logo": "/networks/polygon/tokens/NIOX--0xad684e79ce4b6d464f2ff7c3fd51646892e24b96/logo.png",
@@ -13069,35 +13040,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/NDX--0x7633b4710042f9dd22e3fc63e59e4bfdcb6813b9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "NEXO",
-    "name": "Nexo",
-    "logo": "/networks/avalanche-c/tokens/NEXO--0xfe87aba89d58da09d5bc13b4a1dc873c1b901806/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Nexo",
-            "address": "0xfe87aba89d58da09d5bc13b4a1dc873c1b901806",
-            "symbol": "NEXO",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/NEXO--0xfe87aba89d58da09d5bc13b4a1dc873c1b901806/logo.png",
             "tags": [
               "erc20avax"
             ],
