@@ -7279,35 +7279,6 @@
     ]
   },
   {
-    "symbol": "TEL",
-    "name": "Telcoin",
-    "logo": "/networks/polygon/tokens/TEL--0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Telcoin",
-            "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
-            "symbol": "TEL",
-            "decimals": 2,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/TEL--0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "TITAN",
     "name": "IRON Titanium Token",
     "logo": "/networks/polygon/tokens/TITAN--0xaaa5b9e6c589642f98a1cda99b9d024b8407285a/logo.png",
@@ -13272,35 +13243,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/NPXS--0x07d83b7101c540fcc1720c3d51923f218ae9b6ac/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "NU",
-    "name": "NuCypher",
-    "logo": "/networks/avalanche-c/tokens/NU--0x32141622a7c79790176670fffca17154678a9a24/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "NuCypher",
-            "address": "0x32141622a7c79790176670fffca17154678a9a24",
-            "symbol": "NU",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/NU--0x32141622a7c79790176670fffca17154678a9a24/logo.png",
             "tags": [
               "erc20avax"
             ],

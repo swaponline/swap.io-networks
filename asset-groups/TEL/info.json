@@ -1,0 +1,9 @@
+{
+  "symbol": "TEL",
+  "name": "Telcoin",
+  "logo": "/networks/ethereum/tokens/TEL--0x467bccd9d29f223bce8043b84e8c8b282827790f/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/TEL--0x467bccd9d29f223bce8043b84e8c8b282827790f/info.json",
+    "/networks/polygon/tokens/TEL--0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32/info.json"
+  ]
+}
