@@ -1,0 +1,13 @@
+{
+  "name": "Basic Attention Token",
+  "address": "0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3",
+  "symbol": "BAT",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/BAT--0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "basic-attention-token"
+  ]
+}

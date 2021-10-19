@@ -4,7 +4,7 @@
   "symbol": "NEXO",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/NEXO--0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e/logo.png",
+  "logo": "/networks/polygon/tokens/NEXO--0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e/logo.svg",
   "tags": [
     "erc20matic"
   ]

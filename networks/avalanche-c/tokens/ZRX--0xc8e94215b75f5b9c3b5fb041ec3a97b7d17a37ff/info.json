@@ -4,8 +4,11 @@
   "symbol": "ZRX",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/ZRX--0xc8e94215b75f5b9c3b5fb041ec3a97b7d17a37ff/logo.png",
+  "logo": "/networks/avalanche-c/tokens/ZRX--0xc8e94215b75f5b9c3b5fb041ec3a97b7d17a37ff/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "0x",
+    "deprecated"
   ]
 }

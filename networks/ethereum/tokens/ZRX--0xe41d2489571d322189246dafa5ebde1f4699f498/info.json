@@ -1,10 +1,10 @@
 {
-  "name": "0xProtocol",
+  "name": "0x Protocol Token",
   "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
   "symbol": "ZRX",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/ZRX--0xe41d2489571d322189246dafa5ebde1f4699f498/logo.png",
+  "logo": "/networks/ethereum/tokens/ZRX--0xe41d2489571d322189246dafa5ebde1f4699f498/logo.svg",
   "tags": [
     "erc20"
   ]

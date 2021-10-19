@@ -1,0 +1,11 @@
+{
+  "name": "KuCoin Token",
+  "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+  "symbol": "KCS",
+  "decimals": 6,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/KCS--0xf34960d9d60be18cc1d5afc1a6f012a723a28811/logo.svg",
+  "tags": [
+    "erc20"
+  ]
+}

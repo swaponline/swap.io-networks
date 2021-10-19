@@ -1,0 +1,9 @@
+{
+  "symbol": "AUDIO",
+  "name": "Audius",
+  "logo": "/networks/ethereum/tokens/AUDIO--0x18aaa7115705e8be94bffebde57af9bfc265b998/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/AUDIO--0x18aaa7115705e8be94bffebde57af9bfc265b998/info.json",
+    "/networks/xdai/tokens/AUDIO--0x8a95ea379e1fa4c749dd0a7a21377162028c479e/info.json"
+  ]
+}

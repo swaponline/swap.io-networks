@@ -1,0 +1,12 @@
+{
+  "symbol": "ZRX",
+  "name": "0x",
+  "logo": "/networks/ethereum/tokens/ZRX--0xe41d2489571d322189246dafa5ebde1f4699f498//logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/ZRX--0xe41d2489571d322189246dafa5ebde1f4699f498/info.json",
+    "/networks/ethereum/tokens/aZRX--0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e/info.json",
+    "/networks/avalanche-c/tokens/ZRX--0x596fa47043f99a4e0f122243b841e55375cde0d2/info.json",
+    "/networks/avalanche-c/tokens/ZRX--0xc8e94215b75f5b9c3b5fb041ec3a97b7d17a37ff/info.json",
+    "/networks/xdai/tokens/ZRX--0x226bcf0e417428a25012d0fa2183d37f92bcedf6/info.json"
+  ]
+}

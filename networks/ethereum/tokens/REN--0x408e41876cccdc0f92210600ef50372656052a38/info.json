@@ -4,7 +4,7 @@
   "symbol": "REN",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/REN--0x408e41876cccdc0f92210600ef50372656052a38/logo.png",
+  "logo": "/networks/ethereum/tokens/REN--0x408e41876cccdc0f92210600ef50372656052a38/logo.svg",
   "tags": [
     "erc20"
   ]

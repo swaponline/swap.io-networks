@@ -1,11 +1,13 @@
 {
-  "name": "AaveInterestbearingREN",
+  "name": "Aave Interest bearing REN",
   "address": "0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c",
   "symbol": "aRENv1",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aRENv1--0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c/logo.png",
+  "logo": "/networks/ethereum/tokens/aRENv1--0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "ren"
   ]
 }

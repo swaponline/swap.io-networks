@@ -4,8 +4,11 @@
   "symbol": "UMA",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/UMA--0xc84d7bff2555955b44bdf6a307180810412d751b/logo.png",
+  "logo": "/networks/avalanche-c/tokens/UMA--0xc84d7bff2555955b44bdf6a307180810412d751b/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "uma",
+    "deprecated"
   ]
 }

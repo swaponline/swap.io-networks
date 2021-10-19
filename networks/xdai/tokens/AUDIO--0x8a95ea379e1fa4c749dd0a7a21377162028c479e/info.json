@@ -1,0 +1,13 @@
+{
+  "name": "Audius from Ethereum",
+  "address": "0x8a95ea379e1fa4c749dd0a7a21377162028c479e",
+  "symbol": "AUDIO",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/AUDIO--0x8a95ea379e1fa4c749dd0a7a21377162028c479e/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "audio"
+  ]
+}

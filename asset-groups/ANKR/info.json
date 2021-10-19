@@ -1,0 +1,9 @@
+{
+  "symbol": "ANKR",
+  "name": "Ankr",
+  "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/info.json",
+    "/networks/binance-smart-chain/tokens/ANKR--0xf307910a4c7bbc79691fd374889b36d8531b08e3/info.json"
+  ]
+}

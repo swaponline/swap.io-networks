@@ -1,0 +1,9 @@
+{
+  "symbol": "PAX",
+  "name": "Pax Dollar",
+  "logo": "/networks/ethereum/tokens/USDP--0x8e870d67f660d95d5be530380d0ec0bd388289e1/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/USDP--0x8e870d67f660d95d5be530380d0ec0bd388289e1//info.json",
+    "/networks/binance-smart-chain/tokens/PAX--0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094/info.json"
+  ]
+}

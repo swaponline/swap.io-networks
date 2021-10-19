@@ -1,0 +1,9 @@
+{
+  "symbol": "NEXO",
+  "name": "Nexo",
+  "logo": "/networks/ethereum/tokens/NEXO--0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/NEXO--0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/info.json",
+    "/networks/polygon/tokens/NEXO--0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e/info.json"
+  ]
+}

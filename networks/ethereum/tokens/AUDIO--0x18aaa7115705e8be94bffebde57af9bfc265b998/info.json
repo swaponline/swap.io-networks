@@ -4,7 +4,7 @@
   "symbol": "AUDIO",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/AUDIO--0x18aaa7115705e8be94bffebde57af9bfc265b998/logo.png",
+  "logo": "/networks/ethereum/tokens/AUDIO--0x18aaa7115705e8be94bffebde57af9bfc265b998/logo.svg",
   "tags": [
     "erc20"
   ]

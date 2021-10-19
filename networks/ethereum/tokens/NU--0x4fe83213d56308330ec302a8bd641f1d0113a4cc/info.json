@@ -4,7 +4,7 @@
   "symbol": "NU",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/NU--0x4fe83213d56308330ec302a8bd641f1d0113a4cc/logo.png",
+  "logo": "/networks/ethereum/tokens/NU--0x4fe83213d56308330ec302a8bd641f1d0113a4cc/logo.svg",
   "tags": [
     "erc20"
   ]

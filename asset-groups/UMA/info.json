@@ -1,0 +1,10 @@
+{
+  "symbol": "UMA",
+  "name": "UMA",
+  "logo": "/networks/ethereum/tokens/UMA--0x04fa0d235c4abf4bcf4787af4cf447de572ef828/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/UMA--0x04fa0d235c4abf4bcf4787af4cf447de572ef828/info.json",
+    "/networks/avalanche-c/tokens/UMA--0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/info.json",
+    "/networks/avalanche-c/tokens/UMA--0xc84d7bff2555955b44bdf6a307180810412d751b/info.json"
+  ]
+}

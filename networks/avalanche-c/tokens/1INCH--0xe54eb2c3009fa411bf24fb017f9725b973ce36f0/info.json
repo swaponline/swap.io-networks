@@ -4,8 +4,11 @@
   "symbol": "1INCH",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/1INCH--0xe54eb2c3009fa411bf24fb017f9725b973ce36f0/logo.png",
+  "logo": "/networks/avalanche-c/tokens/1INCH--0xe54eb2c3009fa411bf24fb017f9725b973ce36f0/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "1inch",
+    "deprecated"
   ]
 }

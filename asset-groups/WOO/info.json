@@ -1,0 +1,10 @@
+{
+  "symbol": "WOO",
+  "name": "WOO Network",
+  "logo": "/networks/ethereum/tokens/WOO--0x4691937a7508860f876c9c0a2a617e7d9e945d4b/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/WOO--0x4691937a7508860f876c9c0a2a617e7d9e945d4b/info.json",
+    "/networks/binance-smart-chain/tokens/WOO--0x4691937a7508860f876c9c0a2a617e7d9e945d4b/info.json",
+    "/networks/polygon/tokens/WOO--0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603/info.json"
+  ]
+}
