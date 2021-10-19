@@ -3074,35 +3074,6 @@
     ]
   },
   {
-    "symbol": "WOO",
-    "name": "Wootrade",
-    "logo": "/networks/binance-smart-chain/tokens/WOO--0x4691937a7508860f876c9c0a2a617e7d9e945d4b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wootrade",
-            "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
-            "symbol": "WOO",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/WOO--0x4691937a7508860f876c9c0a2a617e7d9e945d4b/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "XED",
     "name": "Exeedme",
     "logo": "/networks/binance-smart-chain/tokens/XED--0x5621b5a3f4a8008c4ccdd1b942b121c8b1944f1f/logo.png",
@@ -7453,35 +7424,6 @@
     ]
   },
   {
-    "symbol": "WOO",
-    "name": "Wootrade Network",
-    "logo": "/networks/polygon/tokens/WOO--0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603/logo.svg",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wootrade Network",
-            "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
-            "symbol": "WOO",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/WOO--0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603/logo.svg",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "WOOFY",
     "name": "Woofy",
     "logo": "/networks/polygon/tokens/WOOFY--0xd0660cd418a64a1d44e9214ad8e459324d8157f1/logo.png",
@@ -7936,35 +7878,6 @@
             "decimals": 18,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/rUSD--0xfc40a4f89b410a1b855b5e205064a38fc29f5eb5/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "renDGB",
-    "name": "renDGB",
-    "logo": "/networks/polygon/tokens/renDGB--0x2628568509e87c4429fbb5c664ed11391be1bd29/logo.svg",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "renDGB",
-            "address": "0x2628568509e87c4429fbb5c664ed11391be1bd29",
-            "symbol": "renDGB",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/renDGB--0x2628568509e87c4429fbb5c664ed11391be1bd29/logo.svg",
             "tags": [
               "erc20matic"
             ],
