@@ -418,10 +418,60 @@
     ]
   },
   {
+    "symbol": "ANKR",
+    "name": "Ankr",
+    "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.svg",
+    "priority": 2,
+    "networks": [
+      {
+        "network": {
+          "name": "Ethereum",
+          "slug": "ethereum",
+          "logo": "/networks/ethereum/coins/ETH/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Ankr Network",
+            "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+            "symbol": "ANKR",
+            "decimals": 18,
+            "chainId": 1,
+            "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.svg",
+            "tags": [
+              "erc20"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
+          "name": "Binance Smart Chain",
+          "slug": "binance-smart-chain",
+          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Ankr",
+            "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+            "symbol": "ANKR",
+            "decimals": 18,
+            "chainId": 56,
+            "logo": "/networks/binance-smart-chain/tokens/ANKR--0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.svg",
+            "tags": [
+              "bep20"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "AUDIO",
     "name": "Audius",
     "logo": "/networks/ethereum/tokens/AUDIO--0x18aaa7115705e8be94bffebde57af9bfc265b998/logo.svg",
-    "priority": 2,
+    "priority": 3,
     "networks": [
       {
         "network": {
@@ -473,7 +523,7 @@
     "symbol": "AXS",
     "name": "Axie Infinity",
     "logo": "/networks/ethereum/tokens/AXS--0xf5d669627376ebd411e34b98f19c868c8aba5ada/logo.svg",
-    "priority": 3,
+    "priority": 4,
     "networks": [
       {
         "network": {
@@ -544,7 +594,7 @@
     "symbol": "BAT",
     "name": "Basic Attention Token",
     "logo": "/networks/ethereum/tokens/BAT--0x0d8775f648430679a709e98d2b0cb6250d2887ef/logo.svg",
-    "priority": 4,
+    "priority": 5,
     "networks": [
       {
         "network": {
@@ -706,7 +756,7 @@
     "symbol": "BNT",
     "name": "Bancor",
     "logo": "/networks/ethereum/tokens/BNT--0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/logo.svg",
-    "priority": 5,
+    "priority": 6,
     "networks": [
       {
         "network": {
@@ -758,7 +808,7 @@
     "symbol": "BUSD",
     "name": "Binance USD",
     "logo": "/networks/ethereum/tokens/BUSD--0x4fabb145d64652a948d72533023f6e7a623c7c53/logo.svg",
-    "priority": 6,
+    "priority": 7,
     "networks": [
       {
         "network": {
@@ -872,7 +922,7 @@
     "symbol": "CEL",
     "name": "Celsius",
     "logo": "/networks/ethereum/tokens/CEL--0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/logo.svg",
-    "priority": 7,
+    "priority": 8,
     "networks": [
       {
         "network": {
@@ -943,7 +993,7 @@
     "symbol": "CELR",
     "name": "Celer Network",
     "logo": "/networks/ethereum/tokens/CELR--0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/logo.svg",
-    "priority": 8,
+    "priority": 9,
     "networks": [
       {
         "network": {
@@ -995,7 +1045,7 @@
     "symbol": "COMP",
     "name": "Compound",
     "logo": "/networks/ethereum/tokens/COMP--0xc00e94cb662c3520282e6f5717214004a7f26888/logo.svg",
-    "priority": 9,
+    "priority": 10,
     "networks": [
       {
         "network": {
@@ -1131,7 +1181,7 @@
     "symbol": "CRV",
     "name": "Curve DAO Token",
     "logo": "/networks/ethereum/tokens/CRV--0xd533a949740bb3306d119cc777fa900ba034cd52/logo.svg",
-    "priority": 10,
+    "priority": 11,
     "networks": [
       {
         "network": {
@@ -1202,7 +1252,7 @@
     "symbol": "DAI",
     "name": "Dai",
     "logo": "/networks/ethereum/tokens/DAI--0x6b175474e89094c44da98b954eedeac495271d0f/logo.svg",
-    "priority": 11,
+    "priority": 12,
     "networks": [
       {
         "network": {
@@ -1327,7 +1377,7 @@
     "symbol": "DHT",
     "name": "dHedge DAO",
     "logo": "/networks/ethereum/tokens/DHT--0xca1207647ff814039530d7d35df0e1dd2e91fa84/logo.svg",
-    "priority": 12,
+    "priority": 13,
     "networks": [
       {
         "network": {
@@ -1398,7 +1448,7 @@
     "symbol": "ENJ",
     "name": "Enjin Coin",
     "logo": "/networks/ethereum/tokens/ENJ--0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c/logo.svg",
-    "priority": 13,
+    "priority": 14,
     "networks": [
       {
         "network": {
@@ -1455,7 +1505,7 @@
     "symbol": "ETH",
     "name": "Ether",
     "logo": "/networks/ethereum/coins/ETH/logo.svg",
-    "priority": 14,
+    "priority": 15,
     "networks": [
       {
         "network": {
@@ -1602,7 +1652,7 @@
     "symbol": "The Graph",
     "name": "GRT",
     "logo": "/networks/ethereum/tokens/GRT--0xc944e90c64b2c07662a292be6244bdf05cda44a7/logo.svg",
-    "priority": 15,
+    "priority": 16,
     "networks": [
       {
         "network": {
@@ -1690,7 +1740,7 @@
     "symbol": "HT",
     "name": "Huobi Token",
     "logo": "/networks/ethereum/tokens/HT--0x6f259637dcd74c767781e37bc6133cd6a68aa161/logo.svg",
-    "priority": 16,
+    "priority": 17,
     "networks": [
       {
         "network": {
@@ -1761,7 +1811,7 @@
     "symbol": "LINK",
     "name": "Chainlink",
     "logo": "/networks/ethereum/tokens/LINK--0x514910771af9ca656af840dff83e8264ecf986ca/logo.svg",
-    "priority": 17,
+    "priority": 18,
     "networks": [
       {
         "network": {
@@ -1931,7 +1981,7 @@
     "symbol": "LUNA",
     "name": "Terra",
     "logo": "/networks/ethereum/tokens/LUNA--0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9/logo.svg",
-    "priority": 18,
+    "priority": 19,
     "networks": [
       {
         "network": {
@@ -1985,7 +2035,7 @@
     "symbol": "MANA",
     "name": "Decentraland",
     "logo": "/networks/ethereum/tokens/MANA--0x0f5d2fb29fb7d3cfee444a200298f468908cc942/logo.svg",
-    "priority": 19,
+    "priority": 20,
     "networks": [
       {
         "network": {
@@ -2084,7 +2134,7 @@
     "symbol": "MKR",
     "name": "Maker",
     "logo": "/networks/ethereum/tokens/MKR--0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/logo.svg",
-    "priority": 20,
+    "priority": 21,
     "networks": [
       {
         "network": {
@@ -2165,7 +2215,7 @@
     "symbol": "NEXO",
     "name": "Nexo",
     "logo": "/networks/ethereum/tokens/NEXO--0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/logo.svg",
-    "priority": 21,
+    "priority": 22,
     "networks": [
       {
         "network": {
@@ -2215,7 +2265,7 @@
     "symbol": "PAX",
     "name": "Pax Dollar",
     "logo": "/networks/ethereum/tokens/USDP--0x8e870d67f660d95d5be530380d0ec0bd388289e1/logo.svg",
-    "priority": 22,
+    "priority": 23,
     "networks": [
       {
         "network": {
@@ -2271,7 +2321,7 @@
     "symbol": "QNT",
     "name": "Quant",
     "logo": "/networks/ethereum/tokens/QNT--0x4a220e6096b25eadb88358cb44068a3248254675/logo.svg",
-    "priority": 23,
+    "priority": 24,
     "networks": [
       {
         "network": {
@@ -2321,7 +2371,7 @@
     "symbol": "REN",
     "name": "Ren",
     "logo": "/networks/ethereum/tokens/REN--0x408e41876cccdc0f92210600ef50372656052a38/logo.svg",
-    "priority": 24,
+    "priority": 25,
     "networks": [
       {
         "network": {
@@ -2399,7 +2449,7 @@
     "symbol": "SHIB",
     "name": "SHIBA INU",
     "logo": "/networks/ethereum/tokens/SHIB--0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/logo.svg",
-    "priority": 25,
+    "priority": 26,
     "networks": [
       {
         "network": {
@@ -2449,7 +2499,7 @@
     "symbol": "SNX",
     "name": "Synthetix",
     "logo": "/networks/ethereum/tokens/SNX--0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/logo.svg",
-    "priority": 26,
+    "priority": 27,
     "networks": [
       {
         "network": {
@@ -2588,7 +2638,7 @@
     "symbol": "SUSHI",
     "name": "SushiSwap",
     "logo": "/networks/ethereum/tokens/SUSHI--0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/logo.svg",
-    "priority": 27,
+    "priority": 28,
     "networks": [
       {
         "network": {
@@ -2720,7 +2770,7 @@
     "symbol": "TEL",
     "name": "Telcoin",
     "logo": "/networks/ethereum/tokens/TEL--0x467bccd9d29f223bce8043b84e8c8b282827790f/logo.svg",
-    "priority": 28,
+    "priority": 29,
     "networks": [
       {
         "network": {
@@ -2770,7 +2820,7 @@
     "symbol": "TUSD",
     "name": "TrueUSD",
     "logo": "/networks/ethereum/tokens/TUSD--0x0000000000085d4780b73119b644ae5ecd22b376/logo.svg",
-    "priority": 29,
+    "priority": 30,
     "networks": [
       {
         "network": {
@@ -2906,7 +2956,7 @@
     "symbol": "UNI",
     "name": "Uniswap",
     "logo": "/networks/ethereum/tokens/UNI--0x1f9840a85d5af5bf1d1762f925bdaddc4201f984/logo.svg",
-    "priority": 30,
+    "priority": 31,
     "networks": [
       {
         "network": {
@@ -3048,7 +3098,7 @@
     "symbol": "USDC",
     "name": "USD Coin",
     "logo": "/networks/ethereum/tokens/USDC--0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/logo.svg",
-    "priority": 31,
+    "priority": 32,
     "networks": [
       {
         "network": {
@@ -3235,7 +3285,7 @@
     "symbol": "USDT",
     "name": "Tether",
     "logo": "/networks/ethereum/tokens/USDT--0xdac17f958d2ee523a2206206994597c13d831ec7/logo.svg",
-    "priority": 32,
+    "priority": 33,
     "networks": [
       {
         "network": {
@@ -3436,7 +3486,7 @@
     "symbol": "UST",
     "name": "TerraUSD",
     "logo": "/networks/ethereum/tokens/QNT--0x4a220e6096b25eadb88358cb44068a3248254675/logo.svg",
-    "priority": 33,
+    "priority": 34,
     "networks": [
       {
         "network": {
@@ -3519,7 +3569,7 @@
     "symbol": "YFI",
     "name": "yearn.finance",
     "logo": "/networks/ethereum/tokens/YFI--0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e/logo.svg",
-    "priority": 34,
+    "priority": 35,
     "networks": [
       {
         "network": {
@@ -3695,7 +3745,7 @@
     "symbol": "ZRX",
     "name": "0x",
     "logo": "/networks/ethereum/tokens/ZRX--0xe41d2489571d322189246dafa5ebde1f4699f498//logo.svg",
-    "priority": 35,
+    "priority": 36,
     "networks": [
       {
         "network": {
@@ -3799,7 +3849,7 @@
     "symbol": "ATOM",
     "name": "Cosmos",
     "logo": "/networks/binance-smart-chain/tokens/ATOM--0x0eb3a705fc54725037cc9e008bdede697f62f335/logo.svg",
-    "priority": 36,
+    "priority": 37,
     "networks": [
       {
         "network": {
@@ -3853,7 +3903,7 @@
     "symbol": "BNB",
     "name": "Binance Coin",
     "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg",
-    "priority": 37,
+    "priority": 38,
     "networks": [
       {
         "network": {
@@ -3916,7 +3966,7 @@
     "symbol": "FIL",
     "name": "Filecoin",
     "logo": "/networks/binance-smart-chain/tokens/FIL--0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153/logo.svg",
-    "priority": 38,
+    "priority": 39,
     "networks": [
       {
         "network": {
@@ -4007,7 +4057,7 @@
     "symbol": "XTZ",
     "name": "Tezos",
     "logo": "/networks/binance-smart-chain/tokens/XTZ--0x16939ef78684453bfdfb47825f8a5f714f12623a/logo.svg",
-    "priority": 39,
+    "priority": 40,
     "networks": [
       {
         "network": {
@@ -4061,7 +4111,7 @@
     "symbol": "ZEC",
     "name": "Zcash",
     "logo": "/networks/binance-smart-chain/tokens/ZEC--0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/logo.svg",
-    "priority": 40,
+    "priority": 41,
     "networks": [
       {
         "network": {
@@ -4143,7 +4193,7 @@
     "symbol": "MATIC",
     "name": "Polygon",
     "logo": "/networks/polygon/coins/MATIC/logo.svg",
-    "priority": 41,
+    "priority": 42,
     "networks": [
       {
         "network": {
@@ -4241,7 +4291,7 @@
     "symbol": "HNS",
     "name": "Handshake",
     "logo": "/networks/handshake/coins/HNS/logo.png",
-    "priority": 42,
+    "priority": 43,
     "networks": [
       {
         "network": {
@@ -4267,7 +4317,7 @@
     "symbol": "DOT",
     "name": "Polkadot",
     "logo": "/networks/polkadot/coins/DOT/logo.svg",
-    "priority": 43,
+    "priority": 44,
     "networks": [
       {
         "network": {
@@ -4316,7 +4366,7 @@
     "symbol": "KSM",
     "name": "Kusama",
     "logo": "/networks/kusama/coins/KSM/logo.svg",
-    "priority": 44,
+    "priority": 45,
     "networks": [
       {
         "network": {
@@ -4342,7 +4392,7 @@
     "symbol": "SOL",
     "name": "Solana",
     "logo": "/networks/solana/coins/SOL/logo.svg",
-    "priority": 45,
+    "priority": 46,
     "networks": [
       {
         "network": {
@@ -4391,7 +4441,7 @@
     "symbol": "AVAX",
     "name": "Avalanche",
     "logo": "/networks/avalanche-c/coins/AVAX/logo.svg",
-    "priority": 46,
+    "priority": 47,
     "networks": [
       {
         "network": {
@@ -4495,7 +4545,7 @@
     "symbol": "LTC",
     "name": "Litecoin",
     "logo": "/networks/litecoin/coins/LTC/logo.svg",
-    "priority": 47,
+    "priority": 48,
     "networks": [
       {
         "network": {
@@ -4544,7 +4594,7 @@
     "symbol": "DOGE",
     "name": "Dogecoin",
     "logo": "/networks/dogecoin/coins/DOGE/logo.svg",
-    "priority": 48,
+    "priority": 49,
     "networks": [
       {
         "network": {
@@ -4653,7 +4703,7 @@
     "symbol": "ADA",
     "name": "Cardano",
     "logo": "/networks/cardano/coins/ADA/logo.svg",
-    "priority": 49,
+    "priority": 50,
     "networks": [
       {
         "network": {
@@ -4702,7 +4752,7 @@
     "symbol": "XLM",
     "name": "Stellar Lumen",
     "logo": "/networks/stellar/coins/XLM/logo.svg",
-    "priority": 50,
+    "priority": 51,
     "networks": [
       {
         "network": {
@@ -4728,7 +4778,7 @@
     "symbol": "VET",
     "name": "VeChain",
     "logo": "/networks/vechain/coins/VET/logo.svg",
-    "priority": 51,
+    "priority": 52,
     "networks": [
       {
         "network": {
@@ -4754,7 +4804,7 @@
     "symbol": "XMR",
     "name": "Monero",
     "logo": "/networks/monero/coins/XMR/logo.svg",
-    "priority": 52,
+    "priority": 53,
     "networks": [
       {
         "network": {
@@ -4840,7 +4890,7 @@
     "symbol": "BSV",
     "name": "Bitcoin SV",
     "logo": "/networks/bitcoin-sv/coins/BSV/logo.svg",
-    "priority": 53,
+    "priority": 54,
     "networks": [
       {
         "network": {
@@ -4866,7 +4916,7 @@
     "symbol": "TRX",
     "name": "Tron",
     "logo": "/networks/tron/coins/TRX/logo.svg",
-    "priority": 54,
+    "priority": 55,
     "networks": [
       {
         "network": {
@@ -4915,7 +4965,7 @@
     "symbol": "STAKE",
     "name": "xDai",
     "logo": "/networks/xdai/coins/xDAI/logo.svg",
-    "priority": 55,
+    "priority": 56,
     "networks": [
       {
         "network": {
@@ -4978,7 +5028,7 @@
     "symbol": "VTHO",
     "name": "VeThor",
     "logo": "/networks/vechain/tokens/VTHO--0x0000000000000000000000000000456e65726779/logo.svg",
-    "priority": 56,
+    "priority": 57,
     "networks": [
       {
         "network": {
@@ -5007,7 +5057,7 @@
     "symbol": "xDAI",
     "name": "xDai",
     "logo": "/networks/xdai/coins/xDAI/logo.svg",
-    "priority": 56,
+    "priority": 57,
     "networks": [
       {
         "network": {
@@ -5033,7 +5083,7 @@
     "symbol": "0XBTC",
     "name": "0xBitcoin",
     "logo": "/networks/ethereum/tokens/0XBTC--0xb6ed7644c69416d67b522e20bc294a9a9b405b31/logo.png",
-    "priority": 58,
+    "priority": 59,
     "networks": [
       {
         "network": {
@@ -5062,7 +5112,7 @@
     "symbol": "10SET",
     "name": "10SetToken",
     "logo": "/networks/ethereum/tokens/10SET--0x7ff4169a6b5122b664c51c95727d87750ec07c84/logo.png",
-    "priority": 59,
+    "priority": 60,
     "networks": [
       {
         "network": {
@@ -5091,7 +5141,7 @@
     "symbol": "1337",
     "name": "1337",
     "logo": "/networks/ethereum/tokens/1337--0x35872fea6a4843facbcdbce99e3b69596a3680b8/logo.png",
-    "priority": 60,
+    "priority": 61,
     "networks": [
       {
         "network": {
@@ -5120,7 +5170,7 @@
     "symbol": "1INCH",
     "name": "OneInch Token",
     "logo": "/networks/ethereum/tokens/1INCH--0x111111111117dc0aa78b770fa6a738034120c302/logo.png",
-    "priority": 61,
+    "priority": 62,
     "networks": [
       {
         "network": {
@@ -5149,7 +5199,7 @@
     "symbol": "1MT",
     "name": "1Million Token",
     "logo": "/networks/ethereum/tokens/1MT--0xf0bc1ae4ef7ffb126a8347d06ac6f8add770e1ce/logo.png",
-    "priority": 62,
+    "priority": 63,
     "networks": [
       {
         "network": {
@@ -5178,7 +5228,7 @@
     "symbol": "1UP",
     "name": "Uptrennd",
     "logo": "/networks/ethereum/tokens/1UP--0x07597255910a51509ca469568b048f2597e72504/logo.png",
-    "priority": 63,
+    "priority": 64,
     "networks": [
       {
         "network": {
@@ -5207,7 +5257,7 @@
     "symbol": "1WO",
     "name": "1World",
     "logo": "/networks/ethereum/tokens/1WO--0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23/logo.png",
-    "priority": 64,
+    "priority": 65,
     "networks": [
       {
         "network": {
@@ -5236,7 +5286,7 @@
     "symbol": "2BASED",
     "name": "2Based Finance",
     "logo": "/networks/ethereum/tokens/2BASED--0x168e39f96a653ce0a456560687241b0b2936e5ff/logo.png",
-    "priority": 65,
+    "priority": 66,
     "networks": [
       {
         "network": {
@@ -5265,7 +5315,7 @@
     "symbol": "2GT",
     "name": "2GT_token",
     "logo": "/networks/ethereum/tokens/2GT--0xc96c1609a1a45ccc667b2b7fa6508e29617f7b69/logo.png",
-    "priority": 66,
+    "priority": 67,
     "networks": [
       {
         "network": {
@@ -5294,7 +5344,7 @@
     "symbol": "2KEY",
     "name": "2key.network",
     "logo": "/networks/ethereum/tokens/2KEY--0xe48972fcd82a274411c01834e2f031d4377fa2c0/logo.png",
-    "priority": 67,
+    "priority": 68,
     "networks": [
       {
         "network": {
@@ -5323,7 +5373,7 @@
     "symbol": "300",
     "name": "Spartan",
     "logo": "/networks/ethereum/tokens/300--0x167e2a574669b0eeb552aaf3da47c728cb348a41/logo.png",
-    "priority": 68,
+    "priority": 69,
     "networks": [
       {
         "network": {
@@ -5352,7 +5402,7 @@
     "symbol": "3CS",
     "name": "CryptoCricketClub",
     "logo": "/networks/ethereum/tokens/3CS--0x4f56221252d117f35e2f6ab937a3f77cad38934d/logo.png",
-    "priority": 69,
+    "priority": 70,
     "networks": [
       {
         "network": {
@@ -5381,7 +5431,7 @@
     "symbol": "3PoolCurve",
     "name": "3CRV",
     "logo": "",
-    "priority": 70,
+    "priority": 71,
     "networks": [
       {
         "network": {
@@ -5410,7 +5460,7 @@
     "symbol": "3XT",
     "name": "3XT",
     "logo": "/networks/ethereum/tokens/3XT--0x96cf107e446a6e528ffd045f4eb6dff3cdb6a666/logo.png",
-    "priority": 71,
+    "priority": 72,
     "networks": [
       {
         "network": {
@@ -5439,7 +5489,7 @@
     "symbol": "69C",
     "name": "6ix9ine Chain",
     "logo": "/networks/ethereum/tokens/69C--0x02fdd6866333d8cd8b1ca022d382080698060bc2/logo.png",
-    "priority": 72,
+    "priority": 73,
     "networks": [
       {
         "network": {
@@ -5468,7 +5518,7 @@
     "symbol": "7ADD",
     "name": "Holdtowin",
     "logo": "/networks/ethereum/tokens/7ADD--0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92/logo.png",
-    "priority": 73,
+    "priority": 74,
     "networks": [
       {
         "network": {
@@ -5497,7 +5547,7 @@
     "symbol": "808TA",
     "name": "808TA Token",
     "logo": "/networks/ethereum/tokens/808TA--0x5b535edfa75d7cb706044da0171204e1c48d00e8/logo.png",
-    "priority": 74,
+    "priority": 75,
     "networks": [
       {
         "network": {
@@ -5526,7 +5576,7 @@
     "symbol": "8PAY",
     "name": "8PAYNetwork",
     "logo": "/networks/ethereum/tokens/8PAY--0xfeea0bdd3d07eb6fe305938878c0cadbfa169042/logo.png",
-    "priority": 75,
+    "priority": 76,
     "networks": [
       {
         "network": {
@@ -5555,7 +5605,7 @@
     "symbol": "A",
     "name": "Alpha Token",
     "logo": "/networks/ethereum/tokens/A--0xffc63b9146967a1ba33066fb057ee3722221acf0/logo.png",
-    "priority": 76,
+    "priority": 77,
     "networks": [
       {
         "network": {
@@ -5584,7 +5634,7 @@
     "symbol": "A5T",
     "name": "Alpha5",
     "logo": "/networks/ethereum/tokens/A5T--0xe8272210954ea85de6d2ae739806ab593b5d9c51/logo.png",
-    "priority": 77,
+    "priority": 78,
     "networks": [
       {
         "network": {
@@ -5613,7 +5663,7 @@
     "symbol": "AAB",
     "name": "AAX Token",
     "logo": "/networks/ethereum/tokens/AAB--0x686c650dbcfeaa75d09b883621ad810f5952bd5d/logo.png",
-    "priority": 78,
+    "priority": 79,
     "networks": [
       {
         "network": {
@@ -5642,7 +5692,7 @@
     "symbol": "AAC",
     "name": "Acute Angle Cloud",
     "logo": "/networks/ethereum/tokens/AAC--0xe75ad3aab14e4b0df8c5da4286608dabb21bd864/logo.png",
-    "priority": 79,
+    "priority": 80,
     "networks": [
       {
         "network": {
@@ -5671,7 +5721,7 @@
     "symbol": "AAPL",
     "name": " AAPL",
     "logo": "/networks/ethereum/tokens/AAPL--0x41efc0253ee7ea44400abb5f907fdbfdebc82bec/logo.png",
-    "priority": 80,
+    "priority": 81,
     "networks": [
       {
         "network": {
@@ -5700,7 +5750,7 @@
     "symbol": "AAPX",
     "name": "AMPnet",
     "logo": "/networks/ethereum/tokens/AAPX--0xbfd815347d024f449886c171f78fa5b8e6790811/logo.png",
-    "priority": 81,
+    "priority": 82,
     "networks": [
       {
         "network": {
@@ -5729,7 +5779,7 @@
     "symbol": "ABYSS",
     "name": "Abyss",
     "logo": "/networks/ethereum/tokens/ABYSS--0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6/logo.png",
-    "priority": 82,
+    "priority": 83,
     "networks": [
       {
         "network": {
@@ -5758,7 +5808,7 @@
     "symbol": "AC",
     "name": "ACoconut",
     "logo": "/networks/ethereum/tokens/AC--0x9a0aba393aac4dfbff4333b06c407458002c6183/logo.png",
-    "priority": 83,
+    "priority": 84,
     "networks": [
       {
         "network": {
@@ -5787,7 +5837,7 @@
     "symbol": "ACED",
     "name": "Aced",
     "logo": "/networks/ethereum/tokens/ACED--0x885e127aba09bf8fae058a2895c221b37697c9be/logo.png",
-    "priority": 84,
+    "priority": 85,
     "networks": [
       {
         "network": {
@@ -5816,7 +5866,7 @@
     "symbol": "ACPT",
     "name": "Crypto Accept",
     "logo": "/networks/ethereum/tokens/ACPT--0xcad2d4c4469ff09ab24d02a63bcedfcd44be0645/logo.png",
-    "priority": 85,
+    "priority": 86,
     "networks": [
       {
         "network": {
@@ -5845,7 +5895,7 @@
     "symbol": "ACR",
     "name": "Acreage Coin",
     "logo": "/networks/ethereum/tokens/ACR--0x76306f029f8f99effe509534037ba7030999e3cf/logo.png",
-    "priority": 86,
+    "priority": 87,
     "networks": [
       {
         "network": {
@@ -5874,7 +5924,7 @@
     "symbol": "ACXT",
     "name": "AC eXchange Token",
     "logo": "/networks/ethereum/tokens/ACXT--0x7be00ed6796b21656732e8f739fc1b8f1c53da0d/logo.png",
-    "priority": 87,
+    "priority": 88,
     "networks": [
       {
         "network": {
@@ -5903,7 +5953,7 @@
     "symbol": "ADD",
     "name": "Add xyz  NEW ",
     "logo": "/networks/ethereum/tokens/ADD--0x635d081fd8f6670135d8a3640e2cf78220787d56/logo.png",
-    "priority": 88,
+    "priority": 89,
     "networks": [
       {
         "network": {
@@ -5932,7 +5982,7 @@
     "symbol": "ADEL",
     "name": "AkropolisDelphi",
     "logo": "/networks/ethereum/tokens/ADEL--0x94d863173ee77439e4292284ff13fad54b3ba182/logo.png",
-    "priority": 89,
+    "priority": 90,
     "networks": [
       {
         "network": {
@@ -5961,7 +6011,7 @@
     "symbol": "ADX",
     "name": "AdExNetwork",
     "logo": "/networks/ethereum/tokens/ADX--0xade00c28244d5ce17d72e40330b1c318cd12b7c3/logo.png",
-    "priority": 90,
+    "priority": 91,
     "networks": [
       {
         "network": {
@@ -5990,7 +6040,7 @@
     "symbol": "ADXv1",
     "name": "AdExNetworkV1",
     "logo": "/networks/ethereum/tokens/ADXv1--0x4470bb87d77b963a013db939be332f927f2b992e/logo.png",
-    "priority": 91,
+    "priority": 92,
     "networks": [
       {
         "network": {
@@ -6019,7 +6069,7 @@
     "symbol": "AER",
     "name": "Aeryus",
     "logo": "/networks/ethereum/tokens/AER--0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e/logo.png",
-    "priority": 92,
+    "priority": 93,
     "networks": [
       {
         "network": {
@@ -6048,7 +6098,7 @@
     "symbol": "AERGO",
     "name": "Aergo",
     "logo": "/networks/ethereum/tokens/AERGO--0x91af0fbb28aba7e31403cb457106ce79397fd4e6/logo.png",
-    "priority": 93,
+    "priority": 94,
     "networks": [
       {
         "network": {
@@ -6077,7 +6127,7 @@
     "symbol": "AFCASH",
     "name": "AFRICUNIA BANK",
     "logo": "/networks/ethereum/tokens/AFCASH--0xb8a5dba52fe8a0dd737bf15ea5043cea30c7e30b/logo.png",
-    "priority": 94,
+    "priority": 95,
     "networks": [
       {
         "network": {
@@ -6106,7 +6156,7 @@
     "symbol": "AFDLT",
     "name": "AfroDex Labs Token",
     "logo": "/networks/ethereum/tokens/AFDLT--0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50/logo.png",
-    "priority": 95,
+    "priority": 96,
     "networks": [
       {
         "network": {
@@ -6135,7 +6185,7 @@
     "symbol": "AFI",
     "name": "Aries Financial",
     "logo": "/networks/ethereum/tokens/AFI--0x68e8a20128e1902c02f533a02ed0cfd8396e3fbc/logo.png",
-    "priority": 96,
+    "priority": 97,
     "networks": [
       {
         "network": {
@@ -6164,7 +6214,7 @@
     "symbol": "AFROX",
     "name": "AfroDex",
     "logo": "/networks/ethereum/tokens/AFROX--0x08130635368aa28b217a4dfb68e1bf8dc525621c/logo.png",
-    "priority": 97,
+    "priority": 98,
     "networks": [
       {
         "network": {
@@ -6193,7 +6243,7 @@
     "symbol": "AGA",
     "name": "AGAToken",
     "logo": "/networks/ethereum/tokens/AGA--0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20/logo.png",
-    "priority": 98,
+    "priority": 99,
     "networks": [
       {
         "network": {
@@ -6222,7 +6272,7 @@
     "symbol": "AGAR",
     "name": "AGA Rewards",
     "logo": "/networks/ethereum/tokens/AGAr--0xb453f1f2ee776daf2586501361c457db70e1ca0f/logo.png",
-    "priority": 99,
+    "priority": 100,
     "networks": [
       {
         "network": {
@@ -6251,7 +6301,7 @@
     "symbol": "AGI",
     "name": "SingularityNETToken",
     "logo": "/networks/ethereum/tokens/AGI--0x8eb24319393716668d768dcec29356ae9cffe285/logo.png",
-    "priority": 100,
+    "priority": 101,
     "networks": [
       {
         "network": {
@@ -6280,7 +6330,7 @@
     "symbol": "AGIX",
     "name": "SingularityNETToken",
     "logo": "/networks/ethereum/tokens/AGIX--0x5b7533812759b45c2b44c19e320ba2cd2681b542/logo.png",
-    "priority": 101,
+    "priority": 102,
     "networks": [
       {
         "network": {
@@ -6309,7 +6359,7 @@
     "symbol": "AGOV",
     "name": "Answer Governance",
     "logo": "/networks/ethereum/tokens/AGOV--0xc1ad269f10bf36d6972ee30827051b59d0d2456b/logo.png",
-    "priority": 102,
+    "priority": 103,
     "networks": [
       {
         "network": {
@@ -6338,7 +6388,7 @@
     "symbol": "AGRI",
     "name": "AgriChain",
     "logo": "/networks/ethereum/tokens/AGRI--0xa704fce7b309ec09df16e2f5ab8caf6fe8a4baa9/logo.png",
-    "priority": 103,
+    "priority": 104,
     "networks": [
       {
         "network": {
@@ -6367,7 +6417,7 @@
     "symbol": "AGRS",
     "name": "Agoras Token",
     "logo": "/networks/ethereum/tokens/AGRS--0x738865301a9b7dd80dc3666dd48cf034ec42bdda/logo.png",
-    "priority": 104,
+    "priority": 105,
     "networks": [
       {
         "network": {
@@ -6396,7 +6446,7 @@
     "symbol": "AGS",
     "name": "Aegis",
     "logo": "/networks/ethereum/tokens/AGS--0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a/logo.png",
-    "priority": 105,
+    "priority": 106,
     "networks": [
       {
         "network": {
@@ -6425,7 +6475,7 @@
     "symbol": "AGVC",
     "name": "AgaveCoin",
     "logo": "/networks/ethereum/tokens/AGVC--0x8b79656fc38a04044e495e22fad747126ca305c4/logo.png",
-    "priority": 106,
+    "priority": 107,
     "networks": [
       {
         "network": {
@@ -6454,7 +6504,7 @@
     "symbol": "AHF",
     "name": "AmericanHorror Fina",
     "logo": "/networks/ethereum/tokens/AHF--0xd6d3608f2d770d0a8d0da62d7afe21ea1da86d9c/logo.png",
-    "priority": 107,
+    "priority": 108,
     "networks": [
       {
         "network": {
@@ -6483,7 +6533,7 @@
     "symbol": "AID",
     "name": "AidCoin",
     "logo": "/networks/ethereum/tokens/AID--0x37e8789bb9996cac9156cd5f5fd32599e6b91289/logo.png",
-    "priority": 108,
+    "priority": 109,
     "networks": [
       {
         "network": {
@@ -6512,7 +6562,7 @@
     "symbol": "AIDOC",
     "name": "AI Doctor",
     "logo": "/networks/ethereum/tokens/AIDOC--0x584b44853680ee34a0f337b712a8f66d816df151/logo.png",
-    "priority": 109,
+    "priority": 110,
     "networks": [
       {
         "network": {
@@ -6541,7 +6591,7 @@
     "symbol": "AIN",
     "name": "AI Network",
     "logo": "/networks/ethereum/tokens/AIN--0x3a810ff7211b40c4fa76205a14efe161615d0385/logo.png",
-    "priority": 110,
+    "priority": 111,
     "networks": [
       {
         "network": {
@@ -6570,7 +6620,7 @@
     "symbol": "AIOZ",
     "name": "AIOZNetwork",
     "logo": "/networks/ethereum/tokens/AIOZ--0x626e8036deb333b408be468f951bdb42433cbf18/logo.png",
-    "priority": 111,
+    "priority": 112,
     "networks": [
       {
         "network": {
@@ -6599,7 +6649,7 @@
     "symbol": "AIRX",
     "name": "Aircoins",
     "logo": "/networks/ethereum/tokens/AIRX--0x8cb1d155a5a1d5d667611b7710920fd9d1cd727f/logo.png",
-    "priority": 112,
+    "priority": 113,
     "networks": [
       {
         "network": {
@@ -6628,7 +6678,7 @@
     "symbol": "AKITA",
     "name": "AkitaInu",
     "logo": "/networks/ethereum/tokens/AKITA--0x3301ee63fb29f863f2333bd4466acb46cd8323e6/logo.png",
-    "priority": 113,
+    "priority": 114,
     "networks": [
       {
         "network": {
@@ -6657,7 +6707,7 @@
     "symbol": "AKRO",
     "name": "Akropolis",
     "logo": "/networks/ethereum/tokens/AKRO--0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7/logo.png",
-    "priority": 114,
+    "priority": 115,
     "networks": [
       {
         "network": {
@@ -6686,7 +6736,7 @@
     "symbol": "ALBT",
     "name": "AllianceBlockToken",
     "logo": "/networks/ethereum/tokens/ALBT--0x00a8b738e453ffd858a7edf03bccfe20412f0eb0/logo.png",
-    "priority": 115,
+    "priority": 116,
     "networks": [
       {
         "network": {
@@ -6715,7 +6765,7 @@
     "symbol": "ALCH",
     "name": "AlchemyDAO",
     "logo": "/networks/ethereum/tokens/ALCH--0x0000a1c00009a619684135b824ba02f7fbf3a572/logo.png",
-    "priority": 116,
+    "priority": 117,
     "networks": [
       {
         "network": {
@@ -6744,7 +6794,7 @@
     "symbol": "ALCX",
     "name": "Alchemix",
     "logo": "/networks/ethereum/tokens/ALCX--0xdbdb4d16eda451d0503b854cf79d55697f90c8df/logo.png",
-    "priority": 117,
+    "priority": 118,
     "networks": [
       {
         "network": {
@@ -6773,7 +6823,7 @@
     "symbol": "ALD",
     "name": "Aludra Network",
     "logo": "/networks/ethereum/tokens/ALD--0xb339fca531367067e98d7c4f9303ffeadff7b881/logo.png",
-    "priority": 118,
+    "priority": 119,
     "networks": [
       {
         "network": {
@@ -6802,7 +6852,7 @@
     "symbol": "ALEPH",
     "name": "aleph.imv2",
     "logo": "/networks/ethereum/tokens/ALEPH--0x27702a26126e0b3702af63ee09ac4d1a084ef628/logo.png",
-    "priority": 119,
+    "priority": 120,
     "networks": [
       {
         "network": {
@@ -6831,7 +6881,7 @@
     "symbol": "ALEX",
     "name": "Alex",
     "logo": "/networks/ethereum/tokens/ALEX--0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315/logo.png",
-    "priority": 120,
+    "priority": 121,
     "networks": [
       {
         "network": {
@@ -6860,7 +6910,7 @@
     "symbol": "ALG",
     "name": "Algory",
     "logo": "/networks/ethereum/tokens/ALG--0x16b0a1a87ae8af5c792fabc429c4fe248834842b/logo.png",
-    "priority": 121,
+    "priority": 122,
     "networks": [
       {
         "network": {
@@ -6889,7 +6939,7 @@
     "symbol": "ALH",
     "name": "AlloHash",
     "logo": "/networks/ethereum/tokens/ALH--0x4c6719bf85903d18c295da44216f862b01b36f43/logo.png",
-    "priority": 122,
+    "priority": 123,
     "networks": [
       {
         "network": {
@@ -6918,7 +6968,7 @@
     "symbol": "ALICE",
     "name": "My Neigbor Alice",
     "logo": "/networks/ethereum/tokens/ALICE--0xac51066d7bec65dc4589368da368b212745d63e8/logo.png",
-    "priority": 123,
+    "priority": 124,
     "networks": [
       {
         "network": {
@@ -6947,7 +6997,7 @@
     "symbol": "ALIS",
     "name": "ALIS",
     "logo": "/networks/ethereum/tokens/ALIS--0xea610b1153477720748dc13ed378003941d84fab/logo.png",
-    "priority": 124,
+    "priority": 125,
     "networks": [
       {
         "network": {
@@ -6976,7 +7026,7 @@
     "symbol": "ALN",
     "name": "Aluna",
     "logo": "/networks/ethereum/tokens/ALN--0x8185bc4757572da2a610f887561c32298f1a5748/logo.png",
-    "priority": 125,
+    "priority": 126,
     "networks": [
       {
         "network": {
@@ -7005,7 +7055,7 @@
     "symbol": "ALOHA",
     "name": "Aloha",
     "logo": "/networks/ethereum/tokens/ALOHA--0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe/logo.png",
-    "priority": 126,
+    "priority": 127,
     "networks": [
       {
         "network": {
@@ -7034,7 +7084,7 @@
     "symbol": "ALPA",
     "name": "AlpaToken",
     "logo": "/networks/ethereum/tokens/ALPA--0x7ca4408137eb639570f8e647d9bd7b7e8717514a/logo.png",
-    "priority": 127,
+    "priority": 128,
     "networks": [
       {
         "network": {
@@ -7063,7 +7113,7 @@
     "symbol": "ALPHA",
     "name": "AlphaToken",
     "logo": "/networks/ethereum/tokens/ALPHA--0xa1faa113cbe53436df28ff0aee54275c13b40975/logo.png",
-    "priority": 128,
+    "priority": 129,
     "networks": [
       {
         "network": {
@@ -7092,7 +7142,7 @@
     "symbol": "AMB",
     "name": "Ambrosus",
     "logo": "/networks/ethereum/tokens/AMB--0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce/logo.png",
-    "priority": 129,
+    "priority": 130,
     "networks": [
       {
         "network": {
@@ -7121,7 +7171,7 @@
     "symbol": "AMLT",
     "name": "AMLT",
     "logo": "/networks/ethereum/tokens/AMLT--0xca0e7269600d353f70b14ad118a49575455c0f2f/logo.png",
-    "priority": 130,
+    "priority": 131,
     "networks": [
       {
         "network": {
@@ -7150,7 +7200,7 @@
     "symbol": "AMN",
     "name": "Amon",
     "logo": "/networks/ethereum/tokens/AMN--0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c/logo.png",
-    "priority": 131,
+    "priority": 132,
     "networks": [
       {
         "network": {
@@ -7179,7 +7229,7 @@
     "symbol": "AMP",
     "name": "Amp",
     "logo": "/networks/ethereum/tokens/AMP--0xff20817765cb7f73d4bde2e66e067e58d11095c2/logo.svg",
-    "priority": 132,
+    "priority": 133,
     "networks": [
       {
         "network": {
@@ -7208,7 +7258,7 @@
     "symbol": "AMPL",
     "name": "Ampleforth",
     "logo": "/networks/ethereum/tokens/AMPL--0xd46ba6d942050d489dbd938a2c909a5d5039a161/logo.png",
-    "priority": 133,
+    "priority": 134,
     "networks": [
       {
         "network": {
@@ -7237,7 +7287,7 @@
     "symbol": "AMR",
     "name": "Ammbr",
     "logo": "/networks/ethereum/tokens/AMR--0xd3fb5cabd07c85395667f83d20b080642bde66c7/logo.png",
-    "priority": 134,
+    "priority": 135,
     "networks": [
       {
         "network": {
@@ -7266,7 +7316,7 @@
     "symbol": "ANC",
     "name": "Aragon China",
     "logo": "/networks/ethereum/tokens/ANC--0xbbe319b73744db9d54f5d29df7d8256b7e43995c/logo.png",
-    "priority": 135,
+    "priority": 136,
     "networks": [
       {
         "network": {
@@ -7295,7 +7345,7 @@
     "symbol": "ANJ",
     "name": "AragonNetworkJuror",
     "logo": "/networks/ethereum/tokens/ANJ--0xcd62b1c403fa761baadfc74c525ce2b51780b184/logo.png",
-    "priority": 136,
+    "priority": 137,
     "networks": [
       {
         "network": {
@@ -7324,7 +7374,7 @@
     "symbol": "ANK",
     "name": "Apple Network",
     "logo": "/networks/ethereum/tokens/ANK--0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5/logo.png",
-    "priority": 137,
+    "priority": 138,
     "networks": [
       {
         "network": {
@@ -7340,35 +7390,6 @@
             "decimals": 18,
             "chainId": 1,
             "logo": "/networks/ethereum/tokens/ANK--0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5/logo.png",
-            "tags": [
-              "erc20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "ANKR",
-    "name": "AnkrNetwork",
-    "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.png",
-    "priority": 138,
-    "networks": [
-      {
-        "network": {
-          "name": "Ethereum",
-          "slug": "ethereum",
-          "logo": "/networks/ethereum/coins/ETH/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AnkrNetwork",
-            "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
-            "symbol": "ANKR",
-            "decimals": 18,
-            "chainId": 1,
-            "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.png",
             "tags": [
               "erc20"
             ],

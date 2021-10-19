@@ -899,35 +899,6 @@
     ]
   },
   {
-    "symbol": "ANKR",
-    "name": "Ankr",
-    "logo": "/networks/binance-smart-chain/tokens/ANKR--0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Ankr",
-            "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
-            "symbol": "ANKR",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/ANKR--0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "ANY",
     "name": "Anyswap",
     "logo": "/networks/binance-smart-chain/tokens/ANY--0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa/logo.png",
@@ -8458,35 +8429,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/AMP--0x74a13926df3e38a7bb7d12f566694f2e66ba145e/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "ANKR",
-    "name": "Ankr Network",
-    "logo": "/networks/avalanche-c/tokens/ANKR--0xd09af6a3c12ec24ced114a0829f5bf73d40dc5a8/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Ankr Network",
-            "address": "0xd09af6a3c12ec24ced114a0829f5bf73d40dc5a8",
-            "symbol": "ANKR",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ANKR--0xd09af6a3c12ec24ced114a0829f5bf73d40dc5a8/logo.png",
             "tags": [
               "erc20avax"
             ],

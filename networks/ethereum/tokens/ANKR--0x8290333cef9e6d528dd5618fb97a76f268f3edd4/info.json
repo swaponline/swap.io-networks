@@ -1,10 +1,10 @@
 {
-  "name": "AnkrNetwork",
+  "name": "Ankr Network",
   "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
   "symbol": "ANKR",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.png",
+  "logo": "/networks/ethereum/tokens/ANKR--0x8290333cef9e6d528dd5618fb97a76f268f3edd4/logo.svg",
   "tags": [
     "erc20"
   ]
