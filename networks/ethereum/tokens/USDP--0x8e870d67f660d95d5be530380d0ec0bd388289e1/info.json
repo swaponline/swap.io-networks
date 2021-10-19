@@ -1,0 +1,13 @@
+{
+  "name": "Pax Dollar",
+  "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+  "symbol": "USDP",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/USDP--0x8e870d67f660d95d5be530380d0ec0bd388289e1/logo.svg",
+  "tags": [
+    "erc20",
+    "stablecoin",
+    "usd"
+  ]
+}

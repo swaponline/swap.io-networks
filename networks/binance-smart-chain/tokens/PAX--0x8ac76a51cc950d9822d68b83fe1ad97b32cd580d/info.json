@@ -1,0 +1,15 @@
+{
+  "name": "Binance-Peg Paxos Standard",
+  "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "symbol": "PAX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PAX--0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d/logo.svg",
+  "tags": [
+    "bep20",
+    "stablecoin",
+    "usd",
+    "wrapped",
+    "pax-dollar"
+  ]
+}
