@@ -1,0 +1,13 @@
+{
+  "name": "0x Protocol Token from Ethereum",
+  "address": "0x226bcf0e417428a25012d0fa2183d37f92bcedf6",
+  "symbol": "ZRX",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/ZRX--0x226bcf0e417428a25012d0fa2183d37f92bcedf6/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "0x"
+  ]
+}

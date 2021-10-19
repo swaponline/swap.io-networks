@@ -4,8 +4,10 @@
   "symbol": "aZRX",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/aZRX--0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e/logo.png",
+  "logo": "/networks/ethereum/tokens/aZRX--0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "wrapped",
+    "0x"
   ]
 }

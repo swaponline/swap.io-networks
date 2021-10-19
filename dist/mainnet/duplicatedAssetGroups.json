@@ -13543,35 +13543,6 @@
     ]
   },
   {
-    "symbol": "PAX",
-    "name": "Paxos Standard",
-    "logo": "/networks/avalanche-c/tokens/PAX--0x403985fd6628e44b6fca9876575b9503cb80a47a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Paxos Standard",
-            "address": "0x403985fd6628e44b6fca9876575b9503cb80a47a",
-            "symbol": "PAX",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/PAX--0x403985fd6628e44b6fca9876575b9503cb80a47a/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "PAXG",
     "name": "Paxos Gold",
     "logo": "/networks/avalanche-c/tokens/PAXG--0x1687b16087b576e403c8d6926fbc0798e48fd0de/logo.png",
@@ -17651,64 +17622,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/ZKS--0x40871a08cd7b9751639a0831e5a83808f4c7eba9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "ZRX",
-    "name": "0x",
-    "logo": "/networks/avalanche-c/tokens/ZRX--0x596fa47043f99a4e0f122243b841e55375cde0d2/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "0x",
-            "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
-            "symbol": "ZRX",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ZRX--0x596fa47043f99a4e0f122243b841e55375cde0d2/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "ZRX",
-    "name": "0x Protocol Token",
-    "logo": "/networks/avalanche-c/tokens/ZRX--0xc8e94215b75f5b9c3b5fb041ec3a97b7d17a37ff/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "0x Protocol Token",
-            "address": "0xc8e94215b75f5b9c3b5fb041ec3a97b7d17a37ff",
-            "symbol": "ZRX",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ZRX--0xc8e94215b75f5b9c3b5fb041ec3a97b7d17a37ff/logo.png",
             "tags": [
               "erc20avax"
             ],
