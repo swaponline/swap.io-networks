@@ -1,0 +1,13 @@
+{
+  "name": "1INCH Token from Ethereum",
+  "address": "0x7f7440c5098462f833e123b44b8a03e1d9785bab",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/1INCH--0x7f7440c5098462f833e123b44b8a03e1d9785bab/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "1inch"
+  ]
+}

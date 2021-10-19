@@ -1,11 +1,13 @@
 {
-  "name": "1inch",
+  "name": "1INCH Token",
   "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
   "symbol": "1INCH",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/1INCH--0xd501281565bf7789224523144fe5d98e8b28f267/logo.png",
+  "logo": "/networks/avalanche-c/tokens/1INCH--0xd501281565bf7789224523144fe5d98e8b28f267/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "1inch"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "symbol": "IOTX",
+  "name": "IoTeX",
+  "logo": "/networks/ethereum/tokens/IOTX--0x6fb3e0a217407efff7ca062d46c26e5d60a14d69/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/IOTX--0x6fb3e0a217407efff7ca062d46c26e5d60a14d69/info.json",
+    "/networks/binance-smart-chain/tokens/IOTX--0x9678e42cebeb63f23197d726b29b1cb20d0064e5/info.json"
+  ]
+}

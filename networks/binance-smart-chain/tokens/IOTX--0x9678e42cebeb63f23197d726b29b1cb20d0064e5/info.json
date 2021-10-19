@@ -1,11 +1,13 @@
 {
-  "name": "IoTeX",
+  "name": "Binance-Peg IoTeX Network",
   "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
   "symbol": "IOTX",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/IOTX--0x9678e42cebeb63f23197d726b29b1cb20d0064e5/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/IOTX--0x9678e42cebeb63f23197d726b29b1cb20d0064e5/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "iotex"
   ]
 }
