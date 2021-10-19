@@ -8729,35 +8729,6 @@
     ]
   },
   {
-    "symbol": "AUDIO",
-    "name": "Audius",
-    "logo": "/networks/avalanche-c/tokens/AUDIO--0x8e32f45c87b39f15529787a77cfa7ba48cfac7f0/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Audius",
-            "address": "0x8e32f45c87b39f15529787a77cfa7ba48cfac7f0",
-            "symbol": "AUDIO",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/AUDIO--0x8e32f45c87b39f15529787a77cfa7ba48cfac7f0/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "AURORA",
     "name": "Arctic Finance",
     "logo": "/networks/avalanche-c/tokens/AURORA--0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8/logo.PNG",
