@@ -16327,64 +16327,6 @@
     ]
   },
   {
-    "symbol": "UMA",
-    "name": "UMA",
-    "logo": "/networks/avalanche-c/tokens/UMA--0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "UMA",
-            "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
-            "symbol": "UMA",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/UMA--0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "UMA",
-    "name": "UMA Voting Token v1",
-    "logo": "/networks/avalanche-c/tokens/UMA--0xc84d7bff2555955b44bdf6a307180810412d751b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "UMA Voting Token v1",
-            "address": "0xc84d7bff2555955b44bdf6a307180810412d751b",
-            "symbol": "UMA",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/UMA--0xc84d7bff2555955b44bdf6a307180810412d751b/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "UNC",
     "name": "UniCrypt",
     "logo": "/networks/avalanche-c/tokens/UNC--0xd084b89b8f04f3e2360ebd600360c358aa122bfb/logo.png",

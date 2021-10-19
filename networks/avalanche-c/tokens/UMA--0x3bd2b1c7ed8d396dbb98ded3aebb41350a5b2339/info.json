@@ -1,11 +1,13 @@
 {
-  "name": "UMA",
+  "name": "UMA Voting Token v1",
   "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
   "symbol": "UMA",
   "decimals": 18,
   "chainId": 43114,
-  "logo": "/networks/avalanche-c/tokens/UMA--0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.png",
+  "logo": "/networks/avalanche-c/tokens/UMA--0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339/logo.svg",
   "tags": [
-    "erc20avax"
+    "erc20avax",
+    "wrapped",
+    "uma"
   ]
 }
