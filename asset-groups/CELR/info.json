@@ -1,0 +1,9 @@
+{
+  "symbol": "CELR",
+  "name": "Celer Network",
+  "logo": "/networks/ethereum/tokens/CELR--0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/CELR--0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/info.json",
+    "/networks/binance-smart-chain/tokens/CELR--0x1f9f6a696c6fd109cd3956f45dc709d2b3902163/info.json"
+  ]
+}

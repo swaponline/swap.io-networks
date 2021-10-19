@@ -4,7 +4,7 @@
   "symbol": "CELR",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/CELR--0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/logo.png",
+  "logo": "/networks/ethereum/tokens/CELR--0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/logo.svg",
   "tags": [
     "erc20"
   ]
