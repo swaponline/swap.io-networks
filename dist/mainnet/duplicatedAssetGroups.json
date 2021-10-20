@@ -5365,35 +5365,6 @@
     ]
   },
   {
-    "symbol": "GNO",
-    "name": "Gnosis Token",
-    "logo": "/networks/polygon/tokens/GNO--0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Gnosis Token",
-            "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
-            "symbol": "GNO",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/GNO--0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "GTON",
     "name": "Graviton",
     "logo": "/networks/polygon/tokens/GTON--0xf480f38c366daac4305dc484b2ad7a496ff00cea/logo.png",
@@ -10498,35 +10469,6 @@
     ]
   },
   {
-    "symbol": "FET",
-    "name": "Fetch",
-    "logo": "/networks/avalanche-c/tokens/FET--0x23d7e6af758883f4976617dab2641af94ff7ca1f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Fetch",
-            "address": "0x23d7e6af758883f4976617dab2641af94ff7ca1f",
-            "symbol": "FET",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/FET--0x23d7e6af758883f4976617dab2641af94ff7ca1f/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "FIN",
     "name": "DeFiner",
     "logo": "/networks/avalanche-c/tokens/FIN--0x7fa965ebd5bbbee983681e571091a31dddb2e510/logo.png",
@@ -11039,35 +10981,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/GHOST--0x4f229ff652d4db584bf4b3512ae430edecb85971/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "GNO",
-    "name": "Gnosis Token",
-    "logo": "/networks/avalanche-c/tokens/GNO--0xbaa66822055ad37ec05638ec5aafdc6ef0e96445/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Gnosis Token",
-            "address": "0xbaa66822055ad37ec05638ec5aafdc6ef0e96445",
-            "symbol": "GNO",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/GNO--0xbaa66822055ad37ec05638ec5aafdc6ef0e96445/logo.png",
             "tags": [
               "erc20avax"
             ],
