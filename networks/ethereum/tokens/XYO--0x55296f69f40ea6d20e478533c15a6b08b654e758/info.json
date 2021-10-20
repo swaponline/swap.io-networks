@@ -1,10 +1,10 @@
 {
-  "name": "XYOracle",
+  "name": "XY Oracle",
   "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
   "symbol": "XYO",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/XYO--0x55296f69f40ea6d20e478533c15a6b08b654e758/logo.png",
+  "logo": "/networks/ethereum/tokens/XYO--0x55296f69f40ea6d20e478533c15a6b08b654e758/logo.svg",
   "tags": [
     "erc20"
   ]

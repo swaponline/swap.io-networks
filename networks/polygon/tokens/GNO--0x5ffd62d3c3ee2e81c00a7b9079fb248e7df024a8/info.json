@@ -4,7 +4,7 @@
   "symbol": "GNO",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/GNO--0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8/logo.png",
+  "logo": "/networks/polygon/tokens/GNO--0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8/logo.svg",
   "tags": [
     "erc20matic"
   ]

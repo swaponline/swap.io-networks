@@ -1,0 +1,11 @@
+{
+  "name": "Voyager",
+  "address": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
+  "symbol": "VGX",
+  "decimals": 8,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VGX--0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d/logo.svg",
+  "tags": [
+    "erc20"
+  ]
+}

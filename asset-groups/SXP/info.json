@@ -1,0 +1,9 @@
+{
+  "symbol": "SXP",
+  "name": "Swipe",
+  "logo": "/networks/ethereum/tokens/SXP--0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/SXP--0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/info.json",
+    "/networks/binance-smart-chain/tokens/SXP--0x47bead2563dcbf3bf2c9407fea4dc236faba485a/info.json"
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "name": "GolemNetworkToken",
+  "name": "Golem Network Token",
   "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
   "symbol": "GLM",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/GLM--0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429/logo.png",
+  "logo": "/networks/ethereum/tokens/GLM--0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429/logo.svg",
   "tags": [
     "erc20"
   ]

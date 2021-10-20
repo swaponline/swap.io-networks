@@ -1,0 +1,9 @@
+{
+  "symbol": "INJ",
+  "name": "Injective Protocol",
+  "logo": "/networks/ethereum/tokens/INJ--0xe28b3b32b6c345a34ff64674606124dd5aceca30/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/INJ--0xe28b3b32b6c345a34ff64674606124dd5aceca30/info.json",
+    "/networks/binance-smart-chain/tokens/INJ--0xa2b726b1145a4773f68593cf171187d8ebe4d495/info.json"
+  ]
+}

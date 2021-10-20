@@ -1,10 +1,10 @@
 {
-  "name": "f x  Coin",
+  "name": "Function X",
   "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
   "symbol": "FX",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/FX--0x8c15ef5b4b21951d50e53e4fbda8298ffad25057/logo.png",
+  "logo": "/networks/ethereum/tokens/FX--0x8c15ef5b4b21951d50e53e4fbda8298ffad25057/logo.svg",
   "tags": [
     "erc20"
   ]

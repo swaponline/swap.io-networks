@@ -1,10 +1,10 @@
 {
-  "name": "Reef",
+  "name": "Reef.finance",
   "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
   "symbol": "REEF",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/REEF--0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/REEF--0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e/logo.svg",
   "tags": [
     "bep20"
   ]
