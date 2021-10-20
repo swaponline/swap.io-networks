@@ -1,0 +1,9 @@
+{
+  "symbol": "VGX",
+  "name": "Voyager Token",
+  "logo": "/networks/ethereum/tokens/VGX--0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/VGX--0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d/info.json",
+    "/networks/ethereum/tokens/VGX--0x5af2be193a6abca9c8817001f45744777db30756/info.json"
+  ]
+}
