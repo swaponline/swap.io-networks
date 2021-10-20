@@ -1,0 +1,13 @@
+{
+  "name": "Neutrino USD",
+  "address": "0x03ab98f5dc94996f8c33e15cd4468794d12d41f9",
+  "symbol": "USDN",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/USDN--0x03ab98f5dc94996f8c33e15cd4468794d12d41f9/logo.svg",
+  "tags": [
+    "bep20",
+    "stablecoin",
+    "usd"
+  ]
+}

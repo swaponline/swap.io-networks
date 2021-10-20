@@ -12006,35 +12006,6 @@
     ]
   },
   {
-    "symbol": "LRC",
-    "name": "LoopringCoin V2",
-    "logo": "/networks/avalanche-c/tokens/LRC--0x628a9639cc78f46604a625452c0242c7b487ba3c/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "LoopringCoin V2",
-            "address": "0x628a9639cc78f46604a625452c0242c7b487ba3c",
-            "symbol": "LRC",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/LRC--0x628a9639cc78f46604a625452c0242c7b487ba3c/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "LST",
     "name": "Lendroid Support Token",
     "logo": "/networks/avalanche-c/tokens/LST--0x4e0226a638adcbb43c99131c743b9aba15ff3040/logo.png",

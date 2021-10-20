@@ -1,0 +1,9 @@
+{
+  "symbol": "USDN",
+  "name": "Neutrino USD",
+  "logo": "/networks/ethereum/tokens/USDN--0x674c6ad92fd080e4004b2312b45f796a192d27a0/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/USDN--0x674c6ad92fd080e4004b2312b45f796a192d27a0/info.json",
+    "/networks/binance-smart-chain/tokens/USDN--0x03ab98f5dc94996f8c33e15cd4468794d12d41f9/info.json"
+  ]
+}

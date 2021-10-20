@@ -4,7 +4,7 @@
   "symbol": "LRC",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/LRC--0xbbbbca6a901c926f240b89eacb641d8aec7aeafd/logo.png",
+  "logo": "/networks/ethereum/tokens/LRC--0xbbbbca6a901c926f240b89eacb641d8aec7aeafd/logo.svg",
   "tags": [
     "erc20"
   ]
