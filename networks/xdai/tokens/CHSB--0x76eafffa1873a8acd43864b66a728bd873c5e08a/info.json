@@ -1,0 +1,11 @@
+{
+  "name": "SwissBorg Token from Ethereum",
+  "address": "0x76eafffa1873a8acd43864b66a728bd873c5e08a",
+  "symbol": "CHSB",
+  "decimals": 8,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/CHSB--0x76eafffa1873a8acd43864b66a728bd873c5e08a/logo.svg",
+  "tags": [
+    "erc20xdai"
+  ]
+}
