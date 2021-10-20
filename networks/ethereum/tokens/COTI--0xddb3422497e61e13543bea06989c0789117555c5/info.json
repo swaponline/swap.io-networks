@@ -1,0 +1,11 @@
+{
+  "name": "COTI Token",
+  "address": "0xddb3422497e61e13543bea06989c0789117555c5",
+  "symbol": "COTI",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/COTI--0xddb3422497e61e13543bea06989c0789117555c5/logo.svg",
+  "tags": [
+    "erc20"
+  ]
+}

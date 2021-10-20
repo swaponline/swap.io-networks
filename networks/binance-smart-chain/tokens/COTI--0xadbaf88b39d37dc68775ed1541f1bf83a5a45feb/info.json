@@ -1,0 +1,13 @@
+{
+  "name": "Binance-Peg COTI Token",
+  "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+  "symbol": "COTI",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/COTI--0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb/logo.svg",
+  "tags": [
+    "bep20",
+    "wrapped",
+    "coti"
+  ]
+}

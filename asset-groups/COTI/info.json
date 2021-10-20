@@ -1,0 +1,9 @@
+{
+  "symbol": "COTI",
+  "name": "COTI",
+  "logo": "/networks/ethereum/tokens/COTI--0xddb3422497e61e13543bea06989c0789117555c5/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/COTI--0xddb3422497e61e13543bea06989c0789117555c5/info.json",
+    "/networks/binance-smart-chain/tokens/COTI--0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb/info.json"
+  ]
+}

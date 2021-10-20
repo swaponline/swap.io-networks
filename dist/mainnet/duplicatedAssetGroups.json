@@ -2697,35 +2697,6 @@
     ]
   },
   {
-    "symbol": "SXP",
-    "name": "Swipe",
-    "logo": "/networks/binance-smart-chain/tokens/SXP--0x47bead2563dcbf3bf2c9407fea4dc236faba485a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Swipe",
-            "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
-            "symbol": "SXP",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/SXP--0x47bead2563dcbf3bf2c9407fea4dc236faba485a/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "TITAN",
     "name": "TitanSwap",
     "logo": "/networks/binance-smart-chain/tokens/TITAN--0xe898edc43920f357a93083f1d4460437de6daec2/logo.png",
@@ -15012,35 +14983,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/SWFL--0x733793e8f93afd40d9322a4fba46de661e4f8b83/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "SXP",
-    "name": "Swipe",
-    "logo": "/networks/avalanche-c/tokens/SXP--0x3afad3eb65deaf28f594958717530bc66d6cdd1c/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Swipe",
-            "address": "0x3afad3eb65deaf28f594958717530bc66d6cdd1c",
-            "symbol": "SXP",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/SXP--0x3afad3eb65deaf28f594958717530bc66d6cdd1c/logo.png",
             "tags": [
               "erc20avax"
             ],
