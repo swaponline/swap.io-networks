@@ -1,10 +1,10 @@
 {
-  "name": "DigitalBits",
+  "name": "digitalbits",
   "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
   "symbol": "XDB",
   "decimals": 7,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/XDB--0xb9eefc4b0d472a44be93970254df4f4016569d27/logo.png",
+  "logo": "/networks/ethereum/tokens/XDB--0xb9eefc4b0d472a44be93970254df4f4016569d27/logo.svg",
   "tags": [
     "erc20"
   ]

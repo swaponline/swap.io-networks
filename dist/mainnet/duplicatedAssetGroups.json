@@ -2610,35 +2610,6 @@
     ]
   },
   {
-    "symbol": "REEF",
-    "name": "Reef",
-    "logo": "/networks/binance-smart-chain/tokens/REEF--0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reef",
-            "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
-            "symbol": "REEF",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/REEF--0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "REVV",
     "name": "REVV",
     "logo": "/networks/binance-smart-chain/tokens/REVV--0x833f307ac507d47309fd8cdd1f835bef8d702a93/logo.png",
@@ -14113,35 +14084,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/RDN--0x4a8918352ccb78cf6bd34bf89d501d5578ee6504/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "REEF",
-    "name": "Reef.finance",
-    "logo": "/networks/avalanche-c/tokens/REEF--0x90557e63339caed393ee15cb6236bb746ded11d3/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reef.finance",
-            "address": "0x90557e63339caed393ee15cb6236bb746ded11d3",
-            "symbol": "REEF",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/REEF--0x90557e63339caed393ee15cb6236bb746ded11d3/logo.png",
             "tags": [
               "erc20avax"
             ],

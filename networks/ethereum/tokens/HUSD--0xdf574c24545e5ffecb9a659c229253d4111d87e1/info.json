@@ -4,8 +4,10 @@
   "symbol": "HUSD",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/HUSD--0xdf574c24545e5ffecb9a659c229253d4111d87e1/logo.png",
+  "logo": "/networks/ethereum/tokens/HUSD--0xdf574c24545e5ffecb9a659c229253d4111d87e1/logo.svg",
   "tags": [
-    "erc20"
+    "erc20",
+    "stablecoin",
+    "usd"
   ]
 }
