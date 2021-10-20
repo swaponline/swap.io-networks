@@ -26659,8 +26659,8 @@
   },
   {
     "symbol": "FX",
-    "name": "f x  Coin",
-    "logo": "/networks/ethereum/tokens/FX--0x8c15ef5b4b21951d50e53e4fbda8298ffad25057/logo.png",
+    "name": "Function X",
+    "logo": "/networks/ethereum/tokens/FX--0x8c15ef5b4b21951d50e53e4fbda8298ffad25057/logo.svg",
     "priority": 794,
     "networks": [
       {
@@ -26671,12 +26671,12 @@
         },
         "assets": [
           {
-            "name": "f x  Coin",
+            "name": "Function X",
             "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
             "symbol": "FX",
             "decimals": 18,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/FX--0x8c15ef5b4b21951d50e53e4fbda8298ffad25057/logo.png",
+            "logo": "/networks/ethereum/tokens/FX--0x8c15ef5b4b21951d50e53e4fbda8298ffad25057/logo.svg",
             "tags": [
               "erc20"
             ],
@@ -35012,7 +35012,7 @@
   {
     "symbol": "LPT",
     "name": "LivepeerToken",
-    "logo": "/networks/ethereum/tokens/LPT--0x58b6a8a3302369daec383334672404ee733ab239/logo.png",
+    "logo": "/networks/ethereum/tokens/LPT--0x58b6a8a3302369daec383334672404ee733ab239/logo.svg",
     "priority": 1082,
     "networks": [
       {
@@ -35028,7 +35028,7 @@
             "symbol": "LPT",
             "decimals": 18,
             "chainId": 1,
-            "logo": "/networks/ethereum/tokens/LPT--0x58b6a8a3302369daec383334672404ee733ab239/logo.png",
+            "logo": "/networks/ethereum/tokens/LPT--0x58b6a8a3302369daec383334672404ee733ab239/logo.svg",
             "tags": [
               "erc20"
             ],
@@ -74777,7 +74777,7 @@
   {
     "symbol": "BTCST",
     "name": "Standard BTC Hashrate Token",
-    "logo": "/networks/binance-smart-chain/tokens/BTCST--0x78650b139471520656b9e7aa7a5e9276814a38e9/logo.png",
+    "logo": "/networks/binance-smart-chain/tokens/BTCST--0x78650b139471520656b9e7aa7a5e9276814a38e9/logo.svg",
     "priority": 2453,
     "networks": [
       {
@@ -74793,7 +74793,7 @@
             "symbol": "BTCST",
             "decimals": 17,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BTCST--0x78650b139471520656b9e7aa7a5e9276814a38e9/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/BTCST--0x78650b139471520656b9e7aa7a5e9276814a38e9/logo.svg",
             "tags": [
               "bep20"
             ],

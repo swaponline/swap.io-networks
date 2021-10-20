@@ -12006,35 +12006,6 @@
     ]
   },
   {
-    "symbol": "LPT",
-    "name": "Livepeer Token",
-    "logo": "/networks/avalanche-c/tokens/LPT--0x2c67ec45b2e7138823dee0576d0d17ac6aa36b74/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Livepeer Token",
-            "address": "0x2c67ec45b2e7138823dee0576d0d17ac6aa36b74",
-            "symbol": "LPT",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/LPT--0x2c67ec45b2e7138823dee0576d0d17ac6aa36b74/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "LRC",
     "name": "LoopringCoin V2",
     "logo": "/networks/avalanche-c/tokens/LRC--0x628a9639cc78f46604a625452c0242c7b487ba3c/logo.png",
