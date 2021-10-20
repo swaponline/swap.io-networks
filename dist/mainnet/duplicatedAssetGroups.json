@@ -812,35 +812,6 @@
     ]
   },
   {
-    "symbol": "ALPHA",
-    "name": "AlphaToken",
-    "logo": "/networks/binance-smart-chain/tokens/ALPHA--0xa1faa113cbe53436df28ff0aee54275c13b40975/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AlphaToken",
-            "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
-            "symbol": "ALPHA",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/ALPHA--0xa1faa113cbe53436df28ff0aee54275c13b40975/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "AMPL",
     "name": "Ampleforth",
     "logo": "/networks/binance-smart-chain/tokens/AMPL--0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f/logo.png",
@@ -1730,35 +1701,6 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/HTB--0x4e840aadd28da189b9906674b4afcb77c128d9ea/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "INJ",
-    "name": "Injective Protocol",
-    "logo": "/networks/binance-smart-chain/tokens/INJ--0xa2b726b1145a4773f68593cf171187d8ebe4d495/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Injective Protocol",
-            "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
-            "symbol": "INJ",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/INJ--0xa2b726b1145a4773f68593cf171187d8ebe4d495/logo.png",
             "tags": [
               "bep20"
             ],
@@ -8091,35 +8033,6 @@
     ]
   },
   {
-    "symbol": "ALPHA",
-    "name": "AlphaToken",
-    "logo": "/networks/avalanche-c/tokens/ALPHA--0x8ea071d1903b27ee57c82710b3a7cf660f285bb8/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AlphaToken",
-            "address": "0x8ea071d1903b27ee57c82710b3a7cf660f285bb8",
-            "symbol": "ALPHA",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ALPHA--0x8ea071d1903b27ee57c82710b3a7cf660f285bb8/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "AMN",
     "name": "Amon",
     "logo": "/networks/avalanche-c/tokens/AMN--0xc95f62a06ba7fb11389474ee1d4aa606a2a0d125/logo.png",
@@ -11339,35 +11252,6 @@
     ]
   },
   {
-    "symbol": "INJ",
-    "name": "Injective Token",
-    "logo": "/networks/avalanche-c/tokens/INJ--0xfe057c0496ef3cca8d85d847da99c9815ba9981f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Injective Token",
-            "address": "0xfe057c0496ef3cca8d85d847da99c9815ba9981f",
-            "symbol": "INJ",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/INJ--0xfe057c0496ef3cca8d85d847da99c9815ba9981f/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "JUL",
     "name": "JUL",
     "logo": "/networks/avalanche-c/tokens/JUL--0xc839e0d590bbb1b64a46a3f6ab6feb596ced7439/logo.png",
@@ -12557,35 +12441,6 @@
     ]
   },
   {
-    "symbol": "NMR",
-    "name": "Numeraire",
-    "logo": "/networks/avalanche-c/tokens/NMR--0x57541c10591df7568bdc9d93f769d44eac1e3c3a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Numeraire",
-            "address": "0x57541c10591df7568bdc9d93f769d44eac1e3c3a",
-            "symbol": "NMR",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/NMR--0x57541c10591df7568bdc9d93f769d44eac1e3c3a/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "NPXS",
     "name": "Pundi X Token",
     "logo": "/networks/avalanche-c/tokens/NPXS--0x07d83b7101c540fcc1720c3d51923f218ae9b6ac/logo.png",
@@ -13543,35 +13398,6 @@
     ]
   },
   {
-    "symbol": "POLY",
-    "name": "Polymath",
-    "logo": "/networks/avalanche-c/tokens/POLY--0x1676c3d77ac75741678d6ca28f288352a57d0973/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Polymath",
-            "address": "0x1676c3d77ac75741678d6ca28f288352a57d0973",
-            "symbol": "POLY",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/POLY--0x1676c3d77ac75741678d6ca28f288352a57d0973/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "POND",
     "name": "Marlin POND",
     "logo": "/networks/avalanche-c/tokens/POND--0xbeea21cc5d10e21df6ab42bd2d5e748e4ef59293/logo.png",
@@ -14345,35 +14171,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/RPL--0x5cdad843078930c8feb1d50be474accf11b7ada1/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "RSR",
-    "name": "Reserve Rights",
-    "logo": "/networks/avalanche-c/tokens/RSR--0x91c20a30eba9795bbded46df9ad5b215dfa04fcd/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reserve Rights",
-            "address": "0x91c20a30eba9795bbded46df9ad5b215dfa04fcd",
-            "symbol": "RSR",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/RSR--0x91c20a30eba9795bbded46df9ad5b215dfa04fcd/logo.png",
             "tags": [
               "erc20avax"
             ],

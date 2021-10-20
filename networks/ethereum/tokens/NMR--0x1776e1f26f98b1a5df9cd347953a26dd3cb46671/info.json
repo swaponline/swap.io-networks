@@ -4,7 +4,7 @@
   "symbol": "NMR",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/NMR--0x1776e1f26f98b1a5df9cd347953a26dd3cb46671/logo.png",
+  "logo": "/networks/ethereum/tokens/NMR--0x1776e1f26f98b1a5df9cd347953a26dd3cb46671/logo.svg",
   "tags": [
     "erc20"
   ]
