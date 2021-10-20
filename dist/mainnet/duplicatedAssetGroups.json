@@ -12673,35 +12673,6 @@
     ]
   },
   {
-    "symbol": "OCEAN",
-    "name": "Ocean Token",
-    "logo": "/networks/avalanche-c/tokens/OCEAN--0x0057371cd534577b6040e140654de0958116cf3a/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Ocean Token",
-            "address": "0x0057371cd534577b6040e140654de0958116cf3a",
-            "symbol": "OCEAN",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/OCEAN--0x0057371cd534577b6040e140654de0958116cf3a/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "OCTO",
     "name": "Octo.fi",
     "logo": "/networks/avalanche-c/tokens/OCTO--0xc0735f8b43b6879fed7070044211bfcd9c3d633b/logo.png",

@@ -1,0 +1,9 @@
+{
+  "symbol": "OCEAN",
+  "name": "Ocean Protocol",
+  "logo": "/networks/ethereum/tokens/OCEAN--0x967da4048cd07ab37855c090aaf366e4ce1b9f48/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/OCEAN--0x967da4048cd07ab37855c090aaf366e4ce1b9f48/info.json",
+    "/networks/polygon/tokens/OCEAN--0x282d8efce846a88b159800bd4130ad77443fa1a1/info.json"
+  ]
+}
