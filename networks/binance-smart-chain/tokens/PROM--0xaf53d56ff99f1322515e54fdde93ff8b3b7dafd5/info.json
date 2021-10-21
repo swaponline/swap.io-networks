@@ -4,7 +4,7 @@
   "symbol": "PROM",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.svg",
   "tags": [
     "bep20"
   ]

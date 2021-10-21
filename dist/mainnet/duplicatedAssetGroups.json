@@ -2407,35 +2407,6 @@
     ]
   },
   {
-    "symbol": "PROM",
-    "name": "Prometeus",
-    "logo": "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Prometeus",
-            "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
-            "symbol": "PROM",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "PROS",
     "name": "Prosper",
     "logo": "/networks/binance-smart-chain/tokens/PROS--0xed8c8aa8299c10f067496bb66f8cc7fb338a3405/logo.png",
@@ -12808,35 +12779,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/PARETO--0x54266eda68834321b5bb81a8a8a48d5459c92456/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "PAXG",
-    "name": "Paxos Gold",
-    "logo": "/networks/avalanche-c/tokens/PAXG--0x1687b16087b576e403c8d6926fbc0798e48fd0de/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Paxos Gold",
-            "address": "0x1687b16087b576e403c8d6926fbc0798e48fd0de",
-            "symbol": "PAXG",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/PAXG--0x1687b16087b576e403c8d6926fbc0798e48fd0de/logo.png",
             "tags": [
               "erc20avax"
             ],
