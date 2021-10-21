@@ -12296,35 +12296,6 @@
     ]
   },
   {
-    "symbol": "OGN",
-    "name": "OriginToken",
-    "logo": "/networks/avalanche-c/tokens/OGN--0x9a1712dbed062db70c6c4c235be9dcd10a9dac59/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "OriginToken",
-            "address": "0x9a1712dbed062db70c6c4c235be9dcd10a9dac59",
-            "symbol": "OGN",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/OGN--0x9a1712dbed062db70c6c4c235be9dcd10a9dac59/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "OM",
     "name": "OM Token",
     "logo": "/networks/avalanche-c/tokens/OM--0x27850fcbcff7dafb16176144b9193c6d310dcf72/logo.png",
