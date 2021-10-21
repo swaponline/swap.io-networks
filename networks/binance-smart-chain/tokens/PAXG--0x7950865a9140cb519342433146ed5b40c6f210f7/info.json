@@ -1,0 +1,15 @@
+{
+  "name": "Binance-Peg PAX Gold",
+  "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+  "symbol": "PAX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/PAXG--0x7950865a9140cb519342433146ed5b40c6f210f7/logo.svg",
+  "tags": [
+    "bep20",
+    "stablecoin",
+    "gold",
+    "wrapped",
+    "paxos-gold"
+  ]
+}

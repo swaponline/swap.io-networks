@@ -928,35 +928,6 @@
     ]
   },
   {
-    "symbol": "BAND",
-    "name": "BAND Protocol Token",
-    "logo": "/networks/binance-smart-chain/tokens/BAND--0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "BAND Protocol Token",
-            "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
-            "symbol": "BAND",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/BAND--0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BEL",
     "name": "Bella Protocol",
     "logo": "/networks/binance-smart-chain/tokens/BEL--0x8443f091997f06a61670b735ed92734f5628692f/logo.png",
@@ -2397,35 +2368,6 @@
             "decimals": 18,
             "chainId": 56,
             "logo": "/networks/binance-smart-chain/tokens/PNT--0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92/logo.png",
-            "tags": [
-              "bep20"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "PROM",
-    "name": "Prometeus",
-    "logo": "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Binance Smart Chain",
-          "slug": "binance-smart-chain",
-          "logo": "/networks/binance-smart-chain/coins/BNB/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Prometeus",
-            "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
-            "symbol": "PROM",
-            "decimals": 18,
-            "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png",
             "tags": [
               "bep20"
             ],
@@ -4195,35 +4137,6 @@
             "decimals": 9,
             "chainId": 137,
             "logo": "/networks/polygon/tokens/CRTS--0xebf9b87583c284f0a1b7af72371f84d2a7567285/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "CTSI",
-    "name": "Cartesi",
-    "logo": "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Cartesi",
-            "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
-            "symbol": "CTSI",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/logo.png",
             "tags": [
               "erc20matic"
             ],
@@ -7018,35 +6931,6 @@
     ]
   },
   {
-    "symbol": "UBT",
-    "name": "Unibright",
-    "logo": "/networks/polygon/tokens/UBT--0x7fbc10850cae055b27039af31bd258430e714c62/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Unibright",
-            "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
-            "symbol": "UBT",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/UBT--0x7fbc10850cae055b27039af31bd258430e714c62/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "UFT",
     "name": "UniLend Finance Token",
     "logo": "/networks/polygon/tokens/UFT--0x5b4cf2c120a9702225814e18543ee658c5f8631e/logo.png",
@@ -8439,35 +8323,6 @@
     ]
   },
   {
-    "symbol": "BAND",
-    "name": "BandToken",
-    "logo": "/networks/avalanche-c/tokens/BAND--0x6fd02c0789797e595751208a2446faf721b9f3c2/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "BandToken",
-            "address": "0x6fd02c0789797e595751208a2446faf721b9f3c2",
-            "symbol": "BAND",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/BAND--0x6fd02c0789797e595751208a2446faf721b9f3c2/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BAO",
     "name": "BaoToken",
     "logo": "/networks/avalanche-c/tokens/BAO--0x353be78373b6b75b5a61d952fcccb95c1d3e0bc8/logo.png",
@@ -9212,35 +9067,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/CREAM--0xb9ab39f9b4e3af0c97ae55ea48a960656c681a88/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "CTSI",
-    "name": "Cartesi Token",
-    "logo": "/networks/avalanche-c/tokens/CTSI--0x71c677bed0df55af6d6b19114dab10e1de45d9f7/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Cartesi Token",
-            "address": "0x71c677bed0df55af6d6b19114dab10e1de45d9f7",
-            "symbol": "CTSI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/CTSI--0x71c677bed0df55af6d6b19114dab10e1de45d9f7/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -10024,35 +9850,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/DYP--0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "ELF",
-    "name": "ELF Token",
-    "logo": "/networks/avalanche-c/tokens/ELF--0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "ELF Token",
-            "address": "0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54",
-            "symbol": "ELF",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ELF--0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -12499,35 +12296,6 @@
     ]
   },
   {
-    "symbol": "OGN",
-    "name": "OriginToken",
-    "logo": "/networks/avalanche-c/tokens/OGN--0x9a1712dbed062db70c6c4c235be9dcd10a9dac59/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "OriginToken",
-            "address": "0x9a1712dbed062db70c6c4c235be9dcd10a9dac59",
-            "symbol": "OGN",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/OGN--0x9a1712dbed062db70c6c4c235be9dcd10a9dac59/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "OM",
     "name": "OM Token",
     "logo": "/networks/avalanche-c/tokens/OM--0x27850fcbcff7dafb16176144b9193c6d310dcf72/logo.png",
@@ -12866,35 +12634,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/PARETO--0x54266eda68834321b5bb81a8a8a48d5459c92456/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "PAXG",
-    "name": "Paxos Gold",
-    "logo": "/networks/avalanche-c/tokens/PAXG--0x1687b16087b576e403c8d6926fbc0798e48fd0de/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Paxos Gold",
-            "address": "0x1687b16087b576e403c8d6926fbc0798e48fd0de",
-            "symbol": "PAXG",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/PAXG--0x1687b16087b576e403c8d6926fbc0798e48fd0de/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -14751,35 +14490,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/STBZ--0x5a21a9e09667a67a898de061d4bc61e92f20404e/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "STMX",
-    "name": "StormX",
-    "logo": "/networks/avalanche-c/tokens/STMX--0xd6c7f1c0b553b820739a9befa30e1a4990db67dc/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "StormX",
-            "address": "0xd6c7f1c0b553b820739a9befa30e1a4990db67dc",
-            "symbol": "STMX",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/STMX--0xd6c7f1c0b553b820739a9befa30e1a4990db67dc/logo.png",
             "tags": [
               "erc20avax"
             ],

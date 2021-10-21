@@ -1,10 +1,10 @@
 {
-  "name": "Aelf",
+  "name": "ELF",
   "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
   "symbol": "ELF",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/ELF--0xbf2179859fc6d5bee9bf9158632dc51678a4100e/logo.png",
+  "logo": "/networks/ethereum/tokens/ELF--0xbf2179859fc6d5bee9bf9158632dc51678a4100e/logo.svg",
   "tags": [
     "erc20"
   ]

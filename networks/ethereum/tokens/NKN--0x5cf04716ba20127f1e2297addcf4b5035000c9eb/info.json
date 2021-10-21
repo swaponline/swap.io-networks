@@ -4,7 +4,7 @@
   "symbol": "NKN",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/NKN--0x5cf04716ba20127f1e2297addcf4b5035000c9eb/logo.png",
+  "logo": "/networks/ethereum/tokens/NKN--0x5cf04716ba20127f1e2297addcf4b5035000c9eb/logo.svg",
   "tags": [
     "erc20"
   ]

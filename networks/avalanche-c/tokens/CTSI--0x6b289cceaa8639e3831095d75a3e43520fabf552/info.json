@@ -1,0 +1,11 @@
+{
+  "name": "Cartesi Token",
+  "address": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+  "symbol": "CTSI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/CTSI--0x6b289cceaa8639e3831095d75a3e43520fabf552/logo.svg",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -4,7 +4,7 @@
   "symbol": "CVC",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/CVC--0x41e5560054824ea6b0732e656e3ad64e20e94e45/logo.png",
+  "logo": "/networks/ethereum/tokens/CVC--0x41e5560054824ea6b0732e656e3ad64e20e94e45/logo.svg",
   "tags": [
     "erc20"
   ]

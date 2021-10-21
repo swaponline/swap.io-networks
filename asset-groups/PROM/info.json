@@ -1,0 +1,9 @@
+{
+  "symbol": "PROM",
+  "name": "Prometeus",
+  "logo": "/networks/ethereum/tokens/PROM--0xfc82bb4ba86045af6f327323a46e80412b91b27d/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/PROM--0xfc82bb4ba86045af6f327323a46e80412b91b27d/info.json",
+    "/networks/binance-smart-chain/tokens/PROM--0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/info.json"
+  ]
+}

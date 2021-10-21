@@ -1,0 +1,9 @@
+{
+  "symbol": "PAXG",
+  "name": "PAX Gold",
+  "logo": "/networks/ethereum/tokens/PAXG--0x45804880de22913dafe09f4980848ece6ecbaf78/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/PAXG--0x45804880de22913dafe09f4980848ece6ecbaf78/info.json",
+    "/networks/binance-smart-chain/tokens/PAXG--0x7950865a9140cb519342433146ed5b40c6f210f7/info.json"
+  ]
+}

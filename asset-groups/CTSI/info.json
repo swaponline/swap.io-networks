@@ -1,0 +1,11 @@
+{
+  "symbol": "CTSI",
+  "name": "Cartesi",
+  "logo": "/networks/ethereum/tokens/CTSI--0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/CTSI--0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d/info.json",
+    "/networks/binance-smart-chain/tokens/CTSI--0x8da443f84fea710266c8eb6bc34b71702d033ef2/info.json",
+    "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/info.json",
+    "/networks/avalanche-c/tokens/CTSI--0x6b289cceaa8639e3831095d75a3e43520fabf552/info.json"
+  ]
+}

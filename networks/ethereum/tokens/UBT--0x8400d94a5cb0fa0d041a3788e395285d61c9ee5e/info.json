@@ -4,7 +4,7 @@
   "symbol": "UBT",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/UBT--0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e/logo.png",
+  "logo": "/networks/ethereum/tokens/UBT--0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e/logo.svg",
   "tags": [
     "erc20"
   ]
