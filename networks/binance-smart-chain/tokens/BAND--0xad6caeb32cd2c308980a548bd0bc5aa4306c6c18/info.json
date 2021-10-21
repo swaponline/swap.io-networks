@@ -1,11 +1,13 @@
 {
-  "name": "BAND Protocol Token",
+  "name": "Binance-Peg Band Protocol Token",
   "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
   "symbol": "BAND",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/BAND--0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/BAND--0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.svg",
   "tags": [
-    "bep20"
+    "bep20",
+    "wrapped",
+    "band-protocol"
   ]
 }
