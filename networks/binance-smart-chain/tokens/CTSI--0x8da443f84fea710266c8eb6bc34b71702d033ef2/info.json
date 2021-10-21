@@ -1,0 +1,13 @@
+{
+  "name": "Binance-Peg Cartesi Token",
+  "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+  "symbol": "CTSI",
+  "decimals": 6,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/CTSI--0x8da443f84fea710266c8eb6bc34b71702d033ef2/logo.svg",
+  "tags": [
+    "bep20",
+    "wrapped",
+    "cartesi"
+  ]
+}

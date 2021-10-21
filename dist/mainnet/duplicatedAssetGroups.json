@@ -4176,35 +4176,6 @@
     ]
   },
   {
-    "symbol": "CTSI",
-    "name": "Cartesi",
-    "logo": "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Cartesi",
-            "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
-            "symbol": "CTSI",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/CTSI--0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "CYC",
     "name": "Cyclone Protocol",
     "logo": "/networks/polygon/tokens/CYC--0xcfb54a6d2da14abecd231174fc5735b4436965d8/logo.jpg",
@@ -9154,35 +9125,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/CREAM--0xb9ab39f9b4e3af0c97ae55ea48a960656c681a88/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "CTSI",
-    "name": "Cartesi Token",
-    "logo": "/networks/avalanche-c/tokens/CTSI--0x71c677bed0df55af6d6b19114dab10e1de45d9f7/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Cartesi Token",
-            "address": "0x71c677bed0df55af6d6b19114dab10e1de45d9f7",
-            "symbol": "CTSI",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/CTSI--0x71c677bed0df55af6d6b19114dab10e1de45d9f7/logo.png",
             "tags": [
               "erc20avax"
             ],
