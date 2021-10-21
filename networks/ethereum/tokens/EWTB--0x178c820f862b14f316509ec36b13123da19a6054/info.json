@@ -1,10 +1,10 @@
 {
-  "name": "EnergyWebTokenBridged",
+  "name": "Energy Web Token Bridged",
   "address": "0x178c820f862b14f316509ec36b13123da19a6054",
   "symbol": "EWTB",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/EWTB--0x178c820f862b14f316509ec36b13123da19a6054/logo.png",
+  "logo": "/networks/ethereum/tokens/EWTB--0x178c820f862b14f316509ec36b13123da19a6054/logo.svg",
   "tags": [
     "erc20"
   ]

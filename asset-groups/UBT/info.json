@@ -1,0 +1,9 @@
+{
+  "symbol": "UBT",
+  "name": "UniBright",
+  "logo": "/networks/ethereum/tokens/UBT--0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/UBT--0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e/info.json",
+    "/networks/polygon/tokens/UBT--0x7fbc10850cae055b27039af31bd258430e714c62/info.json"
+  ]
+}

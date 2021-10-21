@@ -7018,35 +7018,6 @@
     ]
   },
   {
-    "symbol": "UBT",
-    "name": "Unibright",
-    "logo": "/networks/polygon/tokens/UBT--0x7fbc10850cae055b27039af31bd258430e714c62/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Unibright",
-            "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
-            "symbol": "UBT",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/UBT--0x7fbc10850cae055b27039af31bd258430e714c62/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "UFT",
     "name": "UniLend Finance Token",
     "logo": "/networks/polygon/tokens/UFT--0x5b4cf2c120a9702225814e18543ee658c5f8631e/logo.png",
