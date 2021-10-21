@@ -10005,35 +10005,6 @@
     ]
   },
   {
-    "symbol": "ELF",
-    "name": "ELF Token",
-    "logo": "/networks/avalanche-c/tokens/ELF--0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "ELF Token",
-            "address": "0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54",
-            "symbol": "ELF",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/ELF--0xfcdf63735c1cf3203ce64fef59dca6a7ac9a6d54/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "EQMT",
     "name": "EQUUSMiningToken",
     "logo": "/networks/avalanche-c/tokens/EQMT--0x964a11836e6ac44e07f8632a9ff6c380ef0113fd/logo.png",
