@@ -1,0 +1,11 @@
+{
+  "name": "Trace Token from Ethereum",
+  "address": "0xeddd81e0792e764501aae206eb432399a0268db5",
+  "symbol": "TRAC",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/TRAC--0xeddd81e0792e764501aae206eb432399a0268db5/logo.svg",
+  "tags": [
+    "erc20xdai"
+  ]
+}

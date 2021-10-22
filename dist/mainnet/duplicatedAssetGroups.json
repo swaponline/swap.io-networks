@@ -15109,35 +15109,6 @@
     ]
   },
   {
-    "symbol": "TRAC",
-    "name": "Trace Token",
-    "logo": "/networks/avalanche-c/tokens/TRAC--0xdea3da33bdee64487358db66d9abc9ec256d1bfb/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Trace Token",
-            "address": "0xdea3da33bdee64487358db66d9abc9ec256d1bfb",
-            "symbol": "TRAC",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/TRAC--0xdea3da33bdee64487358db66d9abc9ec256d1bfb/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "TRADE",
     "name": "UniTrade",
     "logo": "/networks/avalanche-c/tokens/TRADE--0xc95d97181857469f7d3ccacb20a84fc0dfd69a1b/logo.png",
