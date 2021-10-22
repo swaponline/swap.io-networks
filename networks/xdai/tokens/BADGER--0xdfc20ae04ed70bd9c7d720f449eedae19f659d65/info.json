@@ -1,0 +1,13 @@
+{
+  "name": "Badger from Ethereum",
+  "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
+  "symbol": "BADGER",
+  "decimals": 18,
+  "chainId": 100,
+  "logo": "/networks/xdai/tokens/BADGER--0xdfc20ae04ed70bd9c7d720f449eedae19f659d65/logo.svg",
+  "tags": [
+    "erc20xdai",
+    "wrapped",
+    "badger-dao"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Velas",
+  "address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
+  "symbol": "VLX",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/VLX--0xe9c803f48dffe50180bd5b01dc04da939e3445fc/logo.svg",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WrappedStrax",
+  "address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
+  "symbol": "WSTRAX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/WSTRAX--0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b/logo.svg",
+  "tags": [
+    "erc20",
+    "wrapped",
+    "stratis"
+  ]
+}

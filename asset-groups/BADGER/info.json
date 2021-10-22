@@ -1,0 +1,9 @@
+{
+  "symbol": "BADGER",
+  "name": "Badger DAO",
+  "logo": "/networks/ethereum/tokens/BADGER--0x3472a5a71965499acd81997a54bba8d852c6e53d/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/BADGER--0x3472a5a71965499acd81997a54bba8d852c6e53d/info.json",
+    "/networks/xdai/tokens/BADGER--0xdfc20ae04ed70bd9c7d720f449eedae19f659d65/info.json"
+  ]
+}

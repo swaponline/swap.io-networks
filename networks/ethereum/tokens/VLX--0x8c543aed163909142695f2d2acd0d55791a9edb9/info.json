@@ -1,0 +1,11 @@
+{
+  "name": "VLX",
+  "address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+  "symbol": "VLX",
+  "decimals": 18,
+  "chainId": 1,
+  "logo": "/networks/ethereum/tokens/VLX--0x8c543aed163909142695f2d2acd0d55791a9edb9/logo.svg",
+  "tags": [
+    "erc20"
+  ]
+}
