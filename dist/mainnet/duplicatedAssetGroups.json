@@ -5191,35 +5191,6 @@
     ]
   },
   {
-    "symbol": "HEX",
-    "name": "HEXX",
-    "logo": "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "HEXX",
-            "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
-            "symbol": "HEX",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "ICE",
     "name": "Iron Finance",
     "logo": "/networks/polygon/tokens/ICE--0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef/logo.jpg",
@@ -12006,35 +11977,6 @@
     ]
   },
   {
-    "symbol": "MLN",
-    "name": "Melon Token",
-    "logo": "/networks/avalanche-c/tokens/MLN--0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Melon Token",
-            "address": "0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223",
-            "symbol": "MLN",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/MLN--0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "MNTP",
     "name": "Goldmint MNT Prelaunch Token",
     "logo": "/networks/avalanche-c/tokens/MNTP--0x56f45ca7c6e8d5550b36f4c69a0dea44defee3ef/logo.png",
@@ -13079,35 +13021,6 @@
     ]
   },
   {
-    "symbol": "POLS",
-    "name": "PolkastarterToken",
-    "logo": "/networks/avalanche-c/tokens/POLS--0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "PolkastarterToken",
-            "address": "0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9",
-            "symbol": "POLS",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/POLS--0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "POND",
     "name": "Marlin POND",
     "logo": "/networks/avalanche-c/tokens/POND--0xbeea21cc5d10e21df6ab42bd2d5e748e4ef59293/logo.png",
@@ -13678,64 +13591,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/RELAY--0x78c42324016cd91d1827924711563fb66e33a83a/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "REP",
-    "name": "Reputation",
-    "logo": "/networks/avalanche-c/tokens/REP--0xb9924372ddc7e7f13757c8b9ae0f03906a684d65/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reputation",
-            "address": "0xb9924372ddc7e7f13757c8b9ae0f03906a684d65",
-            "symbol": "REP",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/REP--0xb9924372ddc7e7f13757c8b9ae0f03906a684d65/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "REPv2",
-    "name": "Reputation",
-    "logo": "/networks/avalanche-c/tokens/REPv2--0xbe7afaa2833d7f461d8751f1f46bf259fc4459c6/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reputation",
-            "address": "0xbe7afaa2833d7f461d8751f1f46bf259fc4459c6",
-            "symbol": "REPv2",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/REPv2--0xbe7afaa2833d7f461d8751f1f46bf259fc4459c6/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -15051,35 +14906,6 @@
     ]
   },
   {
-    "symbol": "TOMOE",
-    "name": "TomoChain",
-    "logo": "/networks/avalanche-c/tokens/TOMOE--0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "TomoChain",
-            "address": "0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2",
-            "symbol": "TOMOE",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/TOMOE--0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "TORN",
     "name": "TornadoCash",
     "logo": "/networks/avalanche-c/tokens/TORN--0x7ccf19824c351e57c00633b46bbbff495e12d89d/logo.png",
@@ -15099,35 +14925,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/TORN--0x7ccf19824c351e57c00633b46bbbff495e12d89d/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "TRAC",
-    "name": "Trace Token",
-    "logo": "/networks/avalanche-c/tokens/TRAC--0xdea3da33bdee64487358db66d9abc9ec256d1bfb/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Trace Token",
-            "address": "0xdea3da33bdee64487358db66d9abc9ec256d1bfb",
-            "symbol": "TRAC",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/TRAC--0xdea3da33bdee64487358db66d9abc9ec256d1bfb/logo.png",
             "tags": [
               "erc20avax"
             ],

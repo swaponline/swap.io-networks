@@ -1,0 +1,9 @@
+{
+  "symbol": "VLX",
+  "name": "Velas",
+  "logo": "/networks/ethereum/tokens/VLX--0x8c543aed163909142695f2d2acd0d55791a9edb9/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/VLX--0x8c543aed163909142695f2d2acd0d55791a9edb9/info.json",
+    "/networks/binance-smart-chain/tokens/VLX--0xe9c803f48dffe50180bd5b01dc04da939e3445fc/info.json"
+  ]
+}

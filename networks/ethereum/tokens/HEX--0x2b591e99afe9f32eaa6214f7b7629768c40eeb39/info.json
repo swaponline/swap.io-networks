@@ -4,7 +4,7 @@
   "symbol": "HEX",
   "decimals": 8,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/HEX--0x2b591e99afe9f32eaa6214f7b7629768c40eeb39/logo.png",
+  "logo": "/networks/ethereum/tokens/HEX--0x2b591e99afe9f32eaa6214f7b7629768c40eeb39/logo.svg",
   "tags": [
     "erc20"
   ]

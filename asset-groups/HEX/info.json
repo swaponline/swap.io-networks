@@ -1,0 +1,9 @@
+{
+  "symbol": "HEX",
+  "name": "HEX",
+  "logo": "/networks/ethereum/tokens/HEX--0x2b591e99afe9f32eaa6214f7b7629768c40eeb39/logo.svg",
+  "asset-list": [
+    "/networks/ethereum/tokens/HEX--0x2b591e99afe9f32eaa6214f7b7629768c40eeb39/info.json",
+    "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/info.json"
+  ]
+}

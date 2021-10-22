@@ -4,7 +4,7 @@
   "symbol": "BADGER",
   "decimals": 18,
   "chainId": 1,
-  "logo": "/networks/ethereum/tokens/BADGER--0x3472a5a71965499acd81997a54bba8d852c6e53d/logo.png",
+  "logo": "/networks/ethereum/tokens/BADGER--0x3472a5a71965499acd81997a54bba8d852c6e53d/logo.svg",
   "tags": [
     "erc20"
   ]
