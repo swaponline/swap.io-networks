@@ -13688,64 +13688,6 @@
     ]
   },
   {
-    "symbol": "REP",
-    "name": "Reputation",
-    "logo": "/networks/avalanche-c/tokens/REP--0xb9924372ddc7e7f13757c8b9ae0f03906a684d65/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reputation",
-            "address": "0xb9924372ddc7e7f13757c8b9ae0f03906a684d65",
-            "symbol": "REP",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/REP--0xb9924372ddc7e7f13757c8b9ae0f03906a684d65/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "REPv2",
-    "name": "Reputation",
-    "logo": "/networks/avalanche-c/tokens/REPv2--0xbe7afaa2833d7f461d8751f1f46bf259fc4459c6/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Reputation",
-            "address": "0xbe7afaa2833d7f461d8751f1f46bf259fc4459c6",
-            "symbol": "REPv2",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/REPv2--0xbe7afaa2833d7f461d8751f1f46bf259fc4459c6/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "REQ",
     "name": "Request Token",
     "logo": "/networks/avalanche-c/tokens/REQ--0x8e729ad67d81d220b7ab6e00440f785bd08187fe/logo.png",
