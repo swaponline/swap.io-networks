@@ -5191,35 +5191,6 @@
     ]
   },
   {
-    "symbol": "HEX",
-    "name": "HEXX",
-    "logo": "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "HEXX",
-            "address": "0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c",
-            "symbol": "HEX",
-            "decimals": 8,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/HEX--0x23d29d30e35c5e8d321e1dc9a8a61bfd846d4c5c/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "ICE",
     "name": "Iron Finance",
     "logo": "/networks/polygon/tokens/ICE--0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef/logo.jpg",
@@ -12006,35 +11977,6 @@
     ]
   },
   {
-    "symbol": "MLN",
-    "name": "Melon Token",
-    "logo": "/networks/avalanche-c/tokens/MLN--0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Melon Token",
-            "address": "0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223",
-            "symbol": "MLN",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/MLN--0x2bd2e0c3d39d6c82eaca300958aa2e4be6740223/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "MNTP",
     "name": "Goldmint MNT Prelaunch Token",
     "logo": "/networks/avalanche-c/tokens/MNTP--0x56f45ca7c6e8d5550b36f4c69a0dea44defee3ef/logo.png",
@@ -13069,35 +13011,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/POA20--0x153446d731f6a23661bebcd3e86431c36ba440fb/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "POLS",
-    "name": "PolkastarterToken",
-    "logo": "/networks/avalanche-c/tokens/POLS--0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "PolkastarterToken",
-            "address": "0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9",
-            "symbol": "POLS",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/POLS--0xe1463e8991c8a62e64b77b5fb6b22f190344c2a9/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -14983,35 +14896,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/TNS--0x6b944c575376460edc27be19c999654e5982d971/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "TOMOE",
-    "name": "TomoChain",
-    "logo": "/networks/avalanche-c/tokens/TOMOE--0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "TomoChain",
-            "address": "0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2",
-            "symbol": "TOMOE",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/TOMOE--0x7657f9ee5f31868ccac0ec4306a92b0e2f5660d2/logo.png",
             "tags": [
               "erc20avax"
             ],
