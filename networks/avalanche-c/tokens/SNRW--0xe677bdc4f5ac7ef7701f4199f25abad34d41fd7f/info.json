@@ -1,0 +1,11 @@
+{
+  "name": "Santrast",
+  "address": "0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f",
+  "symbol": "SNRW",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SNRW--0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ARIVA",
+  "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+  "symbol": "ARV",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/ARV--0x6679eb24f59dfe111864aec72b443d1da666b360/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

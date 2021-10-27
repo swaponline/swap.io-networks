@@ -1,0 +1,11 @@
+{
+  "name": "KROWN",
+  "address": "0xa5acfeca5270bc9768633fbc86caa959b85ec8b7",
+  "symbol": "KRW",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/KRW--0xa5acfeca5270bc9768633fbc86caa959b85ec8b7/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

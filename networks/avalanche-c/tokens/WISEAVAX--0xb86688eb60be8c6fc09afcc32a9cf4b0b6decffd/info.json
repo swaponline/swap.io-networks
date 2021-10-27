@@ -1,0 +1,11 @@
+{
+  "name": "WiseAvax",
+  "address": "0xb86688eb60be8c6fc09afcc32a9cf4b0b6decffd",
+  "symbol": "WISEAVAX",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WISEAVAX--0xb86688eb60be8c6fc09afcc32a9cf4b0b6decffd/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

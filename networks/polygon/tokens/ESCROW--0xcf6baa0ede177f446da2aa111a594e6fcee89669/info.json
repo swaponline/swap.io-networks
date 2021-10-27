@@ -1,0 +1,11 @@
+{
+  "name": "Escrow Protocol",
+  "address": "0xcf6baa0ede177f446da2aa111a594e6fcee89669",
+  "symbol": "ESCROW",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ESCROW--0xcf6baa0ede177f446da2aa111a594e6fcee89669/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

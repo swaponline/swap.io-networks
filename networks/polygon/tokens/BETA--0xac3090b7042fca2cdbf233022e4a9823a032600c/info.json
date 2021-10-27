@@ -1,0 +1,11 @@
+{
+  "name": "PolyBeta Finance",
+  "address": "0xac3090b7042fca2cdbf233022e4a9823a032600c",
+  "symbol": "BETA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BETA--0xac3090b7042fca2cdbf233022e4a9823a032600c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

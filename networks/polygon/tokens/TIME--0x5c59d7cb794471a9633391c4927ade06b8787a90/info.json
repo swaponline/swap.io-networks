@@ -1,0 +1,11 @@
+{
+  "name": "Timeleap Finance",
+  "address": "0x5c59d7cb794471a9633391c4927ade06b8787a90",
+  "symbol": "TIME",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TIME--0x5c59d7cb794471a9633391c4927ade06b8787a90/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DefiFactoryToken",
+  "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+  "symbol": "DEFT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DEFT--0xdef1fac7bf08f173d286bbbdcbeeade695129840/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WOWswap",
+  "address": "0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b",
+  "symbol": "WOW",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WOW--0xa384bc7cdc0a93e686da9e7b8c0807cd040f4e0b/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

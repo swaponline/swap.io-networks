@@ -1,0 +1,11 @@
+{
+  "name": "Decentral Games ICE",
+  "address": "0xc6c855ad634dcdad23e64da71ba85b8c51e5ad7c",
+  "symbol": "ICE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ICE--0xc6c855ad634dcdad23e64da71ba85b8c51e5ad7c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

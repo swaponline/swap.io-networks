@@ -1,0 +1,11 @@
+{
+  "name": "Fidira",
+  "address": "0x9a4eb698e5de3d3df0a68f681789072de1e50222",
+  "symbol": "FID",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FID--0x9a4eb698e5de3d3df0a68f681789072de1e50222/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

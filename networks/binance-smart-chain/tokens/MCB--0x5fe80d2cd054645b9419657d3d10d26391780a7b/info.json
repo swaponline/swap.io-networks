@@ -1,0 +1,11 @@
+{
+  "name": "MCDEX",
+  "address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
+  "symbol": "MCB",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/MCB--0x5fe80d2cd054645b9419657d3d10d26391780a7b/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

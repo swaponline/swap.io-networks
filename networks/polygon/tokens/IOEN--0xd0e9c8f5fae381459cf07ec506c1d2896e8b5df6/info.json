@@ -1,0 +1,11 @@
+{
+  "name": "Internet of Energy ",
+  "address": "0xd0e9c8f5fae381459cf07ec506c1d2896e8b5df6",
+  "symbol": "IOEN",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IOEN--0xd0e9c8f5fae381459cf07ec506c1d2896e8b5df6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

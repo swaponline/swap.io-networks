@@ -1,0 +1,11 @@
+{
+  "name": "Persistence",
+  "address": "0xb3b9c016ad1e9f7efdae451b04ef696e05658b32",
+  "symbol": "XPRT",
+  "decimals": 6,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XPRT--0xb3b9c016ad1e9f7efdae451b04ef696e05658b32/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

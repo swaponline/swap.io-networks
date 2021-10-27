@@ -1,0 +1,11 @@
+{
+  "name": "BiLira",
+  "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+  "symbol": "TRYB",
+  "decimals": 6,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TRYB--0x564a341df6c126f90cf3ecb92120fd7190acb401/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

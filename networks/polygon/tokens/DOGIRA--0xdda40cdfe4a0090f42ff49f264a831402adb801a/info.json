@@ -1,0 +1,11 @@
+{
+  "name": "Dogira",
+  "address": "0xdda40cdfe4a0090f42ff49f264a831402adb801a",
+  "symbol": "DOGIRA",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DOGIRA--0xdda40cdfe4a0090f42ff49f264a831402adb801a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

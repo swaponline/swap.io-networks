@@ -1,0 +1,11 @@
+{
+  "name": "IceSlush Finance",
+  "address": "0x28bf9cb0a8c0a6fb01680daaae9d6ae76234491b",
+  "symbol": "SLUSH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SLUSH--0x28bf9cb0a8c0a6fb01680daaae9d6ae76234491b/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

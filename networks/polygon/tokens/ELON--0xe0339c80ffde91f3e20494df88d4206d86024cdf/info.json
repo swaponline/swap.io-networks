@@ -1,0 +1,11 @@
+{
+  "name": "Dogelon",
+  "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+  "symbol": "ELON",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ELON--0xe0339c80ffde91f3e20494df88d4206d86024cdf/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

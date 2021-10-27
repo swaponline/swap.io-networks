@@ -1,0 +1,11 @@
+{
+  "name": "Orca AVAI",
+  "address": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
+  "symbol": "AVAI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/AVAI--0x346a59146b9b4a77100d369a3d18e8007a9f46a6/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AutoMatic Network",
+  "address": "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7",
+  "symbol": "AUMI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AUMI--0x3eb177a6693ec81d1e170136f8ad02fffbe172a7/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

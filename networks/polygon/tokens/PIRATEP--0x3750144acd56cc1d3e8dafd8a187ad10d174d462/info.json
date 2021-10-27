@@ -1,0 +1,11 @@
+{
+  "name": "PirateP",
+  "address": "0x3750144acd56cc1d3e8dafd8a187ad10d174d462",
+  "symbol": "PIRATEP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PIRATEP--0x3750144acd56cc1d3e8dafd8a187ad10d174d462/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}

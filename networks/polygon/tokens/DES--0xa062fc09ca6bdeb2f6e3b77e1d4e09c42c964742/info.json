@@ -1,0 +1,11 @@
+{
+  "name": "DeSpace Protocol",
+  "address": "0xa062fc09ca6bdeb2f6e3b77e1d4e09c42c964742",
+  "symbol": "DES",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DES--0xa062fc09ca6bdeb2f6e3b77e1d4e09c42c964742/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

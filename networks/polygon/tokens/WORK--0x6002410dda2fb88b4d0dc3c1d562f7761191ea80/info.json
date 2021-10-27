@@ -1,0 +1,11 @@
+{
+  "name": "The Employment Comm",
+  "address": "0x6002410dda2fb88b4d0dc3c1d562f7761191ea80",
+  "symbol": "WORK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WORK--0x6002410dda2fb88b4d0dc3c1d562f7761191ea80/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

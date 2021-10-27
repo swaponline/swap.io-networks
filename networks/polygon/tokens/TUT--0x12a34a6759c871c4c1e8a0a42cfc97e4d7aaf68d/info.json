@@ -1,0 +1,11 @@
+{
+  "name": "Tutellus",
+  "address": "0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d",
+  "symbol": "TUT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TUT--0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WolfSafePoorPeople ",
+  "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
+  "symbol": "WSPP",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WSPP--0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

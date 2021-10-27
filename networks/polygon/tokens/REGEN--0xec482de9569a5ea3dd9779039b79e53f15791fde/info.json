@@ -1,0 +1,11 @@
+{
+  "name": "Regen Network",
+  "address": "0xec482de9569a5ea3dd9779039b79e53f15791fde",
+  "symbol": "REGEN",
+  "decimals": 6,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/REGEN--0xec482de9569a5ea3dd9779039b79e53f15791fde/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

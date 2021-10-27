@@ -1,0 +1,11 @@
+{
+  "name": "AllianceBlock",
+  "address": "0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd",
+  "symbol": "ALBT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ALBT--0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

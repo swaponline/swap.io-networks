@@ -1,0 +1,11 @@
+{
+  "name": "Hobonickels",
+  "address": "0x36ff415d0bcedf976d60e85c72e01d19230fbd29",
+  "symbol": "HBN",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HBN--0x36ff415d0bcedf976d60e85c72e01d19230fbd29/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fantom Token",
+  "address": "0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5",
+  "symbol": "FTM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FTM--0xb85517b87bf64942adf3a0b9e4c71e4bc5caa4e5/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

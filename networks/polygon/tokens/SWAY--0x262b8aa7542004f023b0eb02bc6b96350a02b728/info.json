@@ -1,0 +1,11 @@
+{
+  "name": "Sway Social Protoco",
+  "address": "0x262b8aa7542004f023b0eb02bc6b96350a02b728",
+  "symbol": "SWAY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SWAY--0x262b8aa7542004f023b0eb02bc6b96350a02b728/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

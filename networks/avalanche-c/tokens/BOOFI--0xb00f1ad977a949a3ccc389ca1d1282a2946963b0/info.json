@@ -1,0 +1,11 @@
+{
+  "name": "Boo Finance",
+  "address": "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0",
+  "symbol": "BOOFI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BOOFI--0xb00f1ad977a949a3ccc389ca1d1282a2946963b0/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

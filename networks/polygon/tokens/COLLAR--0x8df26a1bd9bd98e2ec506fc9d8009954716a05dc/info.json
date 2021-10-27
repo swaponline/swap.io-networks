@@ -1,0 +1,11 @@
+{
+  "name": "PolyPup Collar Toke",
+  "address": "0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc",
+  "symbol": "COLLAR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/COLLAR--0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

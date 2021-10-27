@@ -1,0 +1,11 @@
+{
+  "name": "GROWTH DeFi",
+  "address": "0x72699ba15cc734f8db874fa9652c8de12093f187",
+  "symbol": "GRO",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GRO--0x72699ba15cc734f8db874fa9652c8de12093f187/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pegaxy Stone",
+  "address": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae",
+  "symbol": "PGX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PGX--0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

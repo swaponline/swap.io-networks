@@ -1,0 +1,11 @@
+{
+  "name": "Rai Reflex Index",
+  "address": "0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d",
+  "symbol": "RAI",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/RAI--0x97cd1cfe2ed5712660bb6c14053c0ecb031bff7d/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

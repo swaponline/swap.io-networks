@@ -1,0 +1,11 @@
+{
+  "name": "Flare Token",
+  "address": "0x5f0197ba06860dac7e31258bdf749f92b6a636d4",
+  "symbol": "1FLR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/1FLR--0x5f0197ba06860dac7e31258bdf749f92b6a636d4/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

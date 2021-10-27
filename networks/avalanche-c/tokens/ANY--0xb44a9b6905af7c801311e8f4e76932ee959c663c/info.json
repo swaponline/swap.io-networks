@@ -1,0 +1,11 @@
+{
+  "name": "Anyswap",
+  "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+  "symbol": "ANY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ANY--0xb44a9b6905af7c801311e8f4e76932ee959c663c/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

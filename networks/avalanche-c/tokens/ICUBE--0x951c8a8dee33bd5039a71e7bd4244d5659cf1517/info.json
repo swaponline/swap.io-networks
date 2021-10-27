@@ -1,0 +1,11 @@
+{
+  "name": "IceCubes Finance",
+  "address": "0x951c8a8dee33bd5039a71e7bd4244d5659cf1517",
+  "symbol": "ICUBE",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ICUBE--0x951c8a8dee33bd5039a71e7bd4244d5659cf1517/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

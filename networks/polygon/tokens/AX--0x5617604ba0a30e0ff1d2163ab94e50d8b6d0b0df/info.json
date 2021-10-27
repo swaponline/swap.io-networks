@@ -1,0 +1,11 @@
+{
+  "name": "AthleteX",
+  "address": "0x5617604ba0a30e0ff1d2163ab94e50d8b6d0b0df",
+  "symbol": "AX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AX--0x5617604ba0a30e0ff1d2163ab94e50d8b6d0b0df/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}
