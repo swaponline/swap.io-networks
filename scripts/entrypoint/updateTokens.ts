@@ -94,18 +94,18 @@ const updateTokensByNetwork = async (
 
         // uncommenting to check and rewrite correct tokenID in logo RelativePath
         //
-        if (tokenInfo.logo) {
-          const splitedLogoPath = tokenInfo.logo.split('/')
-          const tokenIDFromLogo = splitedLogoPath[4]
+        // if (tokenInfo.logo) {
+        //   const splitedLogoPath = tokenInfo.logo.split('/')
+        //   const tokenIDFromLogo = splitedLogoPath[4]
 
-          if (tokenIDFromLogo !== tokenID) {
+        //   if (tokenIDFromLogo !== tokenID) {
 
-            splitedLogoPath[4] = tokenID
-            tokenInfo.logo = splitedLogoPath.join('/')
+        //     splitedLogoPath[4] = tokenID
+        //     tokenInfo.logo = splitedLogoPath.join('/')
 
-            writeJsonFile(infoFullPath, tokenInfo)
-          }
-        }
+        //     writeJsonFile(infoFullPath, tokenInfo)
+        //   }
+        // }
 
         tokens[tokenID] = tokenInfo
       }
