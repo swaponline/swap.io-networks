@@ -1,0 +1,11 @@
+{
+  "name": "Caviar Token",
+  "address": "e6h5zshb1cqlw8v7ypkhdqv2bdrztntksyxwfgl8umtm",
+  "symbol": "CAVIAR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CAVIAR--e6h5zshb1cqlw8v7ypkhdqv2bdrztntksyxwfgl8umtm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Continuum World",
+  "address": "0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a",
+  "symbol": "UM",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UM--0x3b1a0c9252ee7403093ff55b4a5886d49a3d837a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

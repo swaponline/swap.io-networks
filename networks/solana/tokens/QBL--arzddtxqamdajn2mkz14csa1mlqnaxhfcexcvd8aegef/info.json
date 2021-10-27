@@ -1,0 +1,11 @@
+{
+  "name": "QIBLACOIN",
+  "address": "arzddtxqamdajn2mkz14csa1mlqnaxhfcexcvd8aegef",
+  "symbol": "QBL",
+  "decimals": 5,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/QBL--arzddtxqamdajn2mkz14csa1mlqnaxhfcexcvd8aegef/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

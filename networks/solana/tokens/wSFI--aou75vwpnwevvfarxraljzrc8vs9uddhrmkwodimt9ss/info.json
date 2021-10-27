@@ -1,0 +1,11 @@
+{
+  "name": "Spice (Wormhole)",
+  "address": "aou75vwpnwevvfarxraljzrc8vs9uddhrmkwodimt9ss",
+  "symbol": "wSFI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSFI--aou75vwpnwevvfarxraljzrc8vs9uddhrmkwodimt9ss/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "KDC (KURZ Digital Currency)",
+  "address": "9eaaufp7s38dkxxbjwzeg8oq1h1aippkuuieukvj9krt",
+  "symbol": "KDC",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KDC--9eaaufp7s38dkxxbjwzeg8oq1h1aippkuuieukvj9krt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Shakudo",
+  "address": "8z55xqupeqcjaqtjy3bwzjx24pmtcjdo8mee9ub7a3yv",
+  "symbol": "SHAK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

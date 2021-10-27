@@ -1,0 +1,11 @@
+{
+  "name": "Aurory",
+  "address": "auryydfxjib1zktir1jn1j9ecyutjb6rkqvmtyaixwpp",
+  "symbol": "AURY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AURY--auryydfxjib1zktir1jn1j9ecyutjb6rkqvmtyaixwpp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

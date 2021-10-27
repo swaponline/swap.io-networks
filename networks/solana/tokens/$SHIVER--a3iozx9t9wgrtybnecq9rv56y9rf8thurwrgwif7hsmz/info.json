@@ -1,0 +1,11 @@
+{
+  "name": "Shibaverse",
+  "address": "a3iozx9t9wgrtybnecq9rv56y9rf8thurwrgwif7hsmz",
+  "symbol": "$SHIVER",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/$SHIVER--a3iozx9t9wgrtybnecq9rv56y9rf8thurwrgwif7hsmz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Debyt",
+  "address": "4oczj97yh3cnqbdsqi8gzxpatr9cdmf7idx3dznng7n8",
+  "symbol": "DBYT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DBYT--4oczj97yh3cnqbdsqi8gzxpatr9cdmf7idx3dznng7n8/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

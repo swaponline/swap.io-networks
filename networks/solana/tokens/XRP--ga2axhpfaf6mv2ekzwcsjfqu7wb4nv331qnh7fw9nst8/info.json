@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped XRP (Sollet)",
+  "address": "ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8",
+  "symbol": "XRP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XRP--ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

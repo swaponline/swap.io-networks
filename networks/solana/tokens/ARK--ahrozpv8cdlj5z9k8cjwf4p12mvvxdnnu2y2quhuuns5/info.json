@@ -1,0 +1,11 @@
+{
+  "name": "Sol.Ark",
+  "address": "ahrozpv8cdlj5z9k8cjwf4p12mvvxdnnu2y2quhuuns5",
+  "symbol": "ARK",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ARK--ahrozpv8cdlj5z9k8cjwf4p12mvvxdnnu2y2quhuuns5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Quid Token",
+  "address": "5xnrrqoyolbixnwjvet6xb2ztybsxhenyuwj4sqzrgrv",
+  "symbol": "QUID",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/QUID--5xnrrqoyolbixnwjvet6xb2ztybsxhenyuwj4sqzrgrv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

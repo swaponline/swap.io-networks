@@ -1,0 +1,11 @@
+{
+  "name": "AllianceBlock Token (Wormhole)",
+  "address": "6k7mrqiaqewnabvn8fhfunurmrnamh44nnwydnxctbpv",
+  "symbol": "wALBT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wALBT--6k7mrqiaqewnabvn8fhfunurmrnamh44nnwydnxctbpv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

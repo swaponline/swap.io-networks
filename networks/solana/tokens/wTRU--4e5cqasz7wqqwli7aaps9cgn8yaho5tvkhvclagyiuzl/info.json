@@ -1,0 +1,11 @@
+{
+  "name": "TrustToken (Wormhole)",
+  "address": "4e5cqasz7wqqwli7aaps9cgn8yaho5tvkhvclagyiuzl",
+  "symbol": "wTRU",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wTRU--4e5cqasz7wqqwli7aaps9cgn8yaho5tvkhvclagyiuzl/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

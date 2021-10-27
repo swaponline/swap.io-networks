@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Legacy LP Token V2 (RAY-SRM)",
+  "address": "5qxbmxucl7zfak39jevvevcrz1avbggt9wahllhlyyuj",
+  "symbol": "RAY-SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAY-SRM--5qxbmxucl7zfak39jevvevcrz1avbggt9wahllhlyyuj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Decentraland MANA (Wormhole)",
+  "address": "drl2d4qcrcenkqz3ajikljbc3cs6fqqcq3w7t9vbshcu",
+  "symbol": "wMANA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMANA--drl2d4qcrcenkqz3ajikljbc3cs6fqqcq3w7t9vbshcu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

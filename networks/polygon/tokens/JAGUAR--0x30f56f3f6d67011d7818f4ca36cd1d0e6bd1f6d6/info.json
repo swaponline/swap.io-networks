@@ -1,0 +1,11 @@
+{
+  "name": "JaguarSwap",
+  "address": "0x30f56f3f6d67011d7818f4ca36cd1d0e6bd1f6d6",
+  "symbol": "JAGUAR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/JAGUAR--0x30f56f3f6d67011d7818f4ca36cd1d0e6bd1f6d6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

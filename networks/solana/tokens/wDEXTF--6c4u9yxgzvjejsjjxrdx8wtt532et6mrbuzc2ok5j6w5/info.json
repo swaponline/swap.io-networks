@@ -1,0 +1,11 @@
+{
+  "name": "DEXTF Token (Wormhole)",
+  "address": "6c4u9yxgzvjejsjjxrdx8wtt532et6mrbuzc2ok5j6w5",
+  "symbol": "wDEXTF",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDEXTF--6c4u9yxgzvjejsjjxrdx8wtt532et6mrbuzc2ok5j6w5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

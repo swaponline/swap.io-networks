@@ -1,0 +1,11 @@
+{
+  "name": "WENATURE",
+  "address": "7kwemnn8scdnb3gdyenss8jo8tgj7i3yhykryjbxv6jd",
+  "symbol": "WENA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WENA--7kwemnn8scdnb3gdyenss8jo8tgj7i3yhykryjbxv6jd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

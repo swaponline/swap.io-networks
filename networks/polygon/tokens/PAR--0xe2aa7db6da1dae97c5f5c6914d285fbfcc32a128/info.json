@@ -1,0 +1,11 @@
+{
+  "name": "Parallel",
+  "address": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128",
+  "symbol": "PAR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PAR--0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing KNC (Wormhole)",
+  "address": "7vd2gosm34hb7kughtqu1n3sw92hq3xwklti1n1tdkrj",
+  "symbol": "waKNC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waKNC--7vd2gosm34hb7kughtqu1n3sw92hq3xwklti1n1tdkrj/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Ether (Wormhole)",
+  "address": "7vfcxtuxx5wjv5jadk17duj4ksgau7utnkj4b963voxs",
+  "symbol": "WETH",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WETH--7vfcxtuxx5wjv5jadk17duj4ksgau7utnkj4b963voxs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

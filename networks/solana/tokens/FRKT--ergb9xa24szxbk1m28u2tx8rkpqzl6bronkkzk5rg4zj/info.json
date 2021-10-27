@@ -1,0 +1,11 @@
+{
+  "name": "FRAKT Token",
+  "address": "ergb9xa24szxbk1m28u2tx8rkpqzl6bronkkzk5rg4zj",
+  "symbol": "FRKT",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FRKT--ergb9xa24szxbk1m28u2tx8rkpqzl6bronkkzk5rg4zj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

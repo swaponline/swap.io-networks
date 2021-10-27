@@ -1,0 +1,11 @@
+{
+  "name": "pTokens ORE",
+  "address": "0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d",
+  "symbol": "ORE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ORE--0xd52f6ca48882be8fbaa98ce390db18e1dbe1062d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "007 Exchange",
+  "address": "eanigdvy2vkutzxvphnbazhfzgfo3bp61txughzw3cn7",
+  "symbol": "007E",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/007E--eanigdvy2vkutzxvphnbazhfzgfo3bp61txughzw3cn7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

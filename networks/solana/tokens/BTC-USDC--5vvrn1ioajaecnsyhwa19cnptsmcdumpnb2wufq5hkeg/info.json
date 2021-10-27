@@ -1,0 +1,11 @@
+{
+  "name": "HydraSwap LP Token (BTC-USDC)",
+  "address": "5vvrn1ioajaecnsyhwa19cnptsmcdumpnb2wufq5hkeg",
+  "symbol": "BTC-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTC-USDC--5vvrn1ioajaecnsyhwa19cnptsmcdumpnb2wufq5hkeg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

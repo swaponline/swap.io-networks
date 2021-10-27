@@ -1,0 +1,11 @@
+{
+  "name": "Crystal",
+  "address": "hbrmyoumgck6sdfbi6ezqdi4i4zgon16erb2jsekc7hi",
+  "symbol": "CRY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRY--hbrmyoumgck6sdfbi6ezqdi4i4zgon16erb2jsekc7hi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

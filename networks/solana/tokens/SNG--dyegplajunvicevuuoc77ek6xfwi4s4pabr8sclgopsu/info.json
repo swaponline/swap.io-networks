@@ -1,0 +1,11 @@
+{
+  "name": "Synergy",
+  "address": "dyegplajunvicevuuoc77ek6xfwi4s4pabr8sclgopsu",
+  "symbol": "SNG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SNG--dyegplajunvicevuuoc77ek6xfwi4s4pabr8sclgopsu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

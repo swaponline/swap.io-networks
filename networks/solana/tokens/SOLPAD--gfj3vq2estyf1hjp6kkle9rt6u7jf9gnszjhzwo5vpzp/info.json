@@ -1,0 +1,11 @@
+{
+  "name": "Solpad Finance",
+  "address": "gfj3vq2estyf1hjp6kkle9rt6u7jf9gnszjhzwo5vpzp",
+  "symbol": "SOLPAD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLPAD--gfj3vq2estyf1hjp6kkle9rt6u7jf9gnszjhzwo5vpzp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

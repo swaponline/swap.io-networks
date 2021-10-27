@@ -1,0 +1,11 @@
+{
+  "name": "zkrollup cross chain link",
+  "address": "6vesh51hzgqkp9icydis69v21ewumjlfkngpadzngewj",
+  "symbol": "ZKL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZKL--6vesh51hzgqkp9icydis69v21ewumjlfkngpadzngewj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

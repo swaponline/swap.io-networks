@@ -1,0 +1,11 @@
+{
+  "name": "Jarvis Synthetic Eu",
+  "address": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c",
+  "symbol": "JEUR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/JEUR--0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

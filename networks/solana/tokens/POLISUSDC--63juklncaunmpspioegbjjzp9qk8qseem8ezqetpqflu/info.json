@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (POLIS/USDC[aquafarm])",
+  "address": "63juklncaunmpspioegbjjzp9qk8qseem8ezqetpqflu",
+  "symbol": "POLISUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/POLISUSDC--63juklncaunmpspioegbjjzp9qk8qseem8ezqetpqflu/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

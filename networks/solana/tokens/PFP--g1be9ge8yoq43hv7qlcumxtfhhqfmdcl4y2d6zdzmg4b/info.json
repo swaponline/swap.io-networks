@@ -1,0 +1,11 @@
+{
+  "name": "Paizul Funeral Procession",
+  "address": "g1be9ge8yoq43hv7qlcumxtfhhqfmdcl4y2d6zdzmg4b",
+  "symbol": "PFP",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PFP--g1be9ge8yoq43hv7qlcumxtfhhqfmdcl4y2d6zdzmg4b/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Ahr Visits Earth",
+  "address": "6bd8mr8dyuvqn5dxd1jnqmcl66b5kuv14jyy1hsmnxte",
+  "symbol": "AVE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AVE--6bd8mr8dyuvqn5dxd1jnqmcl66b5kuv14jyy1hsmnxte/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

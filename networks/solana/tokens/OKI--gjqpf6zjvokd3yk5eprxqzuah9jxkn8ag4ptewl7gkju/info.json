@@ -1,0 +1,11 @@
+{
+  "name": "HDOKI",
+  "address": "gjqpf6zjvokd3yk5eprxqzuah9jxkn8ag4ptewl7gkju",
+  "symbol": "OKI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OKI--gjqpf6zjvokd3yk5eprxqzuah9jxkn8ag4ptewl7gkju/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Suplar",
+  "address": "dqrnwrvguffb1j9teyhcpw1dlmoc2qfwz25nkbhkvrmr",
+  "symbol": "SUPL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUPL--dqrnwrvguffb1j9teyhcpw1dlmoc2qfwz25nkbhkvrmr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "1INCH Token (Wormhole)",
+  "address": "8f3kzd9xepfgnz4fzneac5cjzlewnkne8qcjdvorgwuw",
+  "symbol": "w1INCH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/w1INCH--8f3kzd9xepfgnz4fzneac5cjzlewnkne8qcjdvorgwuw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

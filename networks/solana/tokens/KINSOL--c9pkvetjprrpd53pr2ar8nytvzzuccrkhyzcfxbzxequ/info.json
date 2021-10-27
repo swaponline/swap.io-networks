@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (KIN/SOL)",
+  "address": "c9pkvetjprrpd53pr2ar8nytvzzuccrkhyzcfxbzxequ",
+  "symbol": "KINSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KINSOL--c9pkvetjprrpd53pr2ar8nytvzzuccrkhyzcfxbzxequ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ExNetwork Community Token (Wormhole)",
+  "address": "3y2wttm4kcx8uuslrkj8wpajcu1c9lawwad7b7nb2bdw",
+  "symbol": "wEXNT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wEXNT--3y2wttm4kcx8uuslrkj8wpajcu1c9lawwad7b7nb2bdw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

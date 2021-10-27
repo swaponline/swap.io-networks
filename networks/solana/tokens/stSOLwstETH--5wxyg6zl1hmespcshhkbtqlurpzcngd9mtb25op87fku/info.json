@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (stSOL/wstETH[aquafarm])",
+  "address": "5wxyg6zl1hmespcshhkbtqlurpzcngd9mtb25op87fku",
+  "symbol": "stSOLwstETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/stSOLwstETH--5wxyg6zl1hmespcshhkbtqlurpzcngd9mtb25op87fku/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

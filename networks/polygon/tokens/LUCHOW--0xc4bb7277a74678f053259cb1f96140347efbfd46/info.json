@@ -1,0 +1,11 @@
+{
+  "name": "LunaChow",
+  "address": "0xc4bb7277a74678f053259cb1f96140347efbfd46",
+  "symbol": "LUCHOW",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/LUCHOW--0xc4bb7277a74678f053259cb1f96140347efbfd46/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Jogys Crypto School Token",
+  "address": "elyneh5hc33sqlhgiq5dimmwqijciqvjp3eqxpx3pkhq",
+  "symbol": "JCS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JCS--elyneh5hc33sqlhgiq5dimmwqijciqvjp3eqxpx3pkhq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

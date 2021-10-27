@@ -1,0 +1,11 @@
+{
+  "name": "Naked Shorts",
+  "address": "ss1gxeuiufjyumsxfgbewfe6marapmc53fqbnjbum15",
+  "symbol": "SS1",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SS1--ss1gxeuiufjyumsxfgbewfe6marapmc53fqbnjbum15/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

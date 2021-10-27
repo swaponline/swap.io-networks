@@ -1,0 +1,11 @@
+{
+  "name": "CherryPick",
+  "address": "0xe33dc9d2d7d64c1e23467ac7ed7f8ef56d0a8d66",
+  "symbol": "CHERRY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CHERRY--0xe33dc9d2d7d64c1e23467ac7ed7f8ef56d0a8d66/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fable",
+  "address": "gunphq4fn9gssygbpmyxtzs9nbs8ry88cx1so4v8kcif",
+  "symbol": "FABLE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FABLE--gunphq4fn9gssygbpmyxtzs9nbs8ry88cx1so4v8kcif/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GG Token",
+  "address": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159",
+  "symbol": "GGTK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GGTK--0x49b1be61a8ca3f9a9f178d6550e41e00d9162159/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Intersola",
+  "address": "333ihorm2awhf9uvztsytfu8aekdgrgqepzskmfpgkms",
+  "symbol": "ISOLA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ISOLA--333ihorm2awhf9uvztsytfu8aekdgrgqepzskmfpgkms/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

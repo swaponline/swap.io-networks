@@ -1,0 +1,11 @@
+{
+  "name": "Crazy Ape Coin",
+  "address": "gpymp8ep3hady8x1jlvffvbvyqxfnxt5mfhzazt9poco",
+  "symbol": "CAPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CAPE--gpymp8ep3hady8x1jlvffvbvyqxfnxt5mfhzazt9poco/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Map Metrics",
+  "address": "frtcryt6ohem7tdcfjjkdrmhqrwb9ejnobjsa2t95put",
+  "symbol": "MMaps",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

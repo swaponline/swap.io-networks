@@ -1,0 +1,11 @@
+{
+  "name": "Gold SolBull DNA",
+  "address": "bdna1bzdcqyerxgjf9dcqencqbykwqqn3z9qxypvq9uv",
+  "symbol": "BDNA1",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BDNA1--bdna1bzdcqyerxgjf9dcqencqbykwqqn3z9qxypvq9uv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

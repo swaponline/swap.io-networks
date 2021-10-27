@@ -1,0 +1,11 @@
+{
+  "name": "Solend SOL",
+  "address": "5h6ssfpederbzsehdbtqnh7nvggskrzydxdstnlm6qdv",
+  "symbol": "cSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cSOL--5h6ssfpederbzsehdbtqnh7nvggskrzydxdstnlm6qdv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

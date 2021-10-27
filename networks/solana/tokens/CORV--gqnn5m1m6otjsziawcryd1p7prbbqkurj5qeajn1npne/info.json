@@ -1,0 +1,11 @@
+{
+  "name": "Project Corvus",
+  "address": "gqnn5m1m6otjsziawcryd1p7prbbqkurj5qeajn1npne",
+  "symbol": "CORV",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CORV--gqnn5m1m6otjsziawcryd1p7prbbqkurj5qeajn1npne/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

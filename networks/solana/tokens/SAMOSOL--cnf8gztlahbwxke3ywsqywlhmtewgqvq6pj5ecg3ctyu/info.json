@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SAMO/SOL)",
+  "address": "cnf8gztlahbwxke3ywsqywlhmtewgqvq6pj5ecg3ctyu",
+  "symbol": "SAMOSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAMOSOL--cnf8gztlahbwxke3ywsqywlhmtewgqvq6pj5ecg3ctyu/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

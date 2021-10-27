@@ -1,0 +1,11 @@
+{
+  "name": "SOLARIS",
+  "address": "8sstatx7m2x5zm24ebzvb9gfxfyuc9rcgpl5pxa2xwx8",
+  "symbol": "STG",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STG--8sstatx7m2x5zm24ebzvb9gfxfyuc9rcgpl5pxa2xwx8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

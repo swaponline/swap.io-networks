@@ -1,0 +1,11 @@
+{
+  "name": "MercuryPAD Token",
+  "address": "9kee6o1jrtqfdfbo2aezsskcxbnwuq1rvevat1td8zbv",
+  "symbol": "MPAD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MPAD--9kee6o1jrtqfdfbo2aezsskcxbnwuq1rvevat1td8zbv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

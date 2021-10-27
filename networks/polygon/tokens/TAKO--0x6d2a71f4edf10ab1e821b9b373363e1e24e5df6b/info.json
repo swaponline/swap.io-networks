@@ -1,0 +1,11 @@
+{
+  "name": "Tako Token",
+  "address": "0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b",
+  "symbol": "TAKO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TAKO--0x6d2a71f4edf10ab1e821b9b373363e1e24e5df6b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

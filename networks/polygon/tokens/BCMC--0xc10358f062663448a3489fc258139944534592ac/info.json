@@ -1,0 +1,11 @@
+{
+  "name": "Blockchain Monster ",
+  "address": "0xc10358f062663448a3489fc258139944534592ac",
+  "symbol": "BCMC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BCMC--0xc10358f062663448a3489fc258139944534592ac/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

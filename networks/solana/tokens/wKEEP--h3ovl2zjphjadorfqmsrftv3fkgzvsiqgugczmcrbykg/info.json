@@ -1,0 +1,11 @@
+{
+  "name": "KEEP Token (Wormhole)",
+  "address": "h3ovl2zjphjadorfqmsrftv3fkgzvsiqgugczmcrbykg",
+  "symbol": "wKEEP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wKEEP--h3ovl2zjphjadorfqmsrftv3fkgzvsiqgugczmcrbykg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

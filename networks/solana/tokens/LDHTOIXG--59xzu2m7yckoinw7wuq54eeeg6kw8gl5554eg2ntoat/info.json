@@ -1,0 +1,11 @@
+{
+  "name": "LDHTOIXGCOIN",
+  "address": "59xzu2m7yckoinw7wuq54eeeg6kw8gl5554eg2ntoat",
+  "symbol": "LDHTOIXG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LDHTOIXG--59xzu2m7yckoinw7wuq54eeeg6kw8gl5554eg2ntoat/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

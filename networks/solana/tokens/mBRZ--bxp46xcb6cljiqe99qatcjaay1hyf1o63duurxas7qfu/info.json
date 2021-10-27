@@ -1,0 +1,11 @@
+{
+  "name": "SolMiner Bronze",
+  "address": "bxp46xcb6cljiqe99qatcjaay1hyf1o63duurxas7qfu",
+  "symbol": "mBRZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mBRZ--bxp46xcb6cljiqe99qatcjaay1hyf1o63duurxas7qfu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

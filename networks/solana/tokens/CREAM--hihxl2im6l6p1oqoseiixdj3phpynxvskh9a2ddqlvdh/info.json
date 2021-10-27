@@ -1,0 +1,11 @@
+{
+  "name": "Cream (Wormhole)",
+  "address": "hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh",
+  "symbol": "CREAM",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CREAM--hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

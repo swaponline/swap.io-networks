@@ -1,0 +1,11 @@
+{
+  "name": "Penn National Gaming",
+  "address": "crcop5khbdltyjyg7z3u6yivqi4fqhbyhdtb18qh2ta9",
+  "symbol": "PENN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PENN--crcop5khbdltyjyg7z3u6yivqi4fqhbyhdtb18qh2ta9/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

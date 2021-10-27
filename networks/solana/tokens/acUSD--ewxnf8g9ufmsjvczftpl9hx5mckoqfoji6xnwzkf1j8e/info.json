@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped CUSD (Allbridge from Celo)",
+  "address": "ewxnf8g9ufmsjvczftpl9hx5mckoqfoji6xnwzkf1j8e",
+  "symbol": "acUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/acUSD--ewxnf8g9ufmsjvczftpl9hx5mckoqfoji6xnwzkf1j8e/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

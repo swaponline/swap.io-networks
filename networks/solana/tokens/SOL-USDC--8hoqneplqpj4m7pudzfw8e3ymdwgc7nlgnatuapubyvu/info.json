@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SOL-USDC)",
+  "address": "8hoqneplqpj4m7pudzfw8e3ymdwgc7nlgnatuapubyvu",
+  "symbol": "SOL-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOL-USDC--8hoqneplqpj4m7pudzfw8e3ymdwgc7nlgnatuapubyvu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

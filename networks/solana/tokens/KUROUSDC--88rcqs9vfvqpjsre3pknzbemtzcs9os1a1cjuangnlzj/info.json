@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (KURO/USDC[aquafarm])",
+  "address": "88rcqs9vfvqpjsre3pknzbemtzcs9os1a1cjuangnlzj",
+  "symbol": "KUROUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KUROUSDC--88rcqs9vfvqpjsre3pknzbemtzcs9os1a1cjuangnlzj/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

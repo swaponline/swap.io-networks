@@ -1,0 +1,11 @@
+{
+  "name": "Seldom",
+  "address": "hp5cjjw9yxjeo8magkyuomzkgpuxewyo6ggt6hj56atw",
+  "symbol": "SDM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SDM--hp5cjjw9yxjeo8magkyuomzkgpuxewyo6ggt6hj56atw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

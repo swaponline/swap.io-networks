@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Helium (Sollet)",
+  "address": "hqb7uswovg4suaqidp3wjxob1g5wdz144zhdstwmcq7e",
+  "symbol": "HNT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HNT--hqb7uswovg4suaqidp3wjxob1g5wdz144zhdstwmcq7e/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

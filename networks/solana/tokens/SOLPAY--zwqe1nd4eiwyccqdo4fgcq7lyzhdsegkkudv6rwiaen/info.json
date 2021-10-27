@@ -1,0 +1,11 @@
+{
+  "name": "SOLPAY",
+  "address": "zwqe1nd4eiwyccqdo4fgcq7lyzhdsegkkudv6rwiaen",
+  "symbol": "SOLPAY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

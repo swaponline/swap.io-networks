@@ -1,0 +1,11 @@
+{
+  "name": "iShares MSCI Japan ETF",
+  "address": "acxn3wxparc7r5jwrkphsumbgwywx1vrydnhxxvgc8v6",
+  "symbol": "EWJ",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EWJ--acxn3wxparc7r5jwrkphsumbgwywx1vrydnhxxvgc8v6/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

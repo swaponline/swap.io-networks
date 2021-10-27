@@ -1,0 +1,11 @@
+{
+  "name": "Curve DAO Token (Wormhole)",
+  "address": "apmxkxxcasdxrf3ln6ni7oaz7e6cx1ccjad8a5qbdhsm",
+  "symbol": "wCRV",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCRV--apmxkxxcasdxrf3ln6ni7oaz7e6cx1ccjad8a5qbdhsm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

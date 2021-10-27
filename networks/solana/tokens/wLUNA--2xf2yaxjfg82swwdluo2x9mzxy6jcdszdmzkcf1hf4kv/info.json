@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped LUNA Token (Wormhole)",
+  "address": "2xf2yaxjfg82swwdluo2x9mzxy6jcdszdmzkcf1hf4kv",
+  "symbol": "wLUNA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLUNA--2xf2yaxjfg82swwdluo2x9mzxy6jcdszdmzkcf1hf4kv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SOLBERRY",
+  "address": "ews2atmt5fqk89nwljynrmganoji8mhfzkub4diwcccz",
+  "symbol": "SOLBERRY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLBERRY--ews2atmt5fqk89nwljynrmganoji8mhfzkub4diwcccz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

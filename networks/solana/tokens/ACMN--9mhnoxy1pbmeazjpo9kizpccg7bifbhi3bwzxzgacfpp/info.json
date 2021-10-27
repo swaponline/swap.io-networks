@@ -1,0 +1,11 @@
+{
+  "name": "ACUMEN",
+  "address": "9mhnoxy1pbmeazjpo9kizpccg7bifbhi3bwzxzgacfpp",
+  "symbol": "ACMN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ACMN--9mhnoxy1pbmeazjpo9kizpccg7bifbhi3bwzxzgacfpp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

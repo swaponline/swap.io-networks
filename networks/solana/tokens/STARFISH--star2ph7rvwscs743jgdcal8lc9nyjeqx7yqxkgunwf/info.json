@@ -1,0 +1,11 @@
+{
+  "name": "Orca Starfish Collectible",
+  "address": "star2ph7rvwscs743jgdcal8lc9nyjeqx7yqxkgunwf",
+  "symbol": "STARFISH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STARFISH--star2ph7rvwscs743jgdcal8lc9nyjeqx7yqxkgunwf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

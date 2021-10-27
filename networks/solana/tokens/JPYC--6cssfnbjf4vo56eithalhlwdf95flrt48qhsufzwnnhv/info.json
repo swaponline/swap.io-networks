@@ -1,0 +1,11 @@
+{
+  "name": "JPY Coin(Wormhole)",
+  "address": "6cssfnbjf4vo56eithalhlwdf95flrt48qhsufzwnnhv",
+  "symbol": "JPYC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JPYC--6cssfnbjf4vo56eithalhlwdf95flrt48qhsufzwnnhv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

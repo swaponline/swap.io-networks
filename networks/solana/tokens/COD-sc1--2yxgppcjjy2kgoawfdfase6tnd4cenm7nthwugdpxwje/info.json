@@ -1,0 +1,11 @@
+{
+  "name": "Sceptre Token v1 (Sceptre-TOKEN)",
+  "address": "2yxgppcjjy2kgoawfdfase6tnd4cenm7nthwugdpxwje",
+  "symbol": "COD-sc1",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COD-sc1--2yxgppcjjy2kgoawfdfase6tnd4cenm7nthwugdpxwje/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

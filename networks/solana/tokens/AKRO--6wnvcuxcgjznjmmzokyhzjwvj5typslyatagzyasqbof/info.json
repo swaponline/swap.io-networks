@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped AKRO (Sollet)",
+  "address": "6wnvcuxcgjznjmmzokyhzjwvj5typslyatagzyasqbof",
+  "symbol": "AKRO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AKRO--6wnvcuxcgjznjmmzokyhzjwvj5typslyatagzyasqbof/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

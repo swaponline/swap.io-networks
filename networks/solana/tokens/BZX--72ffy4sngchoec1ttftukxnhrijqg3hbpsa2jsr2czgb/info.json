@@ -1,0 +1,11 @@
+{
+  "name": "BlizeX",
+  "address": "72ffy4sngchoec1ttftukxnhrijqg3hbpsa2jsr2czgb",
+  "symbol": "BZX",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BZX--72ffy4sngchoec1ttftukxnhrijqg3hbpsa2jsr2czgb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

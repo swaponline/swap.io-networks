@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (MAPS/SOL)",
+  "address": "ehkfnhklltuqo1xmzlxhm9eusegpn6rxppzsgpusewaa",
+  "symbol": "MAPSSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MAPSSOL--ehkfnhklltuqo1xmzlxhm9eusegpn6rxppzsgpusewaa/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing YFI (Wormhole)",
+  "address": "ee58fvyg1uoy6givy3k3gsrde9shmj6x1bnochbtd3sz",
+  "symbol": "waYFI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waYFI--ee58fvyg1uoy6givy3k3gsrde9shmj6x1bnochbtd3sz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

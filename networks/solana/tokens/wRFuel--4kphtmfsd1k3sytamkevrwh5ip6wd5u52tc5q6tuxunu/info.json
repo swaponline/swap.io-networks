@@ -1,0 +1,11 @@
+{
+  "name": "Rio Fuel Token (Wormhole)",
+  "address": "4kphtmfsd1k3sytamkevrwh5ip6wd5u52tc5q6tuxunu",
+  "symbol": "wRFuel",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRFuel--4kphtmfsd1k3sytamkevrwh5ip6wd5u52tc5q6tuxunu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

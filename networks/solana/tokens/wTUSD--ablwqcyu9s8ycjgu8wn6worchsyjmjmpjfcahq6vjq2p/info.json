@@ -1,0 +1,11 @@
+{
+  "name": "TrueUSD (Wormhole)",
+  "address": "ablwqcyu9s8ycjgu8wn6worchsyjmjmpjfcahq6vjq2p",
+  "symbol": "wTUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wTUSD--ablwqcyu9s8ycjgu8wn6worchsyjmjmpjfcahq6vjq2p/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

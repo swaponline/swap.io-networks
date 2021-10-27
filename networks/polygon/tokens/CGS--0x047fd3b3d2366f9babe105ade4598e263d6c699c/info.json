@@ -1,0 +1,11 @@
+{
+  "name": "Cougar Token",
+  "address": "0x047fd3b3d2366f9babe105ade4598e263d6c699c",
+  "symbol": "CGS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CGS--0x047fd3b3d2366f9babe105ade4598e263d6c699c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

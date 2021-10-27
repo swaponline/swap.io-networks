@@ -1,0 +1,11 @@
+{
+  "name": "Star Atlas",
+  "address": "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx",
+  "symbol": "ATLAS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ATLAS--atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

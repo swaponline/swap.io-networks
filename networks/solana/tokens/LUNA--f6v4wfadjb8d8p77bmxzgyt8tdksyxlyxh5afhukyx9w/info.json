@@ -1,0 +1,11 @@
+{
+  "name": "LUNA (Wormhole)",
+  "address": "f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w",
+  "symbol": "LUNA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LUNA--f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

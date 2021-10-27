@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin (Wormhole)",
+  "address": "fvsxunbhifqj4lixqebputxvdb8t5adlkqss5t1oc54f",
+  "symbol": "wUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUSDC--fvsxunbhifqj4lixqebputxvdb8t5adlkqss5t1oc54f/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

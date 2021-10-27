@@ -1,0 +1,11 @@
+{
+  "name": "SolanaSail Governance Token V2",
+  "address": "gsai2kn28mtgcsz1gkyfswupfps7em9mvdr9c8f6ivxj",
+  "symbol": "gSAIL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/gSAIL--gsai2kn28mtgcsz1gkyfswupfps7em9mvdr9c8f6ivxj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

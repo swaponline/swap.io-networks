@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BTC (Allbridge from Avalanche)",
+  "address": "fd8xyhhrjtvxfzrbirb6maxsmrzyw99grsqfukdfwfvw",
+  "symbol": "aaWBTC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aaWBTC--fd8xyhhrjtvxfzrbirb6maxsmrzyw99grsqfukdfwfvw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

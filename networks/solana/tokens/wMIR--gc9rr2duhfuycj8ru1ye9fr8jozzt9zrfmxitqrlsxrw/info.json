@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped MIR Token (Wormhole)",
+  "address": "gc9rr2duhfuycj8ru1ye9fr8jozzt9zrfmxitqrlsxrw",
+  "symbol": "wMIR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMIR--gc9rr2duhfuycj8ru1ye9fr8jozzt9zrfmxitqrlsxrw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BLD",
+  "address": "9bqxrgpnyf9v2qgh6z8dip5e96c18recdqxd87xcpkzw",
+  "symbol": "BOLELD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

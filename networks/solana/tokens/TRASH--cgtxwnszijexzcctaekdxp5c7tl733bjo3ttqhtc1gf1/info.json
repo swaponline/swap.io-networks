@@ -1,0 +1,11 @@
+{
+  "name": "Trashy Pandas",
+  "address": "cgtxwnszijexzcctaekdxp5c7tl733bjo3ttqhtc1gf1",
+  "symbol": "TRASH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TRASH--cgtxwnszijexzcctaekdxp5c7tl733bjo3ttqhtc1gf1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

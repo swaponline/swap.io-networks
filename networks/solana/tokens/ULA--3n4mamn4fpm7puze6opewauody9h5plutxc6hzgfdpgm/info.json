@@ -1,0 +1,11 @@
+{
+  "name": "Solana Mobile App UlaPay Token",
+  "address": "3n4mamn4fpm7puze6opewauody9h5plutxc6hzgfdpgm",
+  "symbol": "ULA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ULA--3n4mamn4fpm7puze6opewauody9h5plutxc6hzgfdpgm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

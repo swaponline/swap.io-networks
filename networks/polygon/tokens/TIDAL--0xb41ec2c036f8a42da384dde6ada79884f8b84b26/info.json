@@ -1,0 +1,11 @@
+{
+  "name": "Tidal Finance",
+  "address": "0xb41ec2c036f8a42da384dde6ada79884f8b84b26",
+  "symbol": "TIDAL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TIDAL--0xb41ec2c036f8a42da384dde6ada79884f8b84b26/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

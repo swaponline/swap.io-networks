@@ -1,0 +1,11 @@
+{
+  "name": "Dogelana",
+  "address": "e6uu5m1z4cvsaaf99d9wroxsaswmexsvhrz3jqrxtm2x",
+  "symbol": "DGLN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DGLN--e6uu5m1z4cvsaaf99d9wroxsaswmexsvhrz3jqrxtm2x/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

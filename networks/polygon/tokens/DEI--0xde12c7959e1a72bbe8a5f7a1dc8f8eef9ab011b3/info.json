@@ -1,0 +1,11 @@
+{
+  "name": "DEI Token",
+  "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+  "symbol": "DEI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DEI--0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

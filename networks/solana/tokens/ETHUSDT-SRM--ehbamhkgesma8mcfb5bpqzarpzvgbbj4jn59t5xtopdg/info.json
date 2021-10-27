@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (ETH/USDT-SRM)",
+  "address": "ehbamhkgesma8mcfb5bpqzarpzvgbbj4jn59t5xtopdg",
+  "symbol": "ETHUSDT-SRM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETHUSDT-SRM--ehbamhkgesma8mcfb5bpqzarpzvgbbj4jn59t5xtopdg/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

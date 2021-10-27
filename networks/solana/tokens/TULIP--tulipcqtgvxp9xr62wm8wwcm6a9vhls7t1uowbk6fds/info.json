@@ -1,0 +1,11 @@
+{
+  "name": "Tulip",
+  "address": "tulipcqtgvxp9xr62wm8wwcm6a9vhls7t1uowbk6fds",
+  "symbol": "TULIP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TULIP--tulipcqtgvxp9xr62wm8wwcm6a9vhls7t1uowbk6fds/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

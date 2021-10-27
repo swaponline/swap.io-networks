@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (LIQ/USDC)",
+  "address": "57vgdcmzlnbnr4tz4hgrpgjzgr9vtphu8l9bnkdrqxkt",
+  "symbol": "LIQUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIQUSDC--57vgdcmzlnbnr4tz4hgrpgjzgr9vtphu8l9bnkdrqxkt/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

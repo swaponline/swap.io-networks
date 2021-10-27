@@ -1,0 +1,11 @@
+{
+  "name": "Elemento6",
+  "address": "c4kmkzq8o6nap8ptoerjf6c7v4pjcve3o2osrp24f5gp",
+  "symbol": "CERCr",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CERCr--c4kmkzq8o6nap8ptoerjf6c7v4pjcve3o2osrp24f5gp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solana Yield",
+  "address": "7ic3csqd6iiwsqxdybbcs2qyfmcky2hndldrjhmkz4cq",
+  "symbol": "$SOLY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "renZEC",
+  "address": "e99cq2gfmmbiyk2bwiafnwuumwz4r8k2cvefxwuvq7ue",
+  "symbol": "renZEC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renZEC--e99cq2gfmmbiyk2bwiafnwuumwz4r8k2cvefxwuvq7ue/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solpad",
+  "address": "4drv8khcops3swrj6t1bb2dzt9jd4mzp6nc7jisuuv1b",
+  "symbol": "SPD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SPD--4drv8khcops3swrj6t1bb2dzt9jd4mzp6nc7jisuuv1b/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

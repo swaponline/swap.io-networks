@@ -1,0 +1,11 @@
+{
+  "name": "Xend Finance",
+  "address": "0x86775d0b80b3df266af5377db34ba8f318d715ec",
+  "symbol": "XEND",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/XEND--0x86775d0b80b3df266af5377db34ba8f318d715ec/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

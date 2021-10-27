@@ -1,0 +1,11 @@
+{
+  "name": "CheesecakeSwap",
+  "address": "0xbc2597d3f1f9565100582cde02e3712d03b8b0f6",
+  "symbol": "CCAKE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CCAKE--0xbc2597d3f1f9565100582cde02e3712d03b8b0f6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

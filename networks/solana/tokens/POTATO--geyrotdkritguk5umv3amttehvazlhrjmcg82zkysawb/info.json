@@ -1,0 +1,11 @@
+{
+  "name": "POTATO",
+  "address": "geyrotdkritguk5umv3amttehvazlhrjmcg82zkysawb",
+  "symbol": "POTATO",
+  "decimals": 3,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/POTATO--geyrotdkritguk5umv3amttehvazlhrjmcg82zkysawb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

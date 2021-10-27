@@ -1,0 +1,11 @@
+{
+  "name": "MegaSerum",
+  "address": "msrmcovyrfxnsgo5uxwone5skcght1kejmfekmewf9l",
+  "symbol": "MSRM",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MSRM--msrmcovyrfxnsgo5uxwone5skcght1kejmfekmewf9l/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

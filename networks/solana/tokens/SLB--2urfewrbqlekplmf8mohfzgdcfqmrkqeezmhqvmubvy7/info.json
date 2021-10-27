@@ -1,0 +1,11 @@
+{
+  "name": "Solberg",
+  "address": "2urfewrbqlekplmf8mohfzgdcfqmrkqeezmhqvmubvy7",
+  "symbol": "SLB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLB--2urfewrbqlekplmf8mohfzgdcfqmrkqeezmhqvmubvy7/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

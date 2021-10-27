@@ -1,0 +1,11 @@
+{
+  "name": "BandToken (Wormhole)",
+  "address": "av7ngjv2bsgeukzutrcumz3ld37xlcltygfig5wj3kqn",
+  "symbol": "wBAND",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBAND--av7ngjv2bsgeukzutrcumz3ld37xlcltygfig5wj3kqn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

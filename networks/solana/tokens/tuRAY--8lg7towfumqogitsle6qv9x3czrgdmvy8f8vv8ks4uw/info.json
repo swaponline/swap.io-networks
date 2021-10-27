@@ -1,0 +1,11 @@
+{
+  "name": "tuRAY",
+  "address": "8lg7towfumqogitsle6qv9x3czrgdmvy8f8vv8ks4uw",
+  "symbol": "tuRAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuRAY--8lg7towfumqogitsle6qv9x3czrgdmvy8f8vv8ks4uw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

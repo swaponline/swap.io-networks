@@ -1,0 +1,11 @@
+{
+  "name": "Jetson",
+  "address": "bijqpsehhkqwmy5n9k66twhdzxbjsnwtdtefua164jxf",
+  "symbol": "JTSN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JTSN--bijqpsehhkqwmy5n9k66twhdzxbjsnwtdtefua164jxf/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

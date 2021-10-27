@@ -1,0 +1,11 @@
+{
+  "name": "ILearnBLock",
+  "address": "hpcpwj5arshjjdygmjqycuhkdfwlqjdmrrb6bhadrkxg",
+  "symbol": "ILB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ILB--hpcpwj5arshjjdygmjqycuhkdfwlqjdmrrb6bhadrkxg/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

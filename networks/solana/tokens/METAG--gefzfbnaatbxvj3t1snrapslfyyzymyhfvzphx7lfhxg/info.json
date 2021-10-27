@@ -1,0 +1,11 @@
+{
+  "name": "METASEER Governance Token",
+  "address": "gefzfbnaatbxvj3t1snrapslfyyzymyhfvzphx7lfhxg",
+  "symbol": "METAG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/METAG--gefzfbnaatbxvj3t1snrapslfyyzymyhfvzphx7lfhxg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

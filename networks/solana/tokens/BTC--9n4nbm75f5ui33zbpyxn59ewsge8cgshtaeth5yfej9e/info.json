@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Bitcoin (Sollet)",
+  "address": "9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e",
+  "symbol": "BTC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTC--9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

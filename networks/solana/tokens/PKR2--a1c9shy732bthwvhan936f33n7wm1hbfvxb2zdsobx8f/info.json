@@ -1,0 +1,11 @@
+{
+  "name": "PKR2",
+  "address": "a1c9shy732bthwvhan936f33n7wm1hbfvxb2zdsobx8f",
+  "symbol": "PKR2",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PKR2--a1c9shy732bthwvhan936f33n7wm1hbfvxb2zdsobx8f/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

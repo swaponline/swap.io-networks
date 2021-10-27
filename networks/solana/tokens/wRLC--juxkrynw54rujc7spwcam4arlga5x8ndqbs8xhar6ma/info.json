@@ -1,0 +1,11 @@
+{
+  "name": "iExec RLC (Wormhole)",
+  "address": "juxkrynw54rujc7spwcam4arlga5x8ndqbs8xhar6ma",
+  "symbol": "wRLC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRLC--juxkrynw54rujc7spwcam4arlga5x8ndqbs8xhar6ma/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

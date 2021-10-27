@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SLIM-SOL)",
+  "address": "9x4ek8e59vavi6chnnvvd39m6yg9rtkbbapq1mdvjt57",
+  "symbol": "SLIM-SOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLIM-SOL--9x4ek8e59vavi6chnnvvd39m6yg9rtkbbapq1mdvjt57/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Naxar",
+  "address": "fp4gjlptspqbn6xdgpdhwtnueofjyizkxxzxzvjnjxv6",
+  "symbol": "NAXAR",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NAXAR--fp4gjlptspqbn6xdgpdhwtnueofjyizkxxzxzvjnjxv6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

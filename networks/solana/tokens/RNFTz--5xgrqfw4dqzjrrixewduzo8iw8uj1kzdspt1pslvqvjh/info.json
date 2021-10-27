@@ -1,0 +1,11 @@
+{
+  "name": "RNFTz",
+  "address": "5xgrqfw4dqzjrrixewduzo8iw8uj1kzdspt1pslvqvjh",
+  "symbol": "RNFTz",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RNFTz--5xgrqfw4dqzjrrixewduzo8iw8uj1kzdspt1pslvqvjh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

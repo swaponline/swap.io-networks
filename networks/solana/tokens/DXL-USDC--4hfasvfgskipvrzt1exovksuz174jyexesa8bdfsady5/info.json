@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (DXL-USDC)",
+  "address": "4hfasvfgskipvrzt1exovksuz174jyexesa8bdfsady5",
+  "symbol": "DXL-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

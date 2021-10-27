@@ -1,0 +1,11 @@
+{
+  "name": "EcoPoo",
+  "address": "frbqqnbulombug4gtqmeulgcdhyy6ywf9nruula98qmq",
+  "symbol": "ECOP",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ECOP--frbqqnbulombug4gtqmeulgcdhyy6ywf9nruula98qmq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

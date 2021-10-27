@@ -1,0 +1,11 @@
+{
+  "name": "LMS Stars",
+  "address": "dxwxdwbqnyxs4abcrwaju2xi4xpyjlp3uxrhsu1ju6gs",
+  "symbol": "LMS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

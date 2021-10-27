@@ -1,0 +1,11 @@
+{
+  "name": "Armstrong Forever",
+  "address": "9vi6ptkbfhr2hxgyjotzx6h7wxnkfaa5dcszrsi4higk",
+  "symbol": "ASF",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ASF--9vi6ptkbfhr2hxgyjotzx6h7wxnkfaa5dcszrsi4higk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

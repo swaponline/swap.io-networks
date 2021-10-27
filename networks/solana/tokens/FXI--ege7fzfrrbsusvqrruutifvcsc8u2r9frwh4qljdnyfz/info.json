@@ -1,0 +1,11 @@
+{
+  "name": "iShares China Large-Cap ETF",
+  "address": "ege7fzfrrbsusvqrruutifvcsc8u2r9frwh4qljdnyfz",
+  "symbol": "FXI",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FXI--ege7fzfrrbsusvqrruutifvcsc8u2r9frwh4qljdnyfz/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (ETH-SRM)",
+  "address": "9voy3veretuc2foadmsyyizf26mjiny514zpezkhmtwg",
+  "symbol": "ETH-SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETH-SRM--9voy3veretuc2foadmsyyizf26mjiny514zpezkhmtwg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

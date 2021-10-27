@@ -1,0 +1,11 @@
+{
+  "name": "iShares MSCI Australia ETF",
+  "address": "c9vmzbz1ucmyscmmczfw6n9asyhxdawnuhxd8ygca1ah",
+  "symbol": "EWA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EWA--c9vmzbz1ucmyscmmczfw6n9asyhxdawnuhxd8ygca1ah/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

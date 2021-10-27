@@ -1,0 +1,11 @@
+{
+  "name": "BitberryToken (Wormhole)",
+  "address": "fe5fwjcldmjoi4stmfr2vw4bt1lwsbr1n6qajzjqvhhf",
+  "symbol": "wBBR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBBR--fe5fwjcldmjoi4stmfr2vw4bt1lwsbr1n6qajzjqvhhf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

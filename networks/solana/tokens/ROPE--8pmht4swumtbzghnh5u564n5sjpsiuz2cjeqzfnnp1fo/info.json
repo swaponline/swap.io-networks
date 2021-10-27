@@ -1,0 +1,11 @@
+{
+  "name": "Rope Token",
+  "address": "8pmht4swumtbzghnh5u564n5sjpsiuz2cjeqzfnnp1fo",
+  "symbol": "ROPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ROPE--8pmht4swumtbzghnh5u564n5sjpsiuz2cjeqzfnnp1fo/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

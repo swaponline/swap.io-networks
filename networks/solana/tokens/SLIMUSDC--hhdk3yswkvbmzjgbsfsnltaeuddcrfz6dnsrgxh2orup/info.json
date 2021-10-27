@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (SLIM/USDC[aquafarm])",
+  "address": "hhdk3yswkvbmzjgbsfsnltaeuddcrfz6dnsrgxh2orup",
+  "symbol": "SLIMUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLIMUSDC--hhdk3yswkvbmzjgbsfsnltaeuddcrfz6dnsrgxh2orup/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

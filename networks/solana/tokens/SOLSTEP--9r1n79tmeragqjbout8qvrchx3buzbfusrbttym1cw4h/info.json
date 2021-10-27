@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (SOL/STEP)",
+  "address": "9r1n79tmeragqjbout8qvrchx3buzbfusrbttym1cw4h",
+  "symbol": "SOLSTEP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLSTEP--9r1n79tmeragqjbout8qvrchx3buzbfusrbttym1cw4h/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

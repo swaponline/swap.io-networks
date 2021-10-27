@@ -1,0 +1,11 @@
+{
+  "name": "KAKI Token",
+  "address": "bzrca9yndtnshtsid9gtvbmaxzzrse6drxqnfxp5mpdc",
+  "symbol": "KAKI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KAKI--bzrca9yndtnshtsid9gtvbmaxzzrse6drxqnfxp5mpdc/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

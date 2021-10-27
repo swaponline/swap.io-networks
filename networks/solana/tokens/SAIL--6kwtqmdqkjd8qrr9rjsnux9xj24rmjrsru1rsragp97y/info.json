@@ -1,0 +1,11 @@
+{
+  "name": "SAIL",
+  "address": "6kwtqmdqkjd8qrr9rjsnux9xj24rmjrsru1rsragp97y",
+  "symbol": "SAIL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAIL--6kwtqmdqkjd8qrr9rjsnux9xj24rmjrsru1rsragp97y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (LIQ-RAY)",
+  "address": "49yusdrthjoshsagcn1f59uc9nrxbr9thvrzikunqdxy",
+  "symbol": "LIQ-RAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIQ-RAY--49yusdrthjoshsagcn1f59uc9nrxbr9thvrzikunqdxy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

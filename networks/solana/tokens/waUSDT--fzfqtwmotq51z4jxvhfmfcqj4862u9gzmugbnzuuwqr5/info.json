@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing USDT (Wormhole)",
+  "address": "fzfqtwmotq51z4jxvhfmfcqj4862u9gzmugbnzuuwqr5",
+  "symbol": "waUSDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUSDT--fzfqtwmotq51z4jxvhfmfcqj4862u9gzmugbnzuuwqr5/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

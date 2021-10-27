@@ -1,0 +1,11 @@
+{
+  "name": "Carbon Farm",
+  "address": "clg4lwp4p3bfzf5vpe1kaedv7a8bef9ellxad7xganmb",
+  "symbol": "CRB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

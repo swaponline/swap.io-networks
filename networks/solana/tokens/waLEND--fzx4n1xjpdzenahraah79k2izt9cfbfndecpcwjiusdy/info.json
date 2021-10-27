@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing LEND (Wormhole)",
+  "address": "fzx4n1xjpdzenahraah79k2izt9cfbfndecpcwjiusdy",
+  "symbol": "waLEND",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waLEND--fzx4n1xjpdzenahraah79k2izt9cfbfndecpcwjiusdy/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

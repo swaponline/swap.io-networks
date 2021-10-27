@@ -1,0 +1,11 @@
+{
+  "name": "El Palito Coin",
+  "address": "zwufhitwqsd722dabfypw6vmsti5pbfmgqurddpknuj",
+  "symbol": "SEED",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SEED--zwufhitwqsd722dabfypw6vmsti5pbfmgqurddpknuj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PlusPlus",
+  "address": "8omhsgmaellc77ddfyzernns39odt7cj7gq5o9thcafm",
+  "symbol": "PLUS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PLUS--8omhsgmaellc77ddfyzernns39odt7cj7gq5o9thcafm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

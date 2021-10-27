@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap LINK LP (Wormhole)",
+  "address": "fsstfbb1vh1tre8ja64hc65qtc7ppuhwhh5utawj5hah",
+  "symbol": "wUniLINKETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUniLINKETH--fsstfbb1vh1tre8ja64hc65qtc7ppuhwhh5utawj5hah/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

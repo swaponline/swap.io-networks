@@ -1,0 +1,11 @@
+{
+  "name": "PARTI",
+  "address": "b3ggjjj3qargpkftajir6bad8cwkfuawrxgcdq1nyeed",
+  "symbol": "PARTI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PARTI--b3ggjjj3qargpkftajir6bad8cwkfuawrxgcdq1nyeed/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

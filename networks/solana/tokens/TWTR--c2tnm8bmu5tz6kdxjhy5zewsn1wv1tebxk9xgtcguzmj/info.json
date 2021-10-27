@@ -1,0 +1,11 @@
+{
+  "name": "Twitter",
+  "address": "c2tnm8bmu5tz6kdxjhy5zewsn1wv1tebxk9xgtcguzmj",
+  "symbol": "TWTR",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TWTR--c2tnm8bmu5tz6kdxjhy5zewsn1wv1tebxk9xgtcguzmj/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

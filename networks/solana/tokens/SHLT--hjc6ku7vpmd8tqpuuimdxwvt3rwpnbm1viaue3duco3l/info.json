@@ -1,0 +1,11 @@
+{
+  "name": "Sehlat",
+  "address": "hjc6ku7vpmd8tqpuuimdxwvt3rwpnbm1viaue3duco3l",
+  "symbol": "SHLT",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHLT--hjc6ku7vpmd8tqpuuimdxwvt3rwpnbm1viaue3duco3l/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

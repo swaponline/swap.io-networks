@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (YFI-USDC)",
+  "address": "865j7immrrycsyuxzj33zcvlix9jhvalidascyuykare",
+  "symbol": "YFI-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YFI-USDC--865j7immrrycsyuxzj33zcvlix9jhvalidascyuykare/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

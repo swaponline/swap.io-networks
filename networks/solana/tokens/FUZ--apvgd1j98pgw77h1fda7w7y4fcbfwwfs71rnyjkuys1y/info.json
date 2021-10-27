@@ -1,0 +1,11 @@
+{
+  "name": "Fuzzy.One",
+  "address": "apvgd1j98pgw77h1fda7w7y4fcbfwwfs71rnyjkuys1y",
+  "symbol": "FUZ",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FUZ--apvgd1j98pgw77h1fda7w7y4fcbfwwfs71rnyjkuys1y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

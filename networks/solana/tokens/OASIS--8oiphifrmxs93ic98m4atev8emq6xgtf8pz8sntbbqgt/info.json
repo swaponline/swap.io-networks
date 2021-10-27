@@ -1,0 +1,11 @@
+{
+  "name": "Oasis",
+  "address": "8oiphifrmxs93ic98m4atev8emq6xgtf8pz8sntbbqgt",
+  "symbol": "OASIS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OASIS--8oiphifrmxs93ic98m4atev8emq6xgtf8pz8sntbbqgt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

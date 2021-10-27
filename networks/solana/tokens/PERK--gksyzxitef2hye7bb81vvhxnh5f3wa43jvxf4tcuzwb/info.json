@@ -1,0 +1,11 @@
+{
+  "name": "PERK",
+  "address": "gksyzxitef2hye7bb81vvhxnh5f3wa43jvxf4tcuzwb",
+  "symbol": "PERK",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PERK--gksyzxitef2hye7bb81vvhxnh5f3wa43jvxf4tcuzwb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

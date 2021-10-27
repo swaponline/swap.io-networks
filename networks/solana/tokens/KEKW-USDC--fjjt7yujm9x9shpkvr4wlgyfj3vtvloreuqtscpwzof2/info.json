@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (KEKW-USDC)",
+  "address": "fjjt7yujm9x9shpkvr4wlgyfj3vtvloreuqtscpwzof2",
+  "symbol": "KEKW-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Opacity",
+  "address": "0xce6bf09e5c7a3e65b84f88dcc6475c88d38ba5ef",
+  "symbol": "OPCT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/OPCT--0xce6bf09e5c7a3e65b84f88dcc6475c88d38ba5ef/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

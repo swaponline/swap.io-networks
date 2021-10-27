@@ -1,0 +1,11 @@
+{
+  "name": "Drakoin",
+  "address": "0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d",
+  "symbol": "DRK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DRK--0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

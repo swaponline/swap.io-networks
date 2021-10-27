@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (SLRS/USDC[aquafarm])",
+  "address": "f3rwkgatdjwcu1rr16wq4yptgfdsyb1os1xdy5tr9k1r",
+  "symbol": "SLRSUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLRSUSDC--f3rwkgatdjwcu1rr16wq4yptgfdsyb1os1xdy5tr9k1r/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

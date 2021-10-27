@@ -1,0 +1,11 @@
+{
+  "name": "CropperFinance",
+  "address": "dubwwznwingmmeeqhpnmatnj77yzpzsaz2wvr5wjljqz",
+  "symbol": "CRP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRP--dubwwznwingmmeeqhpnmatnj77yzpzsaz2wvr5wjljqz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

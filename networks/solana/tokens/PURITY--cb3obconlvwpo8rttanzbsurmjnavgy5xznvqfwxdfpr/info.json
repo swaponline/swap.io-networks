@@ -1,0 +1,11 @@
+{
+  "name": "PURITY",
+  "address": "cb3obconlvwpo8rttanzbsurmjnavgy5xznvqfwxdfpr",
+  "symbol": "PURITY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PURITY--cb3obconlvwpo8rttanzbsurmjnavgy5xznvqfwxdfpr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

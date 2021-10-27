@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing UniDAIETH (Wormhole)",
+  "address": "cvg3gtkyjtkrzeugmeb42xnd8hdjesgltyjqq2kulncp",
+  "symbol": "waUniDAIETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUniDAIETH--cvg3gtkyjtkrzeugmeb42xnd8hdjesgltyjqq2kulncp/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

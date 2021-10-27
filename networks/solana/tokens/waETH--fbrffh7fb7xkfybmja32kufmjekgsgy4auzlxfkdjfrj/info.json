@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing ETH (Wormhole)",
+  "address": "fbrffh7fb7xkfybmja32kufmjekgsgy4auzlxfkdjfrj",
+  "symbol": "waETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waETH--fbrffh7fb7xkfybmja32kufmjekgsgy4auzlxfkdjfrj/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DMM: Governance (Wormhole)",
+  "address": "b2m4b527olo5wfwlgy2mitp66azhew2puaazuauvngqz",
+  "symbol": "wDMG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDMG--b2m4b527olo5wfwlgy2mitp66azhew2puaazuauvngqz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

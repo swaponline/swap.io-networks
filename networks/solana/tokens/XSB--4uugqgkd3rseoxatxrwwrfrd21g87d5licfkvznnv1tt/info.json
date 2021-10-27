@@ -1,0 +1,11 @@
+{
+  "name": "Solareum",
+  "address": "4uugqgkd3rseoxatxrwwrfrd21g87d5licfkvznnv1tt",
+  "symbol": "XSB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XSB--4uugqgkd3rseoxatxrwwrfrd21g87d5licfkvznnv1tt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

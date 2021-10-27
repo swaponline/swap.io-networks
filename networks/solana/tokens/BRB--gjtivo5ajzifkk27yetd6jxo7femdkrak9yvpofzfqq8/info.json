@@ -1,0 +1,11 @@
+{
+  "name": "BarnBunny",
+  "address": "gjtivo5ajzifkk27yetd6jxo7femdkrak9yvpofzfqq8",
+  "symbol": "BRB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

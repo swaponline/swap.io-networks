@@ -1,0 +1,11 @@
+{
+  "name": "Injective Token (Wormhole)",
+  "address": "4sepusj6ujzyi6a2da8egjkpacrsqyjapjffpntqowvv",
+  "symbol": "wINJ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wINJ--4sepusj6ujzyi6a2da8egjkpacrsqyjapjffpntqowvv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

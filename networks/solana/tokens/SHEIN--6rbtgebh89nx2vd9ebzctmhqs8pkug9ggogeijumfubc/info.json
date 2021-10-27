@@ -1,0 +1,11 @@
+{
+  "name": "Sheincoin",
+  "address": "6rbtgebh89nx2vd9ebzctmhqs8pkug9ggogeijumfubc",
+  "symbol": "SHEIN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHEIN--6rbtgebh89nx2vd9ebzctmhqs8pkug9ggogeijumfubc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

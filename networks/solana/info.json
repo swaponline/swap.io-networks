@@ -4,6 +4,8 @@
   "name": "Solana",
   "isTestnet": false,
   "priority": 12,
+  "chainId": "0x65",
+  "tokensType": "SPL",
   "coins": ["/networks/solana/coins/SOL/info.json"],
   "explorers": [
       "https://explorer.solana.com/"

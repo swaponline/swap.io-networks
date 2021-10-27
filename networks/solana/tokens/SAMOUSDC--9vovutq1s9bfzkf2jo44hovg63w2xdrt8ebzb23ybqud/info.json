@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SAMO/USDC[aquafarm])",
+  "address": "9vovutq1s9bfzkf2jo44hovg63w2xdrt8ebzb23ybqud",
+  "symbol": "SAMOUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAMOUSDC--9vovutq1s9bfzkf2jo44hovg63w2xdrt8ebzb23ybqud/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Synth sUSD (Wormhole)",
+  "address": "ccgldsokcybef8nrccu1rsqk8isnbjba58kvemthtkjx",
+  "symbol": "wsUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wsUSD--ccgldsokcybef8nrccu1rsqk8isnbjba58kvemthtkjx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

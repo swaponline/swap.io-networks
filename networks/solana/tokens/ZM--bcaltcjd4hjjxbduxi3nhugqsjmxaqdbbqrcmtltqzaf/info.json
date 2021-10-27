@@ -1,0 +1,11 @@
+{
+  "name": "Zoom",
+  "address": "bcaltcjd4hjjxbduxi3nhugqsjmxaqdbbqrcmtltqzaf",
+  "symbol": "ZM",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZM--bcaltcjd4hjjxbduxi3nhugqsjmxaqdbbqrcmtltqzaf/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

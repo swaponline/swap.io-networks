@@ -1,0 +1,11 @@
+{
+  "name": "Orca",
+  "address": "orcaektdk7lkz57vaayr9qensvepfiu6qemu1kektze",
+  "symbol": "ORCA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ORCA--orcaektdk7lkz57vaayr9qensvepfiu6qemu1kektze/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

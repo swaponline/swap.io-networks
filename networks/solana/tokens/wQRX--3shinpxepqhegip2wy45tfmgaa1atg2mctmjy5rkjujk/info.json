@@ -1,0 +1,11 @@
+{
+  "name": "QuiverX (Wormhole)",
+  "address": "3shinpxepqhegip2wy45tfmgaa1atg2mctmjy5rkjujk",
+  "symbol": "wQRX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wQRX--3shinpxepqhegip2wy45tfmgaa1atg2mctmjy5rkjujk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

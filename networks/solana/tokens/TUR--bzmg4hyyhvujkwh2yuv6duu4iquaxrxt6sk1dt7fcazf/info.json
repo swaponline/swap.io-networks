@@ -1,0 +1,11 @@
+{
+  "name": "iShares MSCI Turkey ETF",
+  "address": "bzmg4hyyhvujkwh2yuv6duu4iquaxrxt6sk1dt7fcazf",
+  "symbol": "TUR",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TUR--bzmg4hyyhvujkwh2yuv6duu4iquaxrxt6sk1dt7fcazf/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

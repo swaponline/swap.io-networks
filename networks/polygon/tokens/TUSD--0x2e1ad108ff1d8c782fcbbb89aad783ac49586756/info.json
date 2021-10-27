@@ -1,0 +1,11 @@
+{
+  "name": "TrueUSD",
+  "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+  "symbol": "TUSD",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TUSD--0x2e1ad108ff1d8c782fcbbb89aad783ac49586756/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

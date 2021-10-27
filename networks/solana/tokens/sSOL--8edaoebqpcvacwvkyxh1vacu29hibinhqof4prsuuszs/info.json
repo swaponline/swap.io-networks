@@ -1,0 +1,11 @@
+{
+  "name": "SunnySideUp staked SOL (sSOL)",
+  "address": "8edaoebqpcvacwvkyxh1vacu29hibinhqof4prsuuszs",
+  "symbol": "sSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/sSOL--8edaoebqpcvacwvkyxh1vacu29hibinhqof4prsuuszs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

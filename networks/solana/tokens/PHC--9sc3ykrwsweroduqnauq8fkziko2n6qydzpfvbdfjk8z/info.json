@@ -1,0 +1,11 @@
+{
+  "name": "Phosphine Coin",
+  "address": "9sc3ykrwsweroduqnauq8fkziko2n6qydzpfvbdfjk8z",
+  "symbol": "PHC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PHC--9sc3ykrwsweroduqnauq8fkziko2n6qydzpfvbdfjk8z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

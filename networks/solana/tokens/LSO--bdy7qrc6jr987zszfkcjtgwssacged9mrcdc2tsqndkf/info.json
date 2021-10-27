@@ -1,0 +1,11 @@
+{
+  "name": "Les Sables d'Olonne Crypto",
+  "address": "bdy7qrc6jr987zszfkcjtgwssacged9mrcdc2tsqndkf",
+  "symbol": "LSO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LSO--bdy7qrc6jr987zszfkcjtgwssacged9mrcdc2tsqndkf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

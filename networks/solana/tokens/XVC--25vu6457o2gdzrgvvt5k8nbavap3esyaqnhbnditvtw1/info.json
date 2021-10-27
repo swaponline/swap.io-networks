@@ -1,0 +1,11 @@
+{
+  "name": "Xverse Token",
+  "address": "25vu6457o2gdzrgvvt5k8nbavap3esyaqnhbnditvtw1",
+  "symbol": "XVC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XVC--25vu6457o2gdzrgvvt5k8nbavap3esyaqnhbnditvtw1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

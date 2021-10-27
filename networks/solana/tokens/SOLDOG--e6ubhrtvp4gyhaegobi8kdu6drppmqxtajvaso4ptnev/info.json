@@ -1,0 +1,11 @@
+{
+  "name": "SOLDOG",
+  "address": "e6ubhrtvp4gyhaegobi8kdu6drppmqxtajvaso4ptnev",
+  "symbol": "SOLDOG",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLDOG--e6ubhrtvp4gyhaegobi8kdu6drppmqxtajvaso4ptnev/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

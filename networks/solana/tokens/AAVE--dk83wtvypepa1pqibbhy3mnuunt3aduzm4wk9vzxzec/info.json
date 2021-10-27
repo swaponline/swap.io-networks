@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Aave",
+  "address": "dk83wtvypepa1pqibbhy3mnuunt3aduzm4wk9vzxzec",
+  "symbol": "AAVE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AAVE--dk83wtvypepa1pqibbhy3mnuunt3aduzm4wk9vzxzec/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Food tasting Social Token",
+  "address": "5ax3zydn1rpamezhplfsj5t6tyneckswprfnzvhvurfj",
+  "symbol": "YUMZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YUMZ--5ax3zydn1rpamezhplfsj5t6tyneckswprfnzvhvurfj/logo.JPG",
+  "tags": [
+    "spl"
+  ]
+}
