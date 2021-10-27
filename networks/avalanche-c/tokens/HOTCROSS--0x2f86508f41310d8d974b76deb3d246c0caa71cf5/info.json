@@ -1,0 +1,11 @@
+{
+  "name": "Hot Cross",
+  "address": "0x2f86508f41310d8d974b76deb3d246c0caa71cf5",
+  "symbol": "HOTCROSS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HOTCROSS--0x2f86508f41310d8d974b76deb3d246c0caa71cf5/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

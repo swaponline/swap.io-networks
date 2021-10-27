@@ -1,0 +1,11 @@
+{
+  "name": "Toucan Protocol  Ba",
+  "address": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
+  "symbol": "BCT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BCT--0x2f800db0fdb5223b3c3f354886d907a671414a7f/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

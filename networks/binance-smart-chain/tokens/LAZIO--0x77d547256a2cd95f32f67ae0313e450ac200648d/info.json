@@ -1,0 +1,11 @@
+{
+  "name": "FC Lazio Fan Token",
+  "address": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+  "symbol": "LAZIO",
+  "decimals": 8,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/LAZIO--0x77d547256a2cd95f32f67ae0313e450ac200648d/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

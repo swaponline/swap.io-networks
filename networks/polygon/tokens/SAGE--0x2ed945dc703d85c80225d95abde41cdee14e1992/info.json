@@ -1,0 +1,11 @@
+{
+  "name": "Polysage",
+  "address": "0x2ed945dc703d85c80225d95abde41cdee14e1992",
+  "symbol": "SAGE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SAGE--0x2ed945dc703d85c80225d95abde41cdee14e1992/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

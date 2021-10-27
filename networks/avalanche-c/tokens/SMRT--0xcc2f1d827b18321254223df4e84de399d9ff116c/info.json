@@ -1,0 +1,11 @@
+{
+  "name": "SmartCoin",
+  "address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
+  "symbol": "SMRT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SMRT--0xcc2f1d827b18321254223df4e84de399d9ff116c/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

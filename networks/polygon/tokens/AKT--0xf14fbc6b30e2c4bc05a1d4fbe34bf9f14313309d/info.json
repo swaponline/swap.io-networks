@@ -1,0 +1,11 @@
+{
+  "name": "Akash Network",
+  "address": "0xf14fbc6b30e2c4bc05a1d4fbe34bf9f14313309d",
+  "symbol": "AKT",
+  "decimals": 6,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AKT--0xf14fbc6b30e2c4bc05a1d4fbe34bf9f14313309d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

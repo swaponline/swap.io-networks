@@ -1,0 +1,11 @@
+{
+  "name": "Tokenplace",
+  "address": "0xae9d2385ff2e2951dd4fa061e74c4d3dedd24347",
+  "symbol": "TOK",
+  "decimals": 8,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TOK--0xae9d2385ff2e2951dd4fa061e74c4d3dedd24347/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

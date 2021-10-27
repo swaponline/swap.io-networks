@@ -1,0 +1,11 @@
+{
+  "name": "MAI",
+  "address": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+  "symbol": "MIMATIC",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/MIMATIC--0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

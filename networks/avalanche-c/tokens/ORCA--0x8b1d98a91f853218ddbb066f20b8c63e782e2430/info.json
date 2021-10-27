@@ -1,0 +1,11 @@
+{
+  "name": "Orca DAO",
+  "address": "0x8b1d98a91f853218ddbb066f20b8c63e782e2430",
+  "symbol": "ORCA",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ORCA--0x8b1d98a91f853218ddbb066f20b8c63e782e2430/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

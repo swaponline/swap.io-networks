@@ -1,0 +1,11 @@
+{
+  "name": "Ivory",
+  "address": "0x88a3acac5c48f93121d4d7771a068a1fcde078bc",
+  "symbol": "IVORY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IVORY--0x88a3acac5c48f93121d4d7771a068a1fcde078bc/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

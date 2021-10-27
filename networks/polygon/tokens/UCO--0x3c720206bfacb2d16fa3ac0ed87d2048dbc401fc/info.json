@@ -1,0 +1,11 @@
+{
+  "name": "UnirisToken",
+  "address": "0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc",
+  "symbol": "UCO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UCO--0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

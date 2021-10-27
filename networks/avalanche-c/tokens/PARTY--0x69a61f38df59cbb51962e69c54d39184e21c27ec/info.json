@@ -1,0 +1,11 @@
+{
+  "name": "PartySwap",
+  "address": "0x69a61f38df59cbb51962e69c54d39184e21c27ec",
+  "symbol": "PARTY",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/PARTY--0x69a61f38df59cbb51962e69c54d39184e21c27ec/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

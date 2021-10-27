@@ -1,0 +1,11 @@
+{
+  "name": "AvaNyan",
+  "address": "0xf54501fbc97d5cb9c8b96480996a397e07516b2e",
+  "symbol": "ANYAN",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/ANYAN--0xf54501fbc97d5cb9c8b96480996a397e07516b2e/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

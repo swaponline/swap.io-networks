@@ -1,0 +1,11 @@
+{
+  "name": "BLOK",
+  "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
+  "symbol": "BLOK",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BLOK--0x229b1b6c23ff8953d663c4cbb519717e323a0a84/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

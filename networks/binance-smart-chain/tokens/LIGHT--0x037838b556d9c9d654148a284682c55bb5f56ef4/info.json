@@ -1,0 +1,11 @@
+{
+  "name": "Lightning",
+  "address": "0x037838b556d9c9d654148a284682c55bb5f56ef4",
+  "symbol": "LIGHT",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/LIGHT--0x037838b556d9c9d654148a284682c55bb5f56ef4/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

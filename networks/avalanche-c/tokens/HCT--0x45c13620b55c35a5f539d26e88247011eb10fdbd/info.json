@@ -1,0 +1,11 @@
+{
+  "name": "HurricaneSwap Token",
+  "address": "0x45c13620b55c35a5f539d26e88247011eb10fdbd",
+  "symbol": "HCT",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/HCT--0x45c13620b55c35a5f539d26e88247011eb10fdbd/logo.PNG",
+  "tags": [
+    "erc20avax"
+  ]
+}

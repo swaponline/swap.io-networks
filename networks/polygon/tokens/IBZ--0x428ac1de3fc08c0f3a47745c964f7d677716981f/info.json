@@ -1,0 +1,11 @@
+{
+  "name": "Ibiza Token",
+  "address": "0x428ac1de3fc08c0f3a47745c964f7d677716981f",
+  "symbol": "IBZ",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IBZ--0x428ac1de3fc08c0f3a47745c964f7d677716981f/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

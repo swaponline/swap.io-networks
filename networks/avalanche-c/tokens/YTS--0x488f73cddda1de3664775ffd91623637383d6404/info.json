@@ -1,0 +1,11 @@
+{
+  "name": "YetiSwap",
+  "address": "0x488f73cddda1de3664775ffd91623637383d6404",
+  "symbol": "YTS",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/YTS--0x488f73cddda1de3664775ffd91623637383d6404/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

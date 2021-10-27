@@ -1,0 +1,11 @@
+{
+  "name": "Polinate",
+  "address": "0x6fb54ffe60386ac33b722be13d2549dd87bf63af",
+  "symbol": "POLI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/POLI--0x6fb54ffe60386ac33b722be13d2549dd87bf63af/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

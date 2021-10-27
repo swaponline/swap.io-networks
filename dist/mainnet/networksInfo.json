@@ -540,7 +540,7 @@
     "parent": "ethereum"
   },
   {
-    "type": "unknown",
+    "type": "ab",
     "slug": "solana",
     "name": "Solana",
     "isTestnet": false,

@@ -1,0 +1,11 @@
+{
+  "name": "Klima DAO",
+  "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+  "symbol": "KLIMA",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KLIMA--0x4e78011ce80ee02d2c3e649fb657e45898257815/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

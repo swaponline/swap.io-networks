@@ -1,0 +1,11 @@
+{
+  "name": "Jarvis Reward Token",
+  "address": "0x596ebe76e2db4470966ea395b0d063ac6197a8c5",
+  "symbol": "JRT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/JRT--0x596ebe76e2db4470966ea395b0d063ac6197a8c5/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

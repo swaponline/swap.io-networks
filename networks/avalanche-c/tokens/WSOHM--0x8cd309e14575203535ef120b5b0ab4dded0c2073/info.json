@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Staked Olym",
+  "address": "0x8cd309e14575203535ef120b5b0ab4dded0c2073",
+  "symbol": "WSOHM",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/WSOHM--0x8cd309e14575203535ef120b5b0ab4dded0c2073/logo.jpg",
+  "tags": [
+    "erc20avax"
+  ]
+}

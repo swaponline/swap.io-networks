@@ -1,0 +1,11 @@
+{
+  "name": "yieldwatch",
+  "address": "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2",
+  "symbol": "WATCH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WATCH--0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

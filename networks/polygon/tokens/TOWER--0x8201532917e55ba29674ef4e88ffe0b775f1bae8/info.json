@@ -1,0 +1,11 @@
+{
+  "name": "Tower Finance",
+  "address": "0x8201532917e55ba29674ef4e88ffe0b775f1bae8",
+  "symbol": "TOWER",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TOWER--0x8201532917e55ba29674ef4e88ffe0b775f1bae8/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

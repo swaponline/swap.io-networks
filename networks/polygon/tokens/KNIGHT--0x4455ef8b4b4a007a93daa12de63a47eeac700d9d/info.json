@@ -1,0 +1,11 @@
+{
+  "name": "Forest Knight",
+  "address": "0x4455ef8b4b4a007a93daa12de63a47eeac700d9d",
+  "symbol": "KNIGHT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KNIGHT--0x4455ef8b4b4a007a93daa12de63a47eeac700d9d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

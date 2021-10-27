@@ -1,0 +1,11 @@
+{
+  "name": "KROWN",
+  "address": "0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17",
+  "symbol": "KRW",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KRW--0x6c3b2f402cd7d22ae2c319b9d2f16f57927a4a17/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

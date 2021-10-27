@@ -1,0 +1,11 @@
+{
+  "name": "Binance Coin",
+  "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+  "symbol": "BNB",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/BNB--0x264c1383ea520f73dd837f915ef3a732e204a493/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TOMI",
+  "address": "0xcd966b72cff52dc349089b6b6f5865b5743b4e08",
+  "symbol": "TOMI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TOMI--0xcd966b72cff52dc349089b6b6f5865b5743b4e08/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

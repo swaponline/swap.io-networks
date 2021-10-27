@@ -1,0 +1,11 @@
+{
+  "name": "Monsoon Finance",
+  "address": "0xa25610a77077390a75ad9072a084c5fbc7d43a0d",
+  "symbol": "MCASH",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MCASH--0xa25610a77077390a75ad9072a084c5fbc7d43a0d/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

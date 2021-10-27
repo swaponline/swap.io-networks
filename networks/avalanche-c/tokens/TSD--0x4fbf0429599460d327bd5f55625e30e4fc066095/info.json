@@ -1,0 +1,11 @@
+{
+  "name": "Teddy Dollar",
+  "address": "0x4fbf0429599460d327bd5f55625e30e4fc066095",
+  "symbol": "TSD",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/TSD--0x4fbf0429599460d327bd5f55625e30e4fc066095/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

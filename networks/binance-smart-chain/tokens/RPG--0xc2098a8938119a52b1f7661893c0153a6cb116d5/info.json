@@ -1,0 +1,11 @@
+{
+  "name": "Rangers Protocol",
+  "address": "0xc2098a8938119a52b1f7661893c0153a6cb116d5",
+  "symbol": "RPG",
+  "decimals": 18,
+  "chainId": 56,
+  "logo": "/networks/binance-smart-chain/tokens/RPG--0xc2098a8938119a52b1f7661893c0153a6cb116d5/logo.png",
+  "tags": [
+    "bep20"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Oh  Finance",
+  "address": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+  "symbol": "OH",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/OH--0x937e077abaea52d3abf879c9b9d3f2ebd15baa21/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

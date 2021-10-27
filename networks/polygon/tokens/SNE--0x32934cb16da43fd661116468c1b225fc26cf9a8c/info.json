@@ -1,0 +1,11 @@
+{
+  "name": "StrongNodeEdge Token",
+  "address": "0x32934cb16da43fd661116468c1b225fc26cf9a8c",
+  "symbol": "SNE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SNE--0x32934cb16da43fd661116468c1b225fc26cf9a8c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

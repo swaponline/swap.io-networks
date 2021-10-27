@@ -1,0 +1,11 @@
+{
+  "name": "InsurAce",
+  "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+  "symbol": "INSUR",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/INSUR--0x544c42fbb96b39b21df61cf322b5edc285ee7429/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

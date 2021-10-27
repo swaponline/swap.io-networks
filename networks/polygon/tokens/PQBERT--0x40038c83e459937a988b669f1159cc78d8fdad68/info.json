@@ -1,0 +1,11 @@
+{
+  "name": "pQBERT",
+  "address": "0x40038c83e459937a988b669f1159cc78d8fdad68",
+  "symbol": "PQBERT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PQBERT--0x40038c83e459937a988b669f1159cc78d8fdad68/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}
