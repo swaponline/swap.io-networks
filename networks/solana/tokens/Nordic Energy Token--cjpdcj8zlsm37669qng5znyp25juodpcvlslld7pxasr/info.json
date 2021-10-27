@@ -1,0 +1,11 @@
+{
+  "name": "NET",
+  "address": "cjpdcj8zlsm37669qng5znyp25juodpcvlslld7pxasr",
+  "symbol": "Nordic Energy Token",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Nordic Energy Token--cjpdcj8zlsm37669qng5znyp25juodpcvlslld7pxasr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

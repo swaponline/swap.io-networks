@@ -1,0 +1,11 @@
+{
+  "name": "UMI",
+  "address": "0x10adf16a60f0020477c70473d6ea595d9bc29372",
+  "symbol": "UMI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UMI--0x10adf16a60f0020477c70473d6ea595d9bc29372/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Oraichain Token (Wormhole)",
+  "address": "8drgurhcqpjecqqepbeygumwaz2tetbywuyluu4q7gom",
+  "symbol": "wORAI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wORAI--8drgurhcqpjecqqepbeygumwaz2tetbywuyluu4q7gom/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

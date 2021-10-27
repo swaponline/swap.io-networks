@@ -1,0 +1,11 @@
+{
+  "name": "PigeonSol Token",
+  "address": "bxhjqgtc629c55swcqwxfga2rrf1igbbtmh22h8epuwg",
+  "symbol": "PGNT",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PGNT--bxhjqgtc629c55swcqwxfga2rrf1igbbtmh22h8epuwg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

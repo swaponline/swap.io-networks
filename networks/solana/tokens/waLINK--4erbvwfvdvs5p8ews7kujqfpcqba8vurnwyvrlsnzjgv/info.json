@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing LINK (Wormhole)",
+  "address": "4erbvwfvdvs5p8ews7kujqfpcqba8vurnwyvrlsnzjgv",
+  "symbol": "waLINK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waLINK--4erbvwfvdvs5p8ews7kujqfpcqba8vurnwyvrlsnzjgv/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

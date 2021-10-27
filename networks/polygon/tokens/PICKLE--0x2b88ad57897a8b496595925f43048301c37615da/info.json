@@ -1,0 +1,11 @@
+{
+  "name": "Pickle Finance",
+  "address": "0x2b88ad57897a8b496595925f43048301c37615da",
+  "symbol": "PICKLE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PICKLE--0x2b88ad57897a8b496595925f43048301c37615da/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

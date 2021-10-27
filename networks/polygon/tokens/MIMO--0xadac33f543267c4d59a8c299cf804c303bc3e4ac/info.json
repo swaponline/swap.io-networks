@@ -1,0 +1,11 @@
+{
+  "name": "MIMO Parallel Gover",
+  "address": "0xadac33f543267c4d59a8c299cf804c303bc3e4ac",
+  "symbol": "MIMO",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MIMO--0xadac33f543267c4d59a8c299cf804c303bc3e4ac/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Royale",
+  "address": "0x0bd820ad2d7ab7305b5c9538ba824c9b9beb0561",
+  "symbol": "ROYA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ROYA--0x0bd820ad2d7ab7305b5c9538ba824c9b9beb0561/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

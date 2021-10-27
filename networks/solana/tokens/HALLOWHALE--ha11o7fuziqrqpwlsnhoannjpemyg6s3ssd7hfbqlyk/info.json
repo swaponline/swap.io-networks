@@ -1,0 +1,11 @@
+{
+  "name": "Orca HALLOWHALE Collectible",
+  "address": "ha11o7fuziqrqpwlsnhoannjpemyg6s3ssd7hfbqlyk",
+  "symbol": "HALLOWHALE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HALLOWHALE--ha11o7fuziqrqpwlsnhoannjpemyg6s3ssd7hfbqlyk/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

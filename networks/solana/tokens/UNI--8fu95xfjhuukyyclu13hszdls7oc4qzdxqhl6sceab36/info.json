@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap (Wormhole)",
+  "address": "8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36",
+  "symbol": "UNI",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UNI--8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

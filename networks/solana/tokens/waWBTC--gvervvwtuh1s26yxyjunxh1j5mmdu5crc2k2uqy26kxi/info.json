@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing WBTC (Wormhole)",
+  "address": "gvervvwtuh1s26yxyjunxh1j5mmdu5crc2k2uqy26kxi",
+  "symbol": "waWBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waWBTC--gvervvwtuh1s26yxyjunxh1j5mmdu5crc2k2uqy26kxi/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

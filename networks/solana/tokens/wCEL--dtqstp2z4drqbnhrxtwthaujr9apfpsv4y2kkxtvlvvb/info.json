@@ -1,0 +1,11 @@
+{
+  "name": "Celsius (Wormhole)",
+  "address": "dtqstp2z4drqbnhrxtwthaujr9apfpsv4y2kkxtvlvvb",
+  "symbol": "wCEL",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCEL--dtqstp2z4drqbnhrxtwthaujr9apfpsv4y2kkxtvlvvb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

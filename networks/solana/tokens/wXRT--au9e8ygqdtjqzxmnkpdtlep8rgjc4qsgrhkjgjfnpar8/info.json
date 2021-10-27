@@ -1,0 +1,11 @@
+{
+  "name": "Robonomics (Wormhole)",
+  "address": "au9e8ygqdtjqzxmnkpdtlep8rgjc4qsgrhkjgjfnpar8",
+  "symbol": "wXRT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wXRT--au9e8ygqdtjqzxmnkpdtlep8rgjc4qsgrhkjgjfnpar8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

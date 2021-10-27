@@ -1,0 +1,11 @@
+{
+  "name": "Far-Out Token",
+  "address": "j5glhk6mmq4psoir1ufh8jy2yteha93yupzyitfvcgcl",
+  "symbol": "FAROUT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FAROUT--j5glhk6mmq4psoir1ufh8jy2yteha93yupzyitfvcgcl/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

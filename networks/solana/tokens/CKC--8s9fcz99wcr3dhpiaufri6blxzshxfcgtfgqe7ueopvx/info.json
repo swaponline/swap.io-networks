@@ -1,0 +1,11 @@
+{
+  "name": "ChikinCoin",
+  "address": "8s9fcz99wcr3dhpiaufri6blxzshxfcgtfgqe7ueopvx",
+  "symbol": "CKC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CKC--8s9fcz99wcr3dhpiaufri6blxzshxfcgtfgqe7ueopvx/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

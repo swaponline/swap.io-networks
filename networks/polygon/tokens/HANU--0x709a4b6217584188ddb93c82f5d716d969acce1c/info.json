@@ -1,0 +1,11 @@
+{
+  "name": "Hanu Yokia",
+  "address": "0x709a4b6217584188ddb93c82f5d716d969acce1c",
+  "symbol": "HANU",
+  "decimals": 12,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HANU--0x709a4b6217584188ddb93c82f5d716d969acce1c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bole Token",
+  "address": "7uv3zvzcqld95bup5wmioxg7tyazvxffr8jykwhmyrnt",
+  "symbol": "BOLE",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOLE--7uv3zvzcqld95bup5wmioxg7tyazvxffr8jykwhmyrnt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

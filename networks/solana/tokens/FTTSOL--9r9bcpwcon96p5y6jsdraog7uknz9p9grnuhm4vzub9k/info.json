@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (FTT/SOL)",
+  "address": "9r9bcpwcon96p5y6jsdraog7uknz9p9grnuhm4vzub9k",
+  "symbol": "FTTSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FTTSOL--9r9bcpwcon96p5y6jsdraog7uknz9p9grnuhm4vzub9k/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

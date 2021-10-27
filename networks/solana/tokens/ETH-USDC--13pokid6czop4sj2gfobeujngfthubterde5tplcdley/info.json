@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (ETH-USDC)",
+  "address": "13pokid6czop4sj2gfobeujngfthubterde5tplcdley",
+  "symbol": "ETH-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETH-USDC--13pokid6czop4sj2gfobeujngfthubterde5tplcdley/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Airbnb",
+  "address": "fqqvanfzosh4m4zqxzwumenky6nvanjghislagquaygi",
+  "symbol": "ABNB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ABNB--fqqvanfzosh4m4zqxzwumenky6nvanjghislagquaygi/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

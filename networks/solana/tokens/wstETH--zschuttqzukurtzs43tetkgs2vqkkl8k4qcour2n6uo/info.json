@@ -1,0 +1,11 @@
+{
+  "name": "Lido Wrapped Staked ETH",
+  "address": "zschuttqzukurtzs43tetkgs2vqkkl8k4qcour2n6uo",
+  "symbol": "wstETH",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wstETH--zschuttqzukurtzs43tetkgs2vqkkl8k4qcour2n6uo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

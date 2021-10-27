@@ -1,0 +1,11 @@
+{
+  "name": "Bojack Coin",
+  "address": "d1kyn6tykqpy3qztvjkpavepawzxqquh8q9fc4zwkhnn",
+  "symbol": "$BOJACK",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/$BOJACK--d1kyn6tykqpy3qztvjkpavepawzxqquh8q9fc4zwkhnn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

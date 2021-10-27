@@ -1,0 +1,11 @@
+{
+  "name": "Cyclos",
+  "address": "brlsmczkuar5w9vsubf4j8hweggprvayyvgs4ex7dkeg",
+  "symbol": "CYS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CYS--brlsmczkuar5w9vsubf4j8hweggprvayyvgs4ex7dkeg/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

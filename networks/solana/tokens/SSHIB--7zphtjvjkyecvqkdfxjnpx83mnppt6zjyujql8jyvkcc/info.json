@@ -1,0 +1,11 @@
+{
+  "name": "SolShib",
+  "address": "7zphtjvjkyecvqkdfxjnpx83mnppt6zjyujql8jyvkcc",
+  "symbol": "SSHIB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SSHIB--7zphtjvjkyecvqkdfxjnpx83mnppt6zjyujql8jyvkcc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

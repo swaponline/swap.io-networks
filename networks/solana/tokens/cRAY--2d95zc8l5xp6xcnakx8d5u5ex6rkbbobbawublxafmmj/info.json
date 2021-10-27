@@ -1,0 +1,11 @@
+{
+  "name": "Solend RAY",
+  "address": "2d95zc8l5xp6xcnakx8d5u5ex6rkbbobbawublxafmmj",
+  "symbol": "cRAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cRAY--2d95zc8l5xp6xcnakx8d5u5ex6rkbbobbawublxafmmj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

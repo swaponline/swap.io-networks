@@ -1,0 +1,11 @@
+{
+  "name": "Graviton",
+  "address": "4hj6sjwmsvvfag6tkl97yhwibsdx9babwoixgb3epxxb",
+  "symbol": "GTON",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GTON--4hj6sjwmsvvfag6tkl97yhwibsdx9babwoixgb3epxxb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PERP",
+  "address": "d68nb5jkzvynczavi6egtecgvsornpanu9heytauffra",
+  "symbol": "PERP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PERP--d68nb5jkzvynczavi6egtecgvsornpanu9heytauffra/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "KrechetovNFT",
+  "address": "9cuowwitmfbec5ntjdaemv3w72vzwvecc9attjnjxjnx",
+  "symbol": "KRCH",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KRCH--9cuowwitmfbec5ntjdaemv3w72vzwvecc9attjnjxjnx/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

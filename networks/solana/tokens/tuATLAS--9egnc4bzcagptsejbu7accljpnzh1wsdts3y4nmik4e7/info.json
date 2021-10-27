@@ -1,0 +1,11 @@
+{
+  "name": "tuATLAS",
+  "address": "9egnc4bzcagptsejbu7accljpnzh1wsdts3y4nmik4e7",
+  "symbol": "tuATLAS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuATLAS--9egnc4bzcagptsejbu7accljpnzh1wsdts3y4nmik4e7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

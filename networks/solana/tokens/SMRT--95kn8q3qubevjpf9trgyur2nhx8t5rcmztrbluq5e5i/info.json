@@ -1,0 +1,11 @@
+{
+  "name": "Solminter",
+  "address": "95kn8q3qubevjpf9trgyur2nhx8t5rcmztrbluq5e5i",
+  "symbol": "SMRT",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SMRT--95kn8q3qubevjpf9trgyur2nhx8t5rcmztrbluq5e5i/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

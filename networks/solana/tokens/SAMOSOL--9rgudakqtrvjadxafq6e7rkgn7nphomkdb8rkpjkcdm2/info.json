@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (SAMO/SOL)",
+  "address": "9rgudakqtrvjadxafq6e7rkgn7nphomkdb8rkpjkcdm2",
+  "symbol": "SAMOSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAMOSOL--9rgudakqtrvjadxafq6e7rkgn7nphomkdb8rkpjkcdm2/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

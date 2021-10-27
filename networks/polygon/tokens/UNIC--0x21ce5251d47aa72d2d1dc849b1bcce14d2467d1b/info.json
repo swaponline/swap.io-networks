@@ -1,0 +1,11 @@
+{
+  "name": "Unicly",
+  "address": "0x21ce5251d47aa72d2d1dc849b1bcce14d2467d1b",
+  "symbol": "UNIC",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/UNIC--0x21ce5251d47aa72d2d1dc849b1bcce14d2467d1b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

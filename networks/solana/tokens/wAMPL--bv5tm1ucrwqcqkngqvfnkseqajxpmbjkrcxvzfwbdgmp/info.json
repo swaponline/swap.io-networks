@@ -1,0 +1,11 @@
+{
+  "name": "Ampleforth (Wormhole)",
+  "address": "bv5tm1ucrwqcqkngqvfnkseqajxpmbjkrcxvzfwbdgmp",
+  "symbol": "wAMPL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wAMPL--bv5tm1ucrwqcqkngqvfnkseqajxpmbjkrcxvzfwbdgmp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

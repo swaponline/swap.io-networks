@@ -1,0 +1,11 @@
+{
+  "name": "Oxygen Protocol",
+  "address": "z3dn17ylagmkffvogefhq9zwvcxgqgf3pqndsns2g6m",
+  "symbol": "OXY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OXY--z3dn17ylagmkffvogefhq9zwvcxgqgf3pqndsns2g6m/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

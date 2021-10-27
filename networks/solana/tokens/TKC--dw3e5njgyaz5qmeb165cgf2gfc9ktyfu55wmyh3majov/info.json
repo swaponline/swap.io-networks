@@ -1,0 +1,11 @@
+{
+  "name": "Tugscom Coin",
+  "address": "dw3e5njgyaz5qmeb165cgf2gfc9ktyfu55wmyh3majov",
+  "symbol": "TKC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TKC--dw3e5njgyaz5qmeb165cgf2gfc9ktyfu55wmyh3majov/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Yield (Wormhole)",
+  "address": "cqwsjtkmmy16q9qlnqxktm1byzvhgrr8b6lcpuzneeil",
+  "symbol": "wYLD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wYLD--cqwsjtkmmy16q9qlnqxktm1byzvhgrr8b6lcpuzneeil/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

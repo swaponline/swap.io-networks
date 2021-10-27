@@ -1,0 +1,11 @@
+{
+  "name": "DEUS Finance",
+  "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+  "symbol": "DEUS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/DEUS--0xde5ed76e7c05ec5e4572cfc88d1acea165109e44/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Matrixswap",
+  "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
+  "symbol": "MATRIX",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MATRIX--0x211f4e76fcb811ed2b310a232a24b3445d95e3bc/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

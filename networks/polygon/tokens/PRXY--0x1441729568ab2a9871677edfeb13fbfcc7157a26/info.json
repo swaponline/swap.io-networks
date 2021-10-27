@@ -1,0 +1,11 @@
+{
+  "name": "Proxy",
+  "address": "0x1441729568ab2a9871677edfeb13fbfcc7157a26",
+  "symbol": "PRXY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PRXY--0x1441729568ab2a9871677edfeb13fbfcc7157a26/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

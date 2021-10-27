@@ -1,0 +1,11 @@
+{
+  "name": "Fruit",
+  "address": "0x0e05858bb158038f418ff3609d5a7b72c26e7118",
+  "symbol": "FRUIT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/FRUIT--0x0e05858bb158038f418ff3609d5a7b72c26e7118/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

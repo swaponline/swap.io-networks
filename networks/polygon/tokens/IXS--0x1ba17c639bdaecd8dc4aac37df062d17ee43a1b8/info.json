@@ -1,0 +1,11 @@
+{
+  "name": "IX Swap",
+  "address": "0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8",
+  "symbol": "IXS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/IXS--0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

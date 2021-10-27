@@ -1,0 +1,11 @@
+{
+  "name": "Nocte",
+  "address": "hgy1lwafsmc61hvatadw7faptzmg8ijqejbvqjtjgd7u",
+  "symbol": "NTE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NTE--hgy1lwafsmc61hvatadw7faptzmg8ijqejbvqjtjgd7u/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

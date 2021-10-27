@@ -1,0 +1,11 @@
+{
+  "name": "Shoebill Coin",
+  "address": "7fczz6zdhm4uwc9se1rplmiyeuq6kstxpcap696eue1e",
+  "symbol": "SHBL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHBL--7fczz6zdhm4uwc9se1rplmiyeuq6kstxpcap696eue1e/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

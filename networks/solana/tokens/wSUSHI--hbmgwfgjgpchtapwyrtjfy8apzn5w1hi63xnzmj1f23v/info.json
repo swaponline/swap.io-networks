@@ -1,0 +1,11 @@
+{
+  "name": "SushiSwap (Wormhole)",
+  "address": "hbmgwfgjgpchtapwyrtjfy8apzn5w1hi63xnzmj1f23v",
+  "symbol": "wSUSHI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSUSHI--hbmgwfgjgpchtapwyrtjfy8apzn5w1hi63xnzmj1f23v/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

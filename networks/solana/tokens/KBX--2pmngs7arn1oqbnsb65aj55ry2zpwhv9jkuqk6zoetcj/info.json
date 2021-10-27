@@ -1,0 +1,11 @@
+{
+  "name": "KUGLE-BOX",
+  "address": "2pmngs7arn1oqbnsb65aj55ry2zpwhv9jkuqk6zoetcj",
+  "symbol": "KBX",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KBX--2pmngs7arn1oqbnsb65aj55ry2zpwhv9jkuqk6zoetcj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pipana",
+  "address": "8tbaqs4dfneec6ygwpnnusc3jcxoflmiilpyhctggyfe",
+  "symbol": "PIPANA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PIPANA--8tbaqs4dfneec6ygwpnnusc3jcxoflmiilpyhctggyfe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

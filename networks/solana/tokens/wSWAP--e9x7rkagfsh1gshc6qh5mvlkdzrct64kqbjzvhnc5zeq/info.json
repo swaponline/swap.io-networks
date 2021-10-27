@@ -1,0 +1,11 @@
+{
+  "name": "TrustSwap Token (Wormhole)",
+  "address": "e9x7rkagfsh1gshc6qh5mvlkdzrct64kqbjzvhnc5zeq",
+  "symbol": "wSWAP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSWAP--e9x7rkagfsh1gshc6qh5mvlkdzrct64kqbjzvhnc5zeq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Big Defi Energy",
+  "address": "h5gczcnbrtso6bqgkihf97rawaxpueznfufukk4yx3s2",
+  "symbol": "BDE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BDE--h5gczcnbrtso6bqgkihf97rawaxpueznfufukk4yx3s2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

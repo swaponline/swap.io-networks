@@ -1,0 +1,11 @@
+{
+  "name": "Larix",
+  "address": "lrxqnh6zhkbgy3dcrced43nsolkm1ltzu2jrfwe8quc",
+  "symbol": "LARIX",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LARIX--lrxqnh6zhkbgy3dcrced43nsolkm1ltzu2jrfwe8quc/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

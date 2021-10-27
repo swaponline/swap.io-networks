@@ -1,0 +1,11 @@
+{
+  "name": "ZI (The Z Institute Token)",
+  "address": "99pifp4v4qqnk3irthpmaeezgkfs3ahle7ifkeqfyxpj",
+  "symbol": "ZI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZI--99pifp4v4qqnk3irthpmaeezgkfs3ahle7ifkeqfyxpj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

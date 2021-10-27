@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SLRS/USDC)",
+  "address": "66xcxkffqzkbzlihv3pdcfr8anjtfndrxpcabdv4wxb7",
+  "symbol": "SLRSUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLRSUSDC--66xcxkffqzkbzlihv3pdcfr8anjtfndrxpcabdv4wxb7/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

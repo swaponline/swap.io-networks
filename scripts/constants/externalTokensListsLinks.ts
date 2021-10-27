@@ -6,5 +6,6 @@ export const externalTokensListsLinks: {[listName: string]: string} = {
     "quickswap token list":         "https://unpkg.com/quickswap-default-token-list/build/quickswap-default.tokenlist.json",
     "polygon coingecko":            "https://tokens.coingecko.com/polygon-pos/all.json",
     "avalanche coingecko":          "https://tokens.coingecko.com/avalanche/all.json",
-    "avax tokens":                  "https://raw.githubusercontent.com/pangolindex/tokenlists/main/aeb.tokenlist.json"
+    "avax tokens":                  "https://raw.githubusercontent.com/pangolindex/tokenlists/main/aeb.tokenlist.json",
+    "solana token list":            "https://raw.githubusercontent.com/solana-labs/token-list/main/src/tokens/solana.tokenlist.json"
 }

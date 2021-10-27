@@ -1,0 +1,11 @@
+{
+  "name": "Mercurial LP Token (SOL-pSOL)",
+  "address": "ghhdu9y7hm37v6cqyaie1a3azdfpcdp6scj5zzn2c3uk",
+  "symbol": "SOL-pSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOL-pSOL--ghhdu9y7hm37v6cqyaie1a3azdfpcdp6scj5zzn2c3uk/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

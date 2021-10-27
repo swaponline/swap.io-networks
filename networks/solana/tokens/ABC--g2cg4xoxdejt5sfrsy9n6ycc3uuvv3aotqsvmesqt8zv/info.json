@@ -1,0 +1,11 @@
+{
+  "name": "AmerisourceBergen Corp",
+  "address": "g2cg4xoxdejt5sfrsy9n6ycc3uuvv3aotqsvmesqt8zv",
+  "symbol": "ABC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ABC--g2cg4xoxdejt5sfrsy9n6ycc3uuvv3aotqsvmesqt8zv/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

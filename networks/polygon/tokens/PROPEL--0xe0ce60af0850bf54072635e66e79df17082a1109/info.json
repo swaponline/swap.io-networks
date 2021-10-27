@@ -1,0 +1,11 @@
+{
+  "name": "Propel",
+  "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+  "symbol": "PROPEL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/PROPEL--0xe0ce60af0850bf54072635e66e79df17082a1109/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Coinbase Global Inc.",
+  "address": "j25jdsegtnawb4nvq3deqhwekbxcnvtgzfpvmpscxrgk",
+  "symbol": "COIN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COIN--j25jdsegtnawb4nvq3deqhwekbxcnvtgzfpvmpscxrgk/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

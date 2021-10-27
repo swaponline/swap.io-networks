@@ -1,0 +1,11 @@
+{
+  "name": "UnFederalReserveToken (Wormhole)",
+  "address": "bx2gcrrs12iqfzkcpvtt4krbbynymr9jbdzbxzfflnbf",
+  "symbol": "weRSDL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/weRSDL--bx2gcrrs12iqfzkcpvtt4krbbynymr9jbdzbxzfflnbf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (HOTTO-USDC)",
+  "address": "fm8yfvgaehrpsznzez1o4v5ilzut9sonuqawd72bjyqs",
+  "symbol": "HOTTO-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HOTTO-USDC--fm8yfvgaehrpsznzez1o4v5ilzut9sonuqawd72bjyqs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

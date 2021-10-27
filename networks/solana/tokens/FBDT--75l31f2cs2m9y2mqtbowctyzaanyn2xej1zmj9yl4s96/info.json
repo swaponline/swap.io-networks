@@ -1,0 +1,11 @@
+{
+  "name": "FBD Token",
+  "address": "75l31f2cs2m9y2mqtbowctyzaanyn2xej1zmj9yl4s96",
+  "symbol": "FBDT",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FBDT--75l31f2cs2m9y2mqtbowctyzaanyn2xej1zmj9yl4s96/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

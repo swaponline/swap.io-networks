@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BUSD (Allbridge from BSC)",
+  "address": "6nuax3ogrr2caoapjtakhaobnwok32bmcrozuf32s2qf",
+  "symbol": "abBUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/abBUSD--6nuax3ogrr2caoapjtakhaobnwok32bmcrozuf32s2qf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

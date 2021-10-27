@@ -1,0 +1,11 @@
+{
+  "name": "NVIDIA",
+  "address": "gpm58t33etrgedhmefnsvksjjjt6jvdtvim59iptgtnh",
+  "symbol": "NVDA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NVDA--gpm58t33etrgedhmefnsvksjjjt6jvdtvim59iptgtnh/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

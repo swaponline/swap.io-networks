@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Legacy LP Token V2 (ETH-WUSDT)",
+  "address": "ky4xvwhy7jpzbwyabk23jqveb4qwj8acqywremk1q7k",
+  "symbol": "ETH-WUSDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETH-WUSDT--ky4xvwhy7jpzbwyabk23jqveb4qwj8acqywremk1q7k/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

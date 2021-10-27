@@ -1,0 +1,11 @@
+{
+  "name": "JDI Token",
+  "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
+  "symbol": "JDI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/JDI--0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rai Reflex Index",
+  "address": "0x00e5646f60ac6fb446f621d146b6e1886f002905",
+  "symbol": "RAI",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RAI--0x00e5646f60ac6fb446f621d146b6e1886f002905/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

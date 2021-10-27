@@ -1,0 +1,11 @@
+{
+  "name": "CryptoBlades",
+  "address": "0x863d6074afaf02d9d41a5f8ea83278df7089aa86",
+  "symbol": "SKILL",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/SKILL--0x863d6074afaf02d9d41a5f8ea83278df7089aa86/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

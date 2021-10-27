@@ -22,9 +22,9 @@ const syncUniqTokensWithNetworks = async () => {
   const networksWithTokensAddresses: {[network: string]: string[]} = {}
   const networksIndexesBySlug: {[network: string]: number} = {}
 
-  const evmNetworksFullInfo = allNetworks
+  const evmAndAbNetworksFullInfo = allNetworks
     .map(network => getFullNetworkInfo({ network }))
-    .filter(network => network.type === 'evm')
+    .filter(network => ['evm', 'ab'].includes(network.type))
     .map((network, index) => {
       networksWithTokensAddresses[network.slug] = []
       networksIndexesBySlug[network.slug] = index
@@ -40,8 +40,8 @@ const syncUniqTokensWithNetworks = async () => {
     uniqExternalTokensAddresses.forEach(tokenAddress => {
     const { chainIds } = uniqExternalTokens[tokenAddress]
     chainIds.forEach(chainId => {
-      const networkIndex = evmNetworksFullInfo.findIndex(network => network?.chainId && +network.chainId === chainId)
-      const tokenNetwork = networkIndex !== -1 && evmNetworksFullInfo[networkIndex]
+      const networkIndex = evmAndAbNetworksFullInfo.findIndex(network => network?.chainId && +network.chainId === chainId)
+      const tokenNetwork = networkIndex !== -1 && evmAndAbNetworksFullInfo[networkIndex]
       if (tokenNetwork) networksWithTokensAddresses[tokenNetwork.slug].push(tokenAddress)
     })
   })
@@ -50,7 +50,7 @@ const syncUniqTokensWithNetworks = async () => {
     if (!networksWithTokensAddresses[network].length) continue
     try {
       await updateTokensByNetwork(
-        evmNetworksFullInfo[networksIndexesBySlug[network]],
+        evmAndAbNetworksFullInfo[networksIndexesBySlug[network]],
         networksWithTokensAddresses[network],
         uniqExternalTokens
       )

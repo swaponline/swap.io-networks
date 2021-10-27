@@ -1,0 +1,11 @@
+{
+  "name": "ApeSwap Finance",
+  "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+  "symbol": "BANANA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/BANANA--0x5d47baba0d66083c52009271faf3f50dcc01023c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

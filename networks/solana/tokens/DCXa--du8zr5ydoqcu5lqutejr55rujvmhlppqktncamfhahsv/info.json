@@ -1,0 +1,11 @@
+{
+  "name": "Diverse Capital of Asiatic Exchanges",
+  "address": "du8zr5ydoqcu5lqutejr55rujvmhlppqktncamfhahsv",
+  "symbol": "DCXa",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DCXa--du8zr5ydoqcu5lqutejr55rujvmhlppqktncamfhahsv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

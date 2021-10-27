@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing REN (Wormhole)",
+  "address": "dn8jpo8yztxhlmydmkcnwfukqy8wfn2urpx8ct4rc8bc",
+  "symbol": "waREN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waREN--dn8jpo8yztxhlmydmkcnwfukqy8wfn2urpx8ct4rc8bc/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

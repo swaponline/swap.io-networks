@@ -1,0 +1,11 @@
+{
+  "name": "Apple Inc.",
+  "address": "8bprdbgpt354vfabl5xugp3pmyz2tqjzrcqjg2kmwfbf",
+  "symbol": "AAPL",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AAPL--8bprdbgpt354vfabl5xugp3pmyz2tqjzrcqjg2kmwfbf/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

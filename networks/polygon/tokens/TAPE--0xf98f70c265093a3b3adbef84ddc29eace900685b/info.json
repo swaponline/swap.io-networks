@@ -1,0 +1,11 @@
+{
+  "name": "ToolApe",
+  "address": "0xf98f70c265093a3b3adbef84ddc29eace900685b",
+  "symbol": "TAPE",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/TAPE--0xf98f70c265093a3b3adbef84ddc29eace900685b/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

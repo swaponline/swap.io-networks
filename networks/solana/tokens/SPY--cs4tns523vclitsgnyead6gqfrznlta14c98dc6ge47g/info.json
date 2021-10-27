@@ -1,0 +1,11 @@
+{
+  "name": "SPDR S&P 500 ETF",
+  "address": "cs4tns523vclitsgnyead6gqfrznlta14c98dc6ge47g",
+  "symbol": "SPY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SPY--cs4tns523vclitsgnyead6gqfrznlta14c98dc6ge47g/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

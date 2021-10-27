@@ -1,0 +1,11 @@
+{
+  "name": "OMEGA",
+  "address": "67lpcnawesd3lirjn4hyatf5hvcegiva2ihvtqgd23tu",
+  "symbol": "OMG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OMG--67lpcnawesd3lirjn4hyatf5hvcegiva2ihvtqgd23tu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

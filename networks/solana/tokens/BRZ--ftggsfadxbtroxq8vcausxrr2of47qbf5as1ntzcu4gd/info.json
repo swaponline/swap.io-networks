@@ -1,0 +1,11 @@
+{
+  "name": "BRZ",
+  "address": "ftggsfadxbtroxq8vcausxrr2of47qbf5as1ntzcu4gd",
+  "symbol": "BRZ",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BRZ--ftggsfadxbtroxq8vcausxrr2of47qbf5as1ntzcu4gd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

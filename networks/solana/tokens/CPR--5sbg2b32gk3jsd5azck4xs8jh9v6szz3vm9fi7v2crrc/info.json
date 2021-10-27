@@ -1,0 +1,11 @@
+{
+  "name": "Crypto Republic",
+  "address": "5sbg2b32gk3jsd5azck4xs8jh9v6szz3vm9fi7v2crrc",
+  "symbol": "CPR",
+  "decimals": 5,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CPR--5sbg2b32gk3jsd5azck4xs8jh9v6szz3vm9fi7v2crrc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

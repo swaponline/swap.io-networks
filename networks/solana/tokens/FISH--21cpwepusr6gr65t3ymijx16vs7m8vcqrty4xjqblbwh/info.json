@@ -1,0 +1,11 @@
+{
+  "name": "CATPUNK TOKEN",
+  "address": "21cpwepusr6gr65t3ymijx16vs7m8vcqrty4xjqblbwh",
+  "symbol": "FISH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FISH--21cpwepusr6gr65t3ymijx16vs7m8vcqrty4xjqblbwh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

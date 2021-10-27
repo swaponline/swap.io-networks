@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (BOP/USDC[aquafarm])",
+  "address": "a7vvbqenjj8ked3abjphe8tvwpasqytowgkpjplarmxa",
+  "symbol": "BOPUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOPUSDC--a7vvbqenjj8ked3abjphe8tvwpasqytowgkpjplarmxa/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LQID",
+  "address": "a6ay2ceogbz1vaxbxm1j2ejunzmrqrwuankecrmh85zj",
+  "symbol": "LQID",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LQID--a6ay2ceogbz1vaxbxm1j2ejunzmrqrwuankecrmh85zj/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

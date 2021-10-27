@@ -1,0 +1,11 @@
+{
+  "name": "Just Group PLC",
+  "address": "6h26k637ynajzycrosvbr3enkfgmsbr4xmov7ca83gwf",
+  "symbol": "JUST",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JUST--6h26k637ynajzycrosvbr3enkfgmsbr4xmov7ca83gwf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

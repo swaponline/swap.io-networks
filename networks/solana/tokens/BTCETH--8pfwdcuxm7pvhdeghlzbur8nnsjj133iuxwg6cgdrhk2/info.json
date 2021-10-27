@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (BTC/ETH)",
+  "address": "8pfwdcuxm7pvhdeghlzbur8nnsjj133iuxwg6cgdrhk2",
+  "symbol": "BTCETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTCETH--8pfwdcuxm7pvhdeghlzbur8nnsjj133iuxwg6cgdrhk2/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SolBull",
+  "address": "e28mvmaja9lhlpjwiwsld4eerl7w9j6ugauwbwph5ufd",
+  "symbol": "SBULL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SBULL--e28mvmaja9lhlpjwiwsld4eerl7w9j6ugauwbwph5ufd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

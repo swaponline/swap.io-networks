@@ -1,0 +1,11 @@
+{
+  "name": "AlphaKlima",
+  "address": "0xeb935614447185eeea0abc756ff2ddc99fbb9047",
+  "symbol": "AKLIMA",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/AKLIMA--0xeb935614447185eeea0abc756ff2ddc99fbb9047/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

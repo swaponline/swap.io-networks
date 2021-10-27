@@ -1,0 +1,11 @@
+{
+  "name": "Chum Coin",
+  "address": "5u93vfnwj4nkdhm7k1x7j6d15njim2odivn9mmfcwwpu",
+  "symbol": "CHUM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CHUM--5u93vfnwj4nkdhm7k1x7j6d15njim2odivn9mmfcwwpu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

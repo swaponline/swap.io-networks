@@ -1,0 +1,11 @@
+{
+  "name": "DogSol",
+  "address": "5hownqstyjtgji1u117sikxlxbeamhkrzavbm21rwh86",
+  "symbol": "DOG",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOG--5hownqstyjtgji1u117sikxlxbeamhkrzavbm21rwh86/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

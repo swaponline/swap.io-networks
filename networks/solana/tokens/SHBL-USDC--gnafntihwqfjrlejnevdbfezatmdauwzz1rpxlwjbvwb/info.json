@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Permissionless LP Token (SHBL-USDC)",
+  "address": "gnafntihwqfjrlejnevdbfezatmdauwzz1rpxlwjbvwb",
+  "symbol": "SHBL-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHBL-USDC--gnafntihwqfjrlejnevdbfezatmdauwzz1rpxlwjbvwb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

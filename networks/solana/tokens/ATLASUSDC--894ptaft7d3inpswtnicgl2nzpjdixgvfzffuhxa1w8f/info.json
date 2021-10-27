@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (ATLAS/USDC[aquafarm])",
+  "address": "894ptaft7d3inpswtnicgl2nzpjdixgvfzffuhxa1w8f",
+  "symbol": "ATLASUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ATLASUSDC--894ptaft7d3inpswtnicgl2nzpjdixgvfzffuhxa1w8f/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

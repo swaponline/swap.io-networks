@@ -1,0 +1,11 @@
+{
+  "name": "Balanced Dollar",
+  "address": "4mawqunmldqsynmqwdwqa34ytwfiqsezngfebuvzgskm",
+  "symbol": "USBL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

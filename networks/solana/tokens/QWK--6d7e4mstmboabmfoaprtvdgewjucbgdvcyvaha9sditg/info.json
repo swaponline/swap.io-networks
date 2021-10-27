@@ -1,0 +1,11 @@
+{
+  "name": "QwikPay.io Token",
+  "address": "6d7e4mstmboabmfoaprtvdgewjucbgdvcyvaha9sditg",
+  "symbol": "QWK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/QWK--6d7e4mstmboabmfoaprtvdgewjucbgdvcyvaha9sditg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

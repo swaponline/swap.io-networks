@@ -1,0 +1,11 @@
+{
+  "name": "Grayscale Ethereum Trust",
+  "address": "5ymfovuoqzdivpm6w97ugkkhxq6aehipunka8impdoa1",
+  "symbol": "ETHE",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETHE--5ymfovuoqzdivpm6w97ugkkhxq6aehipunka8impdoa1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mercurial LP Token (stSOL-2Pool)",
+  "address": "4q19vhpg6y4zemplqiunnajstb8xivcfqy4m4mdnvnqz",
+  "symbol": "stSOL-SOL",
+  "decimals": 12,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/stSOL-SOL--4q19vhpg6y4zemplqiunnajstb8xivcfqy4m4mdnvnqz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

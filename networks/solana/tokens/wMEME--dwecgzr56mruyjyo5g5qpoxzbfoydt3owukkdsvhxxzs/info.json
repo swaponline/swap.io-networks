@@ -1,0 +1,11 @@
+{
+  "name": "MEME (Wormhole)",
+  "address": "dwecgzr56mruyjyo5g5qpoxzbfoydt3owukkdsvhxxzs",
+  "symbol": "wMEME",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMEME--dwecgzr56mruyjyo5g5qpoxzbfoydt3owukkdsvhxxzs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

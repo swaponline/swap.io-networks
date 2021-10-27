@@ -1,0 +1,11 @@
+{
+  "name": "Solanium",
+  "address": "xxxxa1skngwftw2kfn8xauw9xq8hbz5kvtcsestt9fw",
+  "symbol": "SLIM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLIM--xxxxa1skngwftw2kfn8xauw9xq8hbz5kvtcsestt9fw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped USDC (Allbridge from Avalanche)",
+  "address": "8yv9jz4z7buhp68dz8e8m3tme6nkgpmukn8kvqrpa6fr",
+  "symbol": "aaUSDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aaUSDC--8yv9jz4z7buhp68dz8e8m3tme6nkgpmukn8kvqrpa6fr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

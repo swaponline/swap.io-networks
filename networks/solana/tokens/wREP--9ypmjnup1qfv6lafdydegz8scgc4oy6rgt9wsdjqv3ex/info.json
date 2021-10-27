@@ -1,0 +1,11 @@
+{
+  "name": "Reputation (Wormhole)",
+  "address": "9ypmjnup1qfv6lafdydegz8scgc4oy6rgt9wsdjqv3ex",
+  "symbol": "wREP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wREP--9ypmjnup1qfv6lafdydegz8scgc4oy6rgt9wsdjqv3ex/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

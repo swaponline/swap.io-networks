@@ -1,0 +1,11 @@
+{
+  "name": "MOLAMON",
+  "address": "er8xa8yxjlc3cfjgdaxjs46rdhb7b3mjgbpzsvg1aafv",
+  "symbol": "MOLAMON",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MOLAMON--er8xa8yxjlc3cfjgdaxjs46rdhb7b3mjgbpzsvg1aafv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

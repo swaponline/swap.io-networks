@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (MNDE/mSOL[aquafarm])",
+  "address": "2wpsmuzhesc6ghv3qtfpmjf6ateglgbnmq8u43y6fpxz",
+  "symbol": "MNDEmSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MNDEmSOL--2wpsmuzhesc6ghv3qtfpmjf6ateglgbnmq8u43y6fpxz/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

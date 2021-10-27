@@ -1,0 +1,11 @@
+{
+  "name": "Feliz Coin",
+  "address": "8euyhq7zvg7t9ofwywtkih1ybg5exjkcgn7oc8frxwdt",
+  "symbol": "FLC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FLC--8euyhq7zvg7t9ofwywtkih1ybg5exjkcgn7oc8frxwdt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

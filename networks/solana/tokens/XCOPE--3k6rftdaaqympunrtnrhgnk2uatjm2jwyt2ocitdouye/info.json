@@ -1,0 +1,11 @@
+{
+  "name": "XCOPE",
+  "address": "3k6rftdaaqympunrtnrhgnk2uatjm2jwyt2ocitdouye",
+  "symbol": "XCOPE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XCOPE--3k6rftdaaqympunrtnrhgnk2uatjm2jwyt2ocitdouye/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

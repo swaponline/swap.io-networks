@@ -1,0 +1,11 @@
+{
+  "name": "MoonSol",
+  "address": "7txxsfjyt8gr1xzh9vzznrxha4t2vxtybsy9jwhrjfhj",
+  "symbol": "MOON",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MOON--7txxsfjyt8gr1xzh9vzznrxha4t2vxtybsy9jwhrjfhj/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

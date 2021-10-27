@@ -1,0 +1,11 @@
+{
+  "name": "Pundi X Token (Wormhole)",
+  "address": "rs4lhz4wogzcakczfskjib5llnyl6xcvaftclqisjg2",
+  "symbol": "wNPXS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wNPXS--rs4lhz4wogzcakczfskjib5llnyl6xcvaftclqisjg2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

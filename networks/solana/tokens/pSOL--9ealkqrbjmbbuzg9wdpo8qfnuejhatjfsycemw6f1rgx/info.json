@@ -1,0 +1,11 @@
+{
+  "name": "pSOL (Parrot SOL)",
+  "address": "9ealkqrbjmbbuzg9wdpo8qfnuejhatjfsycemw6f1rgx",
+  "symbol": "pSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/pSOL--9ealkqrbjmbbuzg9wdpo8qfnuejhatjfsycemw6f1rgx/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

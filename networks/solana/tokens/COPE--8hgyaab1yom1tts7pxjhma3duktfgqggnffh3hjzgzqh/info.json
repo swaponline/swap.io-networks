@@ -1,0 +1,11 @@
+{
+  "name": "COPE",
+  "address": "8hgyaab1yom1tts7pxjhma3duktfgqggnffh3hjzgzqh",
+  "symbol": "COPE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COPE--8hgyaab1yom1tts7pxjhma3duktfgqggnffh3hjzgzqh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

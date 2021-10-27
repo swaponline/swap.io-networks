@@ -1,0 +1,11 @@
+{
+  "name": "Solanax",
+  "address": "5v6tz1siai7g8qg4rbf1zdan4cn6aeqtefewmr1nly61",
+  "symbol": "SOLD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLD--5v6tz1siai7g8qg4rbf1zdan4cn6aeqtefewmr1nly61/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

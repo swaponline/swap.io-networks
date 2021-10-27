@@ -1,0 +1,11 @@
+{
+  "name": "MasterCoin",
+  "address": "2wbxhm4oxmed7zodkpl4du8burfmykubvu8t4n38vxdb",
+  "symbol": "MSC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MSC--2wbxhm4oxmed7zodkpl4du8burfmykubvu8t4n38vxdb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

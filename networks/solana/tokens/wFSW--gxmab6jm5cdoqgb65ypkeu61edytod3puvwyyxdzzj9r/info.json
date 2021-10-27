@@ -1,0 +1,11 @@
+{
+  "name": "FalconSwap Token (Wormhole)",
+  "address": "gxmab6jm5cdoqgb65ypkeu61edytod3puvwyyxdzzj9r",
+  "symbol": "wFSW",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wFSW--gxmab6jm5cdoqgb65ypkeu61edytod3puvwyyxdzzj9r/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

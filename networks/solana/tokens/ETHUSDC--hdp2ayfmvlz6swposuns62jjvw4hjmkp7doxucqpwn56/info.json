@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (ETH/USDC)",
+  "address": "hdp2ayfmvlz6swposuns62jjvw4hjmkp7doxucqpwn56",
+  "symbol": "ETHUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETHUSDC--hdp2ayfmvlz6swposuns62jjvw4hjmkp7doxucqpwn56/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

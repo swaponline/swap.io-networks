@@ -1,0 +1,11 @@
+{
+  "name": "Google",
+  "address": "7uzwupc6xswkgfaudjpzgpvh9p3wqektvtjqlm1rxx6w",
+  "symbol": "GOOGL",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GOOGL--7uzwupc6xswkgfaudjpzgpvh9p3wqektvtjqlm1rxx6w/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

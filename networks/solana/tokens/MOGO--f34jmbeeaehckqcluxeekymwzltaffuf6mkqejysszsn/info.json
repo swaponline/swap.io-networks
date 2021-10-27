@@ -1,0 +1,11 @@
+{
+  "name": "Mogotrovio",
+  "address": "f34jmbeeaehckqcluxeekymwzltaffuf6mkqejysszsn",
+  "symbol": "MOGO",
+  "decimals": 1,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MOGO--f34jmbeeaehckqcluxeekymwzltaffuf6mkqejysszsn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing ENJ (Wormhole)",
+  "address": "3rnuqjgvfz5efszvckvdycbd9zzs6ymtwqsoutfkmvd4",
+  "symbol": "waENJ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waENJ--3rnuqjgvfz5efszvckvdycbd9zzs6ymtwqsoutfkmvd4/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

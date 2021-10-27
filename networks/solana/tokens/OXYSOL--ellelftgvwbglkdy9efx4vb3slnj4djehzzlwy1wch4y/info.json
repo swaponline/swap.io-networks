@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (OXY/SOL)",
+  "address": "ellelftgvwbglkdy9efx4vb3slnj4djehzzlwy1wch4y",
+  "symbol": "OXYSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OXYSOL--ellelftgvwbglkdy9efx4vb3slnj4djehzzlwy1wch4y/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

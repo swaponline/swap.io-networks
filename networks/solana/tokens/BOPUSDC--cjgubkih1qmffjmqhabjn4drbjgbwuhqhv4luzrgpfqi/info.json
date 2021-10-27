@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (BOP/USDC[aquafarm])",
+  "address": "cjgubkih1qmffjmqhabjn4drbjgbwuhqhv4luzrgpfqi",
+  "symbol": "BOPUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOPUSDC--cjgubkih1qmffjmqhabjn4drbjgbwuhqhv4luzrgpfqi/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

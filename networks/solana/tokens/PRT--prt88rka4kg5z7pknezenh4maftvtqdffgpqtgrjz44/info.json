@@ -1,0 +1,11 @@
+{
+  "name": "PRT (Parrot Protocol)",
+  "address": "prt88rka4kg5z7pknezenh4maftvtqdffgpqtgrjz44",
+  "symbol": "PRT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PRT--prt88rka4kg5z7pknezenh4maftvtqdffgpqtgrjz44/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

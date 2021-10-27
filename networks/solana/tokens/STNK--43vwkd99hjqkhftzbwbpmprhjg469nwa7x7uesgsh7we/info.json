@@ -1,0 +1,11 @@
+{
+  "name": "Stonks",
+  "address": "43vwkd99hjqkhftzbwbpmprhjg469nwa7x7uesgsh7we",
+  "symbol": "STNK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STNK--43vwkd99hjqkhftzbwbpmprhjg469nwa7x7uesgsh7we/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

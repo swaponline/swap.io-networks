@@ -1,0 +1,11 @@
+{
+  "name": "renBTC",
+  "address": "cdjwuqtcytvakxavxoqzfes5jufc7owseq7emqcdsbo5",
+  "symbol": "renBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renBTC--cdjwuqtcytvakxavxoqzfes5jufc7owseq7emqcdsbo5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

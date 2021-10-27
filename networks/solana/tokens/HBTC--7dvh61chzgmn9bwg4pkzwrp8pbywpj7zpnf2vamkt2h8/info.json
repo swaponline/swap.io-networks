@@ -1,0 +1,11 @@
+{
+  "name": "Huobi BTC (Wormhole)",
+  "address": "7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8",
+  "symbol": "HBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HBTC--7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

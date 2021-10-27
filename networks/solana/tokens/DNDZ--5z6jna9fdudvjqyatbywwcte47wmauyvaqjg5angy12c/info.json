@@ -1,0 +1,11 @@
+{
+  "name": "Dinarius Token",
+  "address": "5z6jna9fdudvjqyatbywwcte47wmauyvaqjg5angy12c",
+  "symbol": "DNDZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DNDZ--5z6jna9fdudvjqyatbywwcte47wmauyvaqjg5angy12c/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

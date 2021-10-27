@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (MNGO/USDC[aquafarm])",
+  "address": "cxhclztbhfkwjaz956sekgxkavmvqh3hfktjkpgtv9q5",
+  "symbol": "MNGOUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MNGOUSDC--cxhclztbhfkwjaz956sekgxkavmvqh3hfktjkpgtv9q5/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

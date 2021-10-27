@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (AUSS-USDC)",
+  "address": "bk2ynwsexxnjsugdazdvlv2frthcnggwtxdbvfbulcjg",
+  "symbol": "AUSS-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AUSS-USDC--bk2ynwsexxnjsugdazdvlv2frthcnggwtxdbvfbulcjg/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

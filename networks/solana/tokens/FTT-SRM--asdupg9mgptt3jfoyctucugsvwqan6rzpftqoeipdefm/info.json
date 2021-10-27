@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (FTT-SRM)",
+  "address": "asdupg9mgptt3jfoyctucugsvwqan6rzpftqoeipdefm",
+  "symbol": "FTT-SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FTT-SRM--asdupg9mgptt3jfoyctucugsvwqan6rzpftqoeipdefm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

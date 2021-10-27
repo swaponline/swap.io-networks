@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BTC (Wormhole)",
+  "address": "qfnqnqs3ncahjnycglrdbbtq4p2mthzxw8yjsyyhpol",
+  "symbol": "wWBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wWBTC--qfnqnqs3ncahjnycglrdbbtq4p2mthzxw8yjsyyhpol/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

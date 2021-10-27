@@ -1,0 +1,11 @@
+{
+  "name": "The Grand Banks",
+  "address": "0xbcf339df10d78f2b44aa760ead0f715a7a7d7269",
+  "symbol": "GRAND",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GRAND--0xbcf339df10d78f2b44aa760ead0f715a7a7d7269/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

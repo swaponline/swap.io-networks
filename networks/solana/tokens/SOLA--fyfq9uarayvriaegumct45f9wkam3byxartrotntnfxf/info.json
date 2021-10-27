@@ -1,0 +1,11 @@
+{
+  "name": "Sola Token",
+  "address": "fyfq9uarayvriaegumct45f9wkam3byxartrotntnfxf",
+  "symbol": "SOLA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLA--fyfq9uarayvriaegumct45f9wkam3byxartrotntnfxf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

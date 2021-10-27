@@ -1,0 +1,11 @@
+{
+  "name": "SushiToken (Wormhole)",
+  "address": "chvzxwrmrtesgwd3ui3uumcn8kx7vk3wad4kgeskpypj",
+  "symbol": "Sushi",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Sushi--chvzxwrmrtesgwd3ui3uumcn8kx7vk3wad4kgeskpypj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

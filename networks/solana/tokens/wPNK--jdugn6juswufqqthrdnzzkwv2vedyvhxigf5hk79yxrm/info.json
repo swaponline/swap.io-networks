@@ -1,0 +1,11 @@
+{
+  "name": "Pinakion (Wormhole)",
+  "address": "jdugn6juswufqqthrdnzzkwv2vedyvhxigf5hk79yxrm",
+  "symbol": "wPNK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPNK--jdugn6juswufqqthrdnzzkwv2vedyvhxigf5hk79yxrm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

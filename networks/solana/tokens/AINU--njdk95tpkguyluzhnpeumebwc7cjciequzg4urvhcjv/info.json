@@ -1,0 +1,11 @@
+{
+  "name": "AvatarInu",
+  "address": "njdk95tpkguyluzhnpeumebwc7cjciequzg4urvhcjv",
+  "symbol": "AINU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AINU--njdk95tpkguyluzhnpeumebwc7cjciequzg4urvhcjv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

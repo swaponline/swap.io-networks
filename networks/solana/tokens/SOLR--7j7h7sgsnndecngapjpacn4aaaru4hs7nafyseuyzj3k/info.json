@@ -1,0 +1,11 @@
+{
+  "name": "SolRazr",
+  "address": "7j7h7sgsnndecngapjpacn4aaaru4hs7nafyseuyzj3k",
+  "symbol": "SOLR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLR--7j7h7sgsnndecngapjpacn4aaaru4hs7nafyseuyzj3k/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

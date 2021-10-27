@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (MNDE/mSOL[aquafarm])",
+  "address": "2fmpvehvxifxhfidefumnxcouzk3tfhezzajohgtqkp2",
+  "symbol": "MNDEmSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MNDEmSOL--2fmpvehvxifxhfidefumnxcouzk3tfhezzajohgtqkp2/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

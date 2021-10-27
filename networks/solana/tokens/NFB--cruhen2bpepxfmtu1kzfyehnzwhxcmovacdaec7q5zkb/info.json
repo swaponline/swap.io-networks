@@ -1,0 +1,11 @@
+{
+  "name": "NFBet",
+  "address": "cruhen2bpepxfmtu1kzfyehnzwhxcmovacdaec7q5zkb",
+  "symbol": "NFB",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NFB--cruhen2bpepxfmtu1kzfyehnzwhxcmovacdaec7q5zkb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

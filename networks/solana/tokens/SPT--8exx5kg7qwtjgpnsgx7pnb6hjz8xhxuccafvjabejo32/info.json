@@ -1,0 +1,11 @@
+{
+  "name": "The Signing of the Peace Treaty",
+  "address": "8exx5kg7qwtjgpnsgx7pnb6hjz8xhxuccafvjabejo32",
+  "symbol": "SPT",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SPT--8exx5kg7qwtjgpnsgx7pnb6hjz8xhxuccafvjabejo32/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -4,7 +4,7 @@
   "symbol": "BAKE",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/BAKE--0xe02df9e3e622debdd69fb838bb799e3f168902c5/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/BAKE--0xe02df9e3e622debdd69fb838bb799e3f168902c5/logo.svg",
   "tags": [
     "bep20"
   ]

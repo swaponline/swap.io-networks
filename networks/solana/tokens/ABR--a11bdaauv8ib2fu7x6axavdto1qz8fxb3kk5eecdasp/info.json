@@ -1,0 +1,11 @@
+{
+  "name": "Allbridge",
+  "address": "a11bdaauv8ib2fu7x6axavdto1qz8fxb3kk5eecdasp",
+  "symbol": "ABR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ABR--a11bdaauv8ib2fu7x6axavdto1qz8fxb3kk5eecdasp/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "The Convergence War",
+  "address": "36s6afrxze9kvduyojq5y6mwxxw21lawyqqwniqumd8s",
+  "symbol": "TCW",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TCW--36s6afrxze9kvduyojq5y6mwxxw21lawyqqwniqumd8s/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

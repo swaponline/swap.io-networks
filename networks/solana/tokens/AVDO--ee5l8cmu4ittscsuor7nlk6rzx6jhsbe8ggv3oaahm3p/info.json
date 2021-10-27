@@ -1,0 +1,11 @@
+{
+  "name": "AvocadoCoin",
+  "address": "ee5l8cmu4ittscsuor7nlk6rzx6jhsbe8ggv3oaahm3p",
+  "symbol": "AVDO",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AVDO--ee5l8cmu4ittscsuor7nlk6rzx6jhsbe8ggv3oaahm3p/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

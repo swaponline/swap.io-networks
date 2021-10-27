@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (KURO/USDC[aquafarm])",
+  "address": "6pgoaqdl9e463hdafxhxsupcjchrk32cq9pfkxvm7xy2",
+  "symbol": "KUROUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KUROUSDC--6pgoaqdl9e463hdafxhxsupcjchrk32cq9pfkxvm7xy2/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iShares MSCI Brazil ETF",
+  "address": "n5ykto2mu7cnclx7sgwfe3m2vpy7wq8gdt2svnde6ah",
+  "symbol": "EWZ",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EWZ--n5ykto2mu7cnclx7sgwfe3m2vpy7wq8gdt2svnde6ah/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

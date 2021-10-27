@@ -1,0 +1,11 @@
+{
+  "name": "Microsoft Corporation",
+  "address": "3vhcrqfen8ashubfe82f3mtedfcbcefffw1zgm3xj1s8",
+  "symbol": "MSFT",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MSFT--3vhcrqfen8ashubfe82f3mtedfcbcefffw1zgm3xj1s8/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

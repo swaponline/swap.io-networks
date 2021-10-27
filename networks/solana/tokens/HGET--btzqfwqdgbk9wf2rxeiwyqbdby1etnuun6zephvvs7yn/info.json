@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Hedget (Sollet)",
+  "address": "btzqfwqdgbk9wf2rxeiwyqbdby1etnuun6zephvvs7yn",
+  "symbol": "HGET",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HGET--btzqfwqdgbk9wf2rxeiwyqbdby1etnuun6zephvvs7yn/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

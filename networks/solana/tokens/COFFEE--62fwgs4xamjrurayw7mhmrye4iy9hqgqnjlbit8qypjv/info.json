@@ -1,0 +1,11 @@
+{
+  "name": "CoffeeMaker",
+  "address": "62fwgs4xamjrurayw7mhmrye4iy9hqgqnjlbit8qypjv",
+  "symbol": "COFFEE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COFFEE--62fwgs4xamjrurayw7mhmrye4iy9hqgqnjlbit8qypjv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

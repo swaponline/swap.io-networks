@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (LIQ-SOL)",
+  "address": "gtq48z7nnjs7svyp3m7iuidctrjewpd1fkdiwqny1ur6",
+  "symbol": "LIQ-SOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIQ-SOL--gtq48z7nnjs7svyp3m7iuidctrjewpd1fkdiwqny1ur6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

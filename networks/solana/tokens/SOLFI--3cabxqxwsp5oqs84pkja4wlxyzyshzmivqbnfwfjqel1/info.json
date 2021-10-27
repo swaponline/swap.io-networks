@@ -1,0 +1,11 @@
+{
+  "name": "SOLFI",
+  "address": "3cabxqxwsp5oqs84pkja4wlxyzyshzmivqbnfwfjqel1",
+  "symbol": "SOLFI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLFI--3cabxqxwsp5oqs84pkja4wlxyzyshzmivqbnfwfjqel1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

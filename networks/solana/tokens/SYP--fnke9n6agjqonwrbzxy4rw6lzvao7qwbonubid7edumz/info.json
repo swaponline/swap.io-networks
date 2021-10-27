@@ -1,0 +1,11 @@
+{
+  "name": "Sypool",
+  "address": "fnke9n6agjqonwrbzxy4rw6lzvao7qwbonubid7edumz",
+  "symbol": "SYP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

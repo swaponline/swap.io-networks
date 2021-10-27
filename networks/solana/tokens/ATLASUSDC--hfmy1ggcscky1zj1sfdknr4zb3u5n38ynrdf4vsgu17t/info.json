@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (ATLAS/USDC[aquafarm])",
+  "address": "hfmy1ggcscky1zj1sfdknr4zb3u5n38ynrdf4vsgu17t",
+  "symbol": "ATLASUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ATLASUSDC--hfmy1ggcscky1zj1sfdknr4zb3u5n38ynrdf4vsgu17t/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

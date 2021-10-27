@@ -1,0 +1,11 @@
+{
+  "name": "AMC Entertainment Holdings",
+  "address": "fenmugwjsw5aohthrbglopuzywsk36cd5a31xjwjnrur",
+  "symbol": "AMC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AMC--fenmugwjsw5aohthrbglopuzywsk36cd5a31xjwjnrur/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

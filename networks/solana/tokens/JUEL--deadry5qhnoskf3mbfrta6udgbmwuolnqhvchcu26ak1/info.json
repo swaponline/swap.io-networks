@@ -1,0 +1,11 @@
+{
+  "name": "Juel Token",
+  "address": "deadry5qhnoskf3mbfrta6udgbmwuolnqhvchcu26ak1",
+  "symbol": "JUEL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JUEL--deadry5qhnoskf3mbfrta6udgbmwuolnqhvchcu26ak1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

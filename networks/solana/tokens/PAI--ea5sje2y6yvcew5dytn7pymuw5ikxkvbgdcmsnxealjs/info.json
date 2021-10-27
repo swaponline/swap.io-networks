@@ -1,0 +1,11 @@
+{
+  "name": "PAI (Parrot USD)",
+  "address": "ea5sje2y6yvcew5dytn7pymuw5ikxkvbgdcmsnxealjs",
+  "symbol": "PAI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PAI--ea5sje2y6yvcew5dytn7pymuw5ikxkvbgdcmsnxealjs/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

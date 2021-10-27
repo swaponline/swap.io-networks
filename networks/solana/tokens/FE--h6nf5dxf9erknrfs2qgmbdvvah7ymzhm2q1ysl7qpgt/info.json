@@ -1,0 +1,11 @@
+{
+  "name": "FUTURE ECOSYSTEM",
+  "address": "h6nf5dxf9erknrfs2qgmbdvvah7ymzhm2q1ysl7qpgt",
+  "symbol": "FE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FE--h6nf5dxf9erknrfs2qgmbdvvah7ymzhm2q1ysl7qpgt/logo.jpeg",
+  "tags": [
+    "spl"
+  ]
+}

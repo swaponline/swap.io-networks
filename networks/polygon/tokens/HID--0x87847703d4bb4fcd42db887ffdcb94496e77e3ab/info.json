@@ -1,0 +1,11 @@
+{
+  "name": "Hypersign Identity ",
+  "address": "0x87847703d4bb4fcd42db887ffdcb94496e77e3ab",
+  "symbol": "HID",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/HID--0x87847703d4bb4fcd42db887ffdcb94496e77e3ab/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

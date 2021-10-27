@@ -1,0 +1,11 @@
+{
+  "name": "Compound (Wormhole)",
+  "address": "3xnhardjydrpbr9nbj8wnuaozpl9wao9ydynwakhtm9x",
+  "symbol": "wCOMP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCOMP--3xnhardjydrpbr9nbj8wnuaozpl9wao9ydynwakhtm9x/logo.png",
+  "tags": [
+    "spl"
+  ]
+}
