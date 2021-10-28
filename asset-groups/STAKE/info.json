@@ -1,9 +1,9 @@
 {
   "symbol": "STAKE",
   "name": "xDai",
-  "logo": "/networks/xdai/coins/xDAI/logo.svg",
+  "logo": "/networks/xdai/coins/STAKE/logo.svg",
   "asset-list": [
-    "/networks/xdai/coins/xDAI/info.json",
+    "/networks/xdai/coins/STAKE/info.json",
     "/networks/ethereum/tokens/STAKE--0x0ae055097c6d159879521c384f1d2123d1f195e6/info.json",
     "/networks/xdai/tokens/STAKE--0xb7d311e2eb55f2f68a9440da38e7989210b9a05e/info.json"
   ]

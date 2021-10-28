@@ -663,7 +663,7 @@
     "chainId": "0x64",
     "tokensType": "ERC20XDAI",
     "coins": [
-      "/networks/xdai/coins/xDAI/info.json"
+      "/networks/xdai/coins/STAKE/info.json"
     ],
     "explorers": [
       "https://blockscout.com/xdai/mainnet/"
