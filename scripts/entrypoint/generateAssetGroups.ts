@@ -38,6 +38,9 @@ const generateAssetGroups = (dataType = "mainnet") => {
   const generatedCustomAssetGroups: AssetGroup[] = []
   const customAssetsAbsolutePaths: string[] = []
 
+  const generatedNetworksCoinsAssetGroups: AssetGroup[] = []
+  const networksCoinsAbsolutePaths: string[] = []
+
   const customAssetGroupsInfo: CustomAssetGroup[] = customAssetGroups.map(assetGroup => {
     const assetGroupInfoPath = getAssetGroupInfoPath(assetGroup)
 
@@ -92,12 +95,22 @@ const generateAssetGroups = (dataType = "mainnet") => {
       networks: networksWithAssets
     }
 
-    generatedCustomAssetGroups.push(assetGroup)
+
+    const isCustomAssetGroup = !isNetworkCoinAssetGroup(mainAssetNetworkSlug, symbol)
+    isCustomAssetGroup
+    ? () => {}
+    : console.log(symbol, mainAssetNetworkSlug)
+
+    isCustomAssetGroup
+    ? generatedCustomAssetGroups.push(assetGroup)
+    : generatedNetworksCoinsAssetGroups.push(assetGroup)
+
+    assetGroupsBySymbol[assetGroup.symbol] = assetGroup
   })
 
   // Sorting and set priority for custom asset-groups, it need for this expample:
   // we have 2 Avalanche mainet networks and 1 AVAX asset-groups
-  generatedCustomAssetGroups
+  generatedNetworksCoinsAssetGroups
     .sort((a,b) => a.priority - b.priority)
     .map((assetGroup, index) => {
       assetGroup.priority = index
@@ -106,8 +119,6 @@ const generateAssetGroups = (dataType = "mainnet") => {
     })
 
   // Generating networks coins asset-groups
-  const generatedNetworksCoinstAssetGroups: AssetGroup[] = []
-  const networksCoinsAbsolutePaths: string[] = []
 
   Object.keys(networkInfoBySlug).forEach(network => {
     const { coins: networkCoins } = networkInfoBySlug[network]
@@ -115,6 +126,10 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
     networkCoins.forEach((coinPath: string) => {
       const coinAbsolutePath = getAbsolutePath(coinPath)
+
+      // Don't add asset if it includes in customAssets coins
+      if (customAssetsAbsolutePaths.includes(coinAbsolutePath)) return
+
       networksCoinsAbsolutePaths.push(coinAbsolutePath)
 
       const assetInfo = getAssetInfo(coinAbsolutePath)
@@ -133,14 +148,24 @@ const generateAssetGroups = (dataType = "mainnet") => {
         symbol,
         name,
         logo,
-        priority: generatedCustomAssetGroups.length,
+        priority: generatedNetworksCoinsAssetGroups.length,
         networks: networksWithAssets
       }
 
-      generatedNetworksCoinstAssetGroups.push(assetGroup)
+      generatedNetworksCoinsAssetGroups.push(assetGroup)
       assetGroupsBySymbol[symbol] = assetGroup
     })
   })
+
+  // Sorting and set priority for custom asset-groups, it need for this expample:
+  // we have 2 Avalanche mainet networks and 1 AVAX asset-groups
+  generatedCustomAssetGroups
+    .sort((a,b) => a.priority - b.priority)
+    .map((assetGroup, index) => {
+      assetGroup.priority = index + generatedNetworksCoinsAssetGroups.length
+      assetGroupsBySymbol[assetGroup.symbol] = assetGroup
+      return assetGroup
+    })
 
   // Generating networks tokens asset-groups
   const generatedNetworksTokensAssetGroups: AssetGroup[] = []
@@ -177,7 +202,7 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
       const priority =
         generatedCustomAssetGroups.length +
-        generatedNetworksCoinstAssetGroups.length +
+        generatedNetworksCoinsAssetGroups.length +
         generatedNetworksTokensAssetGroups.length
 
       const assetGroup: AssetGroup = {
@@ -200,8 +225,8 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
 
   assetGroups.push(
+    ...generatedNetworksCoinsAssetGroups,
     ...generatedCustomAssetGroups,
-    ...generatedNetworksCoinstAssetGroups,
     ...generatedNetworksTokensAssetGroups
   )
 
@@ -242,6 +267,18 @@ const getAssetInfo = (assetPath: string) => {
   if (!assetInfo.type) assetInfo.type = "token"
 
   return assetInfo
+}
+
+const isNetworkCoinAssetGroup = (network: string, coinSymbol: string) => {
+  const networkInfo = getFullNetworkInfo({ network }) as NetworkFullInfo
+  let isCoinFind = false
+
+  networkInfo.coins.forEach(coinPath => {
+    const { symbol } = getAssetInfo(getAbsolutePath(coinPath))
+    if (coinSymbol === symbol) isCoinFind = true
+  })
+
+  return isCoinFind
 }
 
 generateAssetGroups()

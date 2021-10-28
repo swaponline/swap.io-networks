@@ -61,7 +61,6 @@ export const writeToFileWithUpdate = (filePath: string, fileName: string, data: 
   if (oldData !== undefined) { // add logic for diffs
     const diffs = diffData(data, oldData)
     if (diffs) {
-      console.log('diffs', typeof diffs, diffs)
       const diffsPath = `${filePath}/diffs-(${new Date().toISOString()}).json`
       writeJsonFile(diffsPath, diffs)
     }
