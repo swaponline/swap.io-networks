@@ -1,0 +1,11 @@
+{
+  "name": "Space Hamster",
+  "address": "A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb",
+  "symbol": "HAMS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HAMS--A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

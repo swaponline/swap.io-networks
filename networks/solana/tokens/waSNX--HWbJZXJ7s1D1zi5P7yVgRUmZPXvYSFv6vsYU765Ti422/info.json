@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing SNX (Wormhole)",
+  "address": "HWbJZXJ7s1D1zi5P7yVgRUmZPXvYSFv6vsYU765Ti422",
+  "symbol": "waSNX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waSNX--HWbJZXJ7s1D1zi5P7yVgRUmZPXvYSFv6vsYU765Ti422/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

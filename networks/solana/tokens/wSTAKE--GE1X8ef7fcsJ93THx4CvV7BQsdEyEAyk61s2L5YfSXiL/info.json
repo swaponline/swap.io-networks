@@ -1,0 +1,11 @@
+{
+  "name": "xDai (Wormhole)",
+  "address": "GE1X8ef7fcsJ93THx4CvV7BQsdEyEAyk61s2L5YfSXiL",
+  "symbol": "wSTAKE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSTAKE--GE1X8ef7fcsJ93THx4CvV7BQsdEyEAyk61s2L5YfSXiL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

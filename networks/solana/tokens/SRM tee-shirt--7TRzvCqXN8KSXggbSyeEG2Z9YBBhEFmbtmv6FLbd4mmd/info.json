@@ -1,0 +1,11 @@
+{
+  "name": "SRM tee-shirt",
+  "address": "7TRzvCqXN8KSXggbSyeEG2Z9YBBhEFmbtmv6FLbd4mmd",
+  "symbol": "SRM tee-shirt",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

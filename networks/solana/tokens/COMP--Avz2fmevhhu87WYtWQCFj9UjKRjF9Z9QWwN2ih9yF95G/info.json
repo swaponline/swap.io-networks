@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Compound (Sollet)",
+  "address": "Avz2fmevhhu87WYtWQCFj9UjKRjF9Z9QWwN2ih9yF95G",
+  "symbol": "COMP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COMP--Avz2fmevhhu87WYtWQCFj9UjKRjF9Z9QWwN2ih9yF95G/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

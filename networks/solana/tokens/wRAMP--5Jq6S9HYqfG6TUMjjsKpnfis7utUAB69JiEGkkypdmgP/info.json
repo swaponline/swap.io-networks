@@ -1,0 +1,11 @@
+{
+  "name": "RAMP DEFI (Wormhole)",
+  "address": "5Jq6S9HYqfG6TUMjjsKpnfis7utUAB69JiEGkkypdmgP",
+  "symbol": "wRAMP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRAMP--5Jq6S9HYqfG6TUMjjsKpnfis7utUAB69JiEGkkypdmgP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

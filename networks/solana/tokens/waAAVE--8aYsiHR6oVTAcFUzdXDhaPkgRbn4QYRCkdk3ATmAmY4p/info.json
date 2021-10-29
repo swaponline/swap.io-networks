@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing Aave Token (Wormhole)",
+  "address": "8aYsiHR6oVTAcFUzdXDhaPkgRbn4QYRCkdk3ATmAmY4p",
+  "symbol": "waAAVE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waAAVE--8aYsiHR6oVTAcFUzdXDhaPkgRbn4QYRCkdk3ATmAmY4p/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

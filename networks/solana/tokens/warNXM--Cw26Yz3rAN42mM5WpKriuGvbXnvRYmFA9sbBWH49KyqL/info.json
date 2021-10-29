@@ -1,0 +1,11 @@
+{
+  "name": "Armor NXM (Wormhole)",
+  "address": "Cw26Yz3rAN42mM5WpKriuGvbXnvRYmFA9sbBWH49KyqL",
+  "symbol": "warNXM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/warNXM--Cw26Yz3rAN42mM5WpKriuGvbXnvRYmFA9sbBWH49KyqL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

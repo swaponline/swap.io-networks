@@ -1,0 +1,11 @@
+{
+  "name": "Krown",
+  "address": "Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq",
+  "symbol": "KRW",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KRW--Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

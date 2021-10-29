@@ -1,0 +1,11 @@
+{
+  "name": "Doja Token",
+  "address": "3U9pr23hLgoNWPVuKww3TfNutkqXXNQFMHm9cqZ3GfLT",
+  "symbol": "DOJA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOJA--3U9pr23hLgoNWPVuKww3TfNutkqXXNQFMHm9cqZ3GfLT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

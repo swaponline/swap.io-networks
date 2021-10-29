@@ -1,0 +1,11 @@
+{
+  "name": "StaFi Token",
+  "address": "FG7x94jPcVbtt4pLXWhyr6sU3iWim8JJ2y215X5yowN5",
+  "symbol": "FIS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FIS--FG7x94jPcVbtt4pLXWhyr6sU3iWim8JJ2y215X5yowN5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

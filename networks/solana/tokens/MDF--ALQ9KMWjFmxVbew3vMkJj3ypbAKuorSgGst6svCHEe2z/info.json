@@ -1,0 +1,11 @@
+{
+  "name": "MatrixETF DAO Finance",
+  "address": "ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z",
+  "symbol": "MDF",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MDF--ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

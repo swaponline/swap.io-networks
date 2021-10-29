@@ -1,0 +1,11 @@
+{
+  "name": "Unistake (Wormhole)",
+  "address": "DsGbyCHbG4vSWBqAprR2eWuUAg8fXAgYkWL9psgvYZn5",
+  "symbol": "wUNISTAKE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUNISTAKE--DsGbyCHbG4vSWBqAprR2eWuUAg8fXAgYkWL9psgvYZn5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

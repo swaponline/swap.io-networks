@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ArdCoin (Sollet)",
+  "address": "7zsKqN7Fg2s9VsqAq6XBoiShCVohpGshSUvoWBc6jKYh",
+  "symbol": "ARDX",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ARDX--7zsKqN7Fg2s9VsqAq6XBoiShCVohpGshSUvoWBc6jKYh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

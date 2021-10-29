@@ -1,0 +1,11 @@
+{
+  "name": "Cryptor",
+  "address": "6pSK3JkbfFcQvu6TuTsRnG61jKxdbaoRRkp1H6jhxXV3",
+  "symbol": "CRYPT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRYPT--6pSK3JkbfFcQvu6TuTsRnG61jKxdbaoRRkp1H6jhxXV3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sunny Governance Token",
+  "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+  "symbol": "SUNNY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUNNY--SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

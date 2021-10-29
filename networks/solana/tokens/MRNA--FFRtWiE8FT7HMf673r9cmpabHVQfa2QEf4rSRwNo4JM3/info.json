@@ -1,0 +1,11 @@
+{
+  "name": "Moderna",
+  "address": "FFRtWiE8FT7HMf673r9cmpabHVQfa2QEf4rSRwNo4JM3",
+  "symbol": "MRNA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MRNA--FFRtWiE8FT7HMf673r9cmpabHVQfa2QEf4rSRwNo4JM3/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

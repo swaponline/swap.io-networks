@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (SOL/USDT)",
+  "address": "BmZNYGt7aApGTUUxAQUYsW64cMbb6P7uniokCWaptj4D",
+  "symbol": "SOLUSDT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLUSDT--BmZNYGt7aApGTUUxAQUYsW64cMbb6P7uniokCWaptj4D/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

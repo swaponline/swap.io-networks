@@ -1,0 +1,11 @@
+{
+  "name": "https://unimex.network/ (Wormhole)",
+  "address": "C1LpKYrkVvWF5imsQ7JqJSZHj9NXNmJ5tEHkGTtLVH2L",
+  "symbol": "wUMX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUMX--C1LpKYrkVvWF5imsQ7JqJSZHj9NXNmJ5tEHkGTtLVH2L/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

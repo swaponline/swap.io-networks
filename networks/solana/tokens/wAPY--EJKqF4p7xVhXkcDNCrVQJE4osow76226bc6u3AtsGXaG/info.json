@@ -1,0 +1,11 @@
+{
+  "name": "APY Governance Token (Wormhole)",
+  "address": "EJKqF4p7xVhXkcDNCrVQJE4osow76226bc6u3AtsGXaG",
+  "symbol": "wAPY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wAPY--EJKqF4p7xVhXkcDNCrVQJE4osow76226bc6u3AtsGXaG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

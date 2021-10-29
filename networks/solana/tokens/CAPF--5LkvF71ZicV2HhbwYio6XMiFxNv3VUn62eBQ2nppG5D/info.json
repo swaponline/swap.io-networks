@@ -1,0 +1,11 @@
+{
+  "name": "Capital Fusion",
+  "address": "5LkvF71ZicV2HhbwYio6XMiFxNv3VUn62eBQ2nppG5D",
+  "symbol": "CAPF",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CAPF--5LkvF71ZicV2HhbwYio6XMiFxNv3VUn62eBQ2nppG5D/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

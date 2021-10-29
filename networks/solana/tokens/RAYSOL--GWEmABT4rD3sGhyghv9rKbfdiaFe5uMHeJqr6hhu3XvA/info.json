@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (RAY/SOL)",
+  "address": "GWEmABT4rD3sGhyghv9rKbfdiaFe5uMHeJqr6hhu3XvA",
+  "symbol": "RAYSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAYSOL--GWEmABT4rD3sGhyghv9rKbfdiaFe5uMHeJqr6hhu3XvA/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

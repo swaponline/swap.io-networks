@@ -1,0 +1,11 @@
+{
+  "name": "Perpetual (Wormhole)",
+  "address": "9sNArcS6veh7DLEo7Y1ZSbBCYtkuPVE6S3HhVrcWR2Zw",
+  "symbol": "wPERP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPERP--9sNArcS6veh7DLEo7Y1ZSbBCYtkuPVE6S3HhVrcWR2Zw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

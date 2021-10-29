@@ -1,0 +1,11 @@
+{
+  "name": "tuMEDIA",
+  "address": "6fGTc455JK3bsiSrvyLkEymQasPDXdrw2jJR16UkPnT5",
+  "symbol": "tuMEDIA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuMEDIA--6fGTc455JK3bsiSrvyLkEymQasPDXdrw2jJR16UkPnT5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

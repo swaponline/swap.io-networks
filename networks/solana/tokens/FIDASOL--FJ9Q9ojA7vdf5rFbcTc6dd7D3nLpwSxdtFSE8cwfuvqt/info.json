@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (FIDA/SOL)",
+  "address": "FJ9Q9ojA7vdf5rFbcTc6dd7D3nLpwSxdtFSE8cwfuvqt",
+  "symbol": "FIDASOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FIDASOL--FJ9Q9ojA7vdf5rFbcTc6dd7D3nLpwSxdtFSE8cwfuvqt/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

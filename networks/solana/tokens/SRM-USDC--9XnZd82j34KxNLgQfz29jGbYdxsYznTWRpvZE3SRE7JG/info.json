@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SRM-USDC)",
+  "address": "9XnZd82j34KxNLgQfz29jGbYdxsYznTWRpvZE3SRE7JG",
+  "symbol": "SRM-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SRM-USDC--9XnZd82j34KxNLgQfz29jGbYdxsYznTWRpvZE3SRE7JG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

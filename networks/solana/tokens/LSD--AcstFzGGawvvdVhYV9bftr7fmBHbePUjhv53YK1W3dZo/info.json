@@ -1,0 +1,11 @@
+{
+  "name": "LSD",
+  "address": "AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo",
+  "symbol": "LSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LSD--AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WAX Economic Token (Wormhole)",
+  "address": "5J9yhFRnQZx3RiqHzfQpAffX5UQz3k8vQCZH2g9Z9sDg",
+  "symbol": "wWAXE",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wWAXE--5J9yhFRnQZx3RiqHzfQpAffX5UQz3k8vQCZH2g9Z9sDg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

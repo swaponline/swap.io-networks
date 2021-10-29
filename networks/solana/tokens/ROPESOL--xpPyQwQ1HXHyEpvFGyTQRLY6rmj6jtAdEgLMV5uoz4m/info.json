@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (ROPE/SOL)",
+  "address": "xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m",
+  "symbol": "ROPESOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ROPESOL--xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

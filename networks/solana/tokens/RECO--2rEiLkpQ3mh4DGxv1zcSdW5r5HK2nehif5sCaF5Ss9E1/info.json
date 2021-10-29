@@ -1,0 +1,11 @@
+{
+  "name": "Reboot ECO",
+  "address": "2rEiLkpQ3mh4DGxv1zcSdW5r5HK2nehif5sCaF5Ss9E1",
+  "symbol": "RECO",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RECO--2rEiLkpQ3mh4DGxv1zcSdW5r5HK2nehif5sCaF5Ss9E1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

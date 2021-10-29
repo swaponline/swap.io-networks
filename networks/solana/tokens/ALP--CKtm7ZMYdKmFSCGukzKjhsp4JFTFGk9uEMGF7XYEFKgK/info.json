@@ -1,0 +1,11 @@
+{
+  "name": "CoinAlpha",
+  "address": "CKtm7ZMYdKmFSCGukzKjhsp4JFTFGk9uEMGF7XYEFKgK",
+  "symbol": "ALP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ALP--CKtm7ZMYdKmFSCGukzKjhsp4JFTFGk9uEMGF7XYEFKgK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

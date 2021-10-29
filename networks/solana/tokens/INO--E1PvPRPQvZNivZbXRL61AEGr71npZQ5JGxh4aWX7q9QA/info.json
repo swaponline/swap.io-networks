@@ -1,0 +1,11 @@
+{
+  "name": "NoGoalToken",
+  "address": "E1PvPRPQvZNivZbXRL61AEGr71npZQ5JGxh4aWX7q9QA",
+  "symbol": "INO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/INO--E1PvPRPQvZNivZbXRL61AEGr71npZQ5JGxh4aWX7q9QA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

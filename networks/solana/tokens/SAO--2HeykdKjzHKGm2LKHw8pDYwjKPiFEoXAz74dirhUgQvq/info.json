@@ -1,0 +1,11 @@
+{
+  "name": "Sator",
+  "address": "2HeykdKjzHKGm2LKHw8pDYwjKPiFEoXAz74dirhUgQvq",
+  "symbol": "SAO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAO--2HeykdKjzHKGm2LKHw8pDYwjKPiFEoXAz74dirhUgQvq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

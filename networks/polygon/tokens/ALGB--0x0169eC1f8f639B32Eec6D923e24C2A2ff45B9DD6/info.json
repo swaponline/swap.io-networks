@@ -1,0 +1,11 @@
+{
+  "name": "Algebra",
+  "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+  "symbol": "ALGB",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/ALGB--0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

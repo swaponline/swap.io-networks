@@ -1,0 +1,11 @@
+{
+  "name": "Unlimited Energy",
+  "address": "91fSFQsPzMLat9DHwLdQacW3i3EGnWds5tA5mt7yLiT9",
+  "symbol": "Unlimited Energy",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

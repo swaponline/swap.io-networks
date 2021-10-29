@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped KEEP (Sollet)",
+  "address": "GUohe4DJUA5FKPWo3joiPgsB7yzer7LpDmt1Vhzy3Zht",
+  "symbol": "KEEP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KEEP--GUohe4DJUA5FKPWo3joiPgsB7yzer7LpDmt1Vhzy3Zht/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

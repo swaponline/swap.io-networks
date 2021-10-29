@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Legacy LP Token V2 (RAY-SOL)",
+  "address": "134Cct3CSdRCbYgq5SkwmHgfwjJ7EM5cG9PzqffWqECx",
+  "symbol": "RAY-SOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAY-SOL--134Cct3CSdRCbYgq5SkwmHgfwjJ7EM5cG9PzqffWqECx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

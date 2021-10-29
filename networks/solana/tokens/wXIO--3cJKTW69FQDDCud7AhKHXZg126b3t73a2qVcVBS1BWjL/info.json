@@ -1,0 +1,11 @@
+{
+  "name": "XIO Network (Wormhole)",
+  "address": "3cJKTW69FQDDCud7AhKHXZg126b3t73a2qVcVBS1BWjL",
+  "symbol": "wXIO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wXIO--3cJKTW69FQDDCud7AhKHXZg126b3t73a2qVcVBS1BWjL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

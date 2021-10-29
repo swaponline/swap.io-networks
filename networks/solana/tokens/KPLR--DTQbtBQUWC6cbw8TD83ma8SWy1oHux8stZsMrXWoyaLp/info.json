@@ -1,0 +1,11 @@
+{
+  "name": "KEPLER PAY",
+  "address": "DTQbtBQUWC6cbw8TD83ma8SWy1oHux8stZsMrXWoyaLp",
+  "symbol": "KPLR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KPLR--DTQbtBQUWC6cbw8TD83ma8SWy1oHux8stZsMrXWoyaLp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

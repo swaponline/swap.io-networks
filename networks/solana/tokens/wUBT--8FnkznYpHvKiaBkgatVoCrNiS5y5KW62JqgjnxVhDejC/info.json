@@ -1,0 +1,11 @@
+{
+  "name": "Unibright (Wormhole)",
+  "address": "8FnkznYpHvKiaBkgatVoCrNiS5y5KW62JqgjnxVhDejC",
+  "symbol": "wUBT",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUBT--8FnkznYpHvKiaBkgatVoCrNiS5y5KW62JqgjnxVhDejC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

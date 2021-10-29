@@ -1,0 +1,11 @@
+{
+  "name": "Sonic",
+  "address": "6STzg1taqgJsFY6Z4xAmQVSErZ6e6EsbsvkQ6YJ3sXmj",
+  "symbol": "SONC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

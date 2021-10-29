@@ -1,0 +1,11 @@
+{
+  "name": "FCS",
+  "address": "FGmeGqUqKzVX2ajkXaFSQxNcBRWnJg1vi5fugRJrDJ3k",
+  "symbol": "FCS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FCS--FGmeGqUqKzVX2ajkXaFSQxNcBRWnJg1vi5fugRJrDJ3k/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

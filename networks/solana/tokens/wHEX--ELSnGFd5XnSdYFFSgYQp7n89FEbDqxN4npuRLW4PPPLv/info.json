@@ -1,0 +1,11 @@
+{
+  "name": "HEX (Wormhole)",
+  "address": "ELSnGFd5XnSdYFFSgYQp7n89FEbDqxN4npuRLW4PPPLv",
+  "symbol": "wHEX",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wHEX--ELSnGFd5XnSdYFFSgYQp7n89FEbDqxN4npuRLW4PPPLv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

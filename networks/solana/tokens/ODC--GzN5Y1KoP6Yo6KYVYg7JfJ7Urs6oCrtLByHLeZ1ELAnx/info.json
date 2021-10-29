@@ -1,0 +1,11 @@
+{
+  "name": "OneDay Coin",
+  "address": "GzN5Y1KoP6Yo6KYVYg7JfJ7Urs6oCrtLByHLeZ1ELAnx",
+  "symbol": "ODC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ODC--GzN5Y1KoP6Yo6KYVYg7JfJ7Urs6oCrtLByHLeZ1ELAnx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

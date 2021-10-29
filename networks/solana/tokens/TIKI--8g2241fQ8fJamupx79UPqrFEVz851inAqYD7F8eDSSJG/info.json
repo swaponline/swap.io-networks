@@ -1,0 +1,11 @@
+{
+  "name": "SolMaori",
+  "address": "8g2241fQ8fJamupx79UPqrFEVz851inAqYD7F8eDSSJG",
+  "symbol": "TIKI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TIKI--8g2241fQ8fJamupx79UPqrFEVz851inAqYD7F8eDSSJG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

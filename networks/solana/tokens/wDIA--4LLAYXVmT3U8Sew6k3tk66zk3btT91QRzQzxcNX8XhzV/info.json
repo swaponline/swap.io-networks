@@ -1,0 +1,11 @@
+{
+  "name": "DIA (Wormhole)",
+  "address": "4LLAYXVmT3U8Sew6k3tk66zk3btT91QRzQzxcNX8XhzV",
+  "symbol": "wDIA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDIA--4LLAYXVmT3U8Sew6k3tk66zk3btT91QRzQzxcNX8XhzV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SPDR Gold Shares",
+  "address": "9HyU5EEyPvkxeuekNUwsHzmMCJoiw8FZBGWaNih2oux1",
+  "symbol": "GLD",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GLD--9HyU5EEyPvkxeuekNUwsHzmMCJoiw8FZBGWaNih2oux1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

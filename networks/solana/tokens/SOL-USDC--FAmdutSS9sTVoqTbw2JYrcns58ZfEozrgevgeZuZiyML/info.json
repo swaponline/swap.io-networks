@@ -1,0 +1,11 @@
+{
+  "name": "HydraSwap LP Token (SOL-USDC)",
+  "address": "FAmdutSS9sTVoqTbw2JYrcns58ZfEozrgevgeZuZiyML",
+  "symbol": "SOL-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOL-USDC--FAmdutSS9sTVoqTbw2JYrcns58ZfEozrgevgeZuZiyML/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Socean staked SOL",
+  "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+  "symbol": "scnSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/scnSOL--5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

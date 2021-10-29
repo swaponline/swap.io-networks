@@ -1,0 +1,11 @@
+{
+  "name": "Lizard Token",
+  "address": "5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o",
+  "symbol": "LIZARD",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIZARD--5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

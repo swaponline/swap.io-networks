@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (ORCA/PAI)",
+  "address": "4aEi4A91hRbERJVDYxRWbbSrBrsxoM1Hm33KRoRzWMht",
+  "symbol": "ORCAPAI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ORCAPAI--4aEi4A91hRbERJVDYxRWbbSrBrsxoM1Hm33KRoRzWMht/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

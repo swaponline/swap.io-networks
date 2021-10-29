@@ -1,0 +1,11 @@
+{
+  "name": "Swole Doge",
+  "address": "4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z",
+  "symbol": "SWOLE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SWOLE--4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

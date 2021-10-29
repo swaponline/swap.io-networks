@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Reserve Rights (Sollet)",
+  "address": "7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW",
+  "symbol": "RSR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RSR--7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

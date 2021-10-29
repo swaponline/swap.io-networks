@@ -1,0 +1,11 @@
+{
+  "name": "BSVBULL",
+  "address": "8kA1WJKoLTxtACNPkvW6UNufsrpxUY57tXZ9KmG9123t",
+  "symbol": "BSVBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

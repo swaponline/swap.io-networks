@@ -1,0 +1,11 @@
+{
+  "name": "XSOL Token",
+  "address": "ABxCiDz4jjKt1t7Syu5Tb37o8Wew9ADpwngZh6kpLbLX",
+  "symbol": "XSOL",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XSOL--ABxCiDz4jjKt1t7Syu5Tb37o8Wew9ADpwngZh6kpLbLX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

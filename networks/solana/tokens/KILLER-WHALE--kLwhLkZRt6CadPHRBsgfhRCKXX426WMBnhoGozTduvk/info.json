@@ -1,0 +1,11 @@
+{
+  "name": "Orca Killer Whale Collectible",
+  "address": "kLwhLkZRt6CadPHRBsgfhRCKXX426WMBnhoGozTduvk",
+  "symbol": "KILLER-WHALE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KILLER-WHALE--kLwhLkZRt6CadPHRBsgfhRCKXX426WMBnhoGozTduvk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

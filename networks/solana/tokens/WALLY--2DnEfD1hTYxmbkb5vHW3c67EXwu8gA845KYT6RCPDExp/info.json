@@ -1,0 +1,11 @@
+{
+  "name": "WALLY Token",
+  "address": "2DnEfD1hTYxmbkb5vHW3c67EXwu8gA845KYT6RCPDExp",
+  "symbol": "WALLY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WALLY--2DnEfD1hTYxmbkb5vHW3c67EXwu8gA845KYT6RCPDExp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

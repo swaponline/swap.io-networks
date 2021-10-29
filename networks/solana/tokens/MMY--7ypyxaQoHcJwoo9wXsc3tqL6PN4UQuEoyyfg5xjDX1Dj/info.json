@@ -1,0 +1,11 @@
+{
+  "name": "Mummy",
+  "address": "7ypyxaQoHcJwoo9wXsc3tqL6PN4UQuEoyyfg5xjDX1Dj",
+  "symbol": "MMY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

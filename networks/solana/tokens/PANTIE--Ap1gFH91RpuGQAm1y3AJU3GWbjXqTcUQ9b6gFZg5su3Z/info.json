@@ -1,0 +1,11 @@
+{
+  "name": "Pantie",
+  "address": "Ap1gFH91RpuGQAm1y3AJU3GWbjXqTcUQ9b6gFZg5su3Z",
+  "symbol": "PANTIE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PANTIE--Ap1gFH91RpuGQAm1y3AJU3GWbjXqTcUQ9b6gFZg5su3Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FuckElon",
+  "address": "EZqcdU8RLu9EChZgrY2BNVg8eovfdGyTiY2bd69EsPgQ",
+  "symbol": "FELON",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FELON--EZqcdU8RLu9EChZgrY2BNVg8eovfdGyTiY2bd69EsPgQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

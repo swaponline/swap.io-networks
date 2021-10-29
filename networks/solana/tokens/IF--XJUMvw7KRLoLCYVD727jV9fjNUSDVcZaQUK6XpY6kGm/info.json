@@ -1,0 +1,11 @@
+{
+  "name": "Impossible Finance",
+  "address": "XJUMvw7KRLoLCYVD727jV9fjNUSDVcZaQUK6XpY6kGm",
+  "symbol": "IF",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

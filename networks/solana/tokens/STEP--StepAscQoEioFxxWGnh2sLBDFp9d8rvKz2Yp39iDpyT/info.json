@@ -1,0 +1,11 @@
+{
+  "name": "Step",
+  "address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+  "symbol": "STEP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STEP--StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

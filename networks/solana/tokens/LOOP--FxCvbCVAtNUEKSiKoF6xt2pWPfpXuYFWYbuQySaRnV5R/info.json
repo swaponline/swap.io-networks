@@ -1,0 +1,11 @@
+{
+  "name": "LC Andy Social Token",
+  "address": "FxCvbCVAtNUEKSiKoF6xt2pWPfpXuYFWYbuQySaRnV5R",
+  "symbol": "LOOP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LOOP--FxCvbCVAtNUEKSiKoF6xt2pWPfpXuYFWYbuQySaRnV5R/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

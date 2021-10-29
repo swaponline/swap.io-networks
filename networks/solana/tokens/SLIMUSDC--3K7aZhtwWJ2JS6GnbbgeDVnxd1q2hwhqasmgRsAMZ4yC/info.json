@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SLIM/USDC[aquafarm])",
+  "address": "3K7aZhtwWJ2JS6GnbbgeDVnxd1q2hwhqasmgRsAMZ4yC",
+  "symbol": "SLIMUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLIMUSDC--3K7aZhtwWJ2JS6GnbbgeDVnxd1q2hwhqasmgRsAMZ4yC/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

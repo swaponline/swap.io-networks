@@ -1,0 +1,11 @@
+{
+  "name": "KEKW In Solana Tripping",
+  "address": "5WUab7TCvth43Au5vk6wKjchTzWFeyPEUSJE1MPJtTZE",
+  "symbol": "KEKN1",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KEKN1--5WUab7TCvth43Au5vk6wKjchTzWFeyPEUSJE1MPJtTZE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

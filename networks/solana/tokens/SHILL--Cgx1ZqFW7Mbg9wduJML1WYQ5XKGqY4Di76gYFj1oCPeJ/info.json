@@ -1,0 +1,11 @@
+{
+  "name": "Project SEED Token",
+  "address": "Cgx1ZqFW7Mbg9wduJML1WYQ5XKGqY4Di76gYFj1oCPeJ",
+  "symbol": "SHILL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHILL--Cgx1ZqFW7Mbg9wduJML1WYQ5XKGqY4Di76gYFj1oCPeJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

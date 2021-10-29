@@ -1,0 +1,11 @@
+{
+  "name": "Cubecoin",
+  "address": "KUPoVbJmipJb1M7xzQEND5w7u1BbmBytu9wZ2QPjQx4",
+  "symbol": "CUBE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CUBE--KUPoVbJmipJb1M7xzQEND5w7u1BbmBytu9wZ2QPjQx4/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

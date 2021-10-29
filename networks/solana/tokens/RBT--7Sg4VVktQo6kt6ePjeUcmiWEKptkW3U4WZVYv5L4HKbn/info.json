@@ -1,0 +1,11 @@
+{
+  "name": "ROBTOKEN",
+  "address": "7Sg4VVktQo6kt6ePjeUcmiWEKptkW3U4WZVYv5L4HKbn",
+  "symbol": "RBT",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RBT--7Sg4VVktQo6kt6ePjeUcmiWEKptkW3U4WZVYv5L4HKbn/logo.JPG",
+  "tags": [
+    "spl"
+  ]
+}

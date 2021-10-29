@@ -1,0 +1,11 @@
+{
+  "name": "USDT (Wormhole V2)",
+  "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+  "symbol": "wUSDTv2",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUSDTv2--Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HipsterCoin",
+  "address": "p1huPeR7J1o3DQdiV9yMpDiRc3grLXocrHiLpKifsBb",
+  "symbol": "HIPP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HIPP--p1huPeR7J1o3DQdiV9yMpDiRc3grLXocrHiLpKifsBb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

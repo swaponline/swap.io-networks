@@ -1,0 +1,11 @@
+{
+  "name": "Binance USD (Wormhole)",
+  "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+  "symbol": "BUSD",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BUSD--33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

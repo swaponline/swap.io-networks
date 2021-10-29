@@ -1,0 +1,11 @@
+{
+  "name": "renBTC (Wormhole)",
+  "address": "EK6iyvvqvQtsWYcySrZVHkXjCLX494r9PhnDWJaX1CPu",
+  "symbol": "wrenBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wrenBTC--EK6iyvvqvQtsWYcySrZVHkXjCLX494r9PhnDWJaX1CPu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

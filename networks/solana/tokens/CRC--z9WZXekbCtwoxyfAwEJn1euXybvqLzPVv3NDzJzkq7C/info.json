@@ -1,0 +1,11 @@
+{
+  "name": "Care Coin Token",
+  "address": "z9WZXekbCtwoxyfAwEJn1euXybvqLzPVv3NDzJzkq7C",
+  "symbol": "CRC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRC--z9WZXekbCtwoxyfAwEJn1euXybvqLzPVv3NDzJzkq7C/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

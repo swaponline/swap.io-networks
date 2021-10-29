@@ -1,0 +1,11 @@
+{
+  "name": "iShares MSCI EAFE ETF",
+  "address": "6Xj2NzAW437UUomaxFiVyJQPGvvup6YLeXFQpp4kqNaD",
+  "symbol": "EFA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EFA--6Xj2NzAW437UUomaxFiVyJQPGvvup6YLeXFQpp4kqNaD/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

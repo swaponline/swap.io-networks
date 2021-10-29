@@ -1,0 +1,11 @@
+{
+  "name": "Chronos Group Inc",
+  "address": "DUFVbhWf7FsUo3ouMnFbDjv4YYaRE1Sz9jvAmDsNTt1m",
+  "symbol": "CRON",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRON--DUFVbhWf7FsUo3ouMnFbDjv4YYaRE1Sz9jvAmDsNTt1m/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

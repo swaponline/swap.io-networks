@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Capsule Coin (Wormhole)",
+  "address": "FeLoyXk8ac2AYVmDhAWEKNWWT63Z9TczeidYbpDvxF3T",
+  "symbol": "wCAPS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCAPS--FeLoyXk8ac2AYVmDhAWEKNWWT63Z9TczeidYbpDvxF3T/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

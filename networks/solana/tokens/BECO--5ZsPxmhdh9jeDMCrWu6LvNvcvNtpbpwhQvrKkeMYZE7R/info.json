@@ -1,0 +1,11 @@
+{
+  "name": "Beco Club",
+  "address": "5ZsPxmhdh9jeDMCrWu6LvNvcvNtpbpwhQvrKkeMYZE7R",
+  "symbol": "BECO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BECO--5ZsPxmhdh9jeDMCrWu6LvNvcvNtpbpwhQvrKkeMYZE7R/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

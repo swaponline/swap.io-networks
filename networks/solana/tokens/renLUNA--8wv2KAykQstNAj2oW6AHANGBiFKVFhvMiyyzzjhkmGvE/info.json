@@ -1,0 +1,11 @@
+{
+  "name": "renLUNA",
+  "address": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
+  "symbol": "renLUNA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renLUNA--8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

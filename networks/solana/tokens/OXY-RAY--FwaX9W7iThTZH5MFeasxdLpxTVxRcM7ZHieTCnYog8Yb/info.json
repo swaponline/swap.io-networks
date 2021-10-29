@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (OXY-RAY)",
+  "address": "FwaX9W7iThTZH5MFeasxdLpxTVxRcM7ZHieTCnYog8Yb",
+  "symbol": "OXY-RAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OXY-RAY--FwaX9W7iThTZH5MFeasxdLpxTVxRcM7ZHieTCnYog8Yb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

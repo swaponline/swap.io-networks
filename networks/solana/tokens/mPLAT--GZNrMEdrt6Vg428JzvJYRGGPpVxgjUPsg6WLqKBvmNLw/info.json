@@ -1,0 +1,11 @@
+{
+  "name": "SolMiner Platinum",
+  "address": "GZNrMEdrt6Vg428JzvJYRGGPpVxgjUPsg6WLqKBvmNLw",
+  "symbol": "mPLAT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mPLAT--GZNrMEdrt6Vg428JzvJYRGGPpVxgjUPsg6WLqKBvmNLw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

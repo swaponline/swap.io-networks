@@ -1,0 +1,11 @@
+{
+  "name": "Synthetify",
+  "address": "4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y",
+  "symbol": "SNY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SNY--4dmKkXNHdgYsXqBHCuMikNQWwVomZURhYvkkX5c4pQ7y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

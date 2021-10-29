@@ -1,0 +1,11 @@
+{
+  "name": "Lord Arena",
+  "address": "3j5an6WsbaRMF3FitWdZAC6Hot56TdTm2eZnGfnFrceG",
+  "symbol": "LORDA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LORDA--3j5an6WsbaRMF3FitWdZAC6Hot56TdTm2eZnGfnFrceG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

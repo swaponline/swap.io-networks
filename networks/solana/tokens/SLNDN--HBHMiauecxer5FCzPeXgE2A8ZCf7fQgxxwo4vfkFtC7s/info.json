@@ -1,0 +1,11 @@
+{
+  "name": "Solanadon",
+  "address": "HBHMiauecxer5FCzPeXgE2A8ZCf7fQgxxwo4vfkFtC7s",
+  "symbol": "SLNDN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLNDN--HBHMiauecxer5FCzPeXgE2A8ZCf7fQgxxwo4vfkFtC7s/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

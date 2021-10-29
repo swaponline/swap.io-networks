@@ -1,0 +1,11 @@
+{
+  "name": "AlterToken",
+  "address": "Ee9zTuGPX1YpAnpgPm5pi2juy8NrGQnky5RspvFh8JfE",
+  "symbol": "ATT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ATT--Ee9zTuGPX1YpAnpgPm5pi2juy8NrGQnky5RspvFh8JfE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

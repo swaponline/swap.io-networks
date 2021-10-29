@@ -1,0 +1,11 @@
+{
+  "name": "zETH (ACUMEN)",
+  "address": "A8pnvbKWmTjjnUMzmY6pDJRHy3QdQNdqJdL1VFYXX4oW",
+  "symbol": "zETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zETH--A8pnvbKWmTjjnUMzmY6pDJRHy3QdQNdqJdL1VFYXX4oW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

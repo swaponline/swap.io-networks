@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (USDC/USDT)",
+  "address": "3H5XKkE9uVvxsdrFeN4BLLGCmohiQN6aZJVVcJiXQ4WC",
+  "symbol": "USDCUSDT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDCUSDT--3H5XKkE9uVvxsdrFeN4BLLGCmohiQN6aZJVVcJiXQ4WC/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

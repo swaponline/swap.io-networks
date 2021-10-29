@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped FTT (Wormhole)",
+  "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
+  "symbol": "wFTT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wFTT--GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

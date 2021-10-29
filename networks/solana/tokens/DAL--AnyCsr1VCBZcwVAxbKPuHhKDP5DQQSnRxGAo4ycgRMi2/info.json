@@ -1,0 +1,11 @@
+{
+  "name": "Dalmatiancoin",
+  "address": "AnyCsr1VCBZcwVAxbKPuHhKDP5DQQSnRxGAo4ycgRMi2",
+  "symbol": "DAL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DAL--AnyCsr1VCBZcwVAxbKPuHhKDP5DQQSnRxGAo4ycgRMi2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

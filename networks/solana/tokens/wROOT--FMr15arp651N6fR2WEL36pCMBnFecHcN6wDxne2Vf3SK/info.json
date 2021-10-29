@@ -1,0 +1,11 @@
+{
+  "name": "RootKit (Wormhole)",
+  "address": "FMr15arp651N6fR2WEL36pCMBnFecHcN6wDxne2Vf3SK",
+  "symbol": "wROOT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wROOT--FMr15arp651N6fR2WEL36pCMBnFecHcN6wDxne2Vf3SK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

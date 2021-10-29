@@ -1,0 +1,11 @@
+{
+  "name": "Viva coin",
+  "address": "EssczqGURZtsSuzEoH471KCRNDWfS4aQpEJVXWL3DvdK",
+  "symbol": "VIVA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VIVA--EssczqGURZtsSuzEoH471KCRNDWfS4aQpEJVXWL3DvdK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

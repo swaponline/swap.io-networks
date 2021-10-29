@@ -1,0 +1,11 @@
+{
+  "name": "The Seed Farm",
+  "address": "0x37427C72f3534d854EE462d18f42aD5fbE74AA2B",
+  "symbol": "SEED",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/SEED--0x37427C72f3534d854EE462d18f42aD5fbE74AA2B/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

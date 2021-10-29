@@ -1,0 +1,11 @@
+{
+  "name": "SolMoon",
+  "address": "Gro98oTmXxCVX8HKr3q2tMnP5ztoC77q6KehFDnAB983",
+  "symbol": "SOLMO",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLMO--Gro98oTmXxCVX8HKr3q2tMnP5ztoC77q6KehFDnAB983/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "United States Oil Fund",
+  "address": "J645gMdx9zSMM2VySLBrtv6Zv1HyEjPqQXVGRAPYqzvK",
+  "symbol": "USO",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USO--J645gMdx9zSMM2VySLBrtv6Zv1HyEjPqQXVGRAPYqzvK/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

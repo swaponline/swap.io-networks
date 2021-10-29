@@ -1,0 +1,11 @@
+{
+  "name": "SunnySideUp Token",
+  "address": "AGkFkKgXUEP7ZXazza5a25bSKbz5dDpgafPhqywuQnpf",
+  "symbol": "SSU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SSU--AGkFkKgXUEP7ZXazza5a25bSKbz5dDpgafPhqywuQnpf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

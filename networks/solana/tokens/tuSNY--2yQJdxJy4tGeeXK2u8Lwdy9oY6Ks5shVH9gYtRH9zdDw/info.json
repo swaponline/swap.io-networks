@@ -1,0 +1,11 @@
+{
+  "name": "tuSNY",
+  "address": "2yQJdxJy4tGeeXK2u8Lwdy9oY6Ks5shVH9gYtRH9zdDw",
+  "symbol": "tuSNY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuSNY--2yQJdxJy4tGeeXK2u8Lwdy9oY6Ks5shVH9gYtRH9zdDw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

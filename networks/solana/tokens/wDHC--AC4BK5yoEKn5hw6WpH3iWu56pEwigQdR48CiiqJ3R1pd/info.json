@@ -1,0 +1,11 @@
+{
+  "name": "DeltaHub Community (Wormhole)",
+  "address": "AC4BK5yoEKn5hw6WpH3iWu56pEwigQdR48CiiqJ3R1pd",
+  "symbol": "wDHC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDHC--AC4BK5yoEKn5hw6WpH3iWu56pEwigQdR48CiiqJ3R1pd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

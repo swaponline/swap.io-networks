@@ -1,0 +1,11 @@
+{
+  "name": "DefiPulse Index (Wormhole)",
+  "address": "3GVAecXsFP8xLFuAMMpg5NU4g5JK6h2NZWsQJ45wiw6b",
+  "symbol": "wDPI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDPI--3GVAecXsFP8xLFuAMMpg5NU4g5JK6h2NZWsQJ45wiw6b/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

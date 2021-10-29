@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (MAPS/SOL)",
+  "address": "7Dy84zJNHzEM9335BrtFjCuunt2VgxJ7KBT6PJarxKMq",
+  "symbol": "MAPSSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MAPSSOL--7Dy84zJNHzEM9335BrtFjCuunt2VgxJ7KBT6PJarxKMq/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

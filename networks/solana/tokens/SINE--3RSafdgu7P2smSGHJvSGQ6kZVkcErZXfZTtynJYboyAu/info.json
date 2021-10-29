@@ -1,0 +1,11 @@
+{
+  "name": "SINE",
+  "address": "3RSafdgu7P2smSGHJvSGQ6kZVkcErZXfZTtynJYboyAu",
+  "symbol": "SINE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SINE--3RSafdgu7P2smSGHJvSGQ6kZVkcErZXfZTtynJYboyAu/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

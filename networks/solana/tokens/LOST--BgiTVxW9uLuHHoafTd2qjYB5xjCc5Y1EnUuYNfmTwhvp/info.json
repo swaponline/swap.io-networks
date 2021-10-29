@@ -1,0 +1,11 @@
+{
+  "name": "Short Story of a Lost Astronaut",
+  "address": "BgiTVxW9uLuHHoafTd2qjYB5xjCc5Y1EnUuYNfmTwhvp",
+  "symbol": "LOST",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LOST--BgiTVxW9uLuHHoafTd2qjYB5xjCc5Y1EnUuYNfmTwhvp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

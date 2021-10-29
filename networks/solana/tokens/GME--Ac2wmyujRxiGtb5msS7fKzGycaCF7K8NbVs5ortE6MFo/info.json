@@ -1,0 +1,11 @@
+{
+  "name": "GameStop",
+  "address": "Ac2wmyujRxiGtb5msS7fKzGycaCF7K8NbVs5ortE6MFo",
+  "symbol": "GME",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GME--Ac2wmyujRxiGtb5msS7fKzGycaCF7K8NbVs5ortE6MFo/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

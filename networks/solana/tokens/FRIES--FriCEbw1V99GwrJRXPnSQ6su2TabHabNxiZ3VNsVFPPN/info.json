@@ -1,0 +1,11 @@
+{
+  "name": "Soltato FRIES",
+  "address": "FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN",
+  "symbol": "FRIES",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FRIES--FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

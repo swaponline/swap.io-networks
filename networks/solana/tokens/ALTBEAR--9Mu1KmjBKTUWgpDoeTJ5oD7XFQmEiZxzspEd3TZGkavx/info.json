@@ -1,0 +1,11 @@
+{
+  "name": "ALTBEAR",
+  "address": "9Mu1KmjBKTUWgpDoeTJ5oD7XFQmEiZxzspEd3TZGkavx",
+  "symbol": "ALTBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Nokia",
+  "address": "HP9WMRDV3KdUfJ7CNn5Wf8JzLczwxdnQYTHDAa9yCSnq",
+  "symbol": "NOK",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NOK--HP9WMRDV3KdUfJ7CNn5Wf8JzLczwxdnQYTHDAa9yCSnq/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mercurial LP Token (USDC-USDT-UST)",
+  "address": "57h4LEnBooHrKbacYWGCFghmrTzYPVn8PwZkzTzRLvHa",
+  "symbol": "USDC-USDT-UST",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDC-USDT-UST--57h4LEnBooHrKbacYWGCFghmrTzYPVn8PwZkzTzRLvHa/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Weeb Finance Token",
+  "address": "9VgfFUFkGGrRePvpKLPkp9DR3crRepf6CJsYU3UmudtY",
+  "symbol": "WEEB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WEEB--9VgfFUFkGGrRePvpKLPkp9DR3crRepf6CJsYU3UmudtY/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

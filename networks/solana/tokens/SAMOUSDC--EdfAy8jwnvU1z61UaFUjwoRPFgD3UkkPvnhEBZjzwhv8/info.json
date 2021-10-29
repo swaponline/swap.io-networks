@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (SAMO/USDC[aquafarm])",
+  "address": "EdfAy8jwnvU1z61UaFUjwoRPFgD3UkkPvnhEBZjzwhv8",
+  "symbol": "SAMOUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAMOUSDC--EdfAy8jwnvU1z61UaFUjwoRPFgD3UkkPvnhEBZjzwhv8/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

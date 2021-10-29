@@ -1,0 +1,11 @@
+{
+  "name": "SOLUP",
+  "address": "CnGUfvi9FxiRPuaBXpYmaXEwBjj5X6kwNJB2Cba5TiQp",
+  "symbol": "SOLUP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLUP--CnGUfvi9FxiRPuaBXpYmaXEwBjj5X6kwNJB2Cba5TiQp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

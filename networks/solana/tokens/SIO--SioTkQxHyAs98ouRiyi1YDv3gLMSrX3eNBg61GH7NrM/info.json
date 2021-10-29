@@ -1,0 +1,11 @@
+{
+  "name": "Simplio",
+  "address": "SioTkQxHyAs98ouRiyi1YDv3gLMSrX3eNBg61GH7NrM",
+  "symbol": "SIO",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SIO--SioTkQxHyAs98ouRiyi1YDv3gLMSrX3eNBg61GH7NrM/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

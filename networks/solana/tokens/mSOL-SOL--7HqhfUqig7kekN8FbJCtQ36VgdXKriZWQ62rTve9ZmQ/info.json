@@ -1,0 +1,11 @@
+{
+  "name": "Mercurial LP Token (mSOL-2Pool)",
+  "address": "7HqhfUqig7kekN8FbJCtQ36VgdXKriZWQ62rTve9ZmQ",
+  "symbol": "mSOL-SOL",
+  "decimals": 12,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mSOL-SOL--7HqhfUqig7kekN8FbJCtQ36VgdXKriZWQ62rTve9ZmQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

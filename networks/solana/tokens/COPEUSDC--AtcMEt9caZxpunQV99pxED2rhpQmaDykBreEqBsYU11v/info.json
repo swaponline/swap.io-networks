@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (COPE/USDC[aquafarm])",
+  "address": "AtcMEt9caZxpunQV99pxED2rhpQmaDykBreEqBsYU11v",
+  "symbol": "COPEUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COPEUSDC--AtcMEt9caZxpunQV99pxED2rhpQmaDykBreEqBsYU11v/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

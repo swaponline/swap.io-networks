@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (WOO-USDC)",
+  "address": "7cu42ao8Jgrd5A3y3bNQsCxq5poyGZNmTydkGfJYQfzh",
+  "symbol": "WOO-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

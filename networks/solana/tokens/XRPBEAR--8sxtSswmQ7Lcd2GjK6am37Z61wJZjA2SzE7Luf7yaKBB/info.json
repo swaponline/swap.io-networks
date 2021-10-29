@@ -1,0 +1,11 @@
+{
+  "name": "XRPBEAR",
+  "address": "8sxtSswmQ7Lcd2GjK6am37Z61wJZjA2SzE7Luf7yaKBB",
+  "symbol": "XRPBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ESCoin",
+  "address": "6oJ8Mp1VnKxN5MvGf9LfpeaRvTv8N1xFbvtdEbLLWUDT",
+  "symbol": "ESC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ESC--6oJ8Mp1VnKxN5MvGf9LfpeaRvTv8N1xFbvtdEbLLWUDT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

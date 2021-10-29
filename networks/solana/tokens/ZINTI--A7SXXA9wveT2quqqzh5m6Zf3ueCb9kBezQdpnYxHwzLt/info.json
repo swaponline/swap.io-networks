@@ -1,0 +1,11 @@
+{
+  "name": "Zia Inti",
+  "address": "A7SXXA9wveT2quqqzh5m6Zf3ueCb9kBezQdpnYxHwzLt",
+  "symbol": "ZINTI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZINTI--A7SXXA9wveT2quqqzh5m6Zf3ueCb9kBezQdpnYxHwzLt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

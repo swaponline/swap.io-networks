@@ -1,0 +1,11 @@
+{
+  "name": "Stabilize Token (Wormhole)",
+  "address": "CRZuALvCYjPLB65WFLHh9JkmPWK5C81TXpy2aEEaCjr3",
+  "symbol": "wSTBZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSTBZ--CRZuALvCYjPLB65WFLHh9JkmPWK5C81TXpy2aEEaCjr3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

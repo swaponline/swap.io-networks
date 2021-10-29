@@ -1,0 +1,11 @@
+{
+  "name": "ROFLSTOMP TOKEN",
+  "address": "4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo",
+  "symbol": "ROFL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ROFL--4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gooseberry",
+  "address": "BTyJg5zMbaN2KMfn7LsKhpUsV675aCUSUMrgB1YGxBBP",
+  "symbol": "GOOSEBERRY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GOOSEBERRY--BTyJg5zMbaN2KMfn7LsKhpUsV675aCUSUMrgB1YGxBBP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "The Peacebringers Archive",
+  "address": "CAjoJeGCCRae9oDwHYXzkeUDonp3dZLWV5GKHysLwjnx",
+  "symbol": "PBA",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PBA--CAjoJeGCCRae9oDwHYXzkeUDonp3dZLWV5GKHysLwjnx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solend USDT",
+  "address": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
+  "symbol": "cUSDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cUSDT--BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

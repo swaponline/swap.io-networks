@@ -1,0 +1,11 @@
+{
+  "name": "MOLANIUM",
+  "address": "6uB5eEC8SzMbUdsPpe3eiNvHyvxdqUWnDEtpFQxkhNTP",
+  "symbol": "MOLANIUM",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MOLANIUM--6uB5eEC8SzMbUdsPpe3eiNvHyvxdqUWnDEtpFQxkhNTP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

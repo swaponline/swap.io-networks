@@ -1,0 +1,11 @@
+{
+  "name": "Gnosis Token (Wormhole)",
+  "address": "GaMPhVyp1xd9xJuPskDEzQzp8mKfEjAmhny8NX7y7YKc",
+  "symbol": "wGNO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wGNO--GaMPhVyp1xd9xJuPskDEzQzp8mKfEjAmhny8NX7y7YKc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

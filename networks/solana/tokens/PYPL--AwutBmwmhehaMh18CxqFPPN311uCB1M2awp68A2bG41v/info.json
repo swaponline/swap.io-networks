@@ -1,0 +1,11 @@
+{
+  "name": "PayPal",
+  "address": "AwutBmwmhehaMh18CxqFPPN311uCB1M2awp68A2bG41v",
+  "symbol": "PYPL",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PYPL--AwutBmwmhehaMh18CxqFPPN311uCB1M2awp68A2bG41v/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

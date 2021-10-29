@@ -1,0 +1,11 @@
+{
+  "name": "VooVoo Coin",
+  "address": "GRoESmA4DZjd7MMgvzaDaswZHow75ies6Xje5FoXytDP",
+  "symbol": "VOO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VOO--GRoESmA4DZjd7MMgvzaDaswZHow75ies6Xje5FoXytDP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

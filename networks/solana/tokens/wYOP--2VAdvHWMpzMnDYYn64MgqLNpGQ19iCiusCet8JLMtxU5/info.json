@@ -1,0 +1,11 @@
+{
+  "name": "YOP (Wormhole)",
+  "address": "2VAdvHWMpzMnDYYn64MgqLNpGQ19iCiusCet8JLMtxU5",
+  "symbol": "wYOP",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wYOP--2VAdvHWMpzMnDYYn64MgqLNpGQ19iCiusCet8JLMtxU5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

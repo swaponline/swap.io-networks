@@ -1,0 +1,11 @@
+{
+  "name": "DeceFi",
+  "address": "9CmQwpvVXRyixjiE3LrbSyyopPZohNDN1RZiTk8rnXsQ",
+  "symbol": "DeceFi",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

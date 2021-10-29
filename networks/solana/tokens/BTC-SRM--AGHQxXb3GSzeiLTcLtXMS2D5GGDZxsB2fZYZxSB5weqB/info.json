@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (BTC-SRM)",
+  "address": "AGHQxXb3GSzeiLTcLtXMS2D5GGDZxsB2fZYZxSB5weqB",
+  "symbol": "BTC-SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTC-SRM--AGHQxXb3GSzeiLTcLtXMS2D5GGDZxsB2fZYZxSB5weqB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

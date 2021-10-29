@@ -1,0 +1,11 @@
+{
+  "name": "Monke Token",
+  "address": "2FkuyFr3N9RzvVahPqzXKfa8H9KhYpChwQZSeMKkkVPJ",
+  "symbol": "SMBT",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SMBT--2FkuyFr3N9RzvVahPqzXKfa8H9KhYpChwQZSeMKkkVPJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

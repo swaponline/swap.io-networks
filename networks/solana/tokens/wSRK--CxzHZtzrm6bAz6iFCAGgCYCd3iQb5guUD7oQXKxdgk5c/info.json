@@ -1,0 +1,11 @@
+{
+  "name": "SparkPoint (Wormhole)",
+  "address": "CxzHZtzrm6bAz6iFCAGgCYCd3iQb5guUD7oQXKxdgk5c",
+  "symbol": "wSRK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSRK--CxzHZtzrm6bAz6iFCAGgCYCd3iQb5guUD7oQXKxdgk5c/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

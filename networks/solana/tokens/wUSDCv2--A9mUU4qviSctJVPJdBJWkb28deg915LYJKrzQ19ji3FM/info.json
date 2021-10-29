@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin (Wormhole V2)",
+  "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+  "symbol": "wUSDCv2",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUSDCv2--A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

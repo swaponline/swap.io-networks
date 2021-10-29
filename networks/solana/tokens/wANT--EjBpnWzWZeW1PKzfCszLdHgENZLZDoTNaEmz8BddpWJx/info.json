@@ -1,0 +1,11 @@
+{
+  "name": "Aragon Network Token (Wormhole)",
+  "address": "EjBpnWzWZeW1PKzfCszLdHgENZLZDoTNaEmz8BddpWJx",
+  "symbol": "wANT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wANT--EjBpnWzWZeW1PKzfCszLdHgENZLZDoTNaEmz8BddpWJx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

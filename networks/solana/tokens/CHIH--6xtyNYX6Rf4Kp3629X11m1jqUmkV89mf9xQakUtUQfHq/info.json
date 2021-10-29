@@ -1,0 +1,11 @@
+{
+  "name": "CHIHUAHUA",
+  "address": "6xtyNYX6Rf4Kp3629X11m1jqUmkV89mf9xQakUtUQfHq",
+  "symbol": "CHIH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CHIH--6xtyNYX6Rf4Kp3629X11m1jqUmkV89mf9xQakUtUQfHq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

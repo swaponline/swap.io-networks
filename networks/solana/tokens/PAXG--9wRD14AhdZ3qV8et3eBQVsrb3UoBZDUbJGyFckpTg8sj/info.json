@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Paxos Gold (Sollet)",
+  "address": "9wRD14AhdZ3qV8et3eBQVsrb3UoBZDUbJGyFckpTg8sj",
+  "symbol": "PAXG",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PAXG--9wRD14AhdZ3qV8et3eBQVsrb3UoBZDUbJGyFckpTg8sj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

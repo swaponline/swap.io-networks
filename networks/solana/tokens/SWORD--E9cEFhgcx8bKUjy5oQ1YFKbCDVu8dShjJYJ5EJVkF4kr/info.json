@@ -1,0 +1,11 @@
+{
+  "name": "SWORDIAN",
+  "address": "E9cEFhgcx8bKUjy5oQ1YFKbCDVu8dShjJYJ5EJVkF4kr",
+  "symbol": "SWORD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SWORD--E9cEFhgcx8bKUjy5oQ1YFKbCDVu8dShjJYJ5EJVkF4kr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

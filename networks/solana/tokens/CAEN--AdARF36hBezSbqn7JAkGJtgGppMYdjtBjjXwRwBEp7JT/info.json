@@ -1,0 +1,11 @@
+{
+  "name": "Camel Aggregate Ecological Network",
+  "address": "AdARF36hBezSbqn7JAkGJtgGppMYdjtBjjXwRwBEp7JT",
+  "symbol": "CAEN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CAEN--AdARF36hBezSbqn7JAkGJtgGppMYdjtBjjXwRwBEp7JT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LadsCoin",
+  "address": "9Exx2WQUZkRwbLB9RxSVThGdkuYdgCWW3v7GgDbFYR3c",
+  "symbol": "LADS",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LADS--9Exx2WQUZkRwbLB9RxSVThGdkuYdgCWW3v7GgDbFYR3c/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

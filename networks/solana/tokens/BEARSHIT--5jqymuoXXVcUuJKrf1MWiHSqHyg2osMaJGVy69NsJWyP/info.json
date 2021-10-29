@@ -1,0 +1,11 @@
+{
+  "name": "BEARSHIT",
+  "address": "5jqymuoXXVcUuJKrf1MWiHSqHyg2osMaJGVy69NsJWyP",
+  "symbol": "BEARSHIT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

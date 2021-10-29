@@ -1,0 +1,11 @@
+{
+  "name": "Uber",
+  "address": "4kmVbBDCzYam3S4e9XqKQkLCEz16gu3dTTo65KbhShuv",
+  "symbol": "UBER",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UBER--4kmVbBDCzYam3S4e9XqKQkLCEz16gu3dTTo65KbhShuv/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

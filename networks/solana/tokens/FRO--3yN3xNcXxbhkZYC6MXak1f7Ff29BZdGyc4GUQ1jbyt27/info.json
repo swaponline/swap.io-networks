@@ -1,0 +1,11 @@
+{
+  "name": "Fro",
+  "address": "3yN3xNcXxbhkZYC6MXak1f7Ff29BZdGyc4GUQ1jbyt27",
+  "symbol": "FRO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FRO--3yN3xNcXxbhkZYC6MXak1f7Ff29BZdGyc4GUQ1jbyt27/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

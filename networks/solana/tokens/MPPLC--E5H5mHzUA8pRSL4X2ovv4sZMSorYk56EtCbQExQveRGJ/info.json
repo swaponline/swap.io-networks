@@ -1,0 +1,11 @@
+{
+  "name": "MoppelCoin",
+  "address": "E5H5mHzUA8pRSL4X2ovv4sZMSorYk56EtCbQExQveRGJ",
+  "symbol": "MPPLC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

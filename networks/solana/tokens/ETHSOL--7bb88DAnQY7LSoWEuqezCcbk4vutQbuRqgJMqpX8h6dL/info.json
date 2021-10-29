@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (ETH/SOL)",
+  "address": "7bb88DAnQY7LSoWEuqezCcbk4vutQbuRqgJMqpX8h6dL",
+  "symbol": "ETHSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETHSOL--7bb88DAnQY7LSoWEuqezCcbk4vutQbuRqgJMqpX8h6dL/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SKEM",
+  "address": "3x7UeXDF4imKSKnizK9mYyx1M5bTNzpeALfPeB8S6XT9",
+  "symbol": "SKEM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SKEM--3x7UeXDF4imKSKnizK9mYyx1M5bTNzpeALfPeB8S6XT9/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

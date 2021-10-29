@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Conceal",
+  "address": "CzqJTjTp3R9opDHmzF5Gy1G2NKDHEyMufa4Keiju4PLu",
+  "symbol": "wCCX",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SKALE (Wormhole)",
+  "address": "4b166BQEQunjg8oNTDcLeWU3nidQnVTL1Vni8ANU7Mvt",
+  "symbol": "wSKL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSKL--4b166BQEQunjg8oNTDcLeWU3nidQnVTL1Vni8ANU7Mvt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

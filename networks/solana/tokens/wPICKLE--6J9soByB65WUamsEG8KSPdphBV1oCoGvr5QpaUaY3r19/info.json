@@ -1,0 +1,11 @@
+{
+  "name": "PickleToken (Wormhole)",
+  "address": "6J9soByB65WUamsEG8KSPdphBV1oCoGvr5QpaUaY3r19",
+  "symbol": "wPICKLE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPICKLE--6J9soByB65WUamsEG8KSPdphBV1oCoGvr5QpaUaY3r19/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Navigator",
+  "address": "0x337Bbd8e004C635d4B09f3e783742F2A8DC896e3",
+  "symbol": "NTTC",
+  "decimals": 9,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/NTTC--0x337Bbd8e004C635d4B09f3e783742F2A8DC896e3/logo.PNG",
+  "tags": [
+    "erc20matic"
+  ]
+}

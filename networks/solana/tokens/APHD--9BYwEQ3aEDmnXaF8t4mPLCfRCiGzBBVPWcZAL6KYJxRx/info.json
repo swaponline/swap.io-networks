@@ -1,0 +1,11 @@
+{
+  "name": "Applehead",
+  "address": "9BYwEQ3aEDmnXaF8t4mPLCfRCiGzBBVPWcZAL6KYJxRx",
+  "symbol": "APHD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/APHD--9BYwEQ3aEDmnXaF8t4mPLCfRCiGzBBVPWcZAL6KYJxRx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

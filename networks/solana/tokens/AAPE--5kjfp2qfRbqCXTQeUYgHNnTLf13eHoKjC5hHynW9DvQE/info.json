@@ -1,0 +1,11 @@
+{
+  "name": "AAPE",
+  "address": "5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE",
+  "symbol": "AAPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AAPE--5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

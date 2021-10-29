@@ -1,0 +1,11 @@
+{
+  "name": "UMA Voting Token v1 (Wormhole)",
+  "address": "FqMZWvmii4NNzhLBKGzkvGj3e3XTxNVDNSKDJnt9fVQV",
+  "symbol": "wUMA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUMA--FqMZWvmii4NNzhLBKGzkvGj3e3XTxNVDNSKDJnt9fVQV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

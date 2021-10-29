@@ -1,0 +1,11 @@
+{
+  "name": "HOLONA",
+  "address": "8Ap9nTGPGJ1VYbMCE64f7yUTCptKk717Cns1ZfrqvdjE",
+  "symbol": "HOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HOL--8Ap9nTGPGJ1VYbMCE64f7yUTCptKk717Cns1ZfrqvdjE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

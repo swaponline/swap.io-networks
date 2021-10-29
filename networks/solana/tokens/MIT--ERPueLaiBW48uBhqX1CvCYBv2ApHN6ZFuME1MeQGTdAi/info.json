@@ -1,0 +1,11 @@
+{
+  "name": "Muskimum Impact Token",
+  "address": "ERPueLaiBW48uBhqX1CvCYBv2ApHN6ZFuME1MeQGTdAi",
+  "symbol": "MIT",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MIT--ERPueLaiBW48uBhqX1CvCYBv2ApHN6ZFuME1MeQGTdAi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

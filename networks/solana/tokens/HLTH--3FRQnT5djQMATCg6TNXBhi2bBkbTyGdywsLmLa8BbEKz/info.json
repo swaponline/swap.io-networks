@@ -1,0 +1,11 @@
+{
+  "name": "HLTH",
+  "address": "3FRQnT5djQMATCg6TNXBhi2bBkbTyGdywsLmLa8BbEKz",
+  "symbol": "HLTH",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HLTH--3FRQnT5djQMATCg6TNXBhi2bBkbTyGdywsLmLa8BbEKz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

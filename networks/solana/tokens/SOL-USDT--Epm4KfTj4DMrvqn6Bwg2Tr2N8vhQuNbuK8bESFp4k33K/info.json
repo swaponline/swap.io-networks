@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SOL-USDT)",
+  "address": "Epm4KfTj4DMrvqn6Bwg2Tr2N8vhQuNbuK8bESFp4k33K",
+  "symbol": "SOL-USDT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOL-USDT--Epm4KfTj4DMrvqn6Bwg2Tr2N8vhQuNbuK8bESFp4k33K/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

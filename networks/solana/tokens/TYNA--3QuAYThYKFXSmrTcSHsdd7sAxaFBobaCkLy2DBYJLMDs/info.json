@@ -1,0 +1,11 @@
+{
+  "name": "wTYNA",
+  "address": "3QuAYThYKFXSmrTcSHsdd7sAxaFBobaCkLy2DBYJLMDs",
+  "symbol": "TYNA",
+  "decimals": 3,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TYNA--3QuAYThYKFXSmrTcSHsdd7sAxaFBobaCkLy2DBYJLMDs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

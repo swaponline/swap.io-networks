@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (LINK-USDC)",
+  "address": "BqjoYjqKrXtfBKXeaWeAT5sYCy7wsAYf3XjgDWsHSBRs",
+  "symbol": "LINK-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LINK-USDC--BqjoYjqKrXtfBKXeaWeAT5sYCy7wsAYf3XjgDWsHSBRs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

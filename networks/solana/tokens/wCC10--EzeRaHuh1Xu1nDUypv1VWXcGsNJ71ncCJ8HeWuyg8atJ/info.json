@@ -1,0 +1,11 @@
+{
+  "name": "Cryptocurrency Top 10 Tokens Index (Wormhole)",
+  "address": "EzeRaHuh1Xu1nDUypv1VWXcGsNJ71ncCJ8HeWuyg8atJ",
+  "symbol": "wCC10",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCC10--EzeRaHuh1Xu1nDUypv1VWXcGsNJ71ncCJ8HeWuyg8atJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

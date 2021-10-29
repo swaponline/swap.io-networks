@@ -1,0 +1,11 @@
+{
+  "name": "DairyCow",
+  "address": "28x5iW6faLFiLqY5mshtP6wggXChyshdFaLcuvj72HgS",
+  "symbol": "DCW",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

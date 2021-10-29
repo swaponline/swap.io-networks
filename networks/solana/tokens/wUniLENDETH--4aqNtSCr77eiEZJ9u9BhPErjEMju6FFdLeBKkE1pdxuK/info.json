@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap LEND LP (Wormhole)",
+  "address": "4aqNtSCr77eiEZJ9u9BhPErjEMju6FFdLeBKkE1pdxuK",
+  "symbol": "wUniLENDETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUniLENDETH--4aqNtSCr77eiEZJ9u9BhPErjEMju6FFdLeBKkE1pdxuK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

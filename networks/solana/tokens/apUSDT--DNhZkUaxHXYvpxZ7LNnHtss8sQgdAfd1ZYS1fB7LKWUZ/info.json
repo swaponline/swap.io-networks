@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped USDT (Allbridge from Polygon)",
+  "address": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
+  "symbol": "apUSDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/apUSDT--DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

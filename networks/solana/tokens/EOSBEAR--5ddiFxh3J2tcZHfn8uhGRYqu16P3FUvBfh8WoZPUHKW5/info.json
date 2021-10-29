@@ -1,0 +1,11 @@
+{
+  "name": "EOSBEAR",
+  "address": "5ddiFxh3J2tcZHfn8uhGRYqu16P3FUvBfh8WoZPUHKW5",
+  "symbol": "EOSBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

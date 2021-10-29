@@ -1,0 +1,11 @@
+{
+  "name": "Idle Mystic",
+  "address": "0xa353dEb6Fb81dF3844D8bd614D33d040fDBb8188",
+  "symbol": "MST",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/MST--0xa353dEb6Fb81dF3844D8bd614D33d040fDBb8188/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

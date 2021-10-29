@@ -1,0 +1,11 @@
+{
+  "name": "TaskDapp",
+  "address": "7kpzQByqsfmZSX5Y71YtncBvuhFVFJBLUvJKqqNMfT8P",
+  "symbol": "TSK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TSK--7kpzQByqsfmZSX5Y71YtncBvuhFVFJBLUvJKqqNMfT8P/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

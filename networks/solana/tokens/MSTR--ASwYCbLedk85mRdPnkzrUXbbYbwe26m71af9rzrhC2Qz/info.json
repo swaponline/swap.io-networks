@@ -1,0 +1,11 @@
+{
+  "name": "MicroStrategy Incorporated.",
+  "address": "ASwYCbLedk85mRdPnkzrUXbbYbwe26m71af9rzrhC2Qz",
+  "symbol": "MSTR",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MSTR--ASwYCbLedk85mRdPnkzrUXbbYbwe26m71af9rzrhC2Qz/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

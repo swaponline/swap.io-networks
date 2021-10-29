@@ -1,0 +1,11 @@
+{
+  "name": "Black Label",
+  "address": "4NPzwMK2gfgQ6rTv8x4EE1ZvKW6MYyYTSrAZCx7zxyaX",
+  "symbol": "KLB",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KLB--4NPzwMK2gfgQ6rTv8x4EE1ZvKW6MYyYTSrAZCx7zxyaX/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

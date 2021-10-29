@@ -1,0 +1,11 @@
+{
+  "name": "TRYB",
+  "address": "6ry4WBDvAwAnrYJVv6MCog4J8zx6S3cPgSqnTsDZ73AR",
+  "symbol": "TRYB",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

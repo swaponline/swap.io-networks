@@ -1,0 +1,11 @@
+{
+  "name": "Cage Fight Series Coin",
+  "address": "3dmtKhD4bGXXdticPXyEeV3WF3mHcEucpSyJbUZum5cG",
+  "symbol": "CSFCOIN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CSFCOIN--3dmtKhD4bGXXdticPXyEeV3WF3mHcEucpSyJbUZum5cG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

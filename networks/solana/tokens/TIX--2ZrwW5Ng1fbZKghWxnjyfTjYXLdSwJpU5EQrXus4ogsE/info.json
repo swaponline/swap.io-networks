@@ -1,0 +1,11 @@
+{
+  "name": "Tix Token",
+  "address": "2ZrwW5Ng1fbZKghWxnjyfTjYXLdSwJpU5EQrXus4ogsE",
+  "symbol": "TIX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TIX--2ZrwW5Ng1fbZKghWxnjyfTjYXLdSwJpU5EQrXus4ogsE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

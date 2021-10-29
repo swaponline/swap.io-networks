@@ -1,0 +1,11 @@
+{
+  "name": "WATTTON Exchange",
+  "address": "AKAwZaP91svXuYTe2gD5JVmUZteDFrT4G92rMtrF1Wb4",
+  "symbol": "WTTE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WTTE--AKAwZaP91svXuYTe2gD5JVmUZteDFrT4G92rMtrF1Wb4/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

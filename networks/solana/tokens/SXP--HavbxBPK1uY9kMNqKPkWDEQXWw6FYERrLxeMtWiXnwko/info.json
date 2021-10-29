@@ -1,0 +1,11 @@
+{
+  "name": "Stacc eXPerience Points",
+  "address": "HavbxBPK1uY9kMNqKPkWDEQXWw6FYERrLxeMtWiXnwko",
+  "symbol": "SXP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SXP--HavbxBPK1uY9kMNqKPkWDEQXWw6FYERrLxeMtWiXnwko/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

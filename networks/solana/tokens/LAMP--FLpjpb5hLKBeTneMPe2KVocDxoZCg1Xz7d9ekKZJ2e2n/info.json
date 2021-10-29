@@ -1,0 +1,11 @@
+{
+  "name": "Lamp",
+  "address": "FLpjpb5hLKBeTneMPe2KVocDxoZCg1Xz7d9ekKZJ2e2n",
+  "symbol": "LAMP",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

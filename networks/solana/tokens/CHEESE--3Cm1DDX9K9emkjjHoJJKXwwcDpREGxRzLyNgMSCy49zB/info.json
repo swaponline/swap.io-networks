@@ -1,0 +1,11 @@
+{
+  "name": "Cheese",
+  "address": "3Cm1DDX9K9emkjjHoJJKXwwcDpREGxRzLyNgMSCy49zB",
+  "symbol": "CHEESE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CHEESE--3Cm1DDX9K9emkjjHoJJKXwwcDpREGxRzLyNgMSCy49zB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solum",
+  "address": "9XtRZwKzDXEJ61A7qCqbPz8jXMYHGT3LwxqrEzB6fqxv",
+  "symbol": "SOLUM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLUM--9XtRZwKzDXEJ61A7qCqbPz8jXMYHGT3LwxqrEzB6fqxv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (GRAPE/USDC[aquafarm])",
+  "address": "97q89hnoKwqcynvwXcj83YqfqUBuCm4A8f2zHeV6bfZg",
+  "symbol": "GRAPEUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GRAPEUSDC--97q89hnoKwqcynvwXcj83YqfqUBuCm4A8f2zHeV6bfZg/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

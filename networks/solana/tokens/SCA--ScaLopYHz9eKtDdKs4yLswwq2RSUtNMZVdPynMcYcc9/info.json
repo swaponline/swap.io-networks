@@ -1,0 +1,11 @@
+{
+  "name": "Scallop",
+  "address": "ScaLopYHz9eKtDdKs4yLswwq2RSUtNMZVdPynMcYcc9",
+  "symbol": "SCA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SCA--ScaLopYHz9eKtDdKs4yLswwq2RSUtNMZVdPynMcYcc9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Serum (Wormhole)",
+  "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+  "symbol": "SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SRM--xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

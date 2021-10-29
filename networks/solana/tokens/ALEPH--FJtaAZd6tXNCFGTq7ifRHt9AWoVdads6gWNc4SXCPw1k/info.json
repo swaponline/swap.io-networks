@@ -1,0 +1,11 @@
+{
+  "name": "tuALEPH",
+  "address": "FJtaAZd6tXNCFGTq7ifRHt9AWoVdads6gWNc4SXCPw1k",
+  "symbol": "ALEPH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ALEPH--FJtaAZd6tXNCFGTq7ifRHt9AWoVdads6gWNc4SXCPw1k/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "IMUA",
+  "address": "6oaVWSKRi4Pm1qVLf3fQFWFWygFhgswAL7Z466WE3cE8",
+  "symbol": "IMUA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/IMUA--6oaVWSKRi4Pm1qVLf3fQFWFWygFhgswAL7Z466WE3cE8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Beyond Meat Inc",
+  "address": "8TUg3Kpa4pNfaMvgyFdvwyiPBSnyTx7kK5EDfb42N6VK",
+  "symbol": "BYND",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BYND--8TUg3Kpa4pNfaMvgyFdvwyiPBSnyTx7kK5EDfb42N6VK/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

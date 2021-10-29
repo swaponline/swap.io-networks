@@ -1,0 +1,11 @@
+{
+  "name": "BSVBEAR",
+  "address": "2FGW8BVMu1EHsz2ZS9rZummDaq6o2DVrZZPw4KaAvDWh",
+  "symbol": "BSVBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

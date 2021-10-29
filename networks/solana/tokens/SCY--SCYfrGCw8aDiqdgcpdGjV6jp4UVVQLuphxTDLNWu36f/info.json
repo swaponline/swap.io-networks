@@ -1,0 +1,11 @@
+{
+  "name": "Synchrony",
+  "address": "SCYfrGCw8aDiqdgcpdGjV6jp4UVVQLuphxTDLNWu36f",
+  "symbol": "SCY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SCY--SCYfrGCw8aDiqdgcpdGjV6jp4UVVQLuphxTDLNWu36f/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

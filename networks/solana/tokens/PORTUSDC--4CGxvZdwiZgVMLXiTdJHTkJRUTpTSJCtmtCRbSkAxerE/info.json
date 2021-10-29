@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (PORT/USDC)",
+  "address": "4CGxvZdwiZgVMLXiTdJHTkJRUTpTSJCtmtCRbSkAxerE",
+  "symbol": "PORTUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PORTUSDC--4CGxvZdwiZgVMLXiTdJHTkJRUTpTSJCtmtCRbSkAxerE/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

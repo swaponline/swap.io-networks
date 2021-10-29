@@ -1,0 +1,11 @@
+{
+  "name": "RuufCoin",
+  "address": "0x182f1d39dF9460D7AEf29afBc80bBD68ED0A41d5",
+  "symbol": "RUUF",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/RUUF--0x182f1d39dF9460D7AEf29afBc80bBD68ED0A41d5/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

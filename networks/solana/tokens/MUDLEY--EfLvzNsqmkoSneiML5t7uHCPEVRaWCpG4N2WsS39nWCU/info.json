@@ -1,0 +1,11 @@
+{
+  "name": "MUDLEY",
+  "address": "EfLvzNsqmkoSneiML5t7uHCPEVRaWCpG4N2WsS39nWCU",
+  "symbol": "MUDLEY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MUDLEY--EfLvzNsqmkoSneiML5t7uHCPEVRaWCpG4N2WsS39nWCU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

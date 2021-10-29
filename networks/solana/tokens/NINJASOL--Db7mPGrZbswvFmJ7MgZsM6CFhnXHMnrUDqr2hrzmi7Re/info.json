@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (NINJA/SOL)",
+  "address": "Db7mPGrZbswvFmJ7MgZsM6CFhnXHMnrUDqr2hrzmi7Re",
+  "symbol": "NINJASOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NINJASOL--Db7mPGrZbswvFmJ7MgZsM6CFhnXHMnrUDqr2hrzmi7Re/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

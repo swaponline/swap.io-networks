@@ -1,0 +1,11 @@
+{
+  "name": "Plongeurs de Fontaine Token",
+  "address": "3xiDaQKLGrnWEVGpxFT5Y2DCBF1KoKdUnm9DmWdFnk45",
+  "symbol": "PLGFT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PLGFT--3xiDaQKLGrnWEVGpxFT5Y2DCBF1KoKdUnm9DmWdFnk45/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EOSBULL",
+  "address": "qxxF6S62hmZF5bo46mS7C2qbBa87qRossAM78VzsDqi",
+  "symbol": "EOSBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

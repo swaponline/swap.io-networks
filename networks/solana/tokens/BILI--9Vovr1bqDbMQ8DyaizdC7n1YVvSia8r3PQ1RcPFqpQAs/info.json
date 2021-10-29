@@ -1,0 +1,11 @@
+{
+  "name": "Bilibili Inc",
+  "address": "9Vovr1bqDbMQ8DyaizdC7n1YVvSia8r3PQ1RcPFqpQAs",
+  "symbol": "BILI",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BILI--9Vovr1bqDbMQ8DyaizdC7n1YVvSia8r3PQ1RcPFqpQAs/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

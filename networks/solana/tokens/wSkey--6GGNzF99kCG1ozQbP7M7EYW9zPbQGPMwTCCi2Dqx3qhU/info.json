@@ -1,0 +1,11 @@
+{
+  "name": "SmartKey (Wormhole)",
+  "address": "6GGNzF99kCG1ozQbP7M7EYW9zPbQGPMwTCCi2Dqx3qhU",
+  "symbol": "wSkey",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSkey--6GGNzF99kCG1ozQbP7M7EYW9zPbQGPMwTCCi2Dqx3qhU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

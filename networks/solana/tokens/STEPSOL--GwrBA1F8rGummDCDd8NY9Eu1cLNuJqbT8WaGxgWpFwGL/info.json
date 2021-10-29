@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (STEP/SOL)",
+  "address": "GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL",
+  "symbol": "STEPSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STEPSOL--GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

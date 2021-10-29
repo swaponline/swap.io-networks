@@ -1,0 +1,11 @@
+{
+  "name": "ALTREC Coin",
+  "address": "FGpMT3xLwk67hWsT7Lgp7WjovS3rejx9KBmCG1bBtB9U",
+  "symbol": "ALTREC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ALTREC--FGpMT3xLwk67hWsT7Lgp7WjovS3rejx9KBmCG1bBtB9U/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

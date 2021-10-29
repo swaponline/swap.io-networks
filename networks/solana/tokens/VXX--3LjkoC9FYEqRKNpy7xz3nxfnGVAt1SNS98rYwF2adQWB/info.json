@@ -1,0 +1,11 @@
+{
+  "name": "iPath B S&P 500 VIX S/T Futs ETN",
+  "address": "3LjkoC9FYEqRKNpy7xz3nxfnGVAt1SNS98rYwF2adQWB",
+  "symbol": "VXX",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VXX--3LjkoC9FYEqRKNpy7xz3nxfnGVAt1SNS98rYwF2adQWB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

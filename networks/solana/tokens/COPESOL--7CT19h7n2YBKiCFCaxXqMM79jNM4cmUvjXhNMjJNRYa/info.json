@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (COPE/SOL)",
+  "address": "7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa",
+  "symbol": "COPESOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COPESOL--7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

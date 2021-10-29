@@ -1,0 +1,11 @@
+{
+  "name": "tuSLRS",
+  "address": "GtFtWCcLYtWQT8NLRwEfUqc9sgVnq4SbuSnMCpwcutNk",
+  "symbol": "tuSLRS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuSLRS--GtFtWCcLYtWQT8NLRwEfUqc9sgVnq4SbuSnMCpwcutNk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

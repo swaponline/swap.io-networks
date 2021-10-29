@@ -1,0 +1,11 @@
+{
+  "name": "Stacc Job Points",
+  "address": "2A5esErqMaJXhrs1i6CtjbVxTbgsY9JbDedVsuVMQ6aY",
+  "symbol": "SJP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SJP--2A5esErqMaJXhrs1i6CtjbVxTbgsY9JbDedVsuVMQ6aY/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

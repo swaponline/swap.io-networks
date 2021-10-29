@@ -1,0 +1,11 @@
+{
+  "name": "UBE Token",
+  "address": "Da1jboBKU3rqXUqPL3L3BxJ8e67ogVgVKcqy4rWsS7LC",
+  "symbol": "UBE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UBE--Da1jboBKU3rqXUqPL3L3BxJ8e67ogVgVKcqy4rWsS7LC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

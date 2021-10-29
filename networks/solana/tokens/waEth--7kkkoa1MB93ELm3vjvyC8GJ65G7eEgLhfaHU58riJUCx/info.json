@@ -1,0 +1,11 @@
+{
+  "name": "aEthereum (Wormhole)",
+  "address": "7kkkoa1MB93ELm3vjvyC8GJ65G7eEgLhfaHU58riJUCx",
+  "symbol": "waEth",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waEth--7kkkoa1MB93ELm3vjvyC8GJ65G7eEgLhfaHU58riJUCx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

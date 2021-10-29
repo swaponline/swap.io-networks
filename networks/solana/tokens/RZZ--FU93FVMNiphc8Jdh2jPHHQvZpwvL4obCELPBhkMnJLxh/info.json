@@ -1,0 +1,11 @@
+{
+  "name": "Razzmena compnay Token",
+  "address": "FU93FVMNiphc8Jdh2jPHHQvZpwvL4obCELPBhkMnJLxh",
+  "symbol": "RZZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RZZ--FU93FVMNiphc8Jdh2jPHHQvZpwvL4obCELPBhkMnJLxh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

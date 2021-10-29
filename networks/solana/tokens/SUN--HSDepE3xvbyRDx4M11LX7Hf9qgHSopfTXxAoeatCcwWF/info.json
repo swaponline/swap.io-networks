@@ -1,0 +1,11 @@
+{
+  "name": "Sunoco LP",
+  "address": "HSDepE3xvbyRDx4M11LX7Hf9qgHSopfTXxAoeatCcwWF",
+  "symbol": "SUN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUN--HSDepE3xvbyRDx4M11LX7Hf9qgHSopfTXxAoeatCcwWF/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

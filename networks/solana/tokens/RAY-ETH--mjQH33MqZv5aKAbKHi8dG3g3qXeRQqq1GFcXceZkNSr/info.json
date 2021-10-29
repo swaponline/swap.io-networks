@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (RAY-ETH)",
+  "address": "mjQH33MqZv5aKAbKHi8dG3g3qXeRQqq1GFcXceZkNSr",
+  "symbol": "RAY-ETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kauri Token",
+  "address": "C64WgwmfCyuFeV1k8MP1gRMP6NPA1ve7QLivvCrVaJn",
+  "symbol": "KRI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KRI--C64WgwmfCyuFeV1k8MP1gRMP6NPA1ve7QLivvCrVaJn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

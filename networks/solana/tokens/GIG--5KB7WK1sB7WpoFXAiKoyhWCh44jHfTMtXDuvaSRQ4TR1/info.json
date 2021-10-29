@@ -1,0 +1,11 @@
+{
+  "name": "DecentGig Governance Token",
+  "address": "5KB7WK1sB7WpoFXAiKoyhWCh44jHfTMtXDuvaSRQ4TR1",
+  "symbol": "GIG",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

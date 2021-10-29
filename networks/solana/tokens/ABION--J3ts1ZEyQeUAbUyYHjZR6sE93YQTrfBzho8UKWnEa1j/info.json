@@ -1,0 +1,11 @@
+{
+  "name": "aBion",
+  "address": "J3ts1ZEyQeUAbUyYHjZR6sE93YQTrfBzho8UKWnEa1j",
+  "symbol": "ABION",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ABION--J3ts1ZEyQeUAbUyYHjZR6sE93YQTrfBzho8UKWnEa1j/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iShares Silver Trust",
+  "address": "8Sa7BjogSJnkHyhtRTKNDDTDtASnWMcAsD4ySVNSFu27",
+  "symbol": "SLV",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLV--8Sa7BjogSJnkHyhtRTKNDDTDtASnWMcAsD4ySVNSFu27/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

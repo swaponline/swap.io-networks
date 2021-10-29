@@ -1,0 +1,11 @@
+{
+  "name": "Ustur Wod.bod",
+  "address": "FPnwwNiL1tXqd4ZbGjFYsCw5qsQw91VN79SNcU4Bc732",
+  "symbol": "UWB",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UWB--FPnwwNiL1tXqd4ZbGjFYsCw5qsQw91VN79SNcU4Bc732/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

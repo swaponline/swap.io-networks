@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped SWAG (Sollet)",
+  "address": "9F9fNTT6qwjsu4X4yWYKZpsbw5qT7o6yR2i57JF2jagy",
+  "symbol": "SWAG",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SWAG--9F9fNTT6qwjsu4X4yWYKZpsbw5qT7o6yR2i57JF2jagy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

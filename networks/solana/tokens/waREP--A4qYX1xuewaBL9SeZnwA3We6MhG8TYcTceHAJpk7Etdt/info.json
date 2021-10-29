@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing REP (Wormhole)",
+  "address": "A4qYX1xuewaBL9SeZnwA3We6MhG8TYcTceHAJpk7Etdt",
+  "symbol": "waREP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waREP--A4qYX1xuewaBL9SeZnwA3We6MhG8TYcTceHAJpk7Etdt/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SBR/USDC)",
+  "address": "Cum6sRPGpWYQHZapekDtMhbZ1BQ2QkYv9PAwQjypxMVo",
+  "symbol": "SBRUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SBRUSDC--Cum6sRPGpWYQHZapekDtMhbZ1BQ2QkYv9PAwQjypxMVo/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

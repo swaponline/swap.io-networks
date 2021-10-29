@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (MER/SOL)",
+  "address": "BXM9ph4AuhCUzf94HQu5FnfeVThKj5oyrnb1krY1zax5",
+  "symbol": "MERSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MERSOL--BXM9ph4AuhCUzf94HQu5FnfeVThKj5oyrnb1krY1zax5/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

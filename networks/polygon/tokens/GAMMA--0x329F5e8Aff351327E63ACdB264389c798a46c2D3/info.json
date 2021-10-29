@@ -1,0 +1,11 @@
+{
+  "name": "PolyGamma Finance",
+  "address": "0x329F5e8Aff351327E63ACdB264389c798a46c2D3",
+  "symbol": "GAMMA",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GAMMA--0x329F5e8Aff351327E63ACdB264389c798a46c2D3/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

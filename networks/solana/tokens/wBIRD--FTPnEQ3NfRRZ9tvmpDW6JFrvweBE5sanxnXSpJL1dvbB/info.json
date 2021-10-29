@@ -1,0 +1,11 @@
+{
+  "name": "Bird.Money (Wormhole)",
+  "address": "FTPnEQ3NfRRZ9tvmpDW6JFrvweBE5sanxnXSpJL1dvbB",
+  "symbol": "wBIRD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBIRD--FTPnEQ3NfRRZ9tvmpDW6JFrvweBE5sanxnXSpJL1dvbB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Seldom",
+  "address": "FkmkTr4en8CXkfo9jAwEMov6PVNLpYMzWr3Udqf9so8Z",
+  "symbol": "Seldom",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

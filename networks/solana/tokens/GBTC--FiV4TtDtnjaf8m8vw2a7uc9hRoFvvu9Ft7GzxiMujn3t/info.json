@@ -1,0 +1,11 @@
+{
+  "name": "Grayscale Bitcoin Trust",
+  "address": "FiV4TtDtnjaf8m8vw2a7uc9hRoFvvu9Ft7GzxiMujn3t",
+  "symbol": "GBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GBTC--FiV4TtDtnjaf8m8vw2a7uc9hRoFvvu9Ft7GzxiMujn3t/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

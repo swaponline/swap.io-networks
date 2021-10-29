@@ -73,6 +73,15 @@ const updateTokensByNetwork = async (
   console.log(`${networkInfo.name} have:`)
   console.log(`  ${networkUniqExternalTokensAddresses.length} external tokens`)
 
+  const networkPath = getNetworkPath(network)
+  const allowlistName = 'allowlist.json'
+  const denylistName = 'denylist.json'
+
+  checkFile(networkPath, allowlistName, [])
+  checkFile(networkPath, denylistName, [])
+
+  const denylist = readJsonFile(`${networkPath}/${denylistName}`)
+
   const tokensIDs: string[] = []
   const tokens: NetworkTokensListObj = {} // need for update tokens
 
@@ -144,8 +153,13 @@ const updateTokensByNetwork = async (
       continue
     }
 
+    if (denylist.includes(address)) {
+      console.error(`Token with ${tokenAddress} address includes in denylist`)
+      continue
+    }
+
     if (!chainIds.includes(+networkInfo.chainId)) {
-      console.error(`Token ${tokenAddress} from different network`)
+      console.error(`Token with ${tokenAddress} address from different network`)
       continue
     }
 
@@ -161,9 +175,9 @@ const updateTokensByNetwork = async (
       let logoPath = ''
       if (logoURIs.length) {
         for (const logoURI of logoURIs) {
-          const logoExtension = getLogoExtensioFromUrl(logoURI)
-          logoPath = `${tokenPath}/logo.${logoExtension}`
           try {
+            const logoExtension = getLogoExtensioFromUrl(logoURI)
+            logoPath = `${tokenPath}/logo.${logoExtension}`
             await saveLogo(logoURI, getAbsolutePath(logoPath))
             break
           } catch (error) {
@@ -194,10 +208,6 @@ const updateTokensByNetwork = async (
   // Update allowed tokens list
   const allowedTokens = [...exsistsTokensIDs, ...addedTokens]
 
-  const networkPath = getNetworkPath(network)
-  const allowlistName = 'allowlist.json'
-
-  checkFile(networkPath, allowlistName, [])
   writeToFileWithUpdate(networkPath, allowlistName, allowedTokens)
 
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Whale Collectible",
+  "address": "whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW",
+  "symbol": "WHALE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WHALE--whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

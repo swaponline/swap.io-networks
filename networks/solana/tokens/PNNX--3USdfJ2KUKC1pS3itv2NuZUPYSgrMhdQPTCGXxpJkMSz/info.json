@@ -1,0 +1,11 @@
+{
+  "name": "Phennix Token",
+  "address": "3USdfJ2KUKC1pS3itv2NuZUPYSgrMhdQPTCGXxpJkMSz",
+  "symbol": "PNNX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PNNX--3USdfJ2KUKC1pS3itv2NuZUPYSgrMhdQPTCGXxpJkMSz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

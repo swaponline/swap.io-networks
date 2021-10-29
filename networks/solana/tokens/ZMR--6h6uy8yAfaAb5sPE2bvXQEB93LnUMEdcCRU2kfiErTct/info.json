@@ -1,0 +1,11 @@
+{
+  "name": "ZMIRROR",
+  "address": "6h6uy8yAfaAb5sPE2bvXQEB93LnUMEdcCRU2kfiErTct",
+  "symbol": "ZMR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZMR--6h6uy8yAfaAb5sPE2bvXQEB93LnUMEdcCRU2kfiErTct/logo.JPG",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LARA Token",
+  "address": "zp6ybEDFPzQqstgdw8eLfcV43JyfkTR4ty9CbmzQw6X",
+  "symbol": "LARA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LARA--zp6ybEDFPzQqstgdw8eLfcV43JyfkTR4ty9CbmzQw6X/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SilverSol",
+  "address": "CmjegnBmHaEN2wbHTemVr1xwfgN61JZBgbtLkAa3WHM8",
+  "symbol": "SILVER",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SILVER--CmjegnBmHaEN2wbHTemVr1xwfgN61JZBgbtLkAa3WHM8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

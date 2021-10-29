@@ -1,0 +1,11 @@
+{
+  "name": "FLOOF",
+  "address": "3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw",
+  "symbol": "FLOOF",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FLOOF--3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

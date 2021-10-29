@@ -1,0 +1,11 @@
+{
+  "name": "Blocking",
+  "address": "HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg",
+  "symbol": "BLOCKING",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BLOCKING--HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

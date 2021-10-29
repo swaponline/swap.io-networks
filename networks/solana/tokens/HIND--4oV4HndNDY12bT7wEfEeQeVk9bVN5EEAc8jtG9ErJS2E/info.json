@@ -1,0 +1,11 @@
+{
+  "name": "HINDCOIN",
+  "address": "4oV4HndNDY12bT7wEfEeQeVk9bVN5EEAc8jtG9ErJS2E",
+  "symbol": "HIND",
+  "decimals": 5,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HIND--4oV4HndNDY12bT7wEfEeQeVk9bVN5EEAc8jtG9ErJS2E/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

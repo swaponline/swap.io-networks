@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic FTT",
+  "address": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+  "symbol": "xFTT",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xFTT--Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

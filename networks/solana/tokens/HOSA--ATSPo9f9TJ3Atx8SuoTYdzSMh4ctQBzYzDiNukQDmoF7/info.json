@@ -1,0 +1,11 @@
+{
+  "name": "The Heart of Star Atlas",
+  "address": "ATSPo9f9TJ3Atx8SuoTYdzSMh4ctQBzYzDiNukQDmoF7",
+  "symbol": "HOSA",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HOSA--ATSPo9f9TJ3Atx8SuoTYdzSMh4ctQBzYzDiNukQDmoF7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

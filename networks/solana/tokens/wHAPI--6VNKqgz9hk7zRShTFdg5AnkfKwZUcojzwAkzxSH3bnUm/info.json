@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped HAPI",
+  "address": "6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm",
+  "symbol": "wHAPI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wHAPI--6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

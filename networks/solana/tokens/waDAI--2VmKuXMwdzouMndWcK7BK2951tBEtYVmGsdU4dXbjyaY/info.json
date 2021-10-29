@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing DAI (Wormhole)",
+  "address": "2VmKuXMwdzouMndWcK7BK2951tBEtYVmGsdU4dXbjyaY",
+  "symbol": "waDAI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waDAI--2VmKuXMwdzouMndWcK7BK2951tBEtYVmGsdU4dXbjyaY/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

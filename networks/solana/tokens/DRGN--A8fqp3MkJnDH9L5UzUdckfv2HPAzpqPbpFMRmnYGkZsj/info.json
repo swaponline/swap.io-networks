@@ -1,0 +1,11 @@
+{
+  "name": "DragonSol",
+  "address": "A8fqp3MkJnDH9L5UzUdckfv2HPAzpqPbpFMRmnYGkZsj",
+  "symbol": "DRGN",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DRGN--A8fqp3MkJnDH9L5UzUdckfv2HPAzpqPbpFMRmnYGkZsj/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Republic Token (Wormhole)",
+  "address": "FjucGZpcdVXaWJH21pbrGQaKNszsGsJqbAXu4sJywKJa",
+  "symbol": "wREN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wREN--FjucGZpcdVXaWJH21pbrGQaKNszsGsJqbAXu4sJywKJa/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

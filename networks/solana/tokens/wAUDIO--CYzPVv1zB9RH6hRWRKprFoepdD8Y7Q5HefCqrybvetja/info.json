@@ -1,0 +1,11 @@
+{
+  "name": "Audius (Wormhole)",
+  "address": "CYzPVv1zB9RH6hRWRKprFoepdD8Y7Q5HefCqrybvetja",
+  "symbol": "wAUDIO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wAUDIO--CYzPVv1zB9RH6hRWRKprFoepdD8Y7Q5HefCqrybvetja/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

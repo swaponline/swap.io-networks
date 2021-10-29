@@ -1,0 +1,11 @@
+{
+  "name": "Behzat Token",
+  "address": "6G7X1B2f9F7KWcHxS66mn3ax6VPE2UMZud44RX3BzfVo",
+  "symbol": "BEHZAT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BEHZAT--6G7X1B2f9F7KWcHxS66mn3ax6VPE2UMZud44RX3BzfVo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

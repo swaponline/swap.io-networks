@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Legacy LP Token V2 (RAY-USDC)",
+  "address": "FgmBnsF5Qrnv8X9bomQfEtQTQjNNiBCWRKGpzPnE5BDg",
+  "symbol": "RAY-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAY-USDC--FgmBnsF5Qrnv8X9bomQfEtQTQjNNiBCWRKGpzPnE5BDg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

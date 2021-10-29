@@ -1,0 +1,11 @@
+{
+  "name": "Kyber Network Crystal (Wormhole)",
+  "address": "26ZzQVGZruwcZPs2sqb8n9ojKt2cviUjHcMjstFtK6ow",
+  "symbol": "wKNC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wKNC--26ZzQVGZruwcZPs2sqb8n9ojKt2cviUjHcMjstFtK6ow/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

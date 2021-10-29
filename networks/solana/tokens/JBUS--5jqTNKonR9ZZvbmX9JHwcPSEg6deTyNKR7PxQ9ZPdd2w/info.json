@@ -1,0 +1,11 @@
+{
+  "name": "Jebus",
+  "address": "5jqTNKonR9ZZvbmX9JHwcPSEg6deTyNKR7PxQ9ZPdd2w",
+  "symbol": "JBUS",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JBUS--5jqTNKonR9ZZvbmX9JHwcPSEg6deTyNKR7PxQ9ZPdd2w/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

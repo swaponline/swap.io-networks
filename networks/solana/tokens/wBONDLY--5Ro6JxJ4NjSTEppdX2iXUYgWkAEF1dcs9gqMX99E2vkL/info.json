@@ -1,0 +1,11 @@
+{
+  "name": "Bondly Token (Wormhole)",
+  "address": "5Ro6JxJ4NjSTEppdX2iXUYgWkAEF1dcs9gqMX99E2vkL",
+  "symbol": "wBONDLY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBONDLY--5Ro6JxJ4NjSTEppdX2iXUYgWkAEF1dcs9gqMX99E2vkL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

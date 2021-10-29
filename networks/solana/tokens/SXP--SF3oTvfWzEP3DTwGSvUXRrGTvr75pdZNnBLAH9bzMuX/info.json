@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped SXP (Sollet)",
+  "address": "SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX",
+  "symbol": "SXP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SXP--SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

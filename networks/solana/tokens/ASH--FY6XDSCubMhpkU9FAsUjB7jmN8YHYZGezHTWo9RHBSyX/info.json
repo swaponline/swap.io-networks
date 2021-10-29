@@ -1,0 +1,11 @@
+{
+  "name": "Ashera",
+  "address": "FY6XDSCubMhpkU9FAsUjB7jmN8YHYZGezHTWo9RHBSyX",
+  "symbol": "ASH",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ASH--FY6XDSCubMhpkU9FAsUjB7jmN8YHYZGezHTWo9RHBSyX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

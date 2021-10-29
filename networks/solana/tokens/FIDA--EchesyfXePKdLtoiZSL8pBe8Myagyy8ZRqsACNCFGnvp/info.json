@@ -1,0 +1,11 @@
+{
+  "name": "Bonfida",
+  "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+  "symbol": "FIDA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FIDA--EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

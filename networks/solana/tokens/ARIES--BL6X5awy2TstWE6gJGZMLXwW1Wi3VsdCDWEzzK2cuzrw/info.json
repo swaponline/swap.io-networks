@@ -1,0 +1,11 @@
+{
+  "name": "SOLARIES Financial Token",
+  "address": "BL6X5awy2TstWE6gJGZMLXwW1Wi3VsdCDWEzzK2cuzrw",
+  "symbol": "ARIES",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ARIES--BL6X5awy2TstWE6gJGZMLXwW1Wi3VsdCDWEzzK2cuzrw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

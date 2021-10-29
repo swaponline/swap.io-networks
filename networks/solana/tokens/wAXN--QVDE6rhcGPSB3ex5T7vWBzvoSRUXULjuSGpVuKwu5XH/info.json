@@ -1,0 +1,11 @@
+{
+  "name": "Axion (Wormhole)",
+  "address": "QVDE6rhcGPSB3ex5T7vWBzvoSRUXULjuSGpVuKwu5XH",
+  "symbol": "wAXN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wAXN--QVDE6rhcGPSB3ex5T7vWBzvoSRUXULjuSGpVuKwu5XH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

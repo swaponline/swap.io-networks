@@ -1,0 +1,11 @@
+{
+  "name": "Synthetix Network Token (Wormhole)",
+  "address": "CPLNm9UMKfiJKiySQathV99yeSgTVjPDZx4ucFrbp2MD",
+  "symbol": "wSNX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSNX--CPLNm9UMKfiJKiySQathV99yeSgTVjPDZx4ucFrbp2MD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

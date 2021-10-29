@@ -1,0 +1,11 @@
+{
+  "name": "DARK WEB TOKEN",
+  "address": "cREsCN7KAyXcBG2xZc8qrfNHMRgC3MhTb4n3jBnNysv",
+  "symbol": "DWT",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DWT--cREsCN7KAyXcBG2xZc8qrfNHMRgC3MhTb4n3jBnNysv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

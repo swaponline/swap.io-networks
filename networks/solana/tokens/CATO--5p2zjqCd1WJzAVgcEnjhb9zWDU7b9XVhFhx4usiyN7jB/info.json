@@ -1,0 +1,11 @@
+{
+  "name": "CATO",
+  "address": "5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB",
+  "symbol": "CATO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CATO--5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

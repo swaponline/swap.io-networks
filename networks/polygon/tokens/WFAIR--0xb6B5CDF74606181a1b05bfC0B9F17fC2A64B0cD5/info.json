@@ -1,0 +1,11 @@
+{
+  "name": "Wallfair",
+  "address": "0xb6B5CDF74606181a1b05bfC0B9F17fC2A64B0cD5",
+  "symbol": "WFAIR",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/WFAIR--0xb6B5CDF74606181a1b05bfC0B9F17fC2A64B0cD5/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

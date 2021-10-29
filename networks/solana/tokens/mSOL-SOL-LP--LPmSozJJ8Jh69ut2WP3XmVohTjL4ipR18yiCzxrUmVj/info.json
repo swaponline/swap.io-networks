@@ -1,0 +1,11 @@
+{
+  "name": "Marinade LP token",
+  "address": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj",
+  "symbol": "mSOL-SOL-LP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mSOL-SOL-LP--LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Stacc Gold Points",
+  "address": "9KYMTqKY7f2cJKW2wYfNRpLb9zbB1tTyEbaTuzy4Gwwc",
+  "symbol": "SGP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SGP--9KYMTqKY7f2cJKW2wYfNRpLb9zbB1tTyEbaTuzy4Gwwc/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VIP Member",
+  "address": "dZytJ7iPDcCu9mKe3srL7bpUeaR3zzkcVqbtqsmxtXZ",
+  "symbol": "VIP Member",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DAI (Wormhole V2)",
+  "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+  "symbol": "wDAIv2",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDAIv2--EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

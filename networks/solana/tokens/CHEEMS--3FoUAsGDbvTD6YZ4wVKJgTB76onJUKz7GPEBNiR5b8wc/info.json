@@ -1,0 +1,11 @@
+{
+  "name": "Cheems",
+  "address": "3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc",
+  "symbol": "CHEEMS",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CHEEMS--3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

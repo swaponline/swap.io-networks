@@ -1,0 +1,11 @@
+{
+  "name": "Kurobi",
+  "address": "2Kc38rfQ49DFaKHQaWbijkE7fcymUMLY5guUiUsDmFfn",
+  "symbol": "KURO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KURO--2Kc38rfQ49DFaKHQaWbijkE7fcymUMLY5guUiUsDmFfn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

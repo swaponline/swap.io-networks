@@ -1,0 +1,11 @@
+{
+  "name": "Fractal Protocol Token (Wormhole)",
+  "address": "8ArKbnnDiq8eRR8hZ1eULMjd2iMAD8AqwyVJRAX7mHQo",
+  "symbol": "wFCL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wFCL--8ArKbnnDiq8eRR8hZ1eULMjd2iMAD8AqwyVJRAX7mHQo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

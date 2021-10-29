@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi Nakamoto",
+  "address": "9Vvre2DxBB9onibwYDHeMsY1cj6BDKtEDccBPWRN215E",
+  "symbol": "Satoshi Nakamoto",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

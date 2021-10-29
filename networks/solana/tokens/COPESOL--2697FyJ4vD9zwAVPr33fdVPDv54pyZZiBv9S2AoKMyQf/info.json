@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (COPE/SOL)",
+  "address": "2697FyJ4vD9zwAVPr33fdVPDv54pyZZiBv9S2AoKMyQf",
+  "symbol": "COPESOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COPESOL--2697FyJ4vD9zwAVPr33fdVPDv54pyZZiBv9S2AoKMyQf/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

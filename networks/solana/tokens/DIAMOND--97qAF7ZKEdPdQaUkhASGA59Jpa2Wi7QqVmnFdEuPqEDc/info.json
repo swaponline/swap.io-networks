@@ -1,0 +1,11 @@
+{
+  "name": "LOVE",
+  "address": "97qAF7ZKEdPdQaUkhASGA59Jpa2Wi7QqVmnFdEuPqEDc",
+  "symbol": "DIAMOND",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DIAMOND--97qAF7ZKEdPdQaUkhASGA59Jpa2Wi7QqVmnFdEuPqEDc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

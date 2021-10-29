@@ -1,0 +1,11 @@
+{
+  "name": "DLP Duck Token (Wormhole)",
+  "address": "D6eVKSfLdioqo2zG8LbQYFU2gf66FrjKA7afCYNo1GHt",
+  "symbol": "wDUCK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDUCK--D6eVKSfLdioqo2zG8LbQYFU2gf66FrjKA7afCYNo1GHt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

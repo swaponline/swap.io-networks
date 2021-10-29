@@ -1,0 +1,11 @@
+{
+  "name": "Coinmeca",
+  "address": "8kRacWW5qZ34anyH8s9gu2gC4FpXtncqBDPpd2a6DnZE",
+  "symbol": "MECA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MECA--8kRacWW5qZ34anyH8s9gu2gC4FpXtncqBDPpd2a6DnZE/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

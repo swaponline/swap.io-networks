@@ -1,0 +1,11 @@
+{
+  "name": "Good Terrier",
+  "address": "8om7E9acx23C62yazUMbGaw5pmp48NmW7mnxGarn3XNi",
+  "symbol": "GT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GT--8om7E9acx23C62yazUMbGaw5pmp48NmW7mnxGarn3XNi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Green DEX",
+  "address": "5fEo6ZbvpV6zdyzowtAwgMcWHZe1yJy9NxQM6gC19QW5",
+  "symbol": "GREEN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GREEN--5fEo6ZbvpV6zdyzowtAwgMcWHZe1yJy9NxQM6gC19QW5/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

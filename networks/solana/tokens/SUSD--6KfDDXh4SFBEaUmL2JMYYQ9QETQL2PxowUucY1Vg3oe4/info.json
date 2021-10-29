@@ -1,0 +1,11 @@
+{
+  "name": "Salvador USD",
+  "address": "6KfDDXh4SFBEaUmL2JMYYQ9QETQL2PxowUucY1Vg3oe4",
+  "symbol": "SUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUSD--6KfDDXh4SFBEaUmL2JMYYQ9QETQL2PxowUucY1Vg3oe4/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

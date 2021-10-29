@@ -1,0 +1,11 @@
+{
+  "name": "PolkastarterToken (Wormhole)",
+  "address": "2ctKUDkGBnVykt31AhMPhHvAQWJvoNGbLh7aRidjtAqv",
+  "symbol": "wPOLS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPOLS--2ctKUDkGBnVykt31AhMPhHvAQWJvoNGbLh7aRidjtAqv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

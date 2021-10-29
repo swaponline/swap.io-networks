@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (HOTTO-SOL)",
+  "address": "78CeyRBJSu4MFmaDi8Q8QZ3szB6Xwp93sVaMLYSy5SMZ",
+  "symbol": "HOTTO-SOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HOTTO-SOL--78CeyRBJSu4MFmaDi8Q8QZ3szB6Xwp93sVaMLYSy5SMZ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

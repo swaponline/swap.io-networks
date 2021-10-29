@@ -1,0 +1,11 @@
+{
+  "name": "BookWorm Token",
+  "address": "G4fsgHkjDzVBSPUicgL5kzEjFSd1EAysP7fCdzidAyzo",
+  "symbol": "Book",
+  "decimals": 1,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Book--G4fsgHkjDzVBSPUicgL5kzEjFSd1EAysP7fCdzidAyzo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

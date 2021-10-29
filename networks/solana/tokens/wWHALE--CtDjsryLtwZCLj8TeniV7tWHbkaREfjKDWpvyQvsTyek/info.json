@@ -1,0 +1,11 @@
+{
+  "name": "WHALE (Wormhole)",
+  "address": "CtDjsryLtwZCLj8TeniV7tWHbkaREfjKDWpvyQvsTyek",
+  "symbol": "wWHALE",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wWHALE--CtDjsryLtwZCLj8TeniV7tWHbkaREfjKDWpvyQvsTyek/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

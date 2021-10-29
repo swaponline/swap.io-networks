@@ -1,0 +1,11 @@
+{
+  "name": "Vera",
+  "address": "CN2jeduMaHuehNZNGyyAfvo1DPmAK2zSiX1DHAwkBA8Y",
+  "symbol": "VER",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VER--CN2jeduMaHuehNZNGyyAfvo1DPmAK2zSiX1DHAwkBA8Y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

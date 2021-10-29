@@ -1,0 +1,11 @@
+{
+  "name": "DINO",
+  "address": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
+  "symbol": "DINO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DINO--6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

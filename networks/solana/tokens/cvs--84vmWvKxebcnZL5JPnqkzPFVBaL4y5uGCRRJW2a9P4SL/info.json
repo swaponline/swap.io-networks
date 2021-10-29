@@ -1,0 +1,11 @@
+{
+  "name": "coinvs",
+  "address": "84vmWvKxebcnZL5JPnqkzPFVBaL4y5uGCRRJW2a9P4SL",
+  "symbol": "cvs",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cvs--84vmWvKxebcnZL5JPnqkzPFVBaL4y5uGCRRJW2a9P4SL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

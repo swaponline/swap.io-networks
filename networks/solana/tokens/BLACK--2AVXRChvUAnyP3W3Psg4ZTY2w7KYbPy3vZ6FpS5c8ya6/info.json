@@ -1,0 +1,11 @@
+{
+  "name": "Black Freelancer",
+  "address": "2AVXRChvUAnyP3W3Psg4ZTY2w7KYbPy3vZ6FpS5c8ya6",
+  "symbol": "BLACK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BLACK--2AVXRChvUAnyP3W3Psg4ZTY2w7KYbPy3vZ6FpS5c8ya6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

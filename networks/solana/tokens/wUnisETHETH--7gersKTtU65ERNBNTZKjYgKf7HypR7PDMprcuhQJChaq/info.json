@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap sETH LP (Wormhole)",
+  "address": "7gersKTtU65ERNBNTZKjYgKf7HypR7PDMprcuhQJChaq",
+  "symbol": "wUnisETHETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUnisETHETH--7gersKTtU65ERNBNTZKjYgKf7HypR7PDMprcuhQJChaq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

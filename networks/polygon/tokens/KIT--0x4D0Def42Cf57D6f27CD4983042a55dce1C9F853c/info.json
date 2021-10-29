@@ -1,0 +1,11 @@
+{
+  "name": "DexKit",
+  "address": "0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c",
+  "symbol": "KIT",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KIT--0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

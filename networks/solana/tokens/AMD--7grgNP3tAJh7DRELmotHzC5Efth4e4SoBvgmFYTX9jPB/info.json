@@ -1,0 +1,11 @@
+{
+  "name": "Advanced Micro Devices",
+  "address": "7grgNP3tAJh7DRELmotHzC5Efth4e4SoBvgmFYTX9jPB",
+  "symbol": "AMD",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AMD--7grgNP3tAJh7DRELmotHzC5Efth4e4SoBvgmFYTX9jPB/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

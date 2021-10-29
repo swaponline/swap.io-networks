@@ -1,0 +1,11 @@
+{
+  "name": "Final Frontier",
+  "address": "3vHSsV6mgvpa1JVuuDZVB72vYbeUNzW4mBxiBftwzHEA",
+  "symbol": "FRNT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FRNT--3vHSsV6mgvpa1JVuuDZVB72vYbeUNzW4mBxiBftwzHEA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

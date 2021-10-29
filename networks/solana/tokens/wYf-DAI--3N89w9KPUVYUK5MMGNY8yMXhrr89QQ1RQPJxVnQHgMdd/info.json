@@ -1,0 +1,11 @@
+{
+  "name": "YfDAI.finance (Wormhole)",
+  "address": "3N89w9KPUVYUK5MMGNY8yMXhrr89QQ1RQPJxVnQHgMdd",
+  "symbol": "wYf-DAI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wYf-DAI--3N89w9KPUVYUK5MMGNY8yMXhrr89QQ1RQPJxVnQHgMdd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

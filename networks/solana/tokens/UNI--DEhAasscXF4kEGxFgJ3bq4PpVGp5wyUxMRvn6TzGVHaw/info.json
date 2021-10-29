@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped UNI (Sollet)",
+  "address": "DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw",
+  "symbol": "UNI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UNI--DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

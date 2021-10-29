@@ -1,0 +1,11 @@
+{
+  "name": "W",
+  "address": "UgMdvGuY2HNMmCJQdY6aGty1yDxHBxm9Q9KJVefVjwJ",
+  "symbol": "W technology",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/W technology--UgMdvGuY2HNMmCJQdY6aGty1yDxHBxm9Q9KJVefVjwJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

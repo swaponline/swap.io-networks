@@ -1,0 +1,11 @@
+{
+  "name": "Facebook",
+  "address": "3K9pfJzKiAm9upcyDWk5NBVdjxVtqXN8sVfQ4aR6qwb2",
+  "symbol": "FB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FB--3K9pfJzKiAm9upcyDWk5NBVdjxVtqXN8sVfQ4aR6qwb2/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "forbitspace",
+  "address": "Hwv5ecNoHv5kNnQ2ungWN6PSq1pMq89McysSQtiELTTH",
+  "symbol": "FBS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FBS--Hwv5ecNoHv5kNnQ2ungWN6PSq1pMq89McysSQtiELTTH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

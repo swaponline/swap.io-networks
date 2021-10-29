@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped DAI (Allbridge from Avalanche)",
+  "address": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
+  "symbol": "aaDAI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aaDAI--EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -111,11 +111,11 @@ export const sanitizeSymbol = (symbol: string): string => {
   return symbol.replace(/[\[\]\/\\|,.+=:;*?«<>]/g, '').trim()
 }
 
-export const sanitizeAddress = (address: string, chainId: number): string => {
+export const sanitizeAddress = (address: string): string => {
   const isEvmAddress = /^(0x)?[0-9a-f]{40}$/i.test(address)
 
   if (isEvmAddress) {
-    return toChecksumAddress(address, new BN(chainId))
+    return toChecksumAddress(address)
   }
 
   return address.trim()

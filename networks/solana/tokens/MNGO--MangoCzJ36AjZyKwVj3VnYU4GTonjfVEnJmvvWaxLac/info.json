@@ -1,0 +1,11 @@
+{
+  "name": "Mango",
+  "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+  "symbol": "MNGO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MNGO--MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

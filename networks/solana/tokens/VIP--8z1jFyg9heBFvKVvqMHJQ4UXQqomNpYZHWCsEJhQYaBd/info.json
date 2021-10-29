@@ -1,0 +1,11 @@
+{
+  "name": "Bored Rockstar Club",
+  "address": "8z1jFyg9heBFvKVvqMHJQ4UXQqomNpYZHWCsEJhQYaBd",
+  "symbol": "VIP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VIP--8z1jFyg9heBFvKVvqMHJQ4UXQqomNpYZHWCsEJhQYaBd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

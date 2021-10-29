@@ -1,0 +1,11 @@
+{
+  "name": "tuCOPE",
+  "address": "8cm7UrBiDQ4C1ntQSCZfHSWKUizdW31ddTQGNY6Lym3B",
+  "symbol": "tuCOPE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuCOPE--8cm7UrBiDQ4C1ntQSCZfHSWKUizdW31ddTQGNY6Lym3B/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

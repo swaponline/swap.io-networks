@@ -1,0 +1,11 @@
+{
+  "name": "Dominican Pesos",
+  "address": "4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf",
+  "symbol": "oDOP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/oDOP--4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

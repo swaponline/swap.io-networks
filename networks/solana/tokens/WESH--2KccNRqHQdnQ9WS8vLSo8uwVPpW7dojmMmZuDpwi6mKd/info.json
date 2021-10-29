@@ -1,0 +1,11 @@
+{
+  "name": "WeShare",
+  "address": "2KccNRqHQdnQ9WS8vLSo8uwVPpW7dojmMmZuDpwi6mKd",
+  "symbol": "WESH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WESH--2KccNRqHQdnQ9WS8vLSo8uwVPpW7dojmMmZuDpwi6mKd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

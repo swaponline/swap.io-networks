@@ -1,0 +1,11 @@
+{
+  "name": "IDRS",
+  "address": "BWe1ReuW5KjaUMZTdq3yPxUAkoBbvm6kaFG4cCvapX9p",
+  "symbol": "IDRS",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/IDRS--BWe1ReuW5KjaUMZTdq3yPxUAkoBbvm6kaFG4cCvapX9p/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

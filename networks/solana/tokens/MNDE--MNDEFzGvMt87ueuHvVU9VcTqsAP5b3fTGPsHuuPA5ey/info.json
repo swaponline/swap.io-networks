@@ -1,0 +1,11 @@
+{
+  "name": "Marinade",
+  "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+  "symbol": "MNDE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MNDE--MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

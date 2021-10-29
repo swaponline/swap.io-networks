@@ -1,0 +1,11 @@
+{
+  "name": "Andrew Jackson Coin",
+  "address": "99M5AUeqcfiaY6gc5SCbCSToygpRV98PuGBJRiUzNTJ2",
+  "symbol": "ADJ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ADJ--99M5AUeqcfiaY6gc5SCbCSToygpRV98PuGBJRiUzNTJ2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BullDog",
+  "address": "CE6gowswLbhy5y9G2EDfvYSavAcdSaqX3wMta5gySG1H",
+  "symbol": "BullDog",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

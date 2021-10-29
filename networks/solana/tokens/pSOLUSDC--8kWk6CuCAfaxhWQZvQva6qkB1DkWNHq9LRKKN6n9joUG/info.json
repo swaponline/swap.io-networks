@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (pSOL/USDC)",
+  "address": "8kWk6CuCAfaxhWQZvQva6qkB1DkWNHq9LRKKN6n9joUG",
+  "symbol": "pSOLUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/pSOLUSDC--8kWk6CuCAfaxhWQZvQva6qkB1DkWNHq9LRKKN6n9joUG/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

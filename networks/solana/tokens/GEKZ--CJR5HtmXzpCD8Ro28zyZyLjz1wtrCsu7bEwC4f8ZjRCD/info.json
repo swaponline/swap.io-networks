@@ -1,0 +1,11 @@
+{
+  "name": "Gekz Arena",
+  "address": "CJR5HtmXzpCD8Ro28zyZyLjz1wtrCsu7bEwC4f8ZjRCD",
+  "symbol": "GEKZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GEKZ--CJR5HtmXzpCD8Ro28zyZyLjz1wtrCsu7bEwC4f8ZjRCD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

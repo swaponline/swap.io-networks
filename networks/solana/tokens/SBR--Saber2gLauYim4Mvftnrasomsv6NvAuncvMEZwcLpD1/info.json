@@ -1,0 +1,11 @@
+{
+  "name": "Saber Protocol Token",
+  "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+  "symbol": "SBR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SBR--Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

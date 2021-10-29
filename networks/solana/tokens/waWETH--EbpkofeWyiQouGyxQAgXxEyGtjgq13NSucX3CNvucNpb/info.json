@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing WETH (Wormhole)",
+  "address": "EbpkofeWyiQouGyxQAgXxEyGtjgq13NSucX3CNvucNpb",
+  "symbol": "waWETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waWETH--EbpkofeWyiQouGyxQAgXxEyGtjgq13NSucX3CNvucNpb/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

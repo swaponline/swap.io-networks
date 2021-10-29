@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (COPE-USDC)",
+  "address": "2Vyyeuyd15Gp8aH6uKE72c4hxc8TVSLibxDP9vzspQWG",
+  "symbol": "COPE-USDC",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COPE-USDC--2Vyyeuyd15Gp8aH6uKE72c4hxc8TVSLibxDP9vzspQWG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

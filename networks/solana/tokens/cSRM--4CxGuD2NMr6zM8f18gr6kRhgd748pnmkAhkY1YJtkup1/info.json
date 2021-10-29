@@ -1,0 +1,11 @@
+{
+  "name": "Solend SRM",
+  "address": "4CxGuD2NMr6zM8f18gr6kRhgd748pnmkAhkY1YJtkup1",
+  "symbol": "cSRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cSRM--4CxGuD2NMr6zM8f18gr6kRhgd748pnmkAhkY1YJtkup1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fairy Finance",
+  "address": "7ApYvMWwHJSgWz9BvMuNzqzUAqYbxByjzZu31t8FkYDy",
+  "symbol": "SFairy",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SFairy--7ApYvMWwHJSgWz9BvMuNzqzUAqYbxByjzZu31t8FkYDy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

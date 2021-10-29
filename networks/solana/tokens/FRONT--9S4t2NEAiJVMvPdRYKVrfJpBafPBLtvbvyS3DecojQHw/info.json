@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped FRONT (Sollet)",
+  "address": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw",
+  "symbol": "FRONT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FRONT--9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

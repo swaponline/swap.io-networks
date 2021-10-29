@@ -1,0 +1,11 @@
+{
+  "name": "CSH Token",
+  "address": "3ewm17jCxn8EkEpar45mnY6qk7wc93uPg5D41KMeHZhf",
+  "symbol": "CSH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CSH--3ewm17jCxn8EkEpar45mnY6qk7wc93uPg5D41KMeHZhf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

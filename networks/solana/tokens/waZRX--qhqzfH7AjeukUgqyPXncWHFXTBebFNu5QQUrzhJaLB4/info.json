@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing ZRX (Wormhole)",
+  "address": "qhqzfH7AjeukUgqyPXncWHFXTBebFNu5QQUrzhJaLB4",
+  "symbol": "waZRX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waZRX--qhqzfH7AjeukUgqyPXncWHFXTBebFNu5QQUrzhJaLB4/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

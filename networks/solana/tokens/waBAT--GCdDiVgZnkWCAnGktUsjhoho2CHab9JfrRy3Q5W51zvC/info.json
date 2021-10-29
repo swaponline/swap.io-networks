@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing BAT (Wormhole)",
+  "address": "GCdDiVgZnkWCAnGktUsjhoho2CHab9JfrRy3Q5W51zvC",
+  "symbol": "waBAT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waBAT--GCdDiVgZnkWCAnGktUsjhoho2CHab9JfrRy3Q5W51zvC/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

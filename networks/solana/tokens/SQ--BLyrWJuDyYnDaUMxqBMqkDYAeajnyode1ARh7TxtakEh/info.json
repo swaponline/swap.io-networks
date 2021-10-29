@@ -1,0 +1,11 @@
+{
+  "name": "Square",
+  "address": "BLyrWJuDyYnDaUMxqBMqkDYAeajnyode1ARh7TxtakEh",
+  "symbol": "SQ",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SQ--BLyrWJuDyYnDaUMxqBMqkDYAeajnyode1ARh7TxtakEh/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

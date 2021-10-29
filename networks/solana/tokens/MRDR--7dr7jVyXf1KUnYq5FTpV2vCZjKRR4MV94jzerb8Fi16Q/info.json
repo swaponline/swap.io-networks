@@ -1,0 +1,11 @@
+{
+  "name": "The Assassination of Paizul",
+  "address": "7dr7jVyXf1KUnYq5FTpV2vCZjKRR4MV94jzerb8Fi16Q",
+  "symbol": "MRDR",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MRDR--7dr7jVyXf1KUnYq5FTpV2vCZjKRR4MV94jzerb8Fi16Q/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

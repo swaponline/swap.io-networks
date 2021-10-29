@@ -1,0 +1,11 @@
+{
+  "name": "Fyooz (Wormhole)",
+  "address": "6Tmi8TZasqdxWB59uE5Zw9VLKecuCbsLSsPEqoMpmozA",
+  "symbol": "wFYZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wFYZ--6Tmi8TZasqdxWB59uE5Zw9VLKecuCbsLSsPEqoMpmozA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

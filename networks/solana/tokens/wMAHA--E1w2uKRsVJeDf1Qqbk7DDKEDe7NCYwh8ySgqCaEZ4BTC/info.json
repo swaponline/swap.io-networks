@@ -1,0 +1,11 @@
+{
+  "name": "MahaDAO (Wormhole)",
+  "address": "E1w2uKRsVJeDf1Qqbk7DDKEDe7NCYwh8ySgqCaEZ4BTC",
+  "symbol": "wMAHA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMAHA--E1w2uKRsVJeDf1Qqbk7DDKEDe7NCYwh8ySgqCaEZ4BTC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

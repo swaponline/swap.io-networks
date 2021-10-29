@@ -1,0 +1,11 @@
+{
+  "name": "IBlive",
+  "address": "5TY71D29Cyuk9UrsSxLXw2quJBpS7xDDFuFu2K9W7Wf9",
+  "symbol": "IBVOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dexlab",
+  "address": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
+  "symbol": "DXL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DXL--GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

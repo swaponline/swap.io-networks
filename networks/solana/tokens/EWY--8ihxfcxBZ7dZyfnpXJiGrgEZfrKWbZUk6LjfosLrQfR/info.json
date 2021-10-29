@@ -1,0 +1,11 @@
+{
+  "name": "iShares MSCI South Korea ETF",
+  "address": "8ihxfcxBZ7dZyfnpXJiGrgEZfrKWbZUk6LjfosLrQfR",
+  "symbol": "EWY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EWY--8ihxfcxBZ7dZyfnpXJiGrgEZfrKWbZUk6LjfosLrQfR/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

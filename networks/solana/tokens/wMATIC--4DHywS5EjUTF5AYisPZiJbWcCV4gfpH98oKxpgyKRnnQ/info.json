@@ -1,0 +1,11 @@
+{
+  "name": "Matic Token (Wormhole)",
+  "address": "4DHywS5EjUTF5AYisPZiJbWcCV4gfpH98oKxpgyKRnnQ",
+  "symbol": "wMATIC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMATIC--4DHywS5EjUTF5AYisPZiJbWcCV4gfpH98oKxpgyKRnnQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (WAG/USDC[aquafarm])",
+  "address": "8Wu5sJpERA1J5iWcT8aMpt9cTAfKDLPbLpGjNsJoPgLc",
+  "symbol": "WAGUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WAGUSDC--8Wu5sJpERA1J5iWcT8aMpt9cTAfKDLPbLpGjNsJoPgLc/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

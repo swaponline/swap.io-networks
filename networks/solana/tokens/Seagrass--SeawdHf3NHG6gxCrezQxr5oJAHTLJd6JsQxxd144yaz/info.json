@@ -1,0 +1,11 @@
+{
+  "name": "Scallop Seagrass Decorations",
+  "address": "SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz",
+  "symbol": "Seagrass",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Seagrass--SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

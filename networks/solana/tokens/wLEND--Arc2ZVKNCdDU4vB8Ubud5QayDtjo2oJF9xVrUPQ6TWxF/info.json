@@ -1,0 +1,11 @@
+{
+  "name": "Lend (Wormhole)",
+  "address": "Arc2ZVKNCdDU4vB8Ubud5QayDtjo2oJF9xVrUPQ6TWxF",
+  "symbol": "wLEND",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLEND--Arc2ZVKNCdDU4vB8Ubud5QayDtjo2oJF9xVrUPQ6TWxF/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

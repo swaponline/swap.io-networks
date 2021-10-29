@@ -1,0 +1,11 @@
+{
+  "name": "WOOFENOMICS",
+  "address": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE",
+  "symbol": "WOOF",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WOOF--9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

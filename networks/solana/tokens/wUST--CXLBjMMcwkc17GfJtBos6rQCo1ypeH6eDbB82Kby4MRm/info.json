@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped UST (Wormhole)",
+  "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+  "symbol": "wUST",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUST--CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

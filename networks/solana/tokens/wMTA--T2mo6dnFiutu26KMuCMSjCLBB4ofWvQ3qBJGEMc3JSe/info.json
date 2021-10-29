@@ -1,0 +1,11 @@
+{
+  "name": "Meta (Wormhole)",
+  "address": "T2mo6dnFiutu26KMuCMSjCLBB4ofWvQ3qBJGEMc3JSe",
+  "symbol": "wMTA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMTA--T2mo6dnFiutu26KMuCMSjCLBB4ofWvQ3qBJGEMc3JSe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

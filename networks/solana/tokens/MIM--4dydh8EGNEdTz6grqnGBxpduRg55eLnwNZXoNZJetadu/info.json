@@ -1,0 +1,11 @@
+{
+  "name": "MIM",
+  "address": "4dydh8EGNEdTz6grqnGBxpduRg55eLnwNZXoNZJetadu",
+  "symbol": "MIM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MIM--4dydh8EGNEdTz6grqnGBxpduRg55eLnwNZXoNZJetadu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

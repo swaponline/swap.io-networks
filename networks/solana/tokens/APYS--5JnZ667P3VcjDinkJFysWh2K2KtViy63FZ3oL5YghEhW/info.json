@@ -1,0 +1,11 @@
+{
+  "name": "APYSwap",
+  "address": "5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW",
+  "symbol": "APYS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/APYS--5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

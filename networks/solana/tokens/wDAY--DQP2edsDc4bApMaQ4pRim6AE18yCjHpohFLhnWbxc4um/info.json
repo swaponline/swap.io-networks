@@ -1,0 +1,11 @@
+{
+  "name": "ChronoLogic DAY (Wormhole)",
+  "address": "DQP2edsDc4bApMaQ4pRim6AE18yCjHpohFLhnWbxc4um",
+  "symbol": "wDAY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDAY--DQP2edsDc4bApMaQ4pRim6AE18yCjHpohFLhnWbxc4um/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

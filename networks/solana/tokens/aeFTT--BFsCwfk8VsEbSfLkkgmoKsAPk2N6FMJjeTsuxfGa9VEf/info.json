@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped FTT (Allbridge from Ethereum)",
+  "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+  "symbol": "aeFTT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aeFTT--BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

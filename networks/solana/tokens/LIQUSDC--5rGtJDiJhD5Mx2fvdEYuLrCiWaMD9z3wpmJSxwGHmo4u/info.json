@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (LIQ/USDC[aquafarm])",
+  "address": "5rGtJDiJhD5Mx2fvdEYuLrCiWaMD9z3wpmJSxwGHmo4u",
+  "symbol": "LIQUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIQUSDC--5rGtJDiJhD5Mx2fvdEYuLrCiWaMD9z3wpmJSxwGHmo4u/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

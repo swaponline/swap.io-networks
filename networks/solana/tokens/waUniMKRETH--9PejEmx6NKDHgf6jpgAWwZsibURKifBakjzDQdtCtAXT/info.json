@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing UniMKRETH (Wormhole)",
+  "address": "9PejEmx6NKDHgf6jpgAWwZsibURKifBakjzDQdtCtAXT",
+  "symbol": "waUniMKRETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUniMKRETH--9PejEmx6NKDHgf6jpgAWwZsibURKifBakjzDQdtCtAXT/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

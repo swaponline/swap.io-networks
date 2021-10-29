@@ -1,0 +1,11 @@
+{
+  "name": "SolPepper",
+  "address": "3k6zY8YUQsVPiXHh8Ncfw9BgMBcQzKq2B5TJfmSDbMZr",
+  "symbol": "PEP",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PEP--3k6zY8YUQsVPiXHh8Ncfw9BgMBcQzKq2B5TJfmSDbMZr/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

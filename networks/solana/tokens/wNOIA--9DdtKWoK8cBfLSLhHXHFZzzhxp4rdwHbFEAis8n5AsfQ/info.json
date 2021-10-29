@@ -1,0 +1,11 @@
+{
+  "name": "NOIA Token (Wormhole)",
+  "address": "9DdtKWoK8cBfLSLhHXHFZzzhxp4rdwHbFEAis8n5AsfQ",
+  "symbol": "wNOIA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wNOIA--9DdtKWoK8cBfLSLhHXHFZzzhxp4rdwHbFEAis8n5AsfQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

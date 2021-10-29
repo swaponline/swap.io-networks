@@ -1,0 +1,11 @@
+{
+  "name": "Stake DAO Token (Wormhole)",
+  "address": "D3ajQoyBGJz3JCXCPsxHZJbLQKGt9UgxLavgurieGNcD",
+  "symbol": "wSDT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSDT--D3ajQoyBGJz3JCXCPsxHZJbLQKGt9UgxLavgurieGNcD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

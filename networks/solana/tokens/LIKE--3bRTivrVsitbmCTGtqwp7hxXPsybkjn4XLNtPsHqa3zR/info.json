@@ -1,0 +1,11 @@
+{
+  "name": "Only1 (LIKE)",
+  "address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
+  "symbol": "LIKE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIKE--3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

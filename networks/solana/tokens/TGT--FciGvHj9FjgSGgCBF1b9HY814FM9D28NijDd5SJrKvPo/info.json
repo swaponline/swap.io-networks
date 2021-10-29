@@ -1,0 +1,11 @@
+{
+  "name": "Twirl Governance Token",
+  "address": "FciGvHj9FjgSGgCBF1b9HY814FM9D28NijDd5SJrKvPo",
+  "symbol": "TGT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TGT--FciGvHj9FjgSGgCBF1b9HY814FM9D28NijDd5SJrKvPo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

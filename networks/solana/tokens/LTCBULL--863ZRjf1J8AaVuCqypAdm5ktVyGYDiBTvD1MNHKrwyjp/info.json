@@ -1,0 +1,11 @@
+{
+  "name": "LTCBULL",
+  "address": "863ZRjf1J8AaVuCqypAdm5ktVyGYDiBTvD1MNHKrwyjp",
+  "symbol": "LTCBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

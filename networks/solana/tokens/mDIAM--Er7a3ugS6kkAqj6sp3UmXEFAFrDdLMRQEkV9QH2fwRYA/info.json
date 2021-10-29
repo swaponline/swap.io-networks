@@ -1,0 +1,11 @@
+{
+  "name": "SolMiner Diamond",
+  "address": "Er7a3ugS6kkAqj6sp3UmXEFAFrDdLMRQEkV9QH2fwRYA",
+  "symbol": "mDIAM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mDIAM--Er7a3ugS6kkAqj6sp3UmXEFAFrDdLMRQEkV9QH2fwRYA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

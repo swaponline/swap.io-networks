@@ -1,0 +1,11 @@
+{
+  "name": "Tosti Coin",
+  "address": "BYvGwtPx6Nw4YUVVwqx7qh657EcdxBSfE8JcaPmWWa6E",
+  "symbol": "TOSTI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TOSTI--BYvGwtPx6Nw4YUVVwqx7qh657EcdxBSfE8JcaPmWWa6E/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

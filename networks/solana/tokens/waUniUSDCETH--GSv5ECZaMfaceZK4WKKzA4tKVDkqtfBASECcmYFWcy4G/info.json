@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing UniUSDCETH (Wormhole)",
+  "address": "GSv5ECZaMfaceZK4WKKzA4tKVDkqtfBASECcmYFWcy4G",
+  "symbol": "waUniUSDCETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUniUSDCETH--GSv5ECZaMfaceZK4WKKzA4tKVDkqtfBASECcmYFWcy4G/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

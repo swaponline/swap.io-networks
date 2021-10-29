@@ -1,0 +1,11 @@
+{
+  "name": "Bridge Mutual (Wormhole)",
+  "address": "J6AbGG62yo9UJ2T9r9GM7pnoRNui5DsZDnPbiNAPqbVd",
+  "symbol": "wBMI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBMI--J6AbGG62yo9UJ2T9r9GM7pnoRNui5DsZDnPbiNAPqbVd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

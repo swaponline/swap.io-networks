@@ -1,0 +1,11 @@
+{
+  "name": "DODG the Elephant Shrew",
+  "address": "FaYTnfmPK8uP4dvtECypG3ugCC3wQrG27pwkB1YkhXsG",
+  "symbol": "DODG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DODG--FaYTnfmPK8uP4dvtECypG3ugCC3wQrG27pwkB1YkhXsG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solbank",
+  "address": "uNrix3Q5g51MCEUrYBUEBDdQ96RQDQspQJJnnQ4T3Vc",
+  "symbol": "SBNK",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SBNK--uNrix3Q5g51MCEUrYBUEBDdQ96RQDQspQJJnnQ4T3Vc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

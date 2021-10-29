@@ -1,0 +1,11 @@
+{
+  "name": "Tombili",
+  "address": "J81fW7aza8wVUG1jjzhExsNMs3MrzwT5WrofgFqMjnSA",
+  "symbol": "TOM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TOM--J81fW7aza8wVUG1jjzhExsNMs3MrzwT5WrofgFqMjnSA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

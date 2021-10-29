@@ -1,0 +1,11 @@
+{
+  "name": "renFIL",
+  "address": "De2bU64vsXKU9jq4bCjeDxNRGPn8nr3euaTK8jBYmD3J",
+  "symbol": "renFIL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renFIL--De2bU64vsXKU9jq4bCjeDxNRGPn8nr3euaTK8jBYmD3J/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Future",
+  "address": "HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s",
+  "symbol": "FTR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FTR--HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

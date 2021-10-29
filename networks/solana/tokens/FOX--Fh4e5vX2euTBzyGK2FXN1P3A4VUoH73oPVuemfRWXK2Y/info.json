@@ -1,0 +1,11 @@
+{
+  "name": "ShapeShift FOX Token (Wormhole)",
+  "address": "Fh4e5vX2euTBzyGK2FXN1P3A4VUoH73oPVuemfRWXK2Y",
+  "symbol": "FOX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FOX--Fh4e5vX2euTBzyGK2FXN1P3A4VUoH73oPVuemfRWXK2Y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

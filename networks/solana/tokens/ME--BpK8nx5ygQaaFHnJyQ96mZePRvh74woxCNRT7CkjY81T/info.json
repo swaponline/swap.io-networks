@@ -1,0 +1,11 @@
+{
+  "name": "ME, Tokenized",
+  "address": "BpK8nx5ygQaaFHnJyQ96mZePRvh74woxCNRT7CkjY81T",
+  "symbol": "ME",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ME--BpK8nx5ygQaaFHnJyQ96mZePRvh74woxCNRT7CkjY81T/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

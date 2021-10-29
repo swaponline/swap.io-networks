@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped USDC (Allbridge from Ethereum)",
+  "address": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
+  "symbol": "aeUSDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aeUSDC--DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

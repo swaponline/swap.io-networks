@@ -1,0 +1,11 @@
+{
+  "name": "Armor (Wormhole)",
+  "address": "H3UMboX4tnjba1Xw1a2VhUtkdgnrbmPvmDm6jaouQDN9",
+  "symbol": "wARMOR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wARMOR--H3UMboX4tnjba1Xw1a2VhUtkdgnrbmPvmDm6jaouQDN9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

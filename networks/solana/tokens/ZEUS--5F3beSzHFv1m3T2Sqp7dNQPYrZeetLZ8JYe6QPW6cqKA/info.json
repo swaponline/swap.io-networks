@@ -1,0 +1,11 @@
+{
+  "name": "ZEUS",
+  "address": "5F3beSzHFv1m3T2Sqp7dNQPYrZeetLZ8JYe6QPW6cqKA",
+  "symbol": "ZEUS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZEUS--5F3beSzHFv1m3T2Sqp7dNQPYrZeetLZ8JYe6QPW6cqKA/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

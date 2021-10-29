@@ -1,0 +1,11 @@
+{
+  "name": "MakerDAO (Wormhole)",
+  "address": "GBvv3jn9u6pZqPd2GVnQ7BKJzLwQnEWe4ci9k359PN9Z",
+  "symbol": "wMKR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMKR--GBvv3jn9u6pZqPd2GVnQ7BKJzLwQnEWe4ci9k359PN9Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

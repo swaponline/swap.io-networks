@@ -1,0 +1,11 @@
+{
+  "name": "Tilray Inc",
+  "address": "LZufgu7ekMcWBUypPMBYia2ipnFzpxpZgRBFLhYswgR",
+  "symbol": "TLRY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TLRY--LZufgu7ekMcWBUypPMBYia2ipnFzpxpZgRBFLhYswgR/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

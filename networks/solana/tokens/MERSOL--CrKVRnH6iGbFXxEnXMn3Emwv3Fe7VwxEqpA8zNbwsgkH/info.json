@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (MER/SOL)",
+  "address": "CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH",
+  "symbol": "MERSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MERSOL--CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

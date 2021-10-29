@@ -1,0 +1,11 @@
+{
+  "name": "Energy Web Token Bridged (Wormhole)",
+  "address": "5uC8Gj96sK6UG44AYLpbX3DUjKtBUxBrhHcM8JDtyYum",
+  "symbol": "wEWTB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wEWTB--5uC8Gj96sK6UG44AYLpbX3DUjKtBUxBrhHcM8JDtyYum/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

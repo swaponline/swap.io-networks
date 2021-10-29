@@ -1,0 +1,11 @@
+{
+  "name": "NFT Champions",
+  "address": "0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f",
+  "symbol": "CHAMP",
+  "decimals": 8,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/CHAMP--0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f/logo.jpg",
+  "tags": [
+    "erc20matic"
+  ]
+}

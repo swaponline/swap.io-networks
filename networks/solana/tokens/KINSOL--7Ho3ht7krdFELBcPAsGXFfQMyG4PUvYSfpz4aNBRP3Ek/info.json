@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (KIN/SOL)",
+  "address": "7Ho3ht7krdFELBcPAsGXFfQMyG4PUvYSfpz4aNBRP3Ek",
+  "symbol": "KINSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KINSOL--7Ho3ht7krdFELBcPAsGXFfQMyG4PUvYSfpz4aNBRP3Ek/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ToardoLandia",
+  "address": "HzKX1FMvGaymSHxkwn9uvvSG4L3Ba9nvzMaGAdrPqXRQ",
+  "symbol": "TRD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TRD--HzKX1FMvGaymSHxkwn9uvvSG4L3Ba9nvzMaGAdrPqXRQ/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Intel Corp",
+  "address": "6CuCUCYovcLxwaKuxWm8uTquVKGWaAydcFEU3NrtvxGZ",
+  "symbol": "INTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/INTC--6CuCUCYovcLxwaKuxWm8uTquVKGWaAydcFEU3NrtvxGZ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

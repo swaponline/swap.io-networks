@@ -1,0 +1,11 @@
+{
+  "name": "SolYard Finance",
+  "address": "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz",
+  "symbol": "YARD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YARD--8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

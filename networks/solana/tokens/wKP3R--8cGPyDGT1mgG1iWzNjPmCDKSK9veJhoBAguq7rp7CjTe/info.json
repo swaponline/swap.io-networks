@@ -1,0 +1,11 @@
+{
+  "name": "Keep3rV1 (Wormhole)",
+  "address": "8cGPyDGT1mgG1iWzNjPmCDKSK9veJhoBAguq7rp7CjTe",
+  "symbol": "wKP3R",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wKP3R--8cGPyDGT1mgG1iWzNjPmCDKSK9veJhoBAguq7rp7CjTe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

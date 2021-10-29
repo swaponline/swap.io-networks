@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SAMO-RAY)",
+  "address": "HwzkXyX8B45LsaHXwY8su92NoRBS5GQC32HzjQRDqPnr",
+  "symbol": "SAMO-RAY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

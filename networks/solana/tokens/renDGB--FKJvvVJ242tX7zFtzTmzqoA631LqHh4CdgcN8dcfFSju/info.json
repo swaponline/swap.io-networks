@@ -1,0 +1,11 @@
+{
+  "name": "renDGB",
+  "address": "FKJvvVJ242tX7zFtzTmzqoA631LqHh4CdgcN8dcfFSju",
+  "symbol": "renDGB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renDGB--FKJvvVJ242tX7zFtzTmzqoA631LqHh4CdgcN8dcfFSju/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Jet Protocol",
+  "address": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
+  "symbol": "JET",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JET--JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

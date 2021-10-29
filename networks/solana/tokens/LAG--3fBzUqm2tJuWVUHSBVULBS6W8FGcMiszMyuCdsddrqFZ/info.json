@@ -1,0 +1,11 @@
+{
+  "name": "Lagrange",
+  "address": "3fBzUqm2tJuWVUHSBVULBS6W8FGcMiszMyuCdsddrqFZ",
+  "symbol": "LAG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LAG--3fBzUqm2tJuWVUHSBVULBS6W8FGcMiszMyuCdsddrqFZ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

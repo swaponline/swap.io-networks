@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SRM-SOL)",
+  "address": "AKJHspCwDhABucCxNLXUSfEzb7Ny62RqFtC9uNjJi4fq",
+  "symbol": "SRM-SOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SRM-SOL--AKJHspCwDhABucCxNLXUSfEzb7Ny62RqFtC9uNjJi4fq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

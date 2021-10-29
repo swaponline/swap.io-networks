@@ -1,0 +1,11 @@
+{
+  "name": "SolanaToolsUtilityDapp",
+  "address": "4ezHExHThrwnnoqKcMNbUwcVYXzdkDerHFGfegnTqA2E",
+  "symbol": "STUD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STUD--4ezHExHThrwnnoqKcMNbUwcVYXzdkDerHFGfegnTqA2E/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orion Protocol (Wormhole)",
+  "address": "VPjCJkR1uZGT9k9q7PsLArS5sEQtWgij8eZC8tysCy7",
+  "symbol": "wORN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wORN--VPjCJkR1uZGT9k9q7PsLArS5sEQtWgij8eZC8tysCy7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "WGMI NFT Collector's Club",
+  "address": "1YDQ35V8g68FGvcT85haHwAXv1U7XMzuc4mZeEXfrjE",
+  "symbol": "WGMI",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WGMI--1YDQ35V8g68FGvcT85haHwAXv1U7XMzuc4mZeEXfrjE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

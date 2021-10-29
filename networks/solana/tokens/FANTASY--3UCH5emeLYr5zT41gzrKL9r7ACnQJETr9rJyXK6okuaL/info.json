@@ -1,0 +1,11 @@
+{
+  "name": "SolFantasy",
+  "address": "3UCH5emeLYr5zT41gzrKL9r7ACnQJETr9rJyXK6okuaL",
+  "symbol": "FANTASY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FANTASY--3UCH5emeLYr5zT41gzrKL9r7ACnQJETr9rJyXK6okuaL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

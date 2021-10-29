@@ -1,0 +1,11 @@
+{
+  "name": "Serum",
+  "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+  "symbol": "SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SRM--SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

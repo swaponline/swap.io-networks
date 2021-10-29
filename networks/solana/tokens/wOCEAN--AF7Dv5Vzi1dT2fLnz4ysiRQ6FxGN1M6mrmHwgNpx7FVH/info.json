@@ -1,0 +1,11 @@
+{
+  "name": "Ocean Protocol (Wormhole)",
+  "address": "AF7Dv5Vzi1dT2fLnz4ysiRQ6FxGN1M6mrmHwgNpx7FVH",
+  "symbol": "wOCEAN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wOCEAN--AF7Dv5Vzi1dT2fLnz4ysiRQ6FxGN1M6mrmHwgNpx7FVH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

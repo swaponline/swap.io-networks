@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (mSOL/SOL[stable][aquafarm])",
+  "address": "576ABEdvLG1iFU3bLC8AMJ3mo5LhfgPPhMtTeVAGG6u7",
+  "symbol": "mSOLSOLstable",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mSOLSOLstable--576ABEdvLG1iFU3bLC8AMJ3mo5LhfgPPhMtTeVAGG6u7/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

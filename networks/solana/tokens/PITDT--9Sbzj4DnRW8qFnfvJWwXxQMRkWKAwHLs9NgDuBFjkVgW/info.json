@@ -1,0 +1,11 @@
+{
+  "name": "Picasso Token Div Test",
+  "address": "9Sbzj4DnRW8qFnfvJWwXxQMRkWKAwHLs9NgDuBFjkVgW",
+  "symbol": "PITDT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BLOCITIES",
+  "address": "4796pBun8ihiecy4unZuLWoSVRmK8sf7yQMbwkkvZDH3",
+  "symbol": "BLOK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BLOK--4796pBun8ihiecy4unZuLWoSVRmK8sf7yQMbwkkvZDH3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

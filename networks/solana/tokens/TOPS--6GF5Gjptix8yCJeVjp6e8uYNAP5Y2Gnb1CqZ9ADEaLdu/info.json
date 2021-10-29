@@ -1,0 +1,11 @@
+{
+  "name": "TOPSOL",
+  "address": "6GF5Gjptix8yCJeVjp6e8uYNAP5Y2Gnb1CqZ9ADEaLdu",
+  "symbol": "TOPS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TOPS--6GF5Gjptix8yCJeVjp6e8uYNAP5Y2Gnb1CqZ9ADEaLdu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

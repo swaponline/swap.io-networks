@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (LIQ-USDC)",
+  "address": "GWpD3eTfhJB5KDCcnE85dBQrjAk2CsrgDF9b52R9CrjV",
+  "symbol": "LIQ-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LIQ-USDC--GWpD3eTfhJB5KDCcnE85dBQrjAk2CsrgDF9b52R9CrjV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

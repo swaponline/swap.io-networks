@@ -1,0 +1,11 @@
+{
+  "name": "SolNerds",
+  "address": "HM9jjC8gThNDfFv3TRWqUdfJp5onWGDXhWirm5sUcFhj",
+  "symbol": "NERD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NERD--HM9jjC8gThNDfFv3TRWqUdfJp5onWGDXhWirm5sUcFhj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "AKIHIGE Token",
+  "address": "6dGR9kAt499jzsojDHCvDArKxpTarNbhdSkiS7jeMAib",
+  "symbol": "AKI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AKI--6dGR9kAt499jzsojDHCvDArKxpTarNbhdSkiS7jeMAib/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

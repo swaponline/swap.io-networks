@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (COPE/USDC[aquafarm])",
+  "address": "9SDpBrfqNxjXcCzpKWM6yUKdfky975VJBD6xcu5cKf5s",
+  "symbol": "COPEUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COPEUSDC--9SDpBrfqNxjXcCzpKWM6yUKdfky975VJBD6xcu5cKf5s/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

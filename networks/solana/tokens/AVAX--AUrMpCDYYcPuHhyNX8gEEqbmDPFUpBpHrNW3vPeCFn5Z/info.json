@@ -1,0 +1,11 @@
+{
+  "name": "AVAX (Allbridge from Avalanche)",
+  "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
+  "symbol": "AVAX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zSRM (ACUMEN)",
+  "address": "9hZt5mP139TvzDBZHtruXxAyjYHiovKXfxW6XNYiofae",
+  "symbol": "zSRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zSRM--9hZt5mP139TvzDBZHtruXxAyjYHiovKXfxW6XNYiofae/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

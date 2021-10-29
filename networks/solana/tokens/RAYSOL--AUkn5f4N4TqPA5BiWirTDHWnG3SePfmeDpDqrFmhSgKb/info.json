@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (RAY/SOL)",
+  "address": "AUkn5f4N4TqPA5BiWirTDHWnG3SePfmeDpDqrFmhSgKb",
+  "symbol": "RAYSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAYSOL--AUkn5f4N4TqPA5BiWirTDHWnG3SePfmeDpDqrFmhSgKb/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

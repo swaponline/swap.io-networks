@@ -1,0 +1,11 @@
+{
+  "name": "SAND (Wormhole)",
+  "address": "F6M9DW1cWw7EtFK9m2ukvT9WEvtEbdZfTzZTtDeBcnAf",
+  "symbol": "wSAND",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSAND--F6M9DW1cWw7EtFK9m2ukvT9WEvtEbdZfTzZTtDeBcnAf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

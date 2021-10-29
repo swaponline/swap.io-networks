@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped DAI (Allbridge from Ethereum)",
+  "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+  "symbol": "aeDAI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aeDAI--9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

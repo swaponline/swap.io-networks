@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SRM-USDT)",
+  "address": "HYSAu42BFejBS77jZAZdNAWa3iVcbSRJSzp3wtqCbWwv",
+  "symbol": "SRM-USDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SRM-USDT--HYSAu42BFejBS77jZAZdNAWa3iVcbSRJSzp3wtqCbWwv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

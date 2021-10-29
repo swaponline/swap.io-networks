@@ -1,0 +1,11 @@
+{
+  "name": "Alexey Kulikov Token",
+  "address": "AYb1hhPDFxGADUGKbCfe7qUvyHct3ucqvkmCS65y2HtA",
+  "symbol": "AKT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AKT--AYb1hhPDFxGADUGKbCfe7qUvyHct3ucqvkmCS65y2HtA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

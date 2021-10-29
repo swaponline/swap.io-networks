@@ -1,0 +1,11 @@
+{
+  "name": "Hxro (Wormhole)",
+  "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+  "symbol": "HXRO",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HXRO--HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

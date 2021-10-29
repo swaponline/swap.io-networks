@@ -1,0 +1,11 @@
+{
+  "name": "VISTA",
+  "address": "GyQK99iAgAoDvQBRAtFfw6j12gGncXbLHPacEENAVN1K",
+  "symbol": "VST",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VST--GyQK99iAgAoDvQBRAtFfw6j12gGncXbLHPacEENAVN1K/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SolCat",
+  "address": "7pFo8CrTJuQFxRaTJT7k2TEQFGMijcGjQpcc4hFcmco1",
+  "symbol": "CAT",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CAT--7pFo8CrTJuQFxRaTJT7k2TEQFGMijcGjQpcc4hFcmco1/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

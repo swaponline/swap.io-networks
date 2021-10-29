@@ -1,0 +1,11 @@
+{
+  "name": "Aurora Cannabis Inc",
+  "address": "FgcUo7Ymua8r5xxsn9puizkLGN5w4i3nnBmasXvkcWfJ",
+  "symbol": "ACB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ACB--FgcUo7Ymua8r5xxsn9puizkLGN5w4i3nnBmasXvkcWfJ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

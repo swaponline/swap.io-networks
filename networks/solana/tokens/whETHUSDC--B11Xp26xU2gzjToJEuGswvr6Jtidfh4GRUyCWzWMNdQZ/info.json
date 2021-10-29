@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (whETH/USDC[aquafarm])",
+  "address": "B11Xp26xU2gzjToJEuGswvr6Jtidfh4GRUyCWzWMNdQZ",
+  "symbol": "whETHUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/whETHUSDC--B11Xp26xU2gzjToJEuGswvr6Jtidfh4GRUyCWzWMNdQZ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

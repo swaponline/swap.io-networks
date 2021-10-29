@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Ethereum (Sollet)",
+  "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+  "symbol": "ETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETH--2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

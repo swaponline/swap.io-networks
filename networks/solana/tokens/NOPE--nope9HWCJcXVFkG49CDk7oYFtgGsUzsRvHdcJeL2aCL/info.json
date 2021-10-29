@@ -1,0 +1,11 @@
+{
+  "name": "NOPE FINANCE",
+  "address": "nope9HWCJcXVFkG49CDk7oYFtgGsUzsRvHdcJeL2aCL",
+  "symbol": "NOPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NOPE--nope9HWCJcXVFkG49CDk7oYFtgGsUzsRvHdcJeL2aCL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

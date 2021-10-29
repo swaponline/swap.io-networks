@@ -1,0 +1,11 @@
+{
+  "name": "Mercurial",
+  "address": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+  "symbol": "MER",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MER--MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

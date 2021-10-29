@@ -1,0 +1,11 @@
+{
+  "name": "Solameleon",
+  "address": "5pWsyiUEpKHvi86QmQPivfF1WND11DDwv7nS1wVMwsRf",
+  "symbol": "Meleon",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Meleon--5pWsyiUEpKHvi86QmQPivfF1WND11DDwv7nS1wVMwsRf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

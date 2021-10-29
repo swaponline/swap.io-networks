@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (SODA-USDC)",
+  "address": "HKLBSZbkfeB8LoaLLrK7CDepPHLWQEoj1jbunT1T2wYg",
+  "symbol": "SODA-USDC",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SODA-USDC--HKLBSZbkfeB8LoaLLrK7CDepPHLWQEoj1jbunT1T2wYg/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

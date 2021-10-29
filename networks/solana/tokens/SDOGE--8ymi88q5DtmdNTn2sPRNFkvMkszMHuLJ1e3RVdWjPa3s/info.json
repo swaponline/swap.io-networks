@@ -1,0 +1,11 @@
+{
+  "name": "SolDoge",
+  "address": "8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s",
+  "symbol": "SDOGE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SDOGE--8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solend SBR",
+  "address": "Bpm2aBL57uqVhgxutfRVrbtnjDpZLV8PZrRrytV1LgeT",
+  "symbol": "cSBR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cSBR--Bpm2aBL57uqVhgxutfRVrbtnjDpZLV8PZrRrytV1LgeT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

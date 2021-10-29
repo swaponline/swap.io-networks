@@ -1,0 +1,11 @@
+{
+  "name": "SBF Coin",
+  "address": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx",
+  "symbol": "SBFC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SBFC--AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

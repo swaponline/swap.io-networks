@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (FIDA/SOL)",
+  "address": "4geGcEfgVjzJGZAaT8iTicPm1XLDPjdSpVhtA99sZ7jX",
+  "symbol": "FIDASOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FIDASOL--4geGcEfgVjzJGZAaT8iTicPm1XLDPjdSpVhtA99sZ7jX/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tesla Inc.",
+  "address": "2inRoG4DuMRRzZxAt913CCdNZCu2eGsDD9kZTrsj2DAZ",
+  "symbol": "TSLA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TSLA--2inRoG4DuMRRzZxAt913CCdNZCu2eGsDD9kZTrsj2DAZ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

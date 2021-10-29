@@ -1,0 +1,11 @@
+{
+  "name": "Allbridge Staking",
+  "address": "xAx6d1sjmBvpWkVZQEqgUvPmGBNndEXPxYpr3QVp61H",
+  "symbol": "xABR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xABR--xAx6d1sjmBvpWkVZQEqgUvPmGBNndEXPxYpr3QVp61H/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

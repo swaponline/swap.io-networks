@@ -1,0 +1,11 @@
+{
+  "name": "Swanlana",
+  "address": "SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH",
+  "symbol": "SWAN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SWAN--SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

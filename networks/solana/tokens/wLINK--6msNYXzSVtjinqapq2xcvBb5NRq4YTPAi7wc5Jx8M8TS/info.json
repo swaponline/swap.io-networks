@@ -1,0 +1,11 @@
+{
+  "name": "ChainLink Token (Wormhole)",
+  "address": "6msNYXzSVtjinqapq2xcvBb5NRq4YTPAi7wc5Jx8M8TS",
+  "symbol": "wLINK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLINK--6msNYXzSVtjinqapq2xcvBb5NRq4YTPAi7wc5Jx8M8TS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

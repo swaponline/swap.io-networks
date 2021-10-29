@@ -1,0 +1,11 @@
+{
+  "name": "VesperToken (Wormhole)",
+  "address": "CZxP1KtsfvMXZTGKR1fNwNChv8hGAfQrgVoENabN8zKU",
+  "symbol": "wVSP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wVSP--CZxP1KtsfvMXZTGKR1fNwNChv8hGAfQrgVoENabN8zKU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

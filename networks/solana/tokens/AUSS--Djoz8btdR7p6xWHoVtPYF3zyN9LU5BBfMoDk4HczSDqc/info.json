@@ -1,0 +1,11 @@
+{
+  "name": "Ausshole",
+  "address": "Djoz8btdR7p6xWHoVtPYF3zyN9LU5BBfMoDk4HczSDqc",
+  "symbol": "AUSS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AUSS--Djoz8btdR7p6xWHoVtPYF3zyN9LU5BBfMoDk4HczSDqc/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

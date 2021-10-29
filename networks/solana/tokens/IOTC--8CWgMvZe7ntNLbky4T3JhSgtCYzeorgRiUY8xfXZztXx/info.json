@@ -1,0 +1,11 @@
+{
+  "name": "IoTcoin",
+  "address": "8CWgMvZe7ntNLbky4T3JhSgtCYzeorgRiUY8xfXZztXx",
+  "symbol": "IOTC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/IOTC--8CWgMvZe7ntNLbky4T3JhSgtCYzeorgRiUY8xfXZztXx/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

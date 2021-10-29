@@ -1,0 +1,11 @@
+{
+  "name": "Concentrated Voting Power (Wormhole)",
+  "address": "G27M8w6G4hwatMNFi46DPAUR1YkxSmRNFKus7SgYLoDy",
+  "symbol": "wCVP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCVP--G27M8w6G4hwatMNFi46DPAUR1YkxSmRNFKus7SgYLoDy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Degen Banana",
+  "address": "FmJ1fo7wK5FF6rDvQxow5Gj7A2ctLmR5orCKLZ45Q3Cq",
+  "symbol": "DGEN",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DGEN--FmJ1fo7wK5FF6rDvQxow5Gj7A2ctLmR5orCKLZ45Q3Cq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

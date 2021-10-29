@@ -1,0 +1,11 @@
+{
+  "name": "MillionSols",
+  "address": "6Wcs5FH471q1gqJHyRygm7DpNiHP1oYCKHX5zPEBD8ZZ",
+  "symbol": "MILS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

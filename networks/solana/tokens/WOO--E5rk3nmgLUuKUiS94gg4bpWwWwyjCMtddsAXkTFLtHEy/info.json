@@ -1,0 +1,11 @@
+{
+  "name": "Wootrade Network",
+  "address": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
+  "symbol": "WOO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WOO--E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

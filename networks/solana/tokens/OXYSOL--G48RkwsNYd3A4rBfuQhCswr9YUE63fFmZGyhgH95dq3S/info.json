@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (OXY/SOL)",
+  "address": "G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S",
+  "symbol": "OXYSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OXYSOL--G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

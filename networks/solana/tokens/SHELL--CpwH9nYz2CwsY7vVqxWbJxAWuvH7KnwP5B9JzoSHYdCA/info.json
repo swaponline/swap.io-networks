@@ -1,0 +1,11 @@
+{
+  "name": "Tribeland Game Token",
+  "address": "CpwH9nYz2CwsY7vVqxWbJxAWuvH7KnwP5B9JzoSHYdCA",
+  "symbol": "SHELL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHELL--CpwH9nYz2CwsY7vVqxWbJxAWuvH7KnwP5B9JzoSHYdCA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

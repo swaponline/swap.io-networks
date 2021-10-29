@@ -1,0 +1,11 @@
+{
+  "name": "Nexo (Wormhole)",
+  "address": "FrhQauNRm7ecom9FRprNcyz58agDe5ujAbAtA9NG6jtU",
+  "symbol": "wNEXO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wNEXO--FrhQauNRm7ecom9FRprNcyz58agDe5ujAbAtA9NG6jtU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

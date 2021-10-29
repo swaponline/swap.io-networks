@@ -1,0 +1,11 @@
+{
+  "name": "HottoShotto",
+  "address": "Bqd2ujCTEzpKzfjb1FHL7FKrdM6n1rZSnRecJK57EoKz",
+  "symbol": "HOTTO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HOTTO--Bqd2ujCTEzpKzfjb1FHL7FKrdM6n1rZSnRecJK57EoKz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lead Token (Wormhole)",
+  "address": "DGghbWvncPL41U8TmUtXcGMgLeQqkaA2yM7UfcabftR8",
+  "symbol": "wLEAD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLEAD--DGghbWvncPL41U8TmUtXcGMgLeQqkaA2yM7UfcabftR8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

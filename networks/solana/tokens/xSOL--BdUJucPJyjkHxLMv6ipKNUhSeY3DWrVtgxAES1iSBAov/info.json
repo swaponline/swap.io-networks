@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic SOL",
+  "address": "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
+  "symbol": "xSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xSOL--BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

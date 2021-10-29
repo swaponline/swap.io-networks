@@ -1,0 +1,11 @@
+{
+  "name": "Magic Square",
+  "address": "MSQTxnsq8t94gEqZ42a6mxuw11LBYWF4J5hy84GaECb",
+  "symbol": "MSQ",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MSQ--MSQTxnsq8t94gEqZ42a6mxuw11LBYWF4J5hy84GaECb/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

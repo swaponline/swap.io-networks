@@ -1,0 +1,11 @@
+{
+  "name": "Let'sroll DAO",
+  "address": "H2EJUxt2KSPk7BWGZRfLMqh56wCmWygDJVTvjTJFHeym",
+  "symbol": "ROLL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ROLL--H2EJUxt2KSPk7BWGZRfLMqh56wCmWygDJVTvjTJFHeym/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

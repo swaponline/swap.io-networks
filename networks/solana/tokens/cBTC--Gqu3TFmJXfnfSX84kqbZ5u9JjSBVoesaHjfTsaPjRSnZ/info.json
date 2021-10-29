@@ -1,0 +1,11 @@
+{
+  "name": "Solend BTC",
+  "address": "Gqu3TFmJXfnfSX84kqbZ5u9JjSBVoesaHjfTsaPjRSnZ",
+  "symbol": "cBTC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cBTC--Gqu3TFmJXfnfSX84kqbZ5u9JjSBVoesaHjfTsaPjRSnZ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

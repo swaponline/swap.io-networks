@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi BTC",
+  "address": "9rw5hyDngBQ3yDsCRHqgzGHERpU2zaLh1BXBUjree48J",
+  "symbol": "Satoshi BTC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

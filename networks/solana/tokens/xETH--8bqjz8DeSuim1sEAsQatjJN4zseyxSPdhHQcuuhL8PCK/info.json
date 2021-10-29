@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic ETH",
+  "address": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+  "symbol": "xETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xETH--8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}
