@@ -28,7 +28,7 @@ export const syncUniqExternalTokens = async () => {
         return console.error(`Token haven't some prop for add to tokens list: ${JSON.stringify(token, null, 2)}`)
       }
 
-      const tokenAddress = sanitizeAddress(address)
+      const tokenAddress = sanitizeAddress(address, chainId)
       const tokenSymbol = sanitizeSymbol(symbol)
 
       if (uniqExternalTokens[tokenAddress]) {

@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "ethereumjs-util": "^7.1.3",
     "jsondiffpatch": "^0.4.1"
   }
 }
