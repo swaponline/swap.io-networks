@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Navcoin",
+  "address": "HRBrRXGCrPro6TtryKQkLXuZqg3LdBMN9ZWx2v66pT4L",
+  "symbol": "WNAV",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WNAV--HRBrRXGCrPro6TtryKQkLXuZqg3LdBMN9ZWx2v66pT4L/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

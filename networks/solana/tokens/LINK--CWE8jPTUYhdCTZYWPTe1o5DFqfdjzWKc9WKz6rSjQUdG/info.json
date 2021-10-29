@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Chainlink (Sollet)",
+  "address": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
+  "symbol": "LINK",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LINK--CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

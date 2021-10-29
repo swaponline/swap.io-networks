@@ -1,0 +1,11 @@
+{
+  "name": "Soltomm F-token",
+  "address": "GiKE9s8TMYdkWE28CzPDSYn42RK4AHZSxg7cthg1ntcn",
+  "symbol": "SLTM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLTM--GiKE9s8TMYdkWE28CzPDSYn42RK4AHZSxg7cthg1ntcn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

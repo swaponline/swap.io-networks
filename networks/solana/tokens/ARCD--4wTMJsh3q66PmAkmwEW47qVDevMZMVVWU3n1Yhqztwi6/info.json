@@ -1,0 +1,11 @@
+{
+  "name": "Arcade Token (Wormhole)",
+  "address": "4wTMJsh3q66PmAkmwEW47qVDevMZMVVWU3n1Yhqztwi6",
+  "symbol": "ARCD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ARCD--4wTMJsh3q66PmAkmwEW47qVDevMZMVVWU3n1Yhqztwi6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

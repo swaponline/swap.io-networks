@@ -1,0 +1,11 @@
+{
+  "name": "Wolfecoin",
+  "address": "3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ",
+  "symbol": "WOLFE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WOLFE--3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SolGift",
+  "address": "HoSWnZ6MZzqFruS1uoU69bU7megzHUv6MFPQ5nqC6Pj2",
+  "symbol": "SGI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SGI--HoSWnZ6MZzqFruS1uoU69bU7megzHUv6MFPQ5nqC6Pj2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

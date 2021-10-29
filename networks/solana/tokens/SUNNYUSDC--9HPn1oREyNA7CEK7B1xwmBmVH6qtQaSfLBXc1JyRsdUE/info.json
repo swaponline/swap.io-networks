@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SUNNY/USDC[aquafarm])",
+  "address": "9HPn1oREyNA7CEK7B1xwmBmVH6qtQaSfLBXc1JyRsdUE",
+  "symbol": "SUNNYUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUNNYUSDC--9HPn1oREyNA7CEK7B1xwmBmVH6qtQaSfLBXc1JyRsdUE/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

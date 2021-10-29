@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing SUSD (Wormhole)",
+  "address": "2LForywWWpHzmR5NjSEyF1kcw9ffyLuJX7V7hne2fHfY",
+  "symbol": "waSUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waSUSD--2LForywWWpHzmR5NjSEyF1kcw9ffyLuJX7V7hne2fHfY/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

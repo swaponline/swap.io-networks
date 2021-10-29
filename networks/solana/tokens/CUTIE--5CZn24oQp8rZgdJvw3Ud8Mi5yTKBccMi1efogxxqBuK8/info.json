@@ -1,0 +1,11 @@
+{
+  "name": "Cutie Patootie",
+  "address": "5CZn24oQp8rZgdJvw3Ud8Mi5yTKBccMi1efogxxqBuK8",
+  "symbol": "CUTIE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CUTIE--5CZn24oQp8rZgdJvw3Ud8Mi5yTKBccMi1efogxxqBuK8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

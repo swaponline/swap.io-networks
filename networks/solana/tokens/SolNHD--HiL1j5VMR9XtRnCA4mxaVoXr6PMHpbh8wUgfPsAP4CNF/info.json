@@ -1,0 +1,11 @@
+{
+  "name": "SolNHD",
+  "address": "HiL1j5VMR9XtRnCA4mxaVoXr6PMHpbh8wUgfPsAP4CNF",
+  "symbol": "SolNHD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SolNHD--HiL1j5VMR9XtRnCA4mxaVoXr6PMHpbh8wUgfPsAP4CNF/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

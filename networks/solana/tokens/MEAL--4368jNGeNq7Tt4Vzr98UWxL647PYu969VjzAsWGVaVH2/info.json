@@ -1,0 +1,11 @@
+{
+  "name": "HUNGRY",
+  "address": "4368jNGeNq7Tt4Vzr98UWxL647PYu969VjzAsWGVaVH2",
+  "symbol": "MEAL",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MEAL--4368jNGeNq7Tt4Vzr98UWxL647PYu969VjzAsWGVaVH2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

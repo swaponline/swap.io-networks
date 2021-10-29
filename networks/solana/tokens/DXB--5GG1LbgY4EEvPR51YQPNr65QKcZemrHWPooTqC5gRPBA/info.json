@@ -1,0 +1,11 @@
+{
+  "name": "DefiXBet Token",
+  "address": "5GG1LbgY4EEvPR51YQPNr65QKcZemrHWPooTqC5gRPBA",
+  "symbol": "DXB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DXB--5GG1LbgY4EEvPR51YQPNr65QKcZemrHWPooTqC5gRPBA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bonfida Maps Pool",
+  "address": "Gnhy3boBT4MA8TTjGip5ND2uNsceh1Wgeaw1rYJo51ZY",
+  "symbol": "MAPSPOOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MAPSPOOL--Gnhy3boBT4MA8TTjGip5ND2uNsceh1Wgeaw1rYJo51ZY/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

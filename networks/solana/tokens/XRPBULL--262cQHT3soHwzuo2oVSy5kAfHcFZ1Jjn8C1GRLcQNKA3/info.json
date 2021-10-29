@@ -1,0 +1,11 @@
+{
+  "name": "XRPBULL",
+  "address": "262cQHT3soHwzuo2oVSy5kAfHcFZ1Jjn8C1GRLcQNKA3",
+  "symbol": "XRPBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BioNTech",
+  "address": "AykRYHVEERRoKGzfg2AMTqEFGmCGk9LNnGv2k5FgjKVB",
+  "symbol": "BNTX",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BNTX--AykRYHVEERRoKGzfg2AMTqEFGmCGk9LNnGv2k5FgjKVB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

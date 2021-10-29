@@ -1,0 +1,11 @@
+{
+  "name": "My Crypto City",
+  "address": "9yqPadcWQQ4BnuEbEZci1M5pTQYV8LX1HvckYwXoACdL",
+  "symbol": "MYCTY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MYCTY--9yqPadcWQQ4BnuEbEZci1M5pTQYV8LX1HvckYwXoACdL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

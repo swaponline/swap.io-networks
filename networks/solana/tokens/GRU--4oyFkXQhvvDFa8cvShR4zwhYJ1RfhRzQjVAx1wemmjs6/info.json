@@ -1,0 +1,11 @@
+{
+  "name": "GURU",
+  "address": "4oyFkXQhvvDFa8cvShR4zwhYJ1RfhRzQjVAx1wemmjs6",
+  "symbol": "GRU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GRU--4oyFkXQhvvDFa8cvShR4zwhYJ1RfhRzQjVAx1wemmjs6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

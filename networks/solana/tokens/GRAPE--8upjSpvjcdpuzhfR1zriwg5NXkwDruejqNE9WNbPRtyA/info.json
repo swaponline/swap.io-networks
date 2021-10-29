@@ -1,0 +1,11 @@
+{
+  "name": "Grape",
+  "address": "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
+  "symbol": "GRAPE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

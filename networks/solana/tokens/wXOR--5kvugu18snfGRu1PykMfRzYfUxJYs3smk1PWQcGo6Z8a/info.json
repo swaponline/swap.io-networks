@@ -1,0 +1,11 @@
+{
+  "name": "Sora (Wormhole)",
+  "address": "5kvugu18snfGRu1PykMfRzYfUxJYs3smk1PWQcGo6Z8a",
+  "symbol": "wXOR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wXOR--5kvugu18snfGRu1PykMfRzYfUxJYs3smk1PWQcGo6Z8a/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

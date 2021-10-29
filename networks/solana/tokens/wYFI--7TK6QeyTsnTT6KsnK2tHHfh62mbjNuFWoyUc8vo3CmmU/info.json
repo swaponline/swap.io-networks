@@ -1,0 +1,11 @@
+{
+  "name": "yearn.finance (Wormhole)",
+  "address": "7TK6QeyTsnTT6KsnK2tHHfh62mbjNuFWoyUc8vo3CmmU",
+  "symbol": "wYFI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wYFI--7TK6QeyTsnTT6KsnK2tHHfh62mbjNuFWoyUc8vo3CmmU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

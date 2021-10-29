@@ -1,0 +1,11 @@
+{
+  "name": "Scallop Fossil Decorations",
+  "address": "FossiLkXJZ1rePN8jWBqHDZZ3F7ET8p1dRGhYKHbQcZR",
+  "symbol": "Fossil",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Fossil--FossiLkXJZ1rePN8jWBqHDZZ3F7ET8p1dRGhYKHbQcZR/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

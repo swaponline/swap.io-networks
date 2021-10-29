@@ -1,0 +1,11 @@
+{
+  "name": "Klay Games",
+  "address": "EHrY9aueq55y7pWTcFJhCryNwJtAN14spL5UiG938RnV",
+  "symbol": "KLAYG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KLAYG--EHrY9aueq55y7pWTcFJhCryNwJtAN14spL5UiG938RnV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

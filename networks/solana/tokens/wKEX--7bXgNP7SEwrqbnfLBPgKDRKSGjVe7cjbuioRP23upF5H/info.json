@@ -1,0 +1,11 @@
+{
+  "name": "KIRA Network (Wormhole)",
+  "address": "7bXgNP7SEwrqbnfLBPgKDRKSGjVe7cjbuioRP23upF5H",
+  "symbol": "wKEX",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wKEX--7bXgNP7SEwrqbnfLBPgKDRKSGjVe7cjbuioRP23upF5H/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

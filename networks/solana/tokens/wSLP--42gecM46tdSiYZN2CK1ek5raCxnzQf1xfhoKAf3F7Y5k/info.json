@@ -1,0 +1,11 @@
+{
+  "name": "Small Love Potion (Wormhole)",
+  "address": "42gecM46tdSiYZN2CK1ek5raCxnzQf1xfhoKAf3F7Y5k",
+  "symbol": "wSLP",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSLP--42gecM46tdSiYZN2CK1ek5raCxnzQf1xfhoKAf3F7Y5k/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

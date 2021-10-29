@@ -1,0 +1,11 @@
+{
+  "name": "Xenren",
+  "address": "4KVuGB1iNhYqR99Hykv1ZLdHvx41zpBqqPFtHucYpQja",
+  "symbol": "XEN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XEN--4KVuGB1iNhYqR99Hykv1ZLdHvx41zpBqqPFtHucYpQja/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

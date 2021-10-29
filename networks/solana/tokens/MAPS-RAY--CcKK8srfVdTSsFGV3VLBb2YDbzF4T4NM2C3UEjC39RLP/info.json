@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (MAPS-RAY)",
+  "address": "CcKK8srfVdTSsFGV3VLBb2YDbzF4T4NM2C3UEjC39RLP",
+  "symbol": "MAPS-RAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MAPS-RAY--CcKK8srfVdTSsFGV3VLBb2YDbzF4T4NM2C3UEjC39RLP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

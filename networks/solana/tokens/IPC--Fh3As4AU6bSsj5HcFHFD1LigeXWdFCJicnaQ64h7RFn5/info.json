@@ -1,0 +1,11 @@
+{
+  "name": "Imperial Coin",
+  "address": "Fh3As4AU6bSsj5HcFHFD1LigeXWdFCJicnaQ64h7RFn5",
+  "symbol": "IPC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/IPC--Fh3As4AU6bSsj5HcFHFD1LigeXWdFCJicnaQ64h7RFn5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

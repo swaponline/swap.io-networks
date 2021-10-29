@@ -1,0 +1,11 @@
+{
+  "name": "Holdana",
+  "address": "8GQsW3f7mdwfjqJon2myADcBsSsRjpXmxHYDG8q1pvV6",
+  "symbol": "HOLD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HOLD--8GQsW3f7mdwfjqJon2myADcBsSsRjpXmxHYDG8q1pvV6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

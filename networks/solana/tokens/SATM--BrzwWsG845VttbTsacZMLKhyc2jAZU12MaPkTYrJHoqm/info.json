@@ -1,0 +1,11 @@
+{
+  "name": "Star Atlas - The Movie",
+  "address": "BrzwWsG845VttbTsacZMLKhyc2jAZU12MaPkTYrJHoqm",
+  "symbol": "SATM",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SATM--BrzwWsG845VttbTsacZMLKhyc2jAZU12MaPkTYrJHoqm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

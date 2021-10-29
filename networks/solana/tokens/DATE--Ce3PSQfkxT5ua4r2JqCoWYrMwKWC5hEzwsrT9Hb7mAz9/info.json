@@ -1,0 +1,11 @@
+{
+  "name": "SolDate(DATE) Token",
+  "address": "Ce3PSQfkxT5ua4r2JqCoWYrMwKWC5hEzwsrT9Hb7mAz9",
+  "symbol": "DATE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DATE--Ce3PSQfkxT5ua4r2JqCoWYrMwKWC5hEzwsrT9Hb7mAz9/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

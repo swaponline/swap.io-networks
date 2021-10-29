@@ -1,0 +1,11 @@
+{
+  "name": "Pfizer",
+  "address": "97v2oXMQ2MMAkgUnoQk3rNhrZCRThorYhvz1poAe9stk",
+  "symbol": "PFE",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PFE--97v2oXMQ2MMAkgUnoQk3rNhrZCRThorYhvz1poAe9stk/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

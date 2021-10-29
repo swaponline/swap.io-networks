@@ -1,0 +1,11 @@
+{
+  "name": "adamho",
+  "address": "2juwHtqBUEaV26WM5sVvjFsjvCXfwP3ZPndmr5ywVwgZ",
+  "symbol": "ADAM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ADAM--2juwHtqBUEaV26WM5sVvjFsjvCXfwP3ZPndmr5ywVwgZ/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

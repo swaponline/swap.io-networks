@@ -1,0 +1,11 @@
+{
+  "name": "Reserve Rights (Wormhole)",
+  "address": "64oqP1dFqqD8NEL4RPCpMyrHmpo31rj3nYxULVXvayfW",
+  "symbol": "wRSR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRSR--64oqP1dFqqD8NEL4RPCpMyrHmpo31rj3nYxULVXvayfW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

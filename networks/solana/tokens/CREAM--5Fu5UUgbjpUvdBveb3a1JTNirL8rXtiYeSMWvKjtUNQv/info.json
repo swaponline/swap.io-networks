@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Cream Finance (Sollet)",
+  "address": "5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv",
+  "symbol": "CREAM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CREAM--5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

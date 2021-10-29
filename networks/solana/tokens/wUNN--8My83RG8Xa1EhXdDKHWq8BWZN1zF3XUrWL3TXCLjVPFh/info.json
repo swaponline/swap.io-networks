@@ -1,0 +1,11 @@
+{
+  "name": "UNION Protocol Governance Token (Wormhole)",
+  "address": "8My83RG8Xa1EhXdDKHWq8BWZN1zF3XUrWL3TXCLjVPFh",
+  "symbol": "wUNN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUNN--8My83RG8Xa1EhXdDKHWq8BWZN1zF3XUrWL3TXCLjVPFh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bitwise 10 Crypto Index Fund",
+  "address": "j35qY1SbQ3k7b2WAR5cNETDKzDESxGnYbArsLNRUzg2",
+  "symbol": "BITW",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BITW--j35qY1SbQ3k7b2WAR5cNETDKzDESxGnYbArsLNRUzg2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

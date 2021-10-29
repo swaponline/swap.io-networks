@@ -1,0 +1,11 @@
+{
+  "name": "Dextrust (Wormhole)",
+  "address": "5jFzUEqWLnvGvKWb1Pji9nWVYy5vLG2saoXCyVNWEdEi",
+  "symbol": "wDETS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDETS--5jFzUEqWLnvGvKWb1Pji9nWVYy5vLG2saoXCyVNWEdEi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

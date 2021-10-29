@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (renDOGE-USDC)",
+  "address": "Hb8KnZNKvRxu7pgMRWJgoMSMcepfvNiBFFDDrdf9o3wA",
+  "symbol": "renDOGE-USDC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

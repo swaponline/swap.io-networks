@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (FTT/SOL)",
+  "address": "YJRknE9oPhUMtq1VvhjVzG5WnRsjQtLsWg3nbaAwCQ5",
+  "symbol": "FTTSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FTTSOL--YJRknE9oPhUMtq1VvhjVzG5WnRsjQtLsWg3nbaAwCQ5/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mike Krow's Official Best Friend Super Kawaii Kasu Token",
+  "address": "GkXP719hnhLtizWHcQyGVYajuJqVsJJ6fyeUob9BPCFC",
+  "symbol": "KROWZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KROWZ--GkXP719hnhLtizWHcQyGVYajuJqVsJJ6fyeUob9BPCFC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

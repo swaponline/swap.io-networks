@@ -1,0 +1,11 @@
+{
+  "name": "SolGold",
+  "address": "E1zxRweqCWzviAraKjNjqupuyYTzm1bukJgb8KiBN1sN",
+  "symbol": "GOLD",
+  "decimals": 5,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GOLD--E1zxRweqCWzviAraKjNjqupuyYTzm1bukJgb8KiBN1sN/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

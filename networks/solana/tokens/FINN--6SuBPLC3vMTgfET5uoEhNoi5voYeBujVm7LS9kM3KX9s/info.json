@@ -1,0 +1,11 @@
+{
+  "name": "FINNGRAM TOKEN",
+  "address": "6SuBPLC3vMTgfET5uoEhNoi5voYeBujVm7LS9kM3KX9s",
+  "symbol": "FINN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FINN--6SuBPLC3vMTgfET5uoEhNoi5voYeBujVm7LS9kM3KX9s/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

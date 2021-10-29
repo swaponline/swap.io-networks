@@ -1,0 +1,11 @@
+{
+  "name": "BlackBerry",
+  "address": "6jSgnmu8yg7kaZRWp5MtQqNrWTUDk7KWXhZhJPmsQ65y",
+  "symbol": "BB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BB--6jSgnmu8yg7kaZRWp5MtQqNrWTUDk7KWXhZhJPmsQ65y/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

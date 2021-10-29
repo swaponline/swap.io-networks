@@ -1,0 +1,11 @@
+{
+  "name": "MAPS",
+  "address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+  "symbol": "MAPS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MAPS--MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UPFI stablecoin (UPFI Network)",
+  "address": "FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh",
+  "symbol": "UPFI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UPFI--FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

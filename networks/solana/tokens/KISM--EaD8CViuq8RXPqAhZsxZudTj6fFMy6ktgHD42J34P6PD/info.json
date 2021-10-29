@@ -1,0 +1,11 @@
+{
+  "name": "KISAMA",
+  "address": "EaD8CViuq8RXPqAhZsxZudTj6fFMy6ktgHD42J34P6PD",
+  "symbol": "KISM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KISM--EaD8CViuq8RXPqAhZsxZudTj6fFMy6ktgHD42J34P6PD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

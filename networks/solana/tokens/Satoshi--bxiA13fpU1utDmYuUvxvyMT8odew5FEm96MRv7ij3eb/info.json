@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi",
+  "address": "bxiA13fpU1utDmYuUvxvyMT8odew5FEm96MRv7ij3eb",
+  "symbol": "Satoshi",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

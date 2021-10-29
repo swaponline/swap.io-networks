@@ -1,0 +1,11 @@
+{
+  "name": "SolWorms",
+  "address": "7hMNi9EVTTRyuUH7FybEcPLa7uG6amLWW8xAmV8qi47",
+  "symbol": "DIRT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DIRT--7hMNi9EVTTRyuUH7FybEcPLa7uG6amLWW8xAmV8qi47/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

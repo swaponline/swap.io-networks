@@ -1,0 +1,11 @@
+{
+  "name": "Terra Virtua Kolect (Wormhole)",
+  "address": "5NEENV1mNvu7MfNNtKuGSDC8zoNStq1tuLkDXFtv6rZd",
+  "symbol": "wTVK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wTVK--5NEENV1mNvu7MfNNtKuGSDC8zoNStq1tuLkDXFtv6rZd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

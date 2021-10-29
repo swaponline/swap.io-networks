@@ -6090,6 +6090,35 @@
     ]
   },
   {
+    "symbol": "KIT",
+    "name": "DexKit",
+    "logo": "/networks/polygon/tokens/KIT--0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c/logo.png",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Polygon",
+          "slug": "polygon",
+          "logo": "/networks/polygon/coins/MATIC/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "DexKit",
+            "address": "0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c",
+            "symbol": "KIT",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/KIT--0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c/logo.png",
+            "tags": [
+              "erc20matic"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "KIWI",
     "name": "KIWI Token",
     "logo": "/networks/polygon/tokens/KIWI--0x578360adf0bbb2f10ec9cec7ef89ef495511ed5f/logo.png",
@@ -8733,7 +8762,7 @@
   {
     "symbol": "1INCH",
     "name": "Wrapped 1INCH (Sollet)",
-    "logo": "/networks/solana/tokens/1INCH--5wiheygca7x4gse97c5mvcqnsfxbzhdtwpv72hks25us/logo.png",
+    "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8745,11 +8774,11 @@
         "assets": [
           {
             "name": "Wrapped 1INCH (Sollet)",
-            "address": "5wiheygca7x4gse97c5mvcqnsfxbzhdtwpv72hks25us",
+            "address": "5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US",
             "symbol": "1INCH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/1INCH--5wiheygca7x4gse97c5mvcqnsfxbzhdtwpv72hks25us/logo.png",
+            "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.png",
             "tags": [
               "spl"
             ],
@@ -8762,7 +8791,7 @@
   {
     "symbol": "AAPL",
     "name": "Apple Inc.",
-    "logo": "/networks/solana/tokens/AAPL--8bprdbgpt354vfabl5xugp3pmyz2tqjzrcqjg2kmwfbf/logo.svg",
+    "logo": "/networks/solana/tokens/AAPL--8bpRdBGPt354VfABL5xugP3pmYZ2tQjzRcqjg2kmwfbF/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -8774,11 +8803,11 @@
         "assets": [
           {
             "name": "Apple Inc.",
-            "address": "8bprdbgpt354vfabl5xugp3pmyz2tqjzrcqjg2kmwfbf",
+            "address": "8bpRdBGPt354VfABL5xugP3pmYZ2tQjzRcqjg2kmwfbF",
             "symbol": "AAPL",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/AAPL--8bprdbgpt354vfabl5xugp3pmyz2tqjzrcqjg2kmwfbf/logo.svg",
+            "logo": "/networks/solana/tokens/AAPL--8bpRdBGPt354VfABL5xugP3pmYZ2tQjzRcqjg2kmwfbF/logo.svg",
             "tags": [
               "spl"
             ],
@@ -8791,7 +8820,7 @@
   {
     "symbol": "AAVE",
     "name": "Wrapped Aave",
-    "logo": "/networks/solana/tokens/AAVE--dk83wtvypepa1pqibbhy3mnuunt3aduzm4wk9vzxzec/logo.png",
+    "logo": "/networks/solana/tokens/AAVE--dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8803,11 +8832,11 @@
         "assets": [
           {
             "name": "Wrapped Aave",
-            "address": "dk83wtvypepa1pqibbhy3mnuunt3aduzm4wk9vzxzec",
+            "address": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
             "symbol": "AAVE",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/AAVE--dk83wtvypepa1pqibbhy3mnuunt3aduzm4wk9vzxzec/logo.png",
+            "logo": "/networks/solana/tokens/AAVE--dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
             "tags": [
               "spl"
             ],
@@ -8820,7 +8849,7 @@
   {
     "symbol": "ABRUSDC",
     "name": "Orca Double Dip Token (ABR/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/ABRUSDC--7bp7psdac3dvc86hmdz5tamejgpjmczgfevalfqbwmmz/logo.svg",
+    "logo": "/networks/solana/tokens/ABRUSDC--7bp7psdaC3DVc86Hmdz5tAMEjgPjmCzgFEVALfqBwMmz/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -8832,11 +8861,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (ABR/USDC[aquafarm])",
-            "address": "7bp7psdac3dvc86hmdz5tamejgpjmczgfevalfqbwmmz",
+            "address": "7bp7psdaC3DVc86Hmdz5tAMEjgPjmCzgFEVALfqBwMmz",
             "symbol": "ABRUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ABRUSDC--7bp7psdac3dvc86hmdz5tamejgpjmczgfevalfqbwmmz/logo.svg",
+            "logo": "/networks/solana/tokens/ABRUSDC--7bp7psdaC3DVc86Hmdz5tAMEjgPjmCzgFEVALfqBwMmz/logo.svg",
             "tags": [
               "spl"
             ],
@@ -8849,7 +8878,7 @@
   {
     "symbol": "AKRO",
     "name": "Wrapped AKRO (Sollet)",
-    "logo": "/networks/solana/tokens/AKRO--6wnvcuxcgjznjmmzokyhzjwvj5typslyatagzyasqbof/logo.png",
+    "logo": "/networks/solana/tokens/AKRO--6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8861,11 +8890,11 @@
         "assets": [
           {
             "name": "Wrapped AKRO (Sollet)",
-            "address": "6wnvcuxcgjznjmmzokyhzjwvj5typslyatagzyasqbof",
+            "address": "6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF",
             "symbol": "AKRO",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/AKRO--6wnvcuxcgjznjmmzokyhzjwvj5typslyatagzyasqbof/logo.png",
+            "logo": "/networks/solana/tokens/AKRO--6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF/logo.png",
             "tags": [
               "spl"
             ],
@@ -8878,7 +8907,7 @@
   {
     "symbol": "AKT",
     "name": "Alexey Kulikov Token",
-    "logo": "/networks/solana/tokens/AKT--ayb1hhpdfxgadugkbcfe7quvyhct3ucqvkmcs65y2hta/logo.png",
+    "logo": "/networks/solana/tokens/AKT--AYb1hhPDFxGADUGKbCfe7qUvyHct3ucqvkmCS65y2HtA/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8890,11 +8919,11 @@
         "assets": [
           {
             "name": "Alexey Kulikov Token",
-            "address": "ayb1hhpdfxgadugkbcfe7quvyhct3ucqvkmcs65y2hta",
+            "address": "AYb1hhPDFxGADUGKbCfe7qUvyHct3ucqvkmCS65y2HtA",
             "symbol": "AKT",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/AKT--ayb1hhpdfxgadugkbcfe7quvyhct3ucqvkmcs65y2hta/logo.png",
+            "logo": "/networks/solana/tokens/AKT--AYb1hhPDFxGADUGKbCfe7qUvyHct3ucqvkmCS65y2HtA/logo.png",
             "tags": [
               "spl"
             ],
@@ -8907,7 +8936,7 @@
   {
     "symbol": "ALEPH",
     "name": "Wrapped ALEPH (Sollet)",
-    "logo": "/networks/solana/tokens/ALEPH--csz5lzkds7h9tdkjrbl7vawqz9nsru8vjlhryfmgan8k/logo.png",
+    "logo": "/networks/solana/tokens/ALEPH--CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8919,11 +8948,11 @@
         "assets": [
           {
             "name": "Wrapped ALEPH (Sollet)",
-            "address": "csz5lzkds7h9tdkjrbl7vawqz9nsru8vjlhryfmgan8k",
+            "address": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
             "symbol": "ALEPH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ALEPH--csz5lzkds7h9tdkjrbl7vawqz9nsru8vjlhryfmgan8k/logo.png",
+            "logo": "/networks/solana/tokens/ALEPH--CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K/logo.png",
             "tags": [
               "spl"
             ],
@@ -8936,7 +8965,7 @@
   {
     "symbol": "ALEPH",
     "name": "tuALEPH",
-    "logo": "/networks/solana/tokens/ALEPH--fjtaazd6txncfgtq7ifrht9awovdads6gwnc4sxcpw1k/logo.png",
+    "logo": "/networks/solana/tokens/ALEPH--FJtaAZd6tXNCFGTq7ifRHt9AWoVdads6gWNc4SXCPw1k/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8948,11 +8977,11 @@
         "assets": [
           {
             "name": "tuALEPH",
-            "address": "fjtaazd6txncfgtq7ifrht9awovdads6gwnc4sxcpw1k",
+            "address": "FJtaAZd6tXNCFGTq7ifRHt9AWoVdads6gWNc4SXCPw1k",
             "symbol": "ALEPH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ALEPH--fjtaazd6txncfgtq7ifrht9awovdads6gwnc4sxcpw1k/logo.png",
+            "logo": "/networks/solana/tokens/ALEPH--FJtaAZd6tXNCFGTq7ifRHt9AWoVdads6gWNc4SXCPw1k/logo.png",
             "tags": [
               "spl"
             ],
@@ -8965,7 +8994,7 @@
   {
     "symbol": "APYS",
     "name": "APYSwap",
-    "logo": "/networks/solana/tokens/APYS--5jnz667p3vcjdinkjfyswh2k2ktviy63fz3ol5yghehw/logo.png",
+    "logo": "/networks/solana/tokens/APYS--5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -8977,11 +9006,11 @@
         "assets": [
           {
             "name": "APYSwap",
-            "address": "5jnz667p3vcjdinkjfyswh2k2ktviy63fz3ol5yghehw",
+            "address": "5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW",
             "symbol": "APYS",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/APYS--5jnz667p3vcjdinkjfyswh2k2ktviy63fz3ol5yghehw/logo.png",
+            "logo": "/networks/solana/tokens/APYS--5JnZ667P3VcjDinkJFysWh2K2KtViy63FZ3oL5YghEhW/logo.png",
             "tags": [
               "spl"
             ],
@@ -8994,7 +9023,7 @@
   {
     "symbol": "ATLASUSDC",
     "name": "Orca Aquafarm Token (ATLAS/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/ATLASUSDC--hfmy1ggcscky1zj1sfdknr4zb3u5n38ynrdf4vsgu17t/logo.svg",
+    "logo": "/networks/solana/tokens/ATLASUSDC--HFmY1ggCsCky1zJ1sfdkNR4zb3u5n38YNRdf4vsGu17t/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9006,11 +9035,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (ATLAS/USDC[aquafarm])",
-            "address": "hfmy1ggcscky1zj1sfdknr4zb3u5n38ynrdf4vsgu17t",
+            "address": "HFmY1ggCsCky1zJ1sfdkNR4zb3u5n38YNRdf4vsGu17t",
             "symbol": "ATLASUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ATLASUSDC--hfmy1ggcscky1zj1sfdknr4zb3u5n38ynrdf4vsgu17t/logo.svg",
+            "logo": "/networks/solana/tokens/ATLASUSDC--HFmY1ggCsCky1zJ1sfdkNR4zb3u5n38YNRdf4vsGu17t/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9023,7 +9052,7 @@
   {
     "symbol": "AVAX",
     "name": "AVAX (Allbridge from Avalanche)",
-    "logo": "/networks/solana/tokens/AVAX--aurmpcdyycpuhhynx8geeqbmdpfupbphrnw3vpecfn5z/logo.png",
+    "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9035,11 +9064,40 @@
         "assets": [
           {
             "name": "AVAX (Allbridge from Avalanche)",
-            "address": "aurmpcdyycpuhhynx8geeqbmdpfupbphrnw3vpecfn5z",
+            "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
             "symbol": "AVAX",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/AVAX--aurmpcdyycpuhhynx8geeqbmdpfupbphrnw3vpecfn5z/logo.png",
+            "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.png",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BEAR",
+    "name": "BEAR",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "BEAR",
+            "address": "45vwTZSDFBiqCMRdtK4xiLCHEov8LJRW8GwnofG8HYyH",
+            "symbol": "BEAR",
+            "decimals": 6,
+            "chainId": 101,
+            "logo": "",
             "tags": [
               "spl"
             ],
@@ -9052,7 +9110,7 @@
   {
     "symbol": "BIRD",
     "name": "SolBird2",
-    "logo": "/networks/solana/tokens/BIRD--bfbhlmrhteljffzrtcxpb1gotpmivk8qcpsyf7am914h/logo.png",
+    "logo": "/networks/solana/tokens/BIRD--BfbhLmrhtELjfFzrtcxpB1GoTpmiVK8qcpSYf7AM914h/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9064,11 +9122,40 @@
         "assets": [
           {
             "name": "SolBird2",
-            "address": "bfbhlmrhteljffzrtcxpb1gotpmivk8qcpsyf7am914h",
+            "address": "BfbhLmrhtELjfFzrtcxpB1GoTpmiVK8qcpSYf7AM914h",
             "symbol": "BIRD",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BIRD--bfbhlmrhteljffzrtcxpb1gotpmivk8qcpsyf7am914h/logo.png",
+            "logo": "/networks/solana/tokens/BIRD--BfbhLmrhtELjfFzrtcxpB1GoTpmiVK8qcpSYf7AM914h/logo.png",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BLC",
+    "name": "bl Coin",
+    "logo": "/networks/solana/tokens/BLC--27NnGuWWsJ2aJvG85D27eiYBCcfc8LcFcvuW5yHM6gSz/logo.png",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "bl Coin",
+            "address": "27NnGuWWsJ2aJvG85D27eiYBCcfc8LcFcvuW5yHM6gSz",
+            "symbol": "BLC",
+            "decimals": 9,
+            "chainId": 101,
+            "logo": "/networks/solana/tokens/BLC--27NnGuWWsJ2aJvG85D27eiYBCcfc8LcFcvuW5yHM6gSz/logo.png",
             "tags": [
               "spl"
             ],
@@ -9081,7 +9168,7 @@
   {
     "symbol": "BLISS",
     "name": "SolFlower",
-    "logo": "/networks/solana/tokens/BLISS--3wup5atkjdki1yx75wzuzgbqrnjtmlpvvpmwwehbnkes/logo.jpg",
+    "logo": "/networks/solana/tokens/BLISS--3Wup5AtKjDki1yX75WZuzGbqrNJTmLPvVPMwWEhBNKES/logo.jpg",
     "priority": -1,
     "networks": [
       {
@@ -9093,11 +9180,11 @@
         "assets": [
           {
             "name": "SolFlower",
-            "address": "3wup5atkjdki1yx75wzuzgbqrnjtmlpvvpmwwehbnkes",
+            "address": "3Wup5AtKjDki1yX75WZuzGbqrNJTmLPvVPMwWEhBNKES",
             "symbol": "BLISS",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BLISS--3wup5atkjdki1yx75wzuzgbqrnjtmlpvvpmwwehbnkes/logo.jpg",
+            "logo": "/networks/solana/tokens/BLISS--3Wup5AtKjDki1yX75WZuzGbqrNJTmLPvVPMwWEhBNKES/logo.jpg",
             "tags": [
               "spl"
             ],
@@ -9110,7 +9197,7 @@
   {
     "symbol": "BLOK",
     "name": "BLOCITIES",
-    "logo": "/networks/solana/tokens/BLOK--4796pbun8ihiecy4unzulwosvrmk8sf7yqmbwkkvzdh3/logo.png",
+    "logo": "/networks/solana/tokens/BLOK--4796pBun8ihiecy4unZuLWoSVRmK8sf7yQMbwkkvZDH3/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9122,11 +9209,40 @@
         "assets": [
           {
             "name": "BLOCITIES",
-            "address": "4796pbun8ihiecy4unzulwosvrmk8sf7yqmbwkkvzdh3",
+            "address": "4796pBun8ihiecy4unZuLWoSVRmK8sf7yQMbwkkvZDH3",
             "symbol": "BLOK",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BLOK--4796pbun8ihiecy4unzulwosvrmk8sf7yqmbwkkvzdh3/logo.png",
+            "logo": "/networks/solana/tokens/BLOK--4796pBun8ihiecy4unZuLWoSVRmK8sf7yQMbwkkvZDH3/logo.png",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BNB",
+    "name": "BNB",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "BNB",
+            "address": "EjFGGJSyp9UDS8aqafET5LX49nsG326MeNezYzpiwgpQ",
+            "symbol": "BNB",
+            "decimals": 0,
+            "chainId": 101,
+            "logo": "",
             "tags": [
               "spl"
             ],
@@ -9139,7 +9255,7 @@
   {
     "symbol": "BOPUSDC",
     "name": "Orca Double Dip Token (BOP/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/BOPUSDC--cjgubkih1qmffjmqhabjn4drbjgbwuhqhv4luzrgpfqi/logo.svg",
+    "logo": "/networks/solana/tokens/BOPUSDC--CjGUbKiH1QmFFjMqhAbJn4DrbjgBWUhQHV4LuzrgpFqi/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9151,11 +9267,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (BOP/USDC[aquafarm])",
-            "address": "cjgubkih1qmffjmqhabjn4drbjgbwuhqhv4luzrgpfqi",
+            "address": "CjGUbKiH1QmFFjMqhAbJn4DrbjgBWUhQHV4LuzrgpFqi",
             "symbol": "BOPUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BOPUSDC--cjgubkih1qmffjmqhabjn4drbjgbwuhqhv4luzrgpfqi/logo.svg",
+            "logo": "/networks/solana/tokens/BOPUSDC--CjGUbKiH1QmFFjMqhAbJn4DrbjgBWUhQHV4LuzrgpFqi/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9168,7 +9284,7 @@
   {
     "symbol": "BRD",
     "name": "SolBird",
-    "logo": "/networks/solana/tokens/BRD--djdbptjdatcrfr4xrwgkiq8wy6k6rnumsytkaq8rk9rp/logo.png",
+    "logo": "/networks/solana/tokens/BRD--DjDBpTJdatCrfR4XRWgKiQ8WY6K6RNuMsyTKAQ8rK9Rp/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9180,11 +9296,11 @@
         "assets": [
           {
             "name": "SolBird",
-            "address": "djdbptjdatcrfr4xrwgkiq8wy6k6rnumsytkaq8rk9rp",
+            "address": "DjDBpTJdatCrfR4XRWgKiQ8WY6K6RNuMsyTKAQ8rK9Rp",
             "symbol": "BRD",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BRD--djdbptjdatcrfr4xrwgkiq8wy6k6rnumsytkaq8rk9rp/logo.png",
+            "logo": "/networks/solana/tokens/BRD--DjDBpTJdatCrfR4XRWgKiQ8WY6K6RNuMsyTKAQ8rK9Rp/logo.png",
             "tags": [
               "spl"
             ],
@@ -9197,7 +9313,7 @@
   {
     "symbol": "BST",
     "name": "Balisari",
-    "logo": "/networks/solana/tokens/BST--eydeqw4xqzlqhcfwhtggvpdjsa5efn74kzuqlx5emjd2/logo.png",
+    "logo": "/networks/solana/tokens/BST--EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9209,11 +9325,11 @@
         "assets": [
           {
             "name": "Balisari",
-            "address": "eydeqw4xqzlqhcfwhtggvpdjsa5efn74kzuqlx5emjd2",
+            "address": "EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2",
             "symbol": "BST",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BST--eydeqw4xqzlqhcfwhtggvpdjsa5efn74kzuqlx5emjd2/logo.png",
+            "logo": "/networks/solana/tokens/BST--EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2/logo.png",
             "tags": [
               "spl"
             ],
@@ -9226,7 +9342,7 @@
   {
     "symbol": "BTC",
     "name": "Wrapped Bitcoin (Sollet)",
-    "logo": "/networks/solana/tokens/BTC--9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e/logo.png",
+    "logo": "/networks/solana/tokens/BTC--9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9238,11 +9354,11 @@
         "assets": [
           {
             "name": "Wrapped Bitcoin (Sollet)",
-            "address": "9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e",
+            "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
             "symbol": "BTC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BTC--9n4nbm75f5ui33zbpyxn59ewsge8cgshtaeth5yfej9e/logo.png",
+            "logo": "/networks/solana/tokens/BTC--9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
             "tags": [
               "spl"
             ],
@@ -9255,7 +9371,7 @@
   {
     "symbol": "BTC-USDC",
     "name": "HydraSwap LP Token (BTC-USDC)",
-    "logo": "/networks/solana/tokens/BTC-USDC--5vvrn1ioajaecnsyhwa19cnptsmcdumpnb2wufq5hkeg/logo.png",
+    "logo": "/networks/solana/tokens/BTC-USDC--5vVrn1ioAjAeCNSYhwA19CnPTSmcDuMPnB2wUFQ5hkeg/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9267,11 +9383,11 @@
         "assets": [
           {
             "name": "HydraSwap LP Token (BTC-USDC)",
-            "address": "5vvrn1ioajaecnsyhwa19cnptsmcdumpnb2wufq5hkeg",
+            "address": "5vVrn1ioAjAeCNSYhwA19CnPTSmcDuMPnB2wUFQ5hkeg",
             "symbol": "BTC-USDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BTC-USDC--5vvrn1ioajaecnsyhwa19cnptsmcdumpnb2wufq5hkeg/logo.png",
+            "logo": "/networks/solana/tokens/BTC-USDC--5vVrn1ioAjAeCNSYhwA19CnPTSmcDuMPnB2wUFQ5hkeg/logo.png",
             "tags": [
               "spl"
             ],
@@ -9284,7 +9400,7 @@
   {
     "symbol": "BTCmSOL",
     "name": "Orca Aquafarm Token (BTC/mSOL[aquafarm])",
-    "logo": "/networks/solana/tokens/BTCmSOL--dzplz78wuwyfsqtoin8idv6yk6abeymrqqq82swifh7r/logo.svg",
+    "logo": "/networks/solana/tokens/BTCmSOL--DzpLz78wuwyFsQToin8iDv6YK6aBEymRqQq82swiFh7r/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9296,11 +9412,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (BTC/mSOL[aquafarm])",
-            "address": "dzplz78wuwyfsqtoin8idv6yk6abeymrqqq82swifh7r",
+            "address": "DzpLz78wuwyFsQToin8iDv6YK6aBEymRqQq82swiFh7r",
             "symbol": "BTCmSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BTCmSOL--dzplz78wuwyfsqtoin8idv6yk6abeymrqqq82swifh7r/logo.svg",
+            "logo": "/networks/solana/tokens/BTCmSOL--DzpLz78wuwyFsQToin8iDv6YK6aBEymRqQq82swiFh7r/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9313,7 +9429,7 @@
   {
     "symbol": "BTSG",
     "name": "BitSong",
-    "logo": "/networks/solana/tokens/BTSG--bdxwsxkmlw1nj3vggamukkekrtcavqzfxodapm8hdbks/logo.png",
+    "logo": "/networks/solana/tokens/BTSG--BDxWSxkMLW1nJ3VggamUKkEKrtCaVqzFxoDApM8HdBks/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9325,11 +9441,40 @@
         "assets": [
           {
             "name": "BitSong",
-            "address": "bdxwsxkmlw1nj3vggamukkekrtcavqzfxodapm8hdbks",
+            "address": "BDxWSxkMLW1nJ3VggamUKkEKrtCaVqzFxoDApM8HdBks",
             "symbol": "BTSG",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BTSG--bdxwsxkmlw1nj3vggamukkekrtcavqzfxodapm8hdbks/logo.png",
+            "logo": "/networks/solana/tokens/BTSG--BDxWSxkMLW1nJ3VggamUKkEKrtCaVqzFxoDApM8HdBks/logo.png",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "BULL",
+    "name": "BULL",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "BULL",
+            "address": "GkSPaHdY2raetuYzsJYacHtrAtQUfWt64bpd1VzxJgSD",
+            "symbol": "BULL",
+            "decimals": 6,
+            "chainId": 101,
+            "logo": "",
             "tags": [
               "spl"
             ],
@@ -9342,7 +9487,7 @@
   {
     "symbol": "BUSD",
     "name": "Binance USD (Wormhole)",
-    "logo": "/networks/solana/tokens/BUSD--33fsbla8djqm82rphme3suvrpgtzbwnyexseuekx1hxx/logo.png",
+    "logo": "/networks/solana/tokens/BUSD--33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9354,11 +9499,11 @@
         "assets": [
           {
             "name": "Binance USD (Wormhole)",
-            "address": "33fsbla8djqm82rphme3suvrpgtzbwnyexseuekx1hxx",
+            "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
             "symbol": "BUSD",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/BUSD--33fsbla8djqm82rphme3suvrpgtzbwnyexseuekx1hxx/logo.png",
+            "logo": "/networks/solana/tokens/BUSD--33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
             "tags": [
               "spl"
             ],
@@ -9371,7 +9516,7 @@
   {
     "symbol": "C98",
     "name": "Coin98",
-    "logo": "/networks/solana/tokens/C98--c98a4nkjxhpvznazdhua95rptf3t4whtqubl3yobiux9/logo.svg",
+    "logo": "/networks/solana/tokens/C98--C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9383,11 +9528,11 @@
         "assets": [
           {
             "name": "Coin98",
-            "address": "c98a4nkjxhpvznazdhua95rptf3t4whtqubl3yobiux9",
+            "address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
             "symbol": "C98",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/C98--c98a4nkjxhpvznazdhua95rptf3t4whtqubl3yobiux9/logo.svg",
+            "logo": "/networks/solana/tokens/C98--C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9412,7 +9557,7 @@
         "assets": [
           {
             "name": "Crypto Cavemen",
-            "address": "ewuu9cuvbynp8bv3odoh1n5wwdnbvcyyb8rtfrnhulnn",
+            "address": "EWUU9CuvByNp8bv3oDoH1N5WWdnBvcyyb8rtfRnHuLNN",
             "symbol": "CAVE",
             "decimals": 6,
             "chainId": 101,
@@ -9429,7 +9574,7 @@
   {
     "symbol": "CEL",
     "name": "Wrapped Celsius (Sollet)",
-    "logo": "/networks/solana/tokens/CEL--dghk9mfhmtuwwv54gchrru54t2em5cuszq2umuen1zve/logo.png",
+    "logo": "/networks/solana/tokens/CEL--DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9441,11 +9586,11 @@
         "assets": [
           {
             "name": "Wrapped Celsius (Sollet)",
-            "address": "dghk9mfhmtuwwv54gchrru54t2em5cuszq2umuen1zve",
+            "address": "DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE",
             "symbol": "CEL",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CEL--dghk9mfhmtuwwv54gchrru54t2em5cuszq2umuen1zve/logo.png",
+            "logo": "/networks/solana/tokens/CEL--DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE/logo.png",
             "tags": [
               "spl"
             ],
@@ -9458,7 +9603,7 @@
   {
     "symbol": "CEL",
     "name": "Celsius (Wormhole)",
-    "logo": "/networks/solana/tokens/CEL--nrtfwu9g82cshhhgjnxfhtn7flvwp2rqvqvje1wtl69/logo.png",
+    "logo": "/networks/solana/tokens/CEL--nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9470,11 +9615,11 @@
         "assets": [
           {
             "name": "Celsius (Wormhole)",
-            "address": "nrtfwu9g82cshhhgjnxfhtn7flvwp2rqvqvje1wtl69",
+            "address": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
             "symbol": "CEL",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CEL--nrtfwu9g82cshhhgjnxfhtn7flvwp2rqvqvje1wtl69/logo.png",
+            "logo": "/networks/solana/tokens/CEL--nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69/logo.png",
             "tags": [
               "spl"
             ],
@@ -9487,7 +9632,7 @@
   {
     "symbol": "CHUM",
     "name": "Chum Coin",
-    "logo": "/networks/solana/tokens/CHUM--5u93vfnwj4nkdhm7k1x7j6d15njim2odivn9mmfcwwpu/logo.png",
+    "logo": "/networks/solana/tokens/CHUM--5U93vfnWJ4NKDhm7k1X7J6D15nJim2odivn9MmfCWwPU/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9499,11 +9644,11 @@
         "assets": [
           {
             "name": "Chum Coin",
-            "address": "5u93vfnwj4nkdhm7k1x7j6d15njim2odivn9mmfcwwpu",
+            "address": "5U93vfnWJ4NKDhm7k1X7J6D15nJim2odivn9MmfCWwPU",
             "symbol": "CHUM",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CHUM--5u93vfnwj4nkdhm7k1x7j6d15njim2odivn9mmfcwwpu/logo.png",
+            "logo": "/networks/solana/tokens/CHUM--5U93vfnWJ4NKDhm7k1X7J6D15nJim2odivn9MmfCWwPU/logo.png",
             "tags": [
               "spl"
             ],
@@ -9516,7 +9661,7 @@
   {
     "symbol": "COIN",
     "name": "Coinbase Global Inc.",
-    "logo": "/networks/solana/tokens/COIN--j25jdsegtnawb4nvq3deqhwekbxcnvtgzfpvmpscxrgk/logo.svg",
+    "logo": "/networks/solana/tokens/COIN--J25jdsEgTnAwB4nVq3dEQhwekbXCnVTGzFpVMPScXRgK/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9528,11 +9673,11 @@
         "assets": [
           {
             "name": "Coinbase Global Inc.",
-            "address": "j25jdsegtnawb4nvq3deqhwekbxcnvtgzfpvmpscxrgk",
+            "address": "J25jdsEgTnAwB4nVq3dEQhwekbXCnVTGzFpVMPScXRgK",
             "symbol": "COIN",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/COIN--j25jdsegtnawb4nvq3deqhwekbxcnvtgzfpvmpscxrgk/logo.svg",
+            "logo": "/networks/solana/tokens/COIN--J25jdsEgTnAwB4nVq3dEQhwekbXCnVTGzFpVMPScXRgK/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9545,7 +9690,7 @@
   {
     "symbol": "COMP",
     "name": "Wrapped Compound (Sollet)",
-    "logo": "/networks/solana/tokens/COMP--avz2fmevhhu87wytwqcfj9ujkrjf9z9qwwn2ih9yf95g/logo.png",
+    "logo": "/networks/solana/tokens/COMP--Avz2fmevhhu87WYtWQCFj9UjKRjF9Z9QWwN2ih9yF95G/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9557,11 +9702,11 @@
         "assets": [
           {
             "name": "Wrapped Compound (Sollet)",
-            "address": "avz2fmevhhu87wytwqcfj9ujkrjf9z9qwwn2ih9yf95g",
+            "address": "Avz2fmevhhu87WYtWQCFj9UjKRjF9Z9QWwN2ih9yF95G",
             "symbol": "COMP",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/COMP--avz2fmevhhu87wytwqcfj9ujkrjf9z9qwwn2ih9yf95g/logo.png",
+            "logo": "/networks/solana/tokens/COMP--Avz2fmevhhu87WYtWQCFj9UjKRjF9Z9QWwN2ih9yF95G/logo.png",
             "tags": [
               "spl"
             ],
@@ -9586,7 +9731,7 @@
         "assets": [
           {
             "name": "Raydium LP Token V4 (COPE-USDC)",
-            "address": "cz1kuvhw98imkkrqqu95gqb9h1fry8rikxpojmwwkgxf",
+            "address": "Cz1kUvHw98imKkrqqu95GQB9h1frY8RikxPojMwWKGXf",
             "symbol": "COPE-USDC",
             "decimals": 6,
             "chainId": 101,
@@ -9603,7 +9748,7 @@
   {
     "symbol": "COPESOL",
     "name": "Orca Aquafarm Token (COPE/SOL)",
-    "logo": "/networks/solana/tokens/COPESOL--7ct19h7n2ybkicfcaxxqmm79jnm4cmuvjxhnmjjnrya/logo.svg",
+    "logo": "/networks/solana/tokens/COPESOL--7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9615,11 +9760,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (COPE/SOL)",
-            "address": "7ct19h7n2ybkicfcaxxqmm79jnm4cmuvjxhnmjjnrya",
+            "address": "7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa",
             "symbol": "COPESOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/COPESOL--7ct19h7n2ybkicfcaxxqmm79jnm4cmuvjxhnmjjnrya/logo.svg",
+            "logo": "/networks/solana/tokens/COPESOL--7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9632,7 +9777,7 @@
   {
     "symbol": "COPEUSDC",
     "name": "Orca Double Dip Token (COPE/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/COPEUSDC--atcmet9cazxpunqv99pxed2rhpqmadykbreeqbsyu11v/logo.svg",
+    "logo": "/networks/solana/tokens/COPEUSDC--AtcMEt9caZxpunQV99pxED2rhpQmaDykBreEqBsYU11v/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9644,11 +9789,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (COPE/USDC[aquafarm])",
-            "address": "atcmet9cazxpunqv99pxed2rhpqmadykbreeqbsyu11v",
+            "address": "AtcMEt9caZxpunQV99pxED2rhpQmaDykBreEqBsYU11v",
             "symbol": "COPEUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/COPEUSDC--atcmet9cazxpunqv99pxed2rhpqmadykbreeqbsyu11v/logo.svg",
+            "logo": "/networks/solana/tokens/COPEUSDC--AtcMEt9caZxpunQV99pxED2rhpQmaDykBreEqBsYU11v/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9661,7 +9806,7 @@
   {
     "symbol": "CPR",
     "name": "Crypto Republic",
-    "logo": "/networks/solana/tokens/CPR--5sbg2b32gk3jsd5azck4xs8jh9v6szz3vm9fi7v2crrc/logo.png",
+    "logo": "/networks/solana/tokens/CPR--5sBG2b32gk3jsd5azCK4Xs8jH9V6szz3vm9fi7v2cRrC/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9673,11 +9818,11 @@
         "assets": [
           {
             "name": "Crypto Republic",
-            "address": "5sbg2b32gk3jsd5azck4xs8jh9v6szz3vm9fi7v2crrc",
+            "address": "5sBG2b32gk3jsd5azCK4Xs8jH9V6szz3vm9fi7v2cRrC",
             "symbol": "CPR",
             "decimals": 5,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CPR--5sbg2b32gk3jsd5azck4xs8jh9v6szz3vm9fi7v2crrc/logo.png",
+            "logo": "/networks/solana/tokens/CPR--5sBG2b32gk3jsd5azCK4Xs8jH9V6szz3vm9fi7v2cRrC/logo.png",
             "tags": [
               "spl"
             ],
@@ -9690,7 +9835,7 @@
   {
     "symbol": "CREAM",
     "name": "Wrapped Cream Finance (Sollet)",
-    "logo": "/networks/solana/tokens/CREAM--5fu5uugbjpuvdbveb3a1jtnirl8rxtiyesmwvkjtunqv/logo.png",
+    "logo": "/networks/solana/tokens/CREAM--5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9702,11 +9847,11 @@
         "assets": [
           {
             "name": "Wrapped Cream Finance (Sollet)",
-            "address": "5fu5uugbjpuvdbveb3a1jtnirl8rxtiyesmwvkjtunqv",
+            "address": "5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv",
             "symbol": "CREAM",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CREAM--5fu5uugbjpuvdbveb3a1jtnirl8rxtiyesmwvkjtunqv/logo.png",
+            "logo": "/networks/solana/tokens/CREAM--5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv/logo.png",
             "tags": [
               "spl"
             ],
@@ -9719,7 +9864,7 @@
   {
     "symbol": "CREAM",
     "name": "Cream (Wormhole)",
-    "logo": "/networks/solana/tokens/CREAM--hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh/logo.png",
+    "logo": "/networks/solana/tokens/CREAM--HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9731,11 +9876,11 @@
         "assets": [
           {
             "name": "Cream (Wormhole)",
-            "address": "hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh",
+            "address": "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
             "symbol": "CREAM",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CREAM--hihxl2im6l6p1oqoseiixdj3phpynxvskh9a2ddqlvdh/logo.png",
+            "logo": "/networks/solana/tokens/CREAM--HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH/logo.png",
             "tags": [
               "spl"
             ],
@@ -9748,7 +9893,7 @@
   {
     "symbol": "CUBE",
     "name": "Cubecoin",
-    "logo": "/networks/solana/tokens/CUBE--kupovbjmipjb1m7xzqend5w7u1bbmbytu9wz2qpjqx4/logo.png",
+    "logo": "/networks/solana/tokens/CUBE--KUPoVbJmipJb1M7xzQEND5w7u1BbmBytu9wZ2QPjQx4/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9760,11 +9905,11 @@
         "assets": [
           {
             "name": "Cubecoin",
-            "address": "kupovbjmipjb1m7xzqend5w7u1bbmbytu9wz2qpjqx4",
+            "address": "KUPoVbJmipJb1M7xzQEND5w7u1BbmBytu9wZ2QPjQx4",
             "symbol": "CUBE",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/CUBE--kupovbjmipjb1m7xzqend5w7u1bbmbytu9wz2qpjqx4/logo.png",
+            "logo": "/networks/solana/tokens/CUBE--KUPoVbJmipJb1M7xzQEND5w7u1BbmBytu9wZ2QPjQx4/logo.png",
             "tags": [
               "spl"
             ],
@@ -9777,7 +9922,7 @@
   {
     "symbol": "DGX",
     "name": "DGX",
-    "logo": "/networks/solana/tokens/DGX--32uwqkzibfm5c9ejy6ragc1zjaaqqwy1lvjxerijezet/logo.png",
+    "logo": "/networks/solana/tokens/DGX--32uwQKZibFm5C9EjY6raGC1ZjAAQQWy1LvJxeriJEzEt/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9789,11 +9934,11 @@
         "assets": [
           {
             "name": "DGX",
-            "address": "32uwqkzibfm5c9ejy6ragc1zjaaqqwy1lvjxerijezet",
+            "address": "32uwQKZibFm5C9EjY6raGC1ZjAAQQWy1LvJxeriJEzEt",
             "symbol": "DGX",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/DGX--32uwqkzibfm5c9ejy6ragc1zjaaqqwy1lvjxerijezet/logo.png",
+            "logo": "/networks/solana/tokens/DGX--32uwQKZibFm5C9EjY6raGC1ZjAAQQWy1LvJxeriJEzEt/logo.png",
             "tags": [
               "spl"
             ],
@@ -9806,7 +9951,7 @@
   {
     "symbol": "DINO",
     "name": "DINO",
-    "logo": "/networks/solana/tokens/DINO--6y7lbyb3tfgbg6cskyssoxdthb77aemtrvxe8jujrwz7/logo.png",
+    "logo": "/networks/solana/tokens/DINO--6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9818,11 +9963,11 @@
         "assets": [
           {
             "name": "DINO",
-            "address": "6y7lbyb3tfgbg6cskyssoxdthb77aemtrvxe8jujrwz7",
+            "address": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
             "symbol": "DINO",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/DINO--6y7lbyb3tfgbg6cskyssoxdthb77aemtrvxe8jujrwz7/logo.png",
+            "logo": "/networks/solana/tokens/DINO--6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7/logo.png",
             "tags": [
               "spl"
             ],
@@ -9835,7 +9980,7 @@
   {
     "symbol": "DRGN",
     "name": "DragonSol",
-    "logo": "/networks/solana/tokens/DRGN--a8fqp3mkjndh9l5uzudckfv2hpazpqpbpfmrmnygkzsj/logo.jpg",
+    "logo": "/networks/solana/tokens/DRGN--A8fqp3MkJnDH9L5UzUdckfv2HPAzpqPbpFMRmnYGkZsj/logo.jpg",
     "priority": -1,
     "networks": [
       {
@@ -9847,11 +9992,11 @@
         "assets": [
           {
             "name": "DragonSol",
-            "address": "a8fqp3mkjndh9l5uzudckfv2hpazpqpbpfmrmnygkzsj",
+            "address": "A8fqp3MkJnDH9L5UzUdckfv2HPAzpqPbpFMRmnYGkZsj",
             "symbol": "DRGN",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/DRGN--a8fqp3mkjndh9l5uzudckfv2hpazpqpbpfmrmnygkzsj/logo.jpg",
+            "logo": "/networks/solana/tokens/DRGN--A8fqp3MkJnDH9L5UzUdckfv2HPAzpqPbpFMRmnYGkZsj/logo.jpg",
             "tags": [
               "spl"
             ],
@@ -9864,7 +10009,7 @@
   {
     "symbol": "ETH",
     "name": "Wrapped Ethereum (Sollet)",
-    "logo": "/networks/solana/tokens/ETH--2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk/logo.png",
+    "logo": "/networks/solana/tokens/ETH--2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9876,11 +10021,11 @@
         "assets": [
           {
             "name": "Wrapped Ethereum (Sollet)",
-            "address": "2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk",
+            "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
             "symbol": "ETH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ETH--2fpytwczlug1mdrwsyop4d6s1tm7hakhyrjknb5w6pxk/logo.png",
+            "logo": "/networks/solana/tokens/ETH--2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
             "tags": [
               "spl"
             ],
@@ -9893,7 +10038,7 @@
   {
     "symbol": "ETH-USDC",
     "name": "HydraSwap LP Token (ETH-USDC)",
-    "logo": "/networks/solana/tokens/ETH-USDC--hrhugqtknx5tk6dquygwur7rgczmzjjk4ciaxzv3eatk/logo.png",
+    "logo": "/networks/solana/tokens/ETH-USDC--HRhugQTKnX5TK6dQUygwUr7rgCZmzJjk4CiAxZV3eaTk/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -9905,11 +10050,11 @@
         "assets": [
           {
             "name": "HydraSwap LP Token (ETH-USDC)",
-            "address": "hrhugqtknx5tk6dquygwur7rgczmzjjk4ciaxzv3eatk",
+            "address": "HRhugQTKnX5TK6dQUygwUr7rgCZmzJjk4CiAxZV3eaTk",
             "symbol": "ETH-USDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ETH-USDC--hrhugqtknx5tk6dquygwur7rgczmzjjk4ciaxzv3eatk/logo.png",
+            "logo": "/networks/solana/tokens/ETH-USDC--HRhugQTKnX5TK6dQUygwUr7rgCZmzJjk4CiAxZV3eaTk/logo.png",
             "tags": [
               "spl"
             ],
@@ -9922,7 +10067,7 @@
   {
     "symbol": "ETHSOL",
     "name": "Orca Aquafarm Token (ETH/SOL)",
-    "logo": "/networks/solana/tokens/ETHSOL--cgftrh4jklpbs9r4hztbdfaruc7qca8rzpblnvtzjber/logo.svg",
+    "logo": "/networks/solana/tokens/ETHSOL--CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9934,11 +10079,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (ETH/SOL)",
-            "address": "cgftrh4jklpbs9r4hztbdfaruc7qca8rzpblnvtzjber",
+            "address": "CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer",
             "symbol": "ETHSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ETHSOL--cgftrh4jklpbs9r4hztbdfaruc7qca8rzpblnvtzjber/logo.svg",
+            "logo": "/networks/solana/tokens/ETHSOL--CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9951,7 +10096,7 @@
   {
     "symbol": "ETHUSDC",
     "name": "Orca Aquafarm Token (ETH/USDC)",
-    "logo": "/networks/solana/tokens/ETHUSDC--hdp2ayfmvlz6swposuns62jjvw4hjmkp7doxucqpwn56/logo.svg",
+    "logo": "/networks/solana/tokens/ETHUSDC--HDP2AYFmvLz6sWpoSuNS62JjvW4HjMKp7doXucqpWN56/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9963,11 +10108,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (ETH/USDC)",
-            "address": "hdp2ayfmvlz6swposuns62jjvw4hjmkp7doxucqpwn56",
+            "address": "HDP2AYFmvLz6sWpoSuNS62JjvW4HjMKp7doXucqpWN56",
             "symbol": "ETHUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ETHUSDC--hdp2ayfmvlz6swposuns62jjvw4hjmkp7doxucqpwn56/logo.svg",
+            "logo": "/networks/solana/tokens/ETHUSDC--HDP2AYFmvLz6sWpoSuNS62JjvW4HjMKp7doXucqpWN56/logo.svg",
             "tags": [
               "spl"
             ],
@@ -9980,7 +10125,7 @@
   {
     "symbol": "FIDASOL",
     "name": "Orca LP Token (FIDA/SOL)",
-    "logo": "/networks/solana/tokens/FIDASOL--fj9q9oja7vdf5rfbctc6dd7d3nlpwsxdtfse8cwfuvqt/logo.svg",
+    "logo": "/networks/solana/tokens/FIDASOL--FJ9Q9ojA7vdf5rFbcTc6dd7D3nLpwSxdtFSE8cwfuvqt/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -9992,11 +10137,11 @@
         "assets": [
           {
             "name": "Orca LP Token (FIDA/SOL)",
-            "address": "fj9q9oja7vdf5rfbctc6dd7d3nlpwsxdtfse8cwfuvqt",
+            "address": "FJ9Q9ojA7vdf5rFbcTc6dd7D3nLpwSxdtFSE8cwfuvqt",
             "symbol": "FIDASOL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FIDASOL--fj9q9oja7vdf5rfbctc6dd7d3nlpwsxdtfse8cwfuvqt/logo.svg",
+            "logo": "/networks/solana/tokens/FIDASOL--FJ9Q9ojA7vdf5rFbcTc6dd7D3nLpwSxdtFSE8cwfuvqt/logo.svg",
             "tags": [
               "spl"
             ],
@@ -10009,7 +10154,7 @@
   {
     "symbol": "FIS",
     "name": "StaFi Token",
-    "logo": "/networks/solana/tokens/FIS--fg7x94jpcvbtt4plxwhyr6su3iwim8jj2y215x5yown5/logo.png",
+    "logo": "/networks/solana/tokens/FIS--FG7x94jPcVbtt4pLXWhyr6sU3iWim8JJ2y215X5yowN5/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10021,11 +10166,11 @@
         "assets": [
           {
             "name": "StaFi Token",
-            "address": "fg7x94jpcvbtt4plxwhyr6su3iwim8jj2y215x5yown5",
+            "address": "FG7x94jPcVbtt4pLXWhyr6sU3iWim8JJ2y215X5yowN5",
             "symbol": "FIS",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FIS--fg7x94jpcvbtt4plxwhyr6su3iwim8jj2y215x5yown5/logo.png",
+            "logo": "/networks/solana/tokens/FIS--FG7x94jPcVbtt4pLXWhyr6sU3iWim8JJ2y215X5yowN5/logo.png",
             "tags": [
               "spl"
             ],
@@ -10038,7 +10183,7 @@
   {
     "symbol": "FISH",
     "name": "CATPUNK TOKEN",
-    "logo": "/networks/solana/tokens/FISH--21cpwepusr6gr65t3ymijx16vs7m8vcqrty4xjqblbwh/logo.png",
+    "logo": "/networks/solana/tokens/FISH--21cpwEpusR6gR65T3ymiJx16VS7M8VCqRTY4XjQbLBwh/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10050,11 +10195,11 @@
         "assets": [
           {
             "name": "CATPUNK TOKEN",
-            "address": "21cpwepusr6gr65t3ymijx16vs7m8vcqrty4xjqblbwh",
+            "address": "21cpwEpusR6gR65T3ymiJx16VS7M8VCqRTY4XjQbLBwh",
             "symbol": "FISH",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FISH--21cpwepusr6gr65t3ymijx16vs7m8vcqrty4xjqblbwh/logo.png",
+            "logo": "/networks/solana/tokens/FISH--21cpwEpusR6gR65T3ymiJx16VS7M8VCqRTY4XjQbLBwh/logo.png",
             "tags": [
               "spl"
             ],
@@ -10067,7 +10212,7 @@
   {
     "symbol": "FISH",
     "name": "CATPUNK TOKEN",
-    "logo": "/networks/solana/tokens/FISH--2fnw2cs23cv2x6jfa4cprbnbk3gcctfh8fcxsdpbkd7x/logo.png",
+    "logo": "/networks/solana/tokens/FISH--2fNw2cs23CV2X6JFA4CprbNbk3GcctFH8FcXSDPBkd7X/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10079,11 +10224,11 @@
         "assets": [
           {
             "name": "CATPUNK TOKEN",
-            "address": "2fnw2cs23cv2x6jfa4cprbnbk3gcctfh8fcxsdpbkd7x",
+            "address": "2fNw2cs23CV2X6JFA4CprbNbk3GcctFH8FcXSDPBkd7X",
             "symbol": "FISH",
             "decimals": 0,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FISH--2fnw2cs23cv2x6jfa4cprbnbk3gcctfh8fcxsdpbkd7x/logo.png",
+            "logo": "/networks/solana/tokens/FISH--2fNw2cs23CV2X6JFA4CprbNbk3GcctFH8FcXSDPBkd7X/logo.png",
             "tags": [
               "spl"
             ],
@@ -10096,7 +10241,7 @@
   {
     "symbol": "FLC",
     "name": "Feliz Coin",
-    "logo": "/networks/solana/tokens/FLC--8euyhq7zvg7t9ofwywtkih1ybg5exjkcgn7oc8frxwdt/logo.png",
+    "logo": "/networks/solana/tokens/FLC--8EUyHq7ZVg7t9oFwYWtkiH1ybg5eXjKCGn7oc8FRXwDT/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10108,11 +10253,11 @@
         "assets": [
           {
             "name": "Feliz Coin",
-            "address": "8euyhq7zvg7t9ofwywtkih1ybg5exjkcgn7oc8frxwdt",
+            "address": "8EUyHq7ZVg7t9oFwYWtkiH1ybg5eXjKCGn7oc8FRXwDT",
             "symbol": "FLC",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FLC--8euyhq7zvg7t9ofwywtkih1ybg5exjkcgn7oc8frxwdt/logo.png",
+            "logo": "/networks/solana/tokens/FLC--8EUyHq7ZVg7t9oFwYWtkiH1ybg5eXjKCGn7oc8FRXwDT/logo.png",
             "tags": [
               "spl"
             ],
@@ -10125,7 +10270,7 @@
   {
     "symbol": "FOX",
     "name": "ShapeShift FOX Token (Wormhole)",
-    "logo": "/networks/solana/tokens/FOX--fh4e5vx2eutbzygk2fxn1p3a4vuoh73opvuemfrwxk2y/logo.png",
+    "logo": "/networks/solana/tokens/FOX--Fh4e5vX2euTBzyGK2FXN1P3A4VUoH73oPVuemfRWXK2Y/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10137,11 +10282,11 @@
         "assets": [
           {
             "name": "ShapeShift FOX Token (Wormhole)",
-            "address": "fh4e5vx2eutbzygk2fxn1p3a4vuoh73opvuemfrwxk2y",
+            "address": "Fh4e5vX2euTBzyGK2FXN1P3A4VUoH73oPVuemfRWXK2Y",
             "symbol": "FOX",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FOX--fh4e5vx2eutbzygk2fxn1p3a4vuoh73opvuemfrwxk2y/logo.png",
+            "logo": "/networks/solana/tokens/FOX--Fh4e5vX2euTBzyGK2FXN1P3A4VUoH73oPVuemfRWXK2Y/logo.png",
             "tags": [
               "spl"
             ],
@@ -10154,7 +10299,7 @@
   {
     "symbol": "FRAX",
     "name": "Frax (Wormhole)",
-    "logo": "/networks/solana/tokens/FRAX--fr87nweuxvgerfghzm8y4aggkglnaxswr1pd8wz4kzcp/logo.png",
+    "logo": "/networks/solana/tokens/FRAX--FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10166,11 +10311,11 @@
         "assets": [
           {
             "name": "Frax (Wormhole)",
-            "address": "fr87nweuxvgerfghzm8y4aggkglnaxswr1pd8wz4kzcp",
+            "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
             "symbol": "FRAX",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FRAX--fr87nweuxvgerfghzm8y4aggkglnaxswr1pd8wz4kzcp/logo.png",
+            "logo": "/networks/solana/tokens/FRAX--FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
             "tags": [
               "spl"
             ],
@@ -10183,7 +10328,7 @@
   {
     "symbol": "FRIES",
     "name": "Soltato FRIES",
-    "logo": "/networks/solana/tokens/FRIES--fricebw1v99gwrjrxpnsq6su2tabhabnxiz3vnsvfppn/logo.png",
+    "logo": "/networks/solana/tokens/FRIES--FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10195,11 +10340,11 @@
         "assets": [
           {
             "name": "Soltato FRIES",
-            "address": "fricebw1v99gwrjrxpnsq6su2tabhabnxiz3vnsvfppn",
+            "address": "FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN",
             "symbol": "FRIES",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FRIES--fricebw1v99gwrjrxpnsq6su2tabhabnxiz3vnsvfppn/logo.png",
+            "logo": "/networks/solana/tokens/FRIES--FriCEbw1V99GwrJRXPnSQ6su2TabHabNxiZ3VNsVFPPN/logo.png",
             "tags": [
               "spl"
             ],
@@ -10212,7 +10357,7 @@
   {
     "symbol": "FRONT",
     "name": "Wrapped FRONT (Sollet)",
-    "logo": "/networks/solana/tokens/FRONT--9s4t2neaijvmvpdrykvrfjpbafpbltvbvys3decojqhw/logo.png",
+    "logo": "/networks/solana/tokens/FRONT--9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10224,11 +10369,11 @@
         "assets": [
           {
             "name": "Wrapped FRONT (Sollet)",
-            "address": "9s4t2neaijvmvpdrykvrfjpbafpbltvbvys3decojqhw",
+            "address": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw",
             "symbol": "FRONT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FRONT--9s4t2neaijvmvpdrykvrfjpbafpbltvbvys3decojqhw/logo.png",
+            "logo": "/networks/solana/tokens/FRONT--9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw/logo.png",
             "tags": [
               "spl"
             ],
@@ -10241,7 +10386,7 @@
   {
     "symbol": "FTT",
     "name": "Wrapped FTT (Sollet)",
-    "logo": "/networks/solana/tokens/FTT--agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3/logo.png",
+    "logo": "/networks/solana/tokens/FTT--AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10253,11 +10398,11 @@
         "assets": [
           {
             "name": "Wrapped FTT (Sollet)",
-            "address": "agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3",
+            "address": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
             "symbol": "FTT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FTT--agfead2et2zjif9jagpdmixqqvw5i81abdvke7phnfz3/logo.png",
+            "logo": "/networks/solana/tokens/FTT--AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
             "tags": [
               "spl"
             ],
@@ -10270,7 +10415,7 @@
   {
     "symbol": "FTTSOL",
     "name": "Orca LP Token (FTT/SOL)",
-    "logo": "/networks/solana/tokens/FTTSOL--yjrkne9ophumtq1vvhjvzg5wnrsjqtlswg3nbaawcq5/logo.svg",
+    "logo": "/networks/solana/tokens/FTTSOL--YJRknE9oPhUMtq1VvhjVzG5WnRsjQtLsWg3nbaAwCQ5/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -10282,11 +10427,11 @@
         "assets": [
           {
             "name": "Orca LP Token (FTT/SOL)",
-            "address": "yjrkne9ophumtq1vvhjvzg5wnrsjqtlswg3nbaawcq5",
+            "address": "YJRknE9oPhUMtq1VvhjVzG5WnRsjQtLsWg3nbaAwCQ5",
             "symbol": "FTTSOL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FTTSOL--yjrkne9ophumtq1vvhjvzg5wnrsjqtlswg3nbaawcq5/logo.svg",
+            "logo": "/networks/solana/tokens/FTTSOL--YJRknE9oPhUMtq1VvhjVzG5WnRsjQtLsWg3nbaAwCQ5/logo.svg",
             "tags": [
               "spl"
             ],
@@ -10299,7 +10444,7 @@
   {
     "symbol": "FXS",
     "name": "Frax Share (Wormhole)",
-    "logo": "/networks/solana/tokens/FXS--6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct/logo.png",
+    "logo": "/networks/solana/tokens/FXS--6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10311,11 +10456,11 @@
         "assets": [
           {
             "name": "Frax Share (Wormhole)",
-            "address": "6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct",
+            "address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
             "symbol": "FXS",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/FXS--6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct/logo.png",
+            "logo": "/networks/solana/tokens/FXS--6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
             "tags": [
               "spl"
             ],
@@ -10328,7 +10473,7 @@
   {
     "symbol": "GME",
     "name": "GameStop",
-    "logo": "/networks/solana/tokens/GME--ac2wmyujrxigtb5mss7fkzgycacf7k8nbvs5orte6mfo/logo.svg",
+    "logo": "/networks/solana/tokens/GME--Ac2wmyujRxiGtb5msS7fKzGycaCF7K8NbVs5ortE6MFo/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -10340,11 +10485,11 @@
         "assets": [
           {
             "name": "GameStop",
-            "address": "ac2wmyujrxigtb5mss7fkzgycacf7k8nbvs5orte6mfo",
+            "address": "Ac2wmyujRxiGtb5msS7fKzGycaCF7K8NbVs5ortE6MFo",
             "symbol": "GME",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/GME--ac2wmyujrxigtb5mss7fkzgycacf7k8nbvs5orte6mfo/logo.svg",
+            "logo": "/networks/solana/tokens/GME--Ac2wmyujRxiGtb5msS7fKzGycaCF7K8NbVs5ortE6MFo/logo.svg",
             "tags": [
               "spl"
             ],
@@ -10357,7 +10502,7 @@
   {
     "symbol": "GOLD",
     "name": "SolGold",
-    "logo": "/networks/solana/tokens/GOLD--e1zxrweqcwzviarakjnjqupuyytzm1bukjgb8kibn1sn/logo.jpg",
+    "logo": "/networks/solana/tokens/GOLD--E1zxRweqCWzviAraKjNjqupuyYTzm1bukJgb8KiBN1sN/logo.jpg",
     "priority": -1,
     "networks": [
       {
@@ -10369,11 +10514,11 @@
         "assets": [
           {
             "name": "SolGold",
-            "address": "e1zxrweqcwzviarakjnjqupuyytzm1bukjgb8kibn1sn",
+            "address": "E1zxRweqCWzviAraKjNjqupuyYTzm1bukJgb8KiBN1sN",
             "symbol": "GOLD",
             "decimals": 5,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/GOLD--e1zxrweqcwzviarakjnjqupuyytzm1bukjgb8kibn1sn/logo.jpg",
+            "logo": "/networks/solana/tokens/GOLD--E1zxRweqCWzviAraKjNjqupuyYTzm1bukJgb8KiBN1sN/logo.jpg",
             "tags": [
               "spl"
             ],
@@ -10386,7 +10531,7 @@
   {
     "symbol": "GT",
     "name": "Good Terrier",
-    "logo": "/networks/solana/tokens/GT--8om7e9acx23c62yazumbgaw5pmp48nmw7mnxgarn3xni/logo.png",
+    "logo": "/networks/solana/tokens/GT--8om7E9acx23C62yazUMbGaw5pmp48NmW7mnxGarn3XNi/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10398,11 +10543,11 @@
         "assets": [
           {
             "name": "Good Terrier",
-            "address": "8om7e9acx23c62yazumbgaw5pmp48nmw7mnxgarn3xni",
+            "address": "8om7E9acx23C62yazUMbGaw5pmp48NmW7mnxGarn3XNi",
             "symbol": "GT",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/GT--8om7e9acx23c62yazumbgaw5pmp48nmw7mnxgarn3xni/logo.png",
+            "logo": "/networks/solana/tokens/GT--8om7E9acx23C62yazUMbGaw5pmp48NmW7mnxGarn3XNi/logo.png",
             "tags": [
               "spl"
             ],
@@ -10415,7 +10560,7 @@
   {
     "symbol": "GTON",
     "name": "Graviton",
-    "logo": "/networks/solana/tokens/GTON--4hj6sjwmsvvfag6tkl97yhwibsdx9babwoixgb3epxxb/logo.png",
+    "logo": "/networks/solana/tokens/GTON--4hJ6sjwmsvvFag6TKL97yhWiBSDX9BABWoiXgb3EPXxB/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10427,11 +10572,11 @@
         "assets": [
           {
             "name": "Graviton",
-            "address": "4hj6sjwmsvvfag6tkl97yhwibsdx9babwoixgb3epxxb",
+            "address": "4hJ6sjwmsvvFag6TKL97yhWiBSDX9BABWoiXgb3EPXxB",
             "symbol": "GTON",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/GTON--4hj6sjwmsvvfag6tkl97yhwibsdx9babwoixgb3epxxb/logo.png",
+            "logo": "/networks/solana/tokens/GTON--4hJ6sjwmsvvFag6TKL97yhWiBSDX9BABWoiXgb3EPXxB/logo.png",
             "tags": [
               "spl"
             ],
@@ -10444,7 +10589,7 @@
   {
     "symbol": "HBTC",
     "name": "Huobi BTC (Wormhole)",
-    "logo": "/networks/solana/tokens/HBTC--7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8/logo.png",
+    "logo": "/networks/solana/tokens/HBTC--7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10456,11 +10601,11 @@
         "assets": [
           {
             "name": "Huobi BTC (Wormhole)",
-            "address": "7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8",
+            "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
             "symbol": "HBTC",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/HBTC--7dvh61chzgmn9bwg4pkzwrp8pbywpj7zpnf2vamkt2h8/logo.png",
+            "logo": "/networks/solana/tokens/HBTC--7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png",
             "tags": [
               "spl"
             ],
@@ -10473,7 +10618,7 @@
   {
     "symbol": "HGET",
     "name": "Wrapped Hedget (Sollet)",
-    "logo": "/networks/solana/tokens/HGET--btzqfwqdgbk9wf2rxeiwyqbdby1etnuun6zephvvs7yn/logo.svg",
+    "logo": "/networks/solana/tokens/HGET--BtZQfWqDGbk9Wf2rXEiWyQBdBY1etnUUn6zEphvVS7yN/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -10485,11 +10630,40 @@
         "assets": [
           {
             "name": "Wrapped Hedget (Sollet)",
-            "address": "btzqfwqdgbk9wf2rxeiwyqbdby1etnuun6zephvvs7yn",
+            "address": "BtZQfWqDGbk9Wf2rXEiWyQBdBY1etnUUn6zEphvVS7yN",
             "symbol": "HGET",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/HGET--btzqfwqdgbk9wf2rxeiwyqbdby1etnuun6zephvvs7yn/logo.svg",
+            "logo": "/networks/solana/tokens/HGET--BtZQfWqDGbk9Wf2rXEiWyQBdBY1etnUUn6zEphvVS7yN/logo.svg",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "HOLY",
+    "name": "HOLY",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "HOLY",
+            "address": "3GECTP7H4Tww3w8jEPJCJtXUtXxiZty31S9szs84CcwQ",
+            "symbol": "HOLY",
+            "decimals": 6,
+            "chainId": 101,
+            "logo": "",
             "tags": [
               "spl"
             ],
@@ -10502,7 +10676,7 @@
   {
     "symbol": "HUSD",
     "name": "HUSD (Wormhole)",
-    "logo": "/networks/solana/tokens/HUSD--7vqo3hflnh5qqgtm8ec3xqbpkjuu7ns9legwjerrh5sw/logo.png",
+    "logo": "/networks/solana/tokens/HUSD--7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10514,11 +10688,11 @@
         "assets": [
           {
             "name": "HUSD (Wormhole)",
-            "address": "7vqo3hflnh5qqgtm8ec3xqbpkjuu7ns9legwjerrh5sw",
+            "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
             "symbol": "HUSD",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/HUSD--7vqo3hflnh5qqgtm8ec3xqbpkjuu7ns9legwjerrh5sw/logo.png",
+            "logo": "/networks/solana/tokens/HUSD--7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
             "tags": [
               "spl"
             ],
@@ -10531,7 +10705,7 @@
   {
     "symbol": "HXRO",
     "name": "Wrapped HXRO (Sollet)",
-    "logo": "/networks/solana/tokens/HXRO--djafv9qemgp7mlmen5wrfqafwxsblgusgvs16zkrk9kc/logo.png",
+    "logo": "/networks/solana/tokens/HXRO--DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10543,11 +10717,11 @@
         "assets": [
           {
             "name": "Wrapped HXRO (Sollet)",
-            "address": "djafv9qemgp7mlmen5wrfqafwxsblgusgvs16zkrk9kc",
+            "address": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
             "symbol": "HXRO",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/HXRO--djafv9qemgp7mlmen5wrfqafwxsblgusgvs16zkrk9kc/logo.png",
+            "logo": "/networks/solana/tokens/HXRO--DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc/logo.png",
             "tags": [
               "spl"
             ],
@@ -10560,7 +10734,7 @@
   {
     "symbol": "HXRO",
     "name": "Hxro (Wormhole)",
-    "logo": "/networks/solana/tokens/HXRO--hxhwkvpk5ns4ltg5nij2g671ckxfrkpk8vy271ub4uek/logo.png",
+    "logo": "/networks/solana/tokens/HXRO--HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10572,11 +10746,11 @@
         "assets": [
           {
             "name": "Hxro (Wormhole)",
-            "address": "hxhwkvpk5ns4ltg5nij2g671ckxfrkpk8vy271ub4uek",
+            "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
             "symbol": "HXRO",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/HXRO--hxhwkvpk5ns4ltg5nij2g671ckxfrkpk8vy271ub4uek/logo.png",
+            "logo": "/networks/solana/tokens/HXRO--HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK/logo.png",
             "tags": [
               "spl"
             ],
@@ -10601,7 +10775,7 @@
         "assets": [
           {
             "name": "Impossible Finance",
-            "address": "xjumvw7krlolcyvd727jv9fjnusdvczaquk6xpy6kgm",
+            "address": "XJUMvw7KRLoLCYVD727jV9fjNUSDVcZaQUK6XpY6kGm",
             "symbol": "IF",
             "decimals": 9,
             "chainId": 101,
@@ -10618,7 +10792,7 @@
   {
     "symbol": "JET",
     "name": "Jet Protocol",
-    "logo": "/networks/solana/tokens/JET--jet6zmjwkcn9tprt2v2jfamm5vnqfdpubcyakojmgtz/logo.png",
+    "logo": "/networks/solana/tokens/JET--JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10630,11 +10804,11 @@
         "assets": [
           {
             "name": "Jet Protocol",
-            "address": "jet6zmjwkcn9tprt2v2jfamm5vnqfdpubcyakojmgtz",
+            "address": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
             "symbol": "JET",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/JET--jet6zmjwkcn9tprt2v2jfamm5vnqfdpubcyakojmgtz/logo.png",
+            "logo": "/networks/solana/tokens/JET--JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz/logo.png",
             "tags": [
               "spl"
             ],
@@ -10647,7 +10821,7 @@
   {
     "symbol": "JPYC",
     "name": "JPY Coin(Sollet)(Deprecated)",
-    "logo": "/networks/solana/tokens/JPYC--5trvbqv1lvhxispmshtezuf8in82wbpdcr5zaw7swc3s/logo.png",
+    "logo": "/networks/solana/tokens/JPYC--5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10659,11 +10833,11 @@
         "assets": [
           {
             "name": "JPY Coin(Sollet)(Deprecated)",
-            "address": "5trvbqv1lvhxispmshtezuf8in82wbpdcr5zaw7swc3s",
+            "address": "5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s",
             "symbol": "JPYC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/JPYC--5trvbqv1lvhxispmshtezuf8in82wbpdcr5zaw7swc3s/logo.png",
+            "logo": "/networks/solana/tokens/JPYC--5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png",
             "tags": [
               "spl"
             ],
@@ -10676,7 +10850,7 @@
   {
     "symbol": "JPYC",
     "name": "JPY Coin(Wormhole)",
-    "logo": "/networks/solana/tokens/JPYC--6cssfnbjf4vo56eithalhlwdf95flrt48qhsufzwnnhv/logo.png",
+    "logo": "/networks/solana/tokens/JPYC--6CssfnBjF4Vo56EithaLHLWDF95fLrt48QHsUfZwNnhv/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10688,11 +10862,11 @@
         "assets": [
           {
             "name": "JPY Coin(Wormhole)",
-            "address": "6cssfnbjf4vo56eithalhlwdf95flrt48qhsufzwnnhv",
+            "address": "6CssfnBjF4Vo56EithaLHLWDF95fLrt48QHsUfZwNnhv",
             "symbol": "JPYC",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/JPYC--6cssfnbjf4vo56eithalhlwdf95flrt48qhsufzwnnhv/logo.png",
+            "logo": "/networks/solana/tokens/JPYC--6CssfnBjF4Vo56EithaLHLWDF95fLrt48QHsUfZwNnhv/logo.png",
             "tags": [
               "spl"
             ],
@@ -10705,7 +10879,7 @@
   {
     "symbol": "KARMA",
     "name": "Wrapped KARMA (Sollet)",
-    "logo": "/networks/solana/tokens/KARMA--ecqexpgnfbve2i1cmjutr4bpxj4zoqmdd2rtkeccatfx/logo.png",
+    "logo": "/networks/solana/tokens/KARMA--EcqExpGNFBve2i1cMJUTR4bPXj4ZoqmDD2rTkeCcaTFX/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10717,11 +10891,11 @@
         "assets": [
           {
             "name": "Wrapped KARMA (Sollet)",
-            "address": "ecqexpgnfbve2i1cmjutr4bpxj4zoqmdd2rtkeccatfx",
+            "address": "EcqExpGNFBve2i1cMJUTR4bPXj4ZoqmDD2rTkeCcaTFX",
             "symbol": "KARMA",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/KARMA--ecqexpgnfbve2i1cmjutr4bpxj4zoqmdd2rtkeccatfx/logo.png",
+            "logo": "/networks/solana/tokens/KARMA--EcqExpGNFBve2i1cMJUTR4bPXj4ZoqmDD2rTkeCcaTFX/logo.png",
             "tags": [
               "spl"
             ],
@@ -10734,7 +10908,7 @@
   {
     "symbol": "KEEP",
     "name": "Wrapped KEEP (Sollet)",
-    "logo": "/networks/solana/tokens/KEEP--guohe4djua5fkpwo3joipgsb7yzer7lpdmt1vhzy3zht/logo.png",
+    "logo": "/networks/solana/tokens/KEEP--GUohe4DJUA5FKPWo3joiPgsB7yzer7LpDmt1Vhzy3Zht/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10746,11 +10920,11 @@
         "assets": [
           {
             "name": "Wrapped KEEP (Sollet)",
-            "address": "guohe4djua5fkpwo3joipgsb7yzer7lpdmt1vhzy3zht",
+            "address": "GUohe4DJUA5FKPWo3joiPgsB7yzer7LpDmt1Vhzy3Zht",
             "symbol": "KEEP",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/KEEP--guohe4djua5fkpwo3joipgsb7yzer7lpdmt1vhzy3zht/logo.png",
+            "logo": "/networks/solana/tokens/KEEP--GUohe4DJUA5FKPWo3joiPgsB7yzer7LpDmt1Vhzy3Zht/logo.png",
             "tags": [
               "spl"
             ],
@@ -10763,7 +10937,7 @@
   {
     "symbol": "KIN",
     "name": "KIN",
-    "logo": "/networks/solana/tokens/KIN--kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6/logo.png",
+    "logo": "/networks/solana/tokens/KIN--kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10775,11 +10949,11 @@
         "assets": [
           {
             "name": "KIN",
-            "address": "kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6",
+            "address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
             "symbol": "KIN",
             "decimals": 5,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/KIN--kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6/logo.png",
+            "logo": "/networks/solana/tokens/KIN--kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/logo.png",
             "tags": [
               "spl"
             ],
@@ -10792,7 +10966,7 @@
   {
     "symbol": "KINSOL",
     "name": "Orca LP Token (KIN/SOL)",
-    "logo": "/networks/solana/tokens/KINSOL--c9pkvetjprrpd53pr2ar8nytvzzuccrkhyzcfxbzxequ/logo.svg",
+    "logo": "/networks/solana/tokens/KINSOL--C9PKvetJPrrPD53PR2aR8NYtVZzucCRkHYzcFXbZXEqu/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -10804,11 +10978,11 @@
         "assets": [
           {
             "name": "Orca LP Token (KIN/SOL)",
-            "address": "c9pkvetjprrpd53pr2ar8nytvzzuccrkhyzcfxbzxequ",
+            "address": "C9PKvetJPrrPD53PR2aR8NYtVZzucCRkHYzcFXbZXEqu",
             "symbol": "KINSOL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/KINSOL--c9pkvetjprrpd53pr2ar8nytvzzuccrkhyzcfxbzxequ/logo.svg",
+            "logo": "/networks/solana/tokens/KINSOL--C9PKvetJPrrPD53PR2aR8NYtVZzucCRkHYzcFXbZXEqu/logo.svg",
             "tags": [
               "spl"
             ],
@@ -10821,7 +10995,7 @@
   {
     "symbol": "KRW",
     "name": "Krown",
-    "logo": "/networks/solana/tokens/KRW--gw7m5dqzj6b6a8dykdry6z9t9fuua2xpuokjv2cortoq/logo.png",
+    "logo": "/networks/solana/tokens/KRW--Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10833,11 +11007,11 @@
         "assets": [
           {
             "name": "Krown",
-            "address": "gw7m5dqzj6b6a8dykdry6z9t9fuua2xpuokjv2cortoq",
+            "address": "Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq",
             "symbol": "KRW",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/KRW--gw7m5dqzj6b6a8dykdry6z9t9fuua2xpuokjv2cortoq/logo.png",
+            "logo": "/networks/solana/tokens/KRW--Gw7M5dqZJ6B6a8dYkDry6z9t9FuUA2xPUokjV2cortoq/logo.png",
             "tags": [
               "spl"
             ],
@@ -10850,7 +11024,7 @@
   {
     "symbol": "KUROUSDC",
     "name": "Orca Double Dip Token (KURO/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/KUROUSDC--88rcqs9vfvqpjsre3pknzbemtzcs9os1a1cjuangnlzj/logo.svg",
+    "logo": "/networks/solana/tokens/KUROUSDC--88RCQs9VFvqPjsRe3PKNzBeMtzCS9oS1a1CJuAnGnLZJ/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -10862,11 +11036,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (KURO/USDC[aquafarm])",
-            "address": "88rcqs9vfvqpjsre3pknzbemtzcs9os1a1cjuangnlzj",
+            "address": "88RCQs9VFvqPjsRe3PKNzBeMtzCS9oS1a1CJuAnGnLZJ",
             "symbol": "KUROUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/KUROUSDC--88rcqs9vfvqpjsre3pknzbemtzcs9os1a1cjuangnlzj/logo.svg",
+            "logo": "/networks/solana/tokens/KUROUSDC--88RCQs9VFvqPjsRe3PKNzBeMtzCS9oS1a1CJuAnGnLZJ/logo.svg",
             "tags": [
               "spl"
             ],
@@ -10879,7 +11053,7 @@
   {
     "symbol": "Kreechures",
     "name": "Kreechures",
-    "logo": "/networks/solana/tokens/Kreechures--7p7amm6qoa8wprkeqf87pt51crwmwvxph5tbnmydwhbh/logo.svg",
+    "logo": "/networks/solana/tokens/Kreechures--7p7AMM6QoA8wPRKeqF87Pt51CRWmWvXPH5TBNMyDWhbH/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -10891,11 +11065,11 @@
         "assets": [
           {
             "name": "Kreechures",
-            "address": "7p7amm6qoa8wprkeqf87pt51crwmwvxph5tbnmydwhbh",
+            "address": "7p7AMM6QoA8wPRKeqF87Pt51CRWmWvXPH5TBNMyDWhbH",
             "symbol": "Kreechures",
             "decimals": 0,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/Kreechures--7p7amm6qoa8wprkeqf87pt51crwmwvxph5tbnmydwhbh/logo.svg",
+            "logo": "/networks/solana/tokens/Kreechures--7p7AMM6QoA8wPRKeqF87Pt51CRWmWvXPH5TBNMyDWhbH/logo.svg",
             "tags": [
               "spl"
             ],
@@ -10908,7 +11082,7 @@
   {
     "symbol": "LINK",
     "name": "ChainLink Token (Wormhole)",
-    "logo": "/networks/solana/tokens/LINK--2wptofq8skacrkzwrzdjxpitya8awwgx8afxdebrrvlx/logo.png",
+    "logo": "/networks/solana/tokens/LINK--2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10920,11 +11094,11 @@
         "assets": [
           {
             "name": "ChainLink Token (Wormhole)",
-            "address": "2wptofq8skacrkzwrzdjxpitya8awwgx8afxdebrrvlx",
+            "address": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
             "symbol": "LINK",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LINK--2wptofq8skacrkzwrzdjxpitya8awwgx8afxdebrrvlx/logo.png",
+            "logo": "/networks/solana/tokens/LINK--2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
             "tags": [
               "spl"
             ],
@@ -10937,7 +11111,7 @@
   {
     "symbol": "LINK",
     "name": "Wrapped Chainlink (Sollet)",
-    "logo": "/networks/solana/tokens/LINK--cwe8jptuyhdctzywpte1o5dfqfdjzwkc9wkz6rsjqudg/logo.png",
+    "logo": "/networks/solana/tokens/LINK--CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10949,11 +11123,11 @@
         "assets": [
           {
             "name": "Wrapped Chainlink (Sollet)",
-            "address": "cwe8jptuyhdctzywpte1o5dfqfdjzwkc9wkz6rsjqudg",
+            "address": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
             "symbol": "LINK",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LINK--cwe8jptuyhdctzywpte1o5dfqfdjzwkc9wkz6rsjqudg/logo.png",
+            "logo": "/networks/solana/tokens/LINK--CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG/logo.png",
             "tags": [
               "spl"
             ],
@@ -10966,7 +11140,7 @@
   {
     "symbol": "LIQ",
     "name": "LIQ Protocol",
-    "logo": "/networks/solana/tokens/LIQ--4wjpqj6prkc4dhhyghwjzgbvp78dkbza2u3khofnbuhj/logo.png",
+    "logo": "/networks/solana/tokens/LIQ--4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -10978,11 +11152,11 @@
         "assets": [
           {
             "name": "LIQ Protocol",
-            "address": "4wjpqj6prkc4dhhyghwjzgbvp78dkbza2u3khofnbuhj",
+            "address": "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
             "symbol": "LIQ",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LIQ--4wjpqj6prkc4dhhyghwjzgbvp78dkbza2u3khofnbuhj/logo.png",
+            "logo": "/networks/solana/tokens/LIQ--4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj/logo.png",
             "tags": [
               "spl"
             ],
@@ -10995,7 +11169,7 @@
   {
     "symbol": "LIQUSDC",
     "name": "Orca Double Dip Token (LIQ/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/LIQUSDC--5rgtjdijhd5mx2fvdeyulrciwamd9z3wpmjsxwghmo4u/logo.svg",
+    "logo": "/networks/solana/tokens/LIQUSDC--5rGtJDiJhD5Mx2fvdEYuLrCiWaMD9z3wpmJSxwGHmo4u/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11007,11 +11181,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (LIQ/USDC[aquafarm])",
-            "address": "5rgtjdijhd5mx2fvdeyulrciwamd9z3wpmjsxwghmo4u",
+            "address": "5rGtJDiJhD5Mx2fvdEYuLrCiWaMD9z3wpmJSxwGHmo4u",
             "symbol": "LIQUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LIQUSDC--5rgtjdijhd5mx2fvdeyulrciwamd9z3wpmjsxwghmo4u/logo.svg",
+            "logo": "/networks/solana/tokens/LIQUSDC--5rGtJDiJhD5Mx2fvdEYuLrCiWaMD9z3wpmJSxwGHmo4u/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11036,7 +11210,7 @@
         "assets": [
           {
             "name": "LMS Stars",
-            "address": "dxwxdwbqnyxs4abcrwaju2xi4xpyjlp3uxrhsu1ju6gs",
+            "address": "DxWXDwbqNyXs4ABCRWAJU2Xi4xpYJLp3UxRhsu1jU6gs",
             "symbol": "LMS",
             "decimals": 9,
             "chainId": 101,
@@ -11053,7 +11227,7 @@
   {
     "symbol": "LOTTO",
     "name": "Lotto",
-    "logo": "/networks/solana/tokens/LOTTO--7csho7qjsedjgx3hhbxfwp1w3lyark3qh3pm2x55we14/logo.png",
+    "logo": "/networks/solana/tokens/LOTTO--7Csho7qjseDjgX3hhBxfwP1W3LYARK3QH3PM2x55we14/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11065,11 +11239,11 @@
         "assets": [
           {
             "name": "Lotto",
-            "address": "7csho7qjsedjgx3hhbxfwp1w3lyark3qh3pm2x55we14",
+            "address": "7Csho7qjseDjgX3hhBxfwP1W3LYARK3QH3PM2x55we14",
             "symbol": "LOTTO",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LOTTO--7csho7qjsedjgx3hhbxfwp1w3lyark3qh3pm2x55we14/logo.png",
+            "logo": "/networks/solana/tokens/LOTTO--7Csho7qjseDjgX3hhBxfwP1W3LYARK3QH3PM2x55we14/logo.png",
             "tags": [
               "spl"
             ],
@@ -11082,7 +11256,7 @@
   {
     "symbol": "LUA",
     "name": "Wrapped LUA (Sollet)",
-    "logo": "/networks/solana/tokens/LUA--eqwckxfs3x47uvosdptrgfnithl9y8icztjaapxbeavx/logo.png",
+    "logo": "/networks/solana/tokens/LUA--EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11094,11 +11268,11 @@
         "assets": [
           {
             "name": "Wrapped LUA (Sollet)",
-            "address": "eqwckxfs3x47uvosdptrgfnithl9y8icztjaapxbeavx",
+            "address": "EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX",
             "symbol": "LUA",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LUA--eqwckxfs3x47uvosdptrgfnithl9y8icztjaapxbeavx/logo.png",
+            "logo": "/networks/solana/tokens/LUA--EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX/logo.png",
             "tags": [
               "spl"
             ],
@@ -11111,7 +11285,7 @@
   {
     "symbol": "LUNA",
     "name": "LUNA (Wormhole)",
-    "logo": "/networks/solana/tokens/LUNA--f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w/logo.png",
+    "logo": "/networks/solana/tokens/LUNA--F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11123,11 +11297,11 @@
         "assets": [
           {
             "name": "LUNA (Wormhole)",
-            "address": "f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w",
+            "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
             "symbol": "LUNA",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/LUNA--f6v4wfadjb8d8p77bmxzgyt8tdksyxlyxh5afhukyx9w/logo.png",
+            "logo": "/networks/solana/tokens/LUNA--F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
             "tags": [
               "spl"
             ],
@@ -11140,7 +11314,7 @@
   {
     "symbol": "MAPS",
     "name": "MAPS",
-    "logo": "/networks/solana/tokens/MAPS--maps41mdahz9qdkxhva4dwb9ruyfv4xqhyaz8xcyepb/logo.svg",
+    "logo": "/networks/solana/tokens/MAPS--MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11152,11 +11326,11 @@
         "assets": [
           {
             "name": "MAPS",
-            "address": "maps41mdahz9qdkxhva4dwb9ruyfv4xqhyaz8xcyepb",
+            "address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
             "symbol": "MAPS",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MAPS--maps41mdahz9qdkxhva4dwb9ruyfv4xqhyaz8xcyepb/logo.svg",
+            "logo": "/networks/solana/tokens/MAPS--MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11169,7 +11343,7 @@
   {
     "symbol": "MAPSSOL",
     "name": "Orca LP Token (MAPS/SOL)",
-    "logo": "/networks/solana/tokens/MAPSSOL--ehkfnhklltuqo1xmzlxhm9eusegpn6rxppzsgpusewaa/logo.svg",
+    "logo": "/networks/solana/tokens/MAPSSOL--EHkfnhKLLTUqo1xMZLxhM9EusEgpN6RXPpZsGpUsewaa/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11181,11 +11355,11 @@
         "assets": [
           {
             "name": "Orca LP Token (MAPS/SOL)",
-            "address": "ehkfnhklltuqo1xmzlxhm9eusegpn6rxppzsgpusewaa",
+            "address": "EHkfnhKLLTUqo1xMZLxhM9EusEgpN6RXPpZsGpUsewaa",
             "symbol": "MAPSSOL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MAPSSOL--ehkfnhklltuqo1xmzlxhm9eusegpn6rxppzsgpusewaa/logo.svg",
+            "logo": "/networks/solana/tokens/MAPSSOL--EHkfnhKLLTUqo1xMZLxhM9EusEgpN6RXPpZsGpUsewaa/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11198,7 +11372,7 @@
   {
     "symbol": "MATH",
     "name": "Wrapped MATH (Sollet)",
-    "logo": "/networks/solana/tokens/MATH--geds162t9ygjulehpwxxgrb1zwkzincgrwnt8vhyjkza/logo.png",
+    "logo": "/networks/solana/tokens/MATH--GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11210,11 +11384,11 @@
         "assets": [
           {
             "name": "Wrapped MATH (Sollet)",
-            "address": "geds162t9ygjulehpwxxgrb1zwkzincgrwnt8vhyjkza",
+            "address": "GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza",
             "symbol": "MATH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MATH--geds162t9ygjulehpwxxgrb1zwkzincgrwnt8vhyjkza/logo.png",
+            "logo": "/networks/solana/tokens/MATH--GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza/logo.png",
             "tags": [
               "spl"
             ],
@@ -11227,7 +11401,7 @@
   {
     "symbol": "MERSOL",
     "name": "Orca Aquafarm Token (MER/SOL)",
-    "logo": "/networks/solana/tokens/MERSOL--crkvrnh6igbfxxenxmn3emwv3fe7vwxeqpa8znbwsgkh/logo.svg",
+    "logo": "/networks/solana/tokens/MERSOL--CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11239,11 +11413,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (MER/SOL)",
-            "address": "crkvrnh6igbfxxenxmn3emwv3fe7vwxeqpa8znbwsgkh",
+            "address": "CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH",
             "symbol": "MERSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MERSOL--crkvrnh6igbfxxenxmn3emwv3fe7vwxeqpa8znbwsgkh/logo.svg",
+            "logo": "/networks/solana/tokens/MERSOL--CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11256,7 +11430,7 @@
   {
     "symbol": "META",
     "name": "Metaplex",
-    "logo": "/networks/solana/tokens/META--metaewgxypbgwsseh8t16a39cq5vyvxzi9zxidpy18m/logo.png",
+    "logo": "/networks/solana/tokens/META--METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11268,11 +11442,11 @@
         "assets": [
           {
             "name": "Metaplex",
-            "address": "metaewgxypbgwsseh8t16a39cq5vyvxzi9zxidpy18m",
+            "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
             "symbol": "META",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/META--metaewgxypbgwsseh8t16a39cq5vyvxzi9zxidpy18m/logo.png",
+            "logo": "/networks/solana/tokens/META--METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m/logo.png",
             "tags": [
               "spl"
             ],
@@ -11285,7 +11459,7 @@
   {
     "symbol": "MM",
     "name": "Million",
-    "logo": "/networks/solana/tokens/MM--ficiux9detee89pgrau1hmoptnem8b1fkpeq8pgytykd/logo.svg",
+    "logo": "/networks/solana/tokens/MM--2PoF4gqWg97yjJk276yUYaGVkkASE7tqAU7H5faEBkeC/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11297,11 +11471,40 @@
         "assets": [
           {
             "name": "Million",
-            "address": "ficiux9detee89pgrau1hmoptnem8b1fkpeq8pgytykd",
+            "address": "2PoF4gqWg97yjJk276yUYaGVkkASE7tqAU7H5faEBkeC",
+            "symbol": "MM",
+            "decimals": 8,
+            "chainId": 101,
+            "logo": "/networks/solana/tokens/MM--2PoF4gqWg97yjJk276yUYaGVkkASE7tqAU7H5faEBkeC/logo.svg",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "MM",
+    "name": "Million",
+    "logo": "/networks/solana/tokens/MM--FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd/logo.svg",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Million",
+            "address": "FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd",
             "symbol": "MM",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MM--ficiux9detee89pgrau1hmoptnem8b1fkpeq8pgytykd/logo.svg",
+            "logo": "/networks/solana/tokens/MM--FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11314,7 +11517,7 @@
   {
     "symbol": "MNDEmSOL",
     "name": "Orca Aquafarm Token (MNDE/mSOL[aquafarm])",
-    "logo": "/networks/solana/tokens/MNDEmSOL--2wpsmuzhesc6ghv3qtfpmjf6ateglgbnmq8u43y6fpxz/logo.svg",
+    "logo": "/networks/solana/tokens/MNDEmSOL--2wPsMuzhEsC6GhV3qtFpmJF6atEgLGbnmQ8U43Y6fPxZ/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11326,11 +11529,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (MNDE/mSOL[aquafarm])",
-            "address": "2wpsmuzhesc6ghv3qtfpmjf6ateglgbnmq8u43y6fpxz",
+            "address": "2wPsMuzhEsC6GhV3qtFpmJF6atEgLGbnmQ8U43Y6fPxZ",
             "symbol": "MNDEmSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MNDEmSOL--2wpsmuzhesc6ghv3qtfpmjf6ateglgbnmq8u43y6fpxz/logo.svg",
+            "logo": "/networks/solana/tokens/MNDEmSOL--2wPsMuzhEsC6GhV3qtFpmJF6atEgLGbnmQ8U43Y6fPxZ/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11343,7 +11546,7 @@
   {
     "symbol": "MOON",
     "name": "MoonSol",
-    "logo": "/networks/solana/tokens/MOON--7txxsfjyt8gr1xzh9vzznrxha4t2vxtybsy9jwhrjfhj/logo.jpg",
+    "logo": "/networks/solana/tokens/MOON--7TXxsfjYt8gR1XZh9vZZNRxhA4t2VxtYbsy9JWHRjFhJ/logo.jpg",
     "priority": -1,
     "networks": [
       {
@@ -11355,11 +11558,11 @@
         "assets": [
           {
             "name": "MoonSol",
-            "address": "7txxsfjyt8gr1xzh9vzznrxha4t2vxtybsy9jwhrjfhj",
+            "address": "7TXxsfjYt8gR1XZh9vZZNRxhA4t2VxtYbsy9JWHRjFhJ",
             "symbol": "MOON",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/MOON--7txxsfjyt8gr1xzh9vzznrxha4t2vxtybsy9jwhrjfhj/logo.jpg",
+            "logo": "/networks/solana/tokens/MOON--7TXxsfjYt8gR1XZh9vZZNRxhA4t2VxtYbsy9JWHRjFhJ/logo.jpg",
             "tags": [
               "spl"
             ],
@@ -11372,7 +11575,7 @@
   {
     "symbol": "NINJASOL",
     "name": "Orca Double Dip Token (NINJA/SOL)",
-    "logo": "/networks/solana/tokens/NINJASOL--db7mpgrzbswvfmj7mgzsm6cfhnxhmnrudqr2hrzmi7re/logo.png",
+    "logo": "/networks/solana/tokens/NINJASOL--Db7mPGrZbswvFmJ7MgZsM6CFhnXHMnrUDqr2hrzmi7Re/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11384,11 +11587,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (NINJA/SOL)",
-            "address": "db7mpgrzbswvfmj7mgzsm6cfhnxhmnrudqr2hrzmi7re",
+            "address": "Db7mPGrZbswvFmJ7MgZsM6CFhnXHMnrUDqr2hrzmi7Re",
             "symbol": "NINJASOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/NINJASOL--db7mpgrzbswvfmj7mgzsm6cfhnxhmnrudqr2hrzmi7re/logo.png",
+            "logo": "/networks/solana/tokens/NINJASOL--Db7mPGrZbswvFmJ7MgZsM6CFhnXHMnrUDqr2hrzmi7Re/logo.png",
             "tags": [
               "spl"
             ],
@@ -11401,7 +11604,7 @@
   {
     "symbol": "OMG",
     "name": "OMEGA",
-    "logo": "/networks/solana/tokens/OMG--67lpcnawesd3lirjn4hyatf5hvcegiva2ihvtqgd23tu/logo.png",
+    "logo": "/networks/solana/tokens/OMG--67LPcnaWesD3LirJn4hyaTF5HVcEGivA2iHvTQgd23TU/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11413,11 +11616,11 @@
         "assets": [
           {
             "name": "OMEGA",
-            "address": "67lpcnawesd3lirjn4hyatf5hvcegiva2ihvtqgd23tu",
+            "address": "67LPcnaWesD3LirJn4hyaTF5HVcEGivA2iHvTQgd23TU",
             "symbol": "OMG",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/OMG--67lpcnawesd3lirjn4hyatf5hvcegiva2ihvtqgd23tu/logo.png",
+            "logo": "/networks/solana/tokens/OMG--67LPcnaWesD3LirJn4hyaTF5HVcEGivA2iHvTQgd23TU/logo.png",
             "tags": [
               "spl"
             ],
@@ -11430,7 +11633,7 @@
   {
     "symbol": "ORCAmSOL",
     "name": "Orca Double Dip Token (ORCA/mSOL[aquafarm])",
-    "logo": "/networks/solana/tokens/ORCAmSOL--876yhw4j4ghyynnjutaryenwgaejhrwc7hy3dam1pzxi/logo.svg",
+    "logo": "/networks/solana/tokens/ORCAmSOL--876yhw4J4GHyynNJUtARYEnWGaejhrWC7Hy3DAm1pZxi/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11442,11 +11645,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (ORCA/mSOL[aquafarm])",
-            "address": "876yhw4j4ghyynnjutaryenwgaejhrwc7hy3dam1pzxi",
+            "address": "876yhw4J4GHyynNJUtARYEnWGaejhrWC7Hy3DAm1pZxi",
             "symbol": "ORCAmSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ORCAmSOL--876yhw4j4ghyynnjutaryenwgaejhrwc7hy3dam1pzxi/logo.svg",
+            "logo": "/networks/solana/tokens/ORCAmSOL--876yhw4J4GHyynNJUtARYEnWGaejhrWC7Hy3DAm1pZxi/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11459,7 +11662,7 @@
   {
     "symbol": "OXYSOL",
     "name": "Orca Aquafarm Token (OXY/SOL)",
-    "logo": "/networks/solana/tokens/OXYSOL--g48rkwsnyd3a4rbfuqhcswr9yue63ffmzgyhgh95dq3s/logo.svg",
+    "logo": "/networks/solana/tokens/OXYSOL--G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11471,11 +11674,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (OXY/SOL)",
-            "address": "g48rkwsnyd3a4rbfuqhcswr9yue63ffmzgyhgh95dq3s",
+            "address": "G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S",
             "symbol": "OXYSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/OXYSOL--g48rkwsnyd3a4rbfuqhcswr9yue63ffmzgyhgh95dq3s/logo.svg",
+            "logo": "/networks/solana/tokens/OXYSOL--G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11488,7 +11691,7 @@
   {
     "symbol": "PAXG",
     "name": "Wrapped Paxos Gold (Sollet)",
-    "logo": "/networks/solana/tokens/PAXG--9wrd14ahdz3qv8et3ebqvsrb3uobzdubjgyfckptg8sj/logo.png",
+    "logo": "/networks/solana/tokens/PAXG--9wRD14AhdZ3qV8et3eBQVsrb3UoBZDUbJGyFckpTg8sj/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11500,11 +11703,11 @@
         "assets": [
           {
             "name": "Wrapped Paxos Gold (Sollet)",
-            "address": "9wrd14ahdz3qv8et3ebqvsrb3uobzdubjgyfckptg8sj",
+            "address": "9wRD14AhdZ3qV8et3eBQVsrb3UoBZDUbJGyFckpTg8sj",
             "symbol": "PAXG",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PAXG--9wrd14ahdz3qv8et3ebqvsrb3uobzdubjgyfckptg8sj/logo.png",
+            "logo": "/networks/solana/tokens/PAXG--9wRD14AhdZ3qV8et3eBQVsrb3UoBZDUbJGyFckpTg8sj/logo.png",
             "tags": [
               "spl"
             ],
@@ -11517,7 +11720,7 @@
   {
     "symbol": "PAXG",
     "name": "Paxos Gold (Wormhole)",
-    "logo": "/networks/solana/tokens/PAXG--c6ofse8nxrdthzrmeq5sxanfgkoyyfwddvpw37jkvpte/logo.png",
+    "logo": "/networks/solana/tokens/PAXG--C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11529,11 +11732,11 @@
         "assets": [
           {
             "name": "Paxos Gold (Wormhole)",
-            "address": "c6ofse8nxrdthzrmeq5sxanfgkoyyfwddvpw37jkvpte",
+            "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
             "symbol": "PAXG",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PAXG--c6ofse8nxrdthzrmeq5sxanfgkoyyfwddvpw37jkvpte/logo.png",
+            "logo": "/networks/solana/tokens/PAXG--C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe/logo.png",
             "tags": [
               "spl"
             ],
@@ -11546,7 +11749,7 @@
   {
     "symbol": "PERA",
     "name": "Prithera token",
-    "logo": "/networks/solana/tokens/PERA--7b9rgzhizhiecopwxwd7ihbjtq7ljjy4mcxvca2ttgck/logo.png",
+    "logo": "/networks/solana/tokens/PERA--7b9rgZhiZHieCoPwxWd7ihbjtQ7Ljjy4McxvcA2TTgcK/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11558,11 +11761,11 @@
         "assets": [
           {
             "name": "Prithera token",
-            "address": "7b9rgzhizhiecopwxwd7ihbjtq7ljjy4mcxvca2ttgck",
+            "address": "7b9rgZhiZHieCoPwxWd7ihbjtQ7Ljjy4McxvcA2TTgcK",
             "symbol": "PERA",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PERA--7b9rgzhizhiecopwxwd7ihbjtq7ljjy4mcxvca2ttgck/logo.png",
+            "logo": "/networks/solana/tokens/PERA--7b9rgZhiZHieCoPwxWd7ihbjtQ7Ljjy4McxvcA2TTgcK/logo.png",
             "tags": [
               "spl"
             ],
@@ -11575,7 +11778,7 @@
   {
     "symbol": "PERP",
     "name": "PERP",
-    "logo": "/networks/solana/tokens/PERP--d68nb5jkzvynczavi6egtecgvsornpanu9heytauffra/logo.png",
+    "logo": "/networks/solana/tokens/PERP--D68NB5JkzvyNCZAvi6EGtEcGvSoRNPanU9heYTAUFFRa/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11587,11 +11790,11 @@
         "assets": [
           {
             "name": "PERP",
-            "address": "d68nb5jkzvynczavi6egtecgvsornpanu9heytauffra",
+            "address": "D68NB5JkzvyNCZAvi6EGtEcGvSoRNPanU9heYTAUFFRa",
             "symbol": "PERP",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PERP--d68nb5jkzvynczavi6egtecgvsornpanu9heytauffra/logo.png",
+            "logo": "/networks/solana/tokens/PERP--D68NB5JkzvyNCZAvi6EGtEcGvSoRNPanU9heYTAUFFRa/logo.png",
             "tags": [
               "spl"
             ],
@@ -11616,7 +11819,7 @@
         "assets": [
           {
             "name": "POLYPLAY",
-            "address": "ftd9eisrsmt5tw5wstmqyxlh2o7xtb6knutixghhw8q8",
+            "address": "FTD9EisrsMt5TW5wSTMqyXLh2o7xTb6KNuTiXgHhw8Q8",
             "symbol": "PLAY",
             "decimals": 9,
             "chainId": 101,
@@ -11633,7 +11836,7 @@
   {
     "symbol": "PNT",
     "name": "PHANT",
-    "logo": "/networks/solana/tokens/PNT--akxr1nlttpnsvcwwpsegat1tc9da3z2vx7sy4g7zlj1r/logo.png",
+    "logo": "/networks/solana/tokens/PNT--AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11645,11 +11848,11 @@
         "assets": [
           {
             "name": "PHANT",
-            "address": "akxr1nlttpnsvcwwpsegat1tc9da3z2vx7sy4g7zlj1r",
+            "address": "AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r",
             "symbol": "PNT",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PNT--akxr1nlttpnsvcwwpsegat1tc9da3z2vx7sy4g7zlj1r/logo.png",
+            "logo": "/networks/solana/tokens/PNT--AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r/logo.png",
             "tags": [
               "spl"
             ],
@@ -11662,7 +11865,7 @@
   {
     "symbol": "POLIS",
     "name": "Star Atlas DAO",
-    "logo": "/networks/solana/tokens/POLIS--poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk/logo.png",
+    "logo": "/networks/solana/tokens/POLIS--poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11674,11 +11877,11 @@
         "assets": [
           {
             "name": "Star Atlas DAO",
-            "address": "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk",
+            "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
             "symbol": "POLIS",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/POLIS--poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk/logo.png",
+            "logo": "/networks/solana/tokens/POLIS--poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/logo.png",
             "tags": [
               "spl"
             ],
@@ -11691,7 +11894,7 @@
   {
     "symbol": "POLISUSDC",
     "name": "Orca Double Dip Token (POLIS/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/POLISUSDC--fe1qjzi5ra5akntfsv3damn3z4uhuzsr5z4drs9s5vb/logo.svg",
+    "logo": "/networks/solana/tokens/POLISUSDC--FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11703,11 +11906,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (POLIS/USDC[aquafarm])",
-            "address": "fe1qjzi5ra5akntfsv3damn3z4uhuzsr5z4drs9s5vb",
+            "address": "FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB",
             "symbol": "POLISUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/POLISUSDC--fe1qjzi5ra5akntfsv3damn3z4uhuzsr5z4drs9s5vb/logo.svg",
+            "logo": "/networks/solana/tokens/POLISUSDC--FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11720,7 +11923,7 @@
   {
     "symbol": "PORTUSDC",
     "name": "Orca Double Dip Token (PORT/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/PORTUSDC--zm2dmuuubicmvhxganazaohzr2y86gxev2wmfo8aoca/logo.svg",
+    "logo": "/networks/solana/tokens/PORTUSDC--Zm2dmUuuBicmvHxGAnAzaohZR2Y86gXEV2WMfo8AoCa/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11732,11 +11935,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (PORT/USDC[aquafarm])",
-            "address": "zm2dmuuubicmvhxganazaohzr2y86gxev2wmfo8aoca",
+            "address": "Zm2dmUuuBicmvHxGAnAzaohZR2Y86gXEV2WMfo8AoCa",
             "symbol": "PORTUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PORTUSDC--zm2dmuuubicmvhxganazaohzr2y86gxev2wmfo8aoca/logo.svg",
+            "logo": "/networks/solana/tokens/PORTUSDC--Zm2dmUuuBicmvHxGAnAzaohZR2Y86gXEV2WMfo8AoCa/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11749,7 +11952,7 @@
   {
     "symbol": "PRT",
     "name": "PRT (Parrot Protocol)",
-    "logo": "/networks/solana/tokens/PRT--prt88rka4kg5z7pknezenh4maftvtqdffgpqtgrjz44/logo.svg",
+    "logo": "/networks/solana/tokens/PRT--PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -11761,11 +11964,11 @@
         "assets": [
           {
             "name": "PRT (Parrot Protocol)",
-            "address": "prt88rka4kg5z7pknezenh4maftvtqdffgpqtgrjz44",
+            "address": "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
             "symbol": "PRT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/PRT--prt88rka4kg5z7pknezenh4maftvtqdffgpqtgrjz44/logo.svg",
+            "logo": "/networks/solana/tokens/PRT--PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/logo.svg",
             "tags": [
               "spl"
             ],
@@ -11790,7 +11993,7 @@
         "assets": [
           {
             "name": "Raydium LP Token V4 (RAY-ETH)",
-            "address": "mjqh33mqzv5akabkhi8dg3g3qxerqqq1gfcxcezknsr",
+            "address": "mjQH33MqZv5aKAbKHi8dG3g3qXeRQqq1GFcXceZkNSr",
             "symbol": "RAY-ETH",
             "decimals": 6,
             "chainId": 101,
@@ -11819,7 +12022,7 @@
         "assets": [
           {
             "name": "Raydium LP Token V4 (RAY-SOL)",
-            "address": "89zke4aoyflbe2ruv6jm3jgnhav18nxh8entjrcndbip",
+            "address": "89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip",
             "symbol": "RAY-SOL",
             "decimals": 6,
             "chainId": 101,
@@ -11836,7 +12039,7 @@
   {
     "symbol": "RAY-SOL",
     "name": "Raydium Legacy LP Token V3 (RAY-SOL)",
-    "logo": "/networks/solana/tokens/RAY-SOL--f5ppqhgcznz2fxd9jaxjmxaf7xkaffj6zztbcw8osqjw/logo.png",
+    "logo": "/networks/solana/tokens/RAY-SOL--F5PPQHGcznZ2FxD9JaxJMXaf7XkaFFJ6zzTBcW8osQjw/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11848,11 +12051,11 @@
         "assets": [
           {
             "name": "Raydium Legacy LP Token V3 (RAY-SOL)",
-            "address": "f5ppqhgcznz2fxd9jaxjmxaf7xkaffj6zztbcw8osqjw",
+            "address": "F5PPQHGcznZ2FxD9JaxJMXaf7XkaFFJ6zzTBcW8osQjw",
             "symbol": "RAY-SOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/RAY-SOL--f5ppqhgcznz2fxd9jaxjmxaf7xkaffj6zztbcw8osqjw/logo.png",
+            "logo": "/networks/solana/tokens/RAY-SOL--F5PPQHGcznZ2FxD9JaxJMXaf7XkaFFJ6zzTBcW8osQjw/logo.png",
             "tags": [
               "spl"
             ],
@@ -11877,7 +12080,7 @@
         "assets": [
           {
             "name": "Raydium LP Token V4 (RAY-SRM)",
-            "address": "7p5thr9egi2rvmmeuqkln8x8e8qro7u2u7yld2tu2hbe",
+            "address": "7P5Thr9Egi2rvMmEuQkLn8x8e8Qro7u2U7yLD2tU2Hbe",
             "symbol": "RAY-SRM",
             "decimals": 6,
             "chainId": 101,
@@ -11894,7 +12097,7 @@
   {
     "symbol": "RAY-SRM",
     "name": "Raydium Legacy LP Token V3 (RAY-SRM)",
-    "logo": "/networks/solana/tokens/RAY-SRM--dsx5e21re9fb9hm8nh8xcxqfpk6szrajiywemhbssfup/logo.png",
+    "logo": "/networks/solana/tokens/RAY-SRM--DSX5E21RE9FB9hM8Nh8xcXQfPK6SzRaJiywemHBSsfup/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11906,11 +12109,11 @@
         "assets": [
           {
             "name": "Raydium Legacy LP Token V3 (RAY-SRM)",
-            "address": "dsx5e21re9fb9hm8nh8xcxqfpk6szrajiywemhbssfup",
+            "address": "DSX5E21RE9FB9hM8Nh8xcXQfPK6SzRaJiywemHBSsfup",
             "symbol": "RAY-SRM",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/RAY-SRM--dsx5e21re9fb9hm8nh8xcxqfpk6szrajiywemhbssfup/logo.png",
+            "logo": "/networks/solana/tokens/RAY-SRM--DSX5E21RE9FB9hM8Nh8xcXQfPK6SzRaJiywemHBSsfup/logo.png",
             "tags": [
               "spl"
             ],
@@ -11935,7 +12138,7 @@
         "assets": [
           {
             "name": "Raydium LP Token V4 (RAY-USDC)",
-            "address": "fbc6k13mzhvn42bxrtgawsvzy9fxrackrszcbgfjpc7m",
+            "address": "FbC6K13MzHvN42bXrtGaWsvZY9fxrackRSZcBGfjPc7m",
             "symbol": "RAY-USDC",
             "decimals": 6,
             "chainId": 101,
@@ -11952,7 +12155,7 @@
   {
     "symbol": "RAY-USDC",
     "name": "Raydium Legacy LP Token V2 (RAY-USDC)",
-    "logo": "/networks/solana/tokens/RAY-USDC--fgmbnsf5qrnv8x9bomqfetqtqjnnibcwrkgpzpne5bdg/logo.png",
+    "logo": "/networks/solana/tokens/RAY-USDC--FgmBnsF5Qrnv8X9bomQfEtQTQjNNiBCWRKGpzPnE5BDg/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11964,11 +12167,11 @@
         "assets": [
           {
             "name": "Raydium Legacy LP Token V2 (RAY-USDC)",
-            "address": "fgmbnsf5qrnv8x9bomqfetqtqjnnibcwrkgpzpne5bdg",
+            "address": "FgmBnsF5Qrnv8X9bomQfEtQTQjNNiBCWRKGpzPnE5BDg",
             "symbol": "RAY-USDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/RAY-USDC--fgmbnsf5qrnv8x9bomqfetqtqjnnibcwrkgpzpne5bdg/logo.png",
+            "logo": "/networks/solana/tokens/RAY-USDC--FgmBnsF5Qrnv8X9bomQfEtQTQjNNiBCWRKGpzPnE5BDg/logo.png",
             "tags": [
               "spl"
             ],
@@ -11981,7 +12184,7 @@
   {
     "symbol": "RAY-WUSDT",
     "name": "Raydium Legacy LP Token V3 (RAY-WUSDT)",
-    "logo": "/networks/solana/tokens/RAY-WUSDT--fdhkxyjcou2jqfgkwcny7jb8f2dplu1tetttrflbd2v1/logo.png",
+    "logo": "/networks/solana/tokens/RAY-WUSDT--FdhKXYjCou2jQfgKWcNY7jb8F2DPLU1teTTTRfLBD2v1/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -11993,11 +12196,11 @@
         "assets": [
           {
             "name": "Raydium Legacy LP Token V3 (RAY-WUSDT)",
-            "address": "fdhkxyjcou2jqfgkwcny7jb8f2dplu1tetttrflbd2v1",
+            "address": "FdhKXYjCou2jQfgKWcNY7jb8F2DPLU1teTTTRfLBD2v1",
             "symbol": "RAY-WUSDT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/RAY-WUSDT--fdhkxyjcou2jqfgkwcny7jb8f2dplu1tetttrflbd2v1/logo.png",
+            "logo": "/networks/solana/tokens/RAY-WUSDT--FdhKXYjCou2jQfgKWcNY7jb8F2DPLU1teTTTRfLBD2v1/logo.png",
             "tags": [
               "spl"
             ],
@@ -12010,7 +12213,7 @@
   {
     "symbol": "RAYSOL",
     "name": "Orca LP Token (RAY/SOL)",
-    "logo": "/networks/solana/tokens/RAYSOL--gwemabt4rd3sghyghv9rkbfdiafe5umhejqr6hhu3xva/logo.svg",
+    "logo": "/networks/solana/tokens/RAYSOL--GWEmABT4rD3sGhyghv9rKbfdiaFe5uMHeJqr6hhu3XvA/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12022,11 +12225,11 @@
         "assets": [
           {
             "name": "Orca LP Token (RAY/SOL)",
-            "address": "gwemabt4rd3sghyghv9rkbfdiafe5umhejqr6hhu3xva",
+            "address": "GWEmABT4rD3sGhyghv9rKbfdiaFe5uMHeJqr6hhu3XvA",
             "symbol": "RAYSOL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/RAYSOL--gwemabt4rd3sghyghv9rkbfdiafe5umhejqr6hhu3xva/logo.svg",
+            "logo": "/networks/solana/tokens/RAYSOL--GWEmABT4rD3sGhyghv9rKbfdiaFe5uMHeJqr6hhu3XvA/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12039,7 +12242,7 @@
   {
     "symbol": "ROLL",
     "name": "Let'sroll DAO",
-    "logo": "/networks/solana/tokens/ROLL--h2ejuxt2kspk7bwgzrflmqh56wcmwygdjvtvjtjfheym/logo.png",
+    "logo": "/networks/solana/tokens/ROLL--H2EJUxt2KSPk7BWGZRfLMqh56wCmWygDJVTvjTJFHeym/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12051,11 +12254,11 @@
         "assets": [
           {
             "name": "Let'sroll DAO",
-            "address": "h2ejuxt2kspk7bwgzrflmqh56wcmwygdjvtvjtjfheym",
+            "address": "H2EJUxt2KSPk7BWGZRfLMqh56wCmWygDJVTvjTJFHeym",
             "symbol": "ROLL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ROLL--h2ejuxt2kspk7bwgzrflmqh56wcmwygdjvtvjtjfheym/logo.png",
+            "logo": "/networks/solana/tokens/ROLL--H2EJUxt2KSPk7BWGZRfLMqh56wCmWygDJVTvjTJFHeym/logo.png",
             "tags": [
               "spl"
             ],
@@ -12068,7 +12271,7 @@
   {
     "symbol": "ROPE",
     "name": "Rope Token",
-    "logo": "/networks/solana/tokens/ROPE--8pmht4swumtbzghnh5u564n5sjpsiuz2cjeqzfnnp1fo/logo.svg",
+    "logo": "/networks/solana/tokens/ROPE--8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12080,11 +12283,11 @@
         "assets": [
           {
             "name": "Rope Token",
-            "address": "8pmht4swumtbzghnh5u564n5sjpsiuz2cjeqzfnnp1fo",
+            "address": "8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo",
             "symbol": "ROPE",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ROPE--8pmht4swumtbzghnh5u564n5sjpsiuz2cjeqzfnnp1fo/logo.svg",
+            "logo": "/networks/solana/tokens/ROPE--8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12097,7 +12300,7 @@
   {
     "symbol": "ROPESOL",
     "name": "Orca Aquafarm Token (ROPE/SOL)",
-    "logo": "/networks/solana/tokens/ROPESOL--xppyqwq1hxhyepvfgytqrly6rmj6jtadeglmv5uoz4m/logo.svg",
+    "logo": "/networks/solana/tokens/ROPESOL--xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12109,11 +12312,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (ROPE/SOL)",
-            "address": "xppyqwq1hxhyepvfgytqrly6rmj6jtadeglmv5uoz4m",
+            "address": "xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m",
             "symbol": "ROPESOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/ROPESOL--xppyqwq1hxhyepvfgytqrly6rmj6jtadeglmv5uoz4m/logo.svg",
+            "logo": "/networks/solana/tokens/ROPESOL--xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12126,7 +12329,7 @@
   {
     "symbol": "RSR",
     "name": "Wrapped Reserve Rights (Sollet)",
-    "logo": "/networks/solana/tokens/RSR--7nccljpp3mnww17lw8brvx8odqqnubntfnzbl5bgaehw/logo.png",
+    "logo": "/networks/solana/tokens/RSR--7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12138,11 +12341,11 @@
         "assets": [
           {
             "name": "Wrapped Reserve Rights (Sollet)",
-            "address": "7nccljpp3mnww17lw8brvx8odqqnubntfnzbl5bgaehw",
+            "address": "7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW",
             "symbol": "RSR",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/RSR--7nccljpp3mnww17lw8brvx8odqqnubntfnzbl5bgaehw/logo.png",
+            "logo": "/networks/solana/tokens/RSR--7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW/logo.png",
             "tags": [
               "spl"
             ],
@@ -12155,7 +12358,7 @@
   {
     "symbol": "SAM",
     "name": "Swiss and Makeup",
-    "logo": "/networks/solana/tokens/SAM--abfpeo4puy1is4atf33zzoypg2nkb66w3fstwaecuska/logo.png",
+    "logo": "/networks/solana/tokens/SAM--ABFPEo4pUy1is4Atf33zZoYpG2nkB66W3fsTwAeCUSkA/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12167,11 +12370,11 @@
         "assets": [
           {
             "name": "Swiss and Makeup",
-            "address": "abfpeo4puy1is4atf33zzoypg2nkb66w3fstwaecuska",
+            "address": "ABFPEo4pUy1is4Atf33zZoYpG2nkB66W3fsTwAeCUSkA",
             "symbol": "SAM",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SAM--abfpeo4puy1is4atf33zzoypg2nkb66w3fstwaecuska/logo.png",
+            "logo": "/networks/solana/tokens/SAM--ABFPEo4pUy1is4Atf33zZoYpG2nkB66W3fsTwAeCUSkA/logo.png",
             "tags": [
               "spl"
             ],
@@ -12184,7 +12387,7 @@
   {
     "symbol": "SAMOSOL",
     "name": "Orca Aquafarm Token (SAMO/SOL)",
-    "logo": "/networks/solana/tokens/SAMOSOL--cnf8gztlahbwxke3ywsqywlhmtewgqvq6pj5ecg3ctyu/logo.svg",
+    "logo": "/networks/solana/tokens/SAMOSOL--CNf8gZtLahBWxKe3YwsqywLHMTewGqvq6pJ5ecg3cTYU/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12196,11 +12399,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (SAMO/SOL)",
-            "address": "cnf8gztlahbwxke3ywsqywlhmtewgqvq6pj5ecg3ctyu",
+            "address": "CNf8gZtLahBWxKe3YwsqywLHMTewGqvq6pJ5ecg3cTYU",
             "symbol": "SAMOSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SAMOSOL--cnf8gztlahbwxke3ywsqywlhmtewgqvq6pj5ecg3ctyu/logo.svg",
+            "logo": "/networks/solana/tokens/SAMOSOL--CNf8gZtLahBWxKe3YwsqywLHMTewGqvq6pJ5ecg3cTYU/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12213,7 +12416,7 @@
   {
     "symbol": "SAMOUSDC",
     "name": "Orca Double Dip Token (SAMO/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/SAMOUSDC--edfay8jwnvu1z61uafujworpfgd3ukkpvnhebzjzwhv8/logo.svg",
+    "logo": "/networks/solana/tokens/SAMOUSDC--EdfAy8jwnvU1z61UaFUjwoRPFgD3UkkPvnhEBZjzwhv8/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12225,11 +12428,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (SAMO/USDC[aquafarm])",
-            "address": "edfay8jwnvu1z61uafujworpfgd3ukkpvnhebzjzwhv8",
+            "address": "EdfAy8jwnvU1z61UaFUjwoRPFgD3UkkPvnhEBZjzwhv8",
             "symbol": "SAMOUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SAMOUSDC--edfay8jwnvu1z61uafujworpfgd3ukkpvnhebzjzwhv8/logo.svg",
+            "logo": "/networks/solana/tokens/SAMOUSDC--EdfAy8jwnvU1z61UaFUjwoRPFgD3UkkPvnhEBZjzwhv8/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12242,7 +12445,7 @@
   {
     "symbol": "SCA",
     "name": "Scallop",
-    "logo": "/networks/solana/tokens/SCA--scalopyhz9ektddks4ylswwq2rsutnmzvdpynmcycc9/logo.png",
+    "logo": "/networks/solana/tokens/SCA--ScaLopYHz9eKtDdKs4yLswwq2RSUtNMZVdPynMcYcc9/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12254,11 +12457,11 @@
         "assets": [
           {
             "name": "Scallop",
-            "address": "scalopyhz9ektddks4ylswwq2rsutnmzvdpynmcycc9",
+            "address": "ScaLopYHz9eKtDdKs4yLswwq2RSUtNMZVdPynMcYcc9",
             "symbol": "SCA",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SCA--scalopyhz9ektddks4ylswwq2rsutnmzvdpynmcycc9/logo.png",
+            "logo": "/networks/solana/tokens/SCA--ScaLopYHz9eKtDdKs4yLswwq2RSUtNMZVdPynMcYcc9/logo.png",
             "tags": [
               "spl"
             ],
@@ -12271,7 +12474,7 @@
   {
     "symbol": "SEED",
     "name": "El Palito Coin",
-    "logo": "/networks/solana/tokens/SEED--zwufhitwqsd722dabfypw6vmsti5pbfmgqurddpknuj/logo.png",
+    "logo": "/networks/solana/tokens/SEED--zwUfHitWqsD722dAbFypW6vmsTi5pbFmGquRDdPKNUj/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12283,11 +12486,11 @@
         "assets": [
           {
             "name": "El Palito Coin",
-            "address": "zwufhitwqsd722dabfypw6vmsti5pbfmgqurddpknuj",
+            "address": "zwUfHitWqsD722dAbFypW6vmsTi5pbFmGquRDdPKNUj",
             "symbol": "SEED",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SEED--zwufhitwqsd722dabfypw6vmsti5pbfmgqurddpknuj/logo.png",
+            "logo": "/networks/solana/tokens/SEED--zwUfHitWqsD722dAbFypW6vmsTi5pbFmGquRDdPKNUj/logo.png",
             "tags": [
               "spl"
             ],
@@ -12300,7 +12503,7 @@
   {
     "symbol": "SGT",
     "name": "Sangga Token",
-    "logo": "/networks/solana/tokens/SGT--4kaff8zpncn1swlzfo5tbezskpvemsobbvzderwxrvd2/logo.png",
+    "logo": "/networks/solana/tokens/SGT--4KAFf8ZpNCn1SWLZFo5tbeZsKpVemsobbVZdERWxRvd2/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12312,11 +12515,11 @@
         "assets": [
           {
             "name": "Sangga Token",
-            "address": "4kaff8zpncn1swlzfo5tbezskpvemsobbvzderwxrvd2",
+            "address": "4KAFf8ZpNCn1SWLZFo5tbeZsKpVemsobbVZdERWxRvd2",
             "symbol": "SGT",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SGT--4kaff8zpncn1swlzfo5tbezskpvemsobbvzderwxrvd2/logo.png",
+            "logo": "/networks/solana/tokens/SGT--4KAFf8ZpNCn1SWLZFo5tbeZsKpVemsobbVZdERWxRvd2/logo.png",
             "tags": [
               "spl"
             ],
@@ -12329,7 +12532,7 @@
   {
     "symbol": "SHARK",
     "name": "Rogue Shark #129",
-    "logo": "/networks/solana/tokens/SHARK--4oypessuwfxexjbu76ftfafhhrz3hvwchwqaudpefg6h/logo.jpeg",
+    "logo": "/networks/solana/tokens/SHARK--4oyPeSSUwfxExjBU76fTfAFHHrZ3HVwCHWqAUdpeFg6h/logo.jpeg",
     "priority": -1,
     "networks": [
       {
@@ -12341,11 +12544,11 @@
         "assets": [
           {
             "name": "Rogue Shark #129",
-            "address": "4oypessuwfxexjbu76ftfafhhrz3hvwchwqaudpefg6h",
+            "address": "4oyPeSSUwfxExjBU76fTfAFHHrZ3HVwCHWqAUdpeFg6h",
             "symbol": "SHARK",
             "decimals": 0,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SHARK--4oypessuwfxexjbu76ftfafhhrz3hvwchwqaudpefg6h/logo.jpeg",
+            "logo": "/networks/solana/tokens/SHARK--4oyPeSSUwfxExjBU76fTfAFHHrZ3HVwCHWqAUdpeFg6h/logo.jpeg",
             "tags": [
               "spl"
             ],
@@ -12358,7 +12561,7 @@
   {
     "symbol": "SHARK",
     "name": "Rogue Shark #129",
-    "logo": "/networks/solana/tokens/SHARK--c8qmodwqadow4mvkdzx7hgnebeugnnxwztrqpcct2mfj/logo.jpeg",
+    "logo": "/networks/solana/tokens/SHARK--C8QMoDwQADoW4MVkDZx7HgnebeugnNXWztrqpcCT2mFj/logo.jpeg",
     "priority": -1,
     "networks": [
       {
@@ -12370,11 +12573,11 @@
         "assets": [
           {
             "name": "Rogue Shark #129",
-            "address": "c8qmodwqadow4mvkdzx7hgnebeugnnxwztrqpcct2mfj",
+            "address": "C8QMoDwQADoW4MVkDZx7HgnebeugnNXWztrqpcCT2mFj",
             "symbol": "SHARK",
             "decimals": 0,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SHARK--c8qmodwqadow4mvkdzx7hgnebeugnnxwztrqpcct2mfj/logo.jpeg",
+            "logo": "/networks/solana/tokens/SHARK--C8QMoDwQADoW4MVkDZx7HgnebeugnNXWztrqpcCT2mFj/logo.jpeg",
             "tags": [
               "spl"
             ],
@@ -12387,7 +12590,7 @@
   {
     "symbol": "SILVER",
     "name": "SilverSol",
-    "logo": "/networks/solana/tokens/SILVER--cmjegnbmhaen2wbhtemvr1xwfgn61jzbgbtlkaa3whm8/logo.png",
+    "logo": "/networks/solana/tokens/SILVER--CmjegnBmHaEN2wbHTemVr1xwfgN61JZBgbtLkAa3WHM8/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12399,11 +12602,11 @@
         "assets": [
           {
             "name": "SilverSol",
-            "address": "cmjegnbmhaen2wbhtemvr1xwfgn61jzbgbtlkaa3whm8",
+            "address": "CmjegnBmHaEN2wbHTemVr1xwfgN61JZBgbtLkAa3WHM8",
             "symbol": "SILVER",
             "decimals": 4,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SILVER--cmjegnbmhaen2wbhtemvr1xwfgn61jzbgbtlkaa3whm8/logo.png",
+            "logo": "/networks/solana/tokens/SILVER--CmjegnBmHaEN2wbHTemVr1xwfgN61JZBgbtLkAa3WHM8/logo.png",
             "tags": [
               "spl"
             ],
@@ -12416,7 +12619,7 @@
   {
     "symbol": "SINE",
     "name": "SINE",
-    "logo": "/networks/solana/tokens/SINE--3rsafdgu7p2smsghjvsgq6kzvkcerzxfzttynjyboyau/logo.svg",
+    "logo": "/networks/solana/tokens/SINE--3RSafdgu7P2smSGHJvSGQ6kZVkcErZXfZTtynJYboyAu/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12428,11 +12631,11 @@
         "assets": [
           {
             "name": "SINE",
-            "address": "3rsafdgu7p2smsghjvsgq6kzvkcerzxfzttynjyboyau",
+            "address": "3RSafdgu7P2smSGHJvSGQ6kZVkcErZXfZTtynJYboyAu",
             "symbol": "SINE",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SINE--3rsafdgu7p2smsghjvsgq6kzvkcerzxfzttynjyboyau/logo.svg",
+            "logo": "/networks/solana/tokens/SINE--3RSafdgu7P2smSGHJvSGQ6kZVkcErZXfZTtynJYboyAu/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12445,7 +12648,7 @@
   {
     "symbol": "SLIMUSDC",
     "name": "Orca Double Dip Token (SLIM/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/SLIMUSDC--hhdk3yswkvbmzjgbsfsnltaeuddcrfz6dnsrgxh2orup/logo.svg",
+    "logo": "/networks/solana/tokens/SLIMUSDC--HhDk3ySWkVbMZjgBsFSnLtAeudDCrfZ6DNSRgxh2oRUp/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12457,11 +12660,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (SLIM/USDC[aquafarm])",
-            "address": "hhdk3yswkvbmzjgbsfsnltaeuddcrfz6dnsrgxh2orup",
+            "address": "HhDk3ySWkVbMZjgBsFSnLtAeudDCrfZ6DNSRgxh2oRUp",
             "symbol": "SLIMUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SLIMUSDC--hhdk3yswkvbmzjgbsfsnltaeuddcrfz6dnsrgxh2orup/logo.svg",
+            "logo": "/networks/solana/tokens/SLIMUSDC--HhDk3ySWkVbMZjgBsFSnLtAeudDCrfZ6DNSRgxh2oRUp/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12474,7 +12677,7 @@
   {
     "symbol": "SLRSUSDC",
     "name": "Orca Double Dip Token (SLRS/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/SLRSUSDC--f3rwkgatdjwcu1rr16wq4yptgfdsyb1os1xdy5tr9k1r/logo.svg",
+    "logo": "/networks/solana/tokens/SLRSUSDC--F3rWkGAtdjWcU1rr16Wq4YPTgFdsyb1oS1xdy5tr9K1r/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12486,11 +12689,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (SLRS/USDC[aquafarm])",
-            "address": "f3rwkgatdjwcu1rr16wq4yptgfdsyb1os1xdy5tr9k1r",
+            "address": "F3rWkGAtdjWcU1rr16Wq4YPTgFdsyb1oS1xdy5tr9K1r",
             "symbol": "SLRSUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SLRSUSDC--f3rwkgatdjwcu1rr16wq4yptgfdsyb1os1xdy5tr9k1r/logo.svg",
+            "logo": "/networks/solana/tokens/SLRSUSDC--F3rWkGAtdjWcU1rr16Wq4YPTgFdsyb1oS1xdy5tr9K1r/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12503,7 +12706,7 @@
   {
     "symbol": "SLV",
     "name": "iShares Silver Trust",
-    "logo": "/networks/solana/tokens/SLV--8sa7bjogsjnkhyhtrtknddtdtasnwmcasd4ysvnsfu27/logo.svg",
+    "logo": "/networks/solana/tokens/SLV--8Sa7BjogSJnkHyhtRTKNDDTDtASnWMcAsD4ySVNSFu27/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12515,11 +12718,11 @@
         "assets": [
           {
             "name": "iShares Silver Trust",
-            "address": "8sa7bjogsjnkhyhtrtknddtdtasnwmcasd4ysvnsfu27",
+            "address": "8Sa7BjogSJnkHyhtRTKNDDTDtASnWMcAsD4ySVNSFu27",
             "symbol": "SLV",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SLV--8sa7bjogsjnkhyhtrtknddtdtasnwmcasd4ysvnsfu27/logo.svg",
+            "logo": "/networks/solana/tokens/SLV--8Sa7BjogSJnkHyhtRTKNDDTDtASnWMcAsD4ySVNSFu27/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12532,7 +12735,7 @@
   {
     "symbol": "SODA",
     "name": "cheesesoda token",
-    "logo": "/networks/solana/tokens/SODA--sodanxubtjmvhe9c5uw7o7vacvpxphavtaraipvjque/logo.svg",
+    "logo": "/networks/solana/tokens/SODA--sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12544,11 +12747,11 @@
         "assets": [
           {
             "name": "cheesesoda token",
-            "address": "sodanxubtjmvhe9c5uw7o7vacvpxphavtaraipvjque",
+            "address": "sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE",
             "symbol": "SODA",
             "decimals": 0,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SODA--sodanxubtjmvhe9c5uw7o7vacvpxphavtaraipvjque/logo.svg",
+            "logo": "/networks/solana/tokens/SODA--sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12561,7 +12764,7 @@
   {
     "symbol": "SOL",
     "name": "Wrapped SOL",
-    "logo": "/networks/solana/tokens/SOL--so11111111111111111111111111111111111111112/logo.png",
+    "logo": "/networks/solana/tokens/SOL--So11111111111111111111111111111111111111112/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12573,11 +12776,11 @@
         "assets": [
           {
             "name": "Wrapped SOL",
-            "address": "so11111111111111111111111111111111111111112",
+            "address": "So11111111111111111111111111111111111111112",
             "symbol": "SOL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SOL--so11111111111111111111111111111111111111112/logo.png",
+            "logo": "/networks/solana/tokens/SOL--So11111111111111111111111111111111111111112/logo.png",
             "tags": [
               "spl"
             ],
@@ -12590,7 +12793,7 @@
   {
     "symbol": "SOL-USDC",
     "name": "HydraSwap LP Token (SOL-USDC)",
-    "logo": "/networks/solana/tokens/SOL-USDC--famdutss9stvoqtbw2jyrcns58zfeozrgevgezuziyml/logo.png",
+    "logo": "/networks/solana/tokens/SOL-USDC--FAmdutSS9sTVoqTbw2JYrcns58ZfEozrgevgeZuZiyML/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12602,11 +12805,11 @@
         "assets": [
           {
             "name": "HydraSwap LP Token (SOL-USDC)",
-            "address": "famdutss9stvoqtbw2jyrcns58zfeozrgevgezuziyml",
+            "address": "FAmdutSS9sTVoqTbw2JYrcns58ZfEozrgevgeZuZiyML",
             "symbol": "SOL-USDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SOL-USDC--famdutss9stvoqtbw2jyrcns58zfeozrgevgezuziyml/logo.png",
+            "logo": "/networks/solana/tokens/SOL-USDC--FAmdutSS9sTVoqTbw2JYrcns58ZfEozrgevgeZuZiyML/logo.png",
             "tags": [
               "spl"
             ],
@@ -12619,7 +12822,7 @@
   {
     "symbol": "SOLA",
     "name": "Sola Token",
-    "logo": "/networks/solana/tokens/SOLA--fyfq9uarayvriaegumct45f9wkam3byxartrotntnfxf/logo.png",
+    "logo": "/networks/solana/tokens/SOLA--FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12631,11 +12834,11 @@
         "assets": [
           {
             "name": "Sola Token",
-            "address": "fyfq9uarayvriaegumct45f9wkam3byxartrotntnfxf",
+            "address": "FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF",
             "symbol": "SOLA",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SOLA--fyfq9uarayvriaegumct45f9wkam3byxartrotntnfxf/logo.png",
+            "logo": "/networks/solana/tokens/SOLA--FYfQ9uaRaYvRiaEGUmct45F9WKam3BYXArTrotnTNFXF/logo.png",
             "tags": [
               "spl"
             ],
@@ -12648,7 +12851,7 @@
   {
     "symbol": "SOLUSDC",
     "name": "Orca Aquafarm Token (SOL/USDC)",
-    "logo": "/networks/solana/tokens/SOLUSDC--ffdjrsvnalfdgxannpt3x85wpevmdqsh5sep2pom8fck/logo.svg",
+    "logo": "/networks/solana/tokens/SOLUSDC--FFdjrSvNALfdgxANNpt3x85WpeVMdQSH5SEP2poM8fcK/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12660,11 +12863,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (SOL/USDC)",
-            "address": "ffdjrsvnalfdgxannpt3x85wpevmdqsh5sep2pom8fck",
+            "address": "FFdjrSvNALfdgxANNpt3x85WpeVMdQSH5SEP2poM8fcK",
             "symbol": "SOLUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SOLUSDC--ffdjrsvnalfdgxannpt3x85wpevmdqsh5sep2pom8fck/logo.svg",
+            "logo": "/networks/solana/tokens/SOLUSDC--FFdjrSvNALfdgxANNpt3x85WpeVMdQSH5SEP2poM8fcK/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12677,7 +12880,7 @@
   {
     "symbol": "SOLUSDT",
     "name": "Orca LP Token (SOL/USDT)",
-    "logo": "/networks/solana/tokens/SOLUSDT--bmznygt7aapgtuuxaquysw64cmbb6p7uniokcwaptj4d/logo.svg",
+    "logo": "/networks/solana/tokens/SOLUSDT--BmZNYGt7aApGTUUxAQUYsW64cMbb6P7uniokCWaptj4D/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12689,11 +12892,11 @@
         "assets": [
           {
             "name": "Orca LP Token (SOL/USDT)",
-            "address": "bmznygt7aapgtuuxaquysw64cmbb6p7uniokcwaptj4d",
+            "address": "BmZNYGt7aApGTUUxAQUYsW64cMbb6P7uniokCWaptj4D",
             "symbol": "SOLUSDT",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SOLUSDT--bmznygt7aapgtuuxaquysw64cmbb6p7uniokcwaptj4d/logo.svg",
+            "logo": "/networks/solana/tokens/SOLUSDT--BmZNYGt7aApGTUUxAQUYsW64cMbb6P7uniokCWaptj4D/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12706,7 +12909,7 @@
   {
     "symbol": "SOUL",
     "name": "Soulana",
-    "logo": "/networks/solana/tokens/SOUL--9apjlugr9e6w6xu2neqntp3jg3mq2mjjsuzoqs4rkz35/logo.png",
+    "logo": "/networks/solana/tokens/SOUL--9aPjLUGR9e6w6xU2NEQNtP3jg3mq2mJjSUZoQS4RKz35/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12718,11 +12921,11 @@
         "assets": [
           {
             "name": "Soulana",
-            "address": "9apjlugr9e6w6xu2neqntp3jg3mq2mjjsuzoqs4rkz35",
+            "address": "9aPjLUGR9e6w6xU2NEQNtP3jg3mq2mJjSUZoQS4RKz35",
             "symbol": "SOUL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SOUL--9apjlugr9e6w6xu2neqntp3jg3mq2mjjsuzoqs4rkz35/logo.png",
+            "logo": "/networks/solana/tokens/SOUL--9aPjLUGR9e6w6xU2NEQNtP3jg3mq2mJjSUZoQS4RKz35/logo.png",
             "tags": [
               "spl"
             ],
@@ -12735,7 +12938,7 @@
   {
     "symbol": "SRM",
     "name": "Serum",
-    "logo": "/networks/solana/tokens/SRM--srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt/logo.png",
+    "logo": "/networks/solana/tokens/SRM--SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12747,11 +12950,11 @@
         "assets": [
           {
             "name": "Serum",
-            "address": "srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt",
+            "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
             "symbol": "SRM",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SRM--srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt/logo.png",
+            "logo": "/networks/solana/tokens/SRM--SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
             "tags": [
               "spl"
             ],
@@ -12764,7 +12967,7 @@
   {
     "symbol": "SRM",
     "name": "Serum (Wormhole)",
-    "logo": "/networks/solana/tokens/SRM--xnorphazwxuczcp3kju5ydxmkkzi5csbxytq1lge3kg/logo.png",
+    "logo": "/networks/solana/tokens/SRM--xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12776,11 +12979,11 @@
         "assets": [
           {
             "name": "Serum (Wormhole)",
-            "address": "xnorphazwxuczcp3kju5ydxmkkzi5csbxytq1lge3kg",
+            "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
             "symbol": "SRM",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SRM--xnorphazwxuczcp3kju5ydxmkkzi5csbxytq1lge3kg/logo.png",
+            "logo": "/networks/solana/tokens/SRM--xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
             "tags": [
               "spl"
             ],
@@ -12793,7 +12996,7 @@
   {
     "symbol": "SSL",
     "name": "sosol",
-    "logo": "/networks/solana/tokens/SSL--soso1vcmdxwezqu47m4nz4mxzh19ppgqf1aug7dp3wz/logo.svg",
+    "logo": "/networks/solana/tokens/SSL--soso1vCmdxwEZqU47M4NZ4MxZH19ppgqF1auG7dP3wz/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12805,11 +13008,11 @@
         "assets": [
           {
             "name": "sosol",
-            "address": "soso1vcmdxwezqu47m4nz4mxzh19ppgqf1aug7dp3wz",
+            "address": "soso1vCmdxwEZqU47M4NZ4MxZH19ppgqF1auG7dP3wz",
             "symbol": "SSL",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SSL--soso1vcmdxwezqu47m4nz4mxzh19ppgqf1aug7dp3wz/logo.svg",
+            "logo": "/networks/solana/tokens/SSL--soso1vCmdxwEZqU47M4NZ4MxZH19ppgqF1auG7dP3wz/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12822,7 +13025,7 @@
   {
     "symbol": "STAR",
     "name": "SolStar",
-    "logo": "/networks/solana/tokens/STAR--d7u3bphr5jbbfmptavnpmekgbpfdqs3udijyte1qtulk/logo.png",
+    "logo": "/networks/solana/tokens/STAR--D7U3BPHr5JBbFmPTaVNpmEKGBPFdQS3udijyte1QtuLk/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12834,11 +13037,11 @@
         "assets": [
           {
             "name": "SolStar",
-            "address": "d7u3bphr5jbbfmptavnpmekgbpfdqs3udijyte1qtulk",
+            "address": "D7U3BPHr5JBbFmPTaVNpmEKGBPFdQS3udijyte1QtuLk",
             "symbol": "STAR",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/STAR--d7u3bphr5jbbfmptavnpmekgbpfdqs3udijyte1qtulk/logo.png",
+            "logo": "/networks/solana/tokens/STAR--D7U3BPHr5JBbFmPTaVNpmEKGBPFdQS3udijyte1QtuLk/logo.png",
             "tags": [
               "spl"
             ],
@@ -12851,7 +13054,7 @@
   {
     "symbol": "STEP",
     "name": "Step",
-    "logo": "/networks/solana/tokens/STEP--stepascqoeiofxxwgnh2slbdfp9d8rvkz2yp39idpyt/logo.png",
+    "logo": "/networks/solana/tokens/STEP--StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12863,11 +13066,11 @@
         "assets": [
           {
             "name": "Step",
-            "address": "stepascqoeiofxxwgnh2slbdfp9d8rvkz2yp39idpyt",
+            "address": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
             "symbol": "STEP",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/STEP--stepascqoeiofxxwgnh2slbdfp9d8rvkz2yp39idpyt/logo.png",
+            "logo": "/networks/solana/tokens/STEP--StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
             "tags": [
               "spl"
             ],
@@ -12880,7 +13083,7 @@
   {
     "symbol": "STEPSOL",
     "name": "Orca Aquafarm Token (STEP/SOL)",
-    "logo": "/networks/solana/tokens/STEPSOL--gwrba1f8rgummdcdd8ny9eu1clnujqbt8wagxgwpfwgl/logo.svg",
+    "logo": "/networks/solana/tokens/STEPSOL--GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -12892,11 +13095,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (STEP/SOL)",
-            "address": "gwrba1f8rgummdcdd8ny9eu1clnujqbt8wagxgwpfwgl",
+            "address": "GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL",
             "symbol": "STEPSOL",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/STEPSOL--gwrba1f8rgummdcdd8ny9eu1clnujqbt8wagxgwpfwgl/logo.svg",
+            "logo": "/networks/solana/tokens/STEPSOL--GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL/logo.svg",
             "tags": [
               "spl"
             ],
@@ -12909,7 +13112,7 @@
   {
     "symbol": "STR",
     "name": "Solster",
-    "logo": "/networks/solana/tokens/STR--9zoqdwebkwei9g5ze8bskdmppxggvv1kw4luigdinr9m/logo.png",
+    "logo": "/networks/solana/tokens/STR--9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12921,11 +13124,11 @@
         "assets": [
           {
             "name": "Solster",
-            "address": "9zoqdwebkwei9g5ze8bskdmppxggvv1kw4luigdinr9m",
+            "address": "9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m",
             "symbol": "STR",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/STR--9zoqdwebkwei9g5ze8bskdmppxggvv1kw4luigdinr9m/logo.png",
+            "logo": "/networks/solana/tokens/STR--9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m/logo.png",
             "tags": [
               "spl"
             ],
@@ -12938,7 +13141,7 @@
   {
     "symbol": "STRONG",
     "name": "Wrapped Strong (Sollet)",
-    "logo": "/networks/solana/tokens/STRONG--abyxctzwjhmtrkrvvsh9efnb1pjaldjcur2ayvxbaam2/logo.png",
+    "logo": "/networks/solana/tokens/STRONG--AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12950,11 +13153,11 @@
         "assets": [
           {
             "name": "Wrapped Strong (Sollet)",
-            "address": "abyxctzwjhmtrkrvvsh9efnb1pjaldjcur2ayvxbaam2",
+            "address": "AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2",
             "symbol": "STRONG",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/STRONG--abyxctzwjhmtrkrvvsh9efnb1pjaldjcur2ayvxbaam2/logo.png",
+            "logo": "/networks/solana/tokens/STRONG--AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2/logo.png",
             "tags": [
               "spl"
             ],
@@ -12967,7 +13170,7 @@
   {
     "symbol": "SUSHI",
     "name": "Wrapped SUSHI (Sollet)",
-    "logo": "/networks/solana/tokens/SUSHI--ar1mtgh7zatxuxgd2xpovxpvjcsdy3i4rqyisnadjfky/logo.png",
+    "logo": "/networks/solana/tokens/SUSHI--AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -12979,11 +13182,11 @@
         "assets": [
           {
             "name": "Wrapped SUSHI (Sollet)",
-            "address": "ar1mtgh7zatxuxgd2xpovxpvjcsdy3i4rqyisnadjfky",
+            "address": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
             "symbol": "SUSHI",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SUSHI--ar1mtgh7zatxuxgd2xpovxpvjcsdy3i4rqyisnadjfky/logo.png",
+            "logo": "/networks/solana/tokens/SUSHI--AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
             "tags": [
               "spl"
             ],
@@ -12996,7 +13199,7 @@
   {
     "symbol": "SWAG",
     "name": "Wrapped SWAG (Sollet)",
-    "logo": "/networks/solana/tokens/SWAG--9f9fntt6qwjsu4x4ywykzpsbw5qt7o6yr2i57jf2jagy/logo.png",
+    "logo": "/networks/solana/tokens/SWAG--9F9fNTT6qwjsu4X4yWYKZpsbw5qT7o6yR2i57JF2jagy/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13008,11 +13211,11 @@
         "assets": [
           {
             "name": "Wrapped SWAG (Sollet)",
-            "address": "9f9fntt6qwjsu4x4ywykzpsbw5qt7o6yr2i57jf2jagy",
+            "address": "9F9fNTT6qwjsu4X4yWYKZpsbw5qT7o6yR2i57JF2jagy",
             "symbol": "SWAG",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SWAG--9f9fntt6qwjsu4x4ywykzpsbw5qt7o6yr2i57jf2jagy/logo.png",
+            "logo": "/networks/solana/tokens/SWAG--9F9fNTT6qwjsu4X4yWYKZpsbw5qT7o6yR2i57JF2jagy/logo.png",
             "tags": [
               "spl"
             ],
@@ -13025,7 +13228,7 @@
   {
     "symbol": "SWAN",
     "name": "Swanlana",
-    "logo": "/networks/solana/tokens/SWAN--swanazugxf82kyvsbxeensmavectimze5vycdywkvkh/logo.png",
+    "logo": "/networks/solana/tokens/SWAN--SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13037,11 +13240,11 @@
         "assets": [
           {
             "name": "Swanlana",
-            "address": "swanazugxf82kyvsbxeensmavectimze5vycdywkvkh",
+            "address": "SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH",
             "symbol": "SWAN",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SWAN--swanazugxf82kyvsbxeensmavectimze5vycdywkvkh/logo.png",
+            "logo": "/networks/solana/tokens/SWAN--SWANaZUGxF82KyVsbxeeNsMaVECtimze5VyCdywkvkH/logo.png",
             "tags": [
               "spl"
             ],
@@ -13054,7 +13257,7 @@
   {
     "symbol": "SXP",
     "name": "Swipe (Wormhole)",
-    "logo": "/networks/solana/tokens/SXP--3cyiedrehagufzkpxjitcp5tvh7cnhrqd9rpbxzrgk5z/logo.png",
+    "logo": "/networks/solana/tokens/SXP--3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13066,11 +13269,11 @@
         "assets": [
           {
             "name": "Swipe (Wormhole)",
-            "address": "3cyiedrehagufzkpxjitcp5tvh7cnhrqd9rpbxzrgk5z",
+            "address": "3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z",
             "symbol": "SXP",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SXP--3cyiedrehagufzkpxjitcp5tvh7cnhrqd9rpbxzrgk5z/logo.png",
+            "logo": "/networks/solana/tokens/SXP--3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z/logo.png",
             "tags": [
               "spl"
             ],
@@ -13083,7 +13286,7 @@
   {
     "symbol": "SXP",
     "name": "Stacc eXPerience Points",
-    "logo": "/networks/solana/tokens/SXP--havbxbpk1uy9kmnqkpkwdeqxww6fyerrlxemtwixnwko/logo.svg",
+    "logo": "/networks/solana/tokens/SXP--HavbxBPK1uY9kMNqKPkWDEQXWw6FYERrLxeMtWiXnwko/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13095,11 +13298,11 @@
         "assets": [
           {
             "name": "Stacc eXPerience Points",
-            "address": "havbxbpk1uy9kmnqkpkwdeqxww6fyerrlxemtwixnwko",
+            "address": "HavbxBPK1uY9kMNqKPkWDEQXWw6FYERrLxeMtWiXnwko",
             "symbol": "SXP",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SXP--havbxbpk1uy9kmnqkpkwdeqxww6fyerrlxemtwixnwko/logo.svg",
+            "logo": "/networks/solana/tokens/SXP--HavbxBPK1uY9kMNqKPkWDEQXWw6FYERrLxeMtWiXnwko/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13112,7 +13315,7 @@
   {
     "symbol": "SXP",
     "name": "Wrapped SXP (Sollet)",
-    "logo": "/networks/solana/tokens/SXP--sf3otvfwzep3dtwgsvuxrrgtvr75pdznnblah9bzmux/logo.png",
+    "logo": "/networks/solana/tokens/SXP--SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13124,11 +13327,11 @@
         "assets": [
           {
             "name": "Wrapped SXP (Sollet)",
-            "address": "sf3otvfwzep3dtwgsvuxrrgtvr75pdznnblah9bzmux",
+            "address": "SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX",
             "symbol": "SXP",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SXP--sf3otvfwzep3dtwgsvuxrrgtvr75pdznnblah9bzmux/logo.png",
+            "logo": "/networks/solana/tokens/SXP--SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX/logo.png",
             "tags": [
               "spl"
             ],
@@ -13141,7 +13344,7 @@
   {
     "symbol": "SYPUSDC",
     "name": "Orca Aquafarm Token (SYP/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/SYPUSDC--ds4vgzhzzs2pmfzhzkec3mwcqjdicg21r76ftvbssjyj/logo.svg",
+    "logo": "/networks/solana/tokens/SYPUSDC--Ds4VGZhZzS2PMFzhzKeC3mwcQjdiCG21R76fTVbsSJyJ/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13153,11 +13356,127 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (SYP/USDC[aquafarm])",
-            "address": "ds4vgzhzzs2pmfzhzkec3mwcqjdicg21r76ftvbssjyj",
+            "address": "Ds4VGZhZzS2PMFzhzKeC3mwcQjdiCG21R76fTVbsSJyJ",
             "symbol": "SYPUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/SYPUSDC--ds4vgzhzzs2pmfzhzkec3mwcqjdicg21r76ftvbssjyj/logo.svg",
+            "logo": "/networks/solana/tokens/SYPUSDC--Ds4VGZhZzS2PMFzhzKeC3mwcQjdiCG21R76fTVbsSJyJ/logo.svg",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "Satoshi BTC",
+    "name": "Satoshi BTC",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Satoshi BTC",
+            "address": "oCUduD44ETuZ65bpWdPzPDSnAdreg1sJrugfwyFZVHV",
+            "symbol": "Satoshi BTC",
+            "decimals": 9,
+            "chainId": 101,
+            "logo": "",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "Satoshi Closeup",
+    "name": "Satoshi Closeup",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Satoshi Closeup",
+            "address": "GoC24kpj6TkvjzspXrjSJC2CVb5zMWhLyRcHJh9yKjRF",
+            "symbol": "Satoshi Closeup",
+            "decimals": 9,
+            "chainId": 101,
+            "logo": "",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "Satoshi GB",
+    "name": "Satoshi GB",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Satoshi GB",
+            "address": "AiD7J6D5Hny5DJB1MrYBc2ePQqy2Yh4NoxWwYfR7PzxH",
+            "symbol": "Satoshi GB",
+            "decimals": 9,
+            "chainId": 101,
+            "logo": "",
+            "tags": [
+              "spl"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "TST",
+    "name": "CHTST",
+    "logo": "",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "CHTST",
+            "address": "8MpuLZGs52qdj4aGkgxrjjBbDQQd2dsKtbRpCpMb4g8o",
+            "symbol": "TST",
+            "decimals": 9,
+            "chainId": 101,
+            "logo": "",
             "tags": [
               "spl"
             ],
@@ -13170,7 +13489,7 @@
   {
     "symbol": "UBXT",
     "name": "Wrapped Upbots (Sollet)",
-    "logo": "/networks/solana/tokens/UBXT--873klxcbz7s9kc4zzgyrtnmhfkqrhfywgzjbmycbc3ei/logo.png",
+    "logo": "/networks/solana/tokens/UBXT--873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13182,11 +13501,11 @@
         "assets": [
           {
             "name": "Wrapped Upbots (Sollet)",
-            "address": "873klxcbz7s9kc4zzgyrtnmhfkqrhfywgzjbmycbc3ei",
+            "address": "873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei",
             "symbol": "UBXT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/UBXT--873klxcbz7s9kc4zzgyrtnmhfkqrhfywgzjbmycbc3ei/logo.png",
+            "logo": "/networks/solana/tokens/UBXT--873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei/logo.png",
             "tags": [
               "spl"
             ],
@@ -13199,7 +13518,7 @@
   {
     "symbol": "UNI",
     "name": "Uniswap (Wormhole)",
-    "logo": "/networks/solana/tokens/UNI--8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36/logo.png",
+    "logo": "/networks/solana/tokens/UNI--8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13211,11 +13530,11 @@
         "assets": [
           {
             "name": "Uniswap (Wormhole)",
-            "address": "8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36",
+            "address": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
             "symbol": "UNI",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/UNI--8fu95xfjhuukyyclu13hszdls7oc4qzdxqhl6sceab36/logo.png",
+            "logo": "/networks/solana/tokens/UNI--8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36/logo.png",
             "tags": [
               "spl"
             ],
@@ -13228,7 +13547,7 @@
   {
     "symbol": "UNI",
     "name": "Wrapped UNI (Sollet)",
-    "logo": "/networks/solana/tokens/UNI--dehaasscxf4kegxfgj3bq4ppvgp5wyuxmrvn6tzgvhaw/logo.png",
+    "logo": "/networks/solana/tokens/UNI--DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13240,11 +13559,11 @@
         "assets": [
           {
             "name": "Wrapped UNI (Sollet)",
-            "address": "dehaasscxf4kegxfgj3bq4ppvgp5wyuxmrvn6tzgvhaw",
+            "address": "DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw",
             "symbol": "UNI",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/UNI--dehaasscxf4kegxfgj3bq4ppvgp5wyuxmrvn6tzgvhaw/logo.png",
+            "logo": "/networks/solana/tokens/UNI--DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png",
             "tags": [
               "spl"
             ],
@@ -13257,7 +13576,7 @@
   {
     "symbol": "USDC",
     "name": "USD Coin",
-    "logo": "/networks/solana/tokens/USDC--epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v/logo.png",
+    "logo": "/networks/solana/tokens/USDC--EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13269,11 +13588,11 @@
         "assets": [
           {
             "name": "USD Coin",
-            "address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v",
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "symbol": "USDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/USDC--epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v/logo.png",
+            "logo": "/networks/solana/tokens/USDC--EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
             "tags": [
               "spl"
             ],
@@ -13286,7 +13605,7 @@
   {
     "symbol": "USDK",
     "name": "USDK (Wormhole)",
-    "logo": "/networks/solana/tokens/USDK--43m2ewfv5ndepiefjt9emaqnc1hrtaf247rbplgfem5f/logo.png",
+    "logo": "/networks/solana/tokens/USDK--43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13298,11 +13617,11 @@
         "assets": [
           {
             "name": "USDK (Wormhole)",
-            "address": "43m2ewfv5ndepiefjt9emaqnc1hrtaf247rbplgfem5f",
+            "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
             "symbol": "USDK",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/USDK--43m2ewfv5ndepiefjt9emaqnc1hrtaf247rbplgfem5f/logo.png",
+            "logo": "/networks/solana/tokens/USDK--43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
             "tags": [
               "spl"
             ],
@@ -13315,7 +13634,7 @@
   {
     "symbol": "USDT",
     "name": "USDT",
-    "logo": "/networks/solana/tokens/USDT--es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb/logo.svg",
+    "logo": "/networks/solana/tokens/USDT--Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13327,11 +13646,11 @@
         "assets": [
           {
             "name": "USDT",
-            "address": "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb",
+            "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
             "symbol": "USDT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/USDT--es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb/logo.svg",
+            "logo": "/networks/solana/tokens/USDT--Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13344,7 +13663,7 @@
   {
     "symbol": "UST",
     "name": "UST (Wormhole)",
-    "logo": "/networks/solana/tokens/UST--9vmjfxukxxboea7rm12mylmwtaclmldjqhozw96wql8i/logo.png",
+    "logo": "/networks/solana/tokens/UST--9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13356,11 +13675,11 @@
         "assets": [
           {
             "name": "UST (Wormhole)",
-            "address": "9vmjfxukxxboea7rm12mylmwtaclmldjqhozw96wql8i",
+            "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
             "symbol": "UST",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/UST--9vmjfxukxxboea7rm12mylmwtaclmldjqhozw96wql8i/logo.png",
+            "logo": "/networks/solana/tokens/UST--9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
             "tags": [
               "spl"
             ],
@@ -13373,7 +13692,7 @@
   {
     "symbol": "VER",
     "name": "Vera",
-    "logo": "/networks/solana/tokens/VER--cn2jedumahuehnzngyyafvo1dpmak2zsix1dhawkba8y/logo.png",
+    "logo": "/networks/solana/tokens/VER--CN2jeduMaHuehNZNGyyAfvo1DPmAK2zSiX1DHAwkBA8Y/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13385,11 +13704,11 @@
         "assets": [
           {
             "name": "Vera",
-            "address": "cn2jedumahuehnzngyyafvo1dpmak2zsix1dhawkba8y",
+            "address": "CN2jeduMaHuehNZNGyyAfvo1DPmAK2zSiX1DHAwkBA8Y",
             "symbol": "VER",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/VER--cn2jedumahuehnzngyyafvo1dpmak2zsix1dhawkba8y/logo.png",
+            "logo": "/networks/solana/tokens/VER--CN2jeduMaHuehNZNGyyAfvo1DPmAK2zSiX1DHAwkBA8Y/logo.png",
             "tags": [
               "spl"
             ],
@@ -13414,7 +13733,7 @@
         "assets": [
           {
             "name": "Vault Coin",
-            "address": "48cr9mpuj33xowr4bx5nwtn6zqnp2rwjeakurb6acvkc",
+            "address": "48cR9mPuj33XowR4BX5nWtn6zqNP2rWjEAKURb6AcvkC",
             "symbol": "VLT",
             "decimals": 9,
             "chainId": 101,
@@ -13431,7 +13750,7 @@
   {
     "symbol": "WET",
     "name": "Weble Ecosystem Token",
-    "logo": "/networks/solana/tokens/WET--7r7rz7ssldxkyafjyrcbscluzwizemwatwrwfhszu2jq/logo.png",
+    "logo": "/networks/solana/tokens/WET--7R7rZ7SsLDXkYAfJyRCBScLuZwizeMWaTWrwFhSZU2Jq/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13443,11 +13762,11 @@
         "assets": [
           {
             "name": "Weble Ecosystem Token",
-            "address": "7r7rz7ssldxkyafjyrcbscluzwizemwatwrwfhszu2jq",
+            "address": "7R7rZ7SsLDXkYAfJyRCBScLuZwizeMWaTWrwFhSZU2Jq",
             "symbol": "WET",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/WET--7r7rz7ssldxkyafjyrcbscluzwizemwatwrwfhszu2jq/logo.png",
+            "logo": "/networks/solana/tokens/WET--7R7rZ7SsLDXkYAfJyRCBScLuZwizeMWaTWrwFhSZU2Jq/logo.png",
             "tags": [
               "spl"
             ],
@@ -13460,7 +13779,7 @@
   {
     "symbol": "WHALE",
     "name": "Orca Whale Collectible",
-    "logo": "/networks/solana/tokens/WHALE--whalehav12ehgk19u6kkblrwc9e1eatgnm6mwbbccuw/logo.png",
+    "logo": "/networks/solana/tokens/WHALE--whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13472,11 +13791,11 @@
         "assets": [
           {
             "name": "Orca Whale Collectible",
-            "address": "whalehav12ehgk19u6kkblrwc9e1eatgnm6mwbbccuw",
+            "address": "whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW",
             "symbol": "WHALE",
             "decimals": 0,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/WHALE--whalehav12ehgk19u6kkblrwc9e1eatgnm6mwbbccuw/logo.png",
+            "logo": "/networks/solana/tokens/WHALE--whaLeHav12EhGK19u6kKbLRwC9E1EATGnm6MWbBCcUW/logo.png",
             "tags": [
               "spl"
             ],
@@ -13489,7 +13808,7 @@
   {
     "symbol": "WOO",
     "name": "Wootrade Network",
-    "logo": "/networks/solana/tokens/WOO--e5rk3nmgluukuis94gg4bpwwwwyjcmtddsaxktflthey/logo.png",
+    "logo": "/networks/solana/tokens/WOO--E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13501,11 +13820,11 @@
         "assets": [
           {
             "name": "Wootrade Network",
-            "address": "e5rk3nmgluukuis94gg4bpwwwwyjcmtddsaxktflthey",
+            "address": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
             "symbol": "WOO",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/WOO--e5rk3nmgluukuis94gg4bpwwwwyjcmtddsaxktflthey/logo.png",
+            "logo": "/networks/solana/tokens/WOO--E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy/logo.png",
             "tags": [
               "spl"
             ],
@@ -13518,7 +13837,7 @@
   {
     "symbol": "XEN",
     "name": "Xenren",
-    "logo": "/networks/solana/tokens/XEN--4kvugb1inhyqr99hykv1zldhvx41zpbqqpfthucypqja/logo.png",
+    "logo": "/networks/solana/tokens/XEN--4KVuGB1iNhYqR99Hykv1ZLdHvx41zpBqqPFtHucYpQja/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13530,11 +13849,11 @@
         "assets": [
           {
             "name": "Xenren",
-            "address": "4kvugb1inhyqr99hykv1zldhvx41zpbqqpfthucypqja",
+            "address": "4KVuGB1iNhYqR99Hykv1ZLdHvx41zpBqqPFtHucYpQja",
             "symbol": "XEN",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/XEN--4kvugb1inhyqr99hykv1zldhvx41zpbqqpfthucypqja/logo.png",
+            "logo": "/networks/solana/tokens/XEN--4KVuGB1iNhYqR99Hykv1ZLdHvx41zpBqqPFtHucYpQja/logo.png",
             "tags": [
               "spl"
             ],
@@ -13547,7 +13866,7 @@
   {
     "symbol": "XRP",
     "name": "Wrapped XRP (Sollet)",
-    "logo": "/networks/solana/tokens/XRP--ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8/logo.png",
+    "logo": "/networks/solana/tokens/XRP--Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13559,11 +13878,11 @@
         "assets": [
           {
             "name": "Wrapped XRP (Sollet)",
-            "address": "ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8",
+            "address": "Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8",
             "symbol": "XRP",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/XRP--ga2axhpfaf6mv2ekzwcsjfqu7wb4nv331qnh7fw9nst8/logo.png",
+            "logo": "/networks/solana/tokens/XRP--Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8/logo.png",
             "tags": [
               "spl"
             ],
@@ -13576,7 +13895,7 @@
   {
     "symbol": "YFI",
     "name": "Wrapped YFI (Sollet)",
-    "logo": "/networks/solana/tokens/YFI--3jsf5tpeuscjgtacp5gieidhv51gq4v3zwg8dggylfab/logo.png",
+    "logo": "/networks/solana/tokens/YFI--3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13588,11 +13907,11 @@
         "assets": [
           {
             "name": "Wrapped YFI (Sollet)",
-            "address": "3jsf5tpeuscjgtacp5gieidhv51gq4v3zwg8dggylfab",
+            "address": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
             "symbol": "YFI",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/YFI--3jsf5tpeuscjgtacp5gieidhv51gq4v3zwg8dggylfab/logo.png",
+            "logo": "/networks/solana/tokens/YFI--3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB/logo.png",
             "tags": [
               "spl"
             ],
@@ -13605,7 +13924,7 @@
   {
     "symbol": "cBTC",
     "name": "Solend BTC",
-    "logo": "/networks/solana/tokens/cBTC--gqu3tfmjxfnfsx84kqbz5u9jjsbvoesahjftsapjrsnz/logo.png",
+    "logo": "/networks/solana/tokens/cBTC--Gqu3TFmJXfnfSX84kqbZ5u9JjSBVoesaHjfTsaPjRSnZ/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13617,11 +13936,11 @@
         "assets": [
           {
             "name": "Solend BTC",
-            "address": "gqu3tfmjxfnfsx84kqbz5u9jjsbvoesahjftsapjrsnz",
+            "address": "Gqu3TFmJXfnfSX84kqbZ5u9JjSBVoesaHjfTsaPjRSnZ",
             "symbol": "cBTC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/cBTC--gqu3tfmjxfnfsx84kqbz5u9jjsbvoesahjftsapjrsnz/logo.png",
+            "logo": "/networks/solana/tokens/cBTC--Gqu3TFmJXfnfSX84kqbZ5u9JjSBVoesaHjfTsaPjRSnZ/logo.png",
             "tags": [
               "spl"
             ],
@@ -13634,7 +13953,7 @@
   {
     "symbol": "cETH",
     "name": "Solend ETH",
-    "logo": "/networks/solana/tokens/cETH--appjpzka33cu4dyuenfe9dc1zmz3oqju6mbn9k37bnaa/logo.png",
+    "logo": "/networks/solana/tokens/cETH--AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13646,11 +13965,11 @@
         "assets": [
           {
             "name": "Solend ETH",
-            "address": "appjpzka33cu4dyuenfe9dc1zmz3oqju6mbn9k37bnaa",
+            "address": "AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa",
             "symbol": "cETH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/cETH--appjpzka33cu4dyuenfe9dc1zmz3oqju6mbn9k37bnaa/logo.png",
+            "logo": "/networks/solana/tokens/cETH--AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa/logo.png",
             "tags": [
               "spl"
             ],
@@ -13663,7 +13982,7 @@
   {
     "symbol": "cUSDC",
     "name": "Solend USDC",
-    "logo": "/networks/solana/tokens/cUSDC--993dvfl2uxwyeoxuebfxr4bijexdtv4s6bzscjjzuwqk/logo.png",
+    "logo": "/networks/solana/tokens/cUSDC--993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13675,11 +13994,11 @@
         "assets": [
           {
             "name": "Solend USDC",
-            "address": "993dvfl2uxwyeoxuebfxr4bijexdtv4s6bzscjjzuwqk",
+            "address": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
             "symbol": "cUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/cUSDC--993dvfl2uxwyeoxuebfxr4bijexdtv4s6bzscjjzuwqk/logo.png",
+            "logo": "/networks/solana/tokens/cUSDC--993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk/logo.png",
             "tags": [
               "spl"
             ],
@@ -13692,7 +14011,7 @@
   {
     "symbol": "cUSDT",
     "name": "Solend USDT",
-    "logo": "/networks/solana/tokens/cUSDT--btsbzdv7acmrj3vny9ygv4q2ueeo9gpr8d6vvmmzznr8/logo.png",
+    "logo": "/networks/solana/tokens/cUSDT--BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13704,11 +14023,11 @@
         "assets": [
           {
             "name": "Solend USDT",
-            "address": "btsbzdv7acmrj3vny9ygv4q2ueeo9gpr8d6vvmmzznr8",
+            "address": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
             "symbol": "cUSDT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/cUSDT--btsbzdv7acmrj3vny9ygv4q2ueeo9gpr8d6vvmmzznr8/logo.png",
+            "logo": "/networks/solana/tokens/cUSDT--BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8/logo.png",
             "tags": [
               "spl"
             ],
@@ -13721,7 +14040,7 @@
   {
     "symbol": "mSOLUSDC",
     "name": "Orca Double Dip Token (mSOL/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/mSOLUSDC--9y3qym5mcab8tu7oxrzaqnzhva75p8ridupievlp64cy/logo.svg",
+    "logo": "/networks/solana/tokens/mSOLUSDC--9y3QYM5mcaB8tU7oXRzAQnzHVa75P8riDuPievLp64cY/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13733,11 +14052,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (mSOL/USDC[aquafarm])",
-            "address": "9y3qym5mcab8tu7oxrzaqnzhva75p8ridupievlp64cy",
+            "address": "9y3QYM5mcaB8tU7oXRzAQnzHVa75P8riDuPievLp64cY",
             "symbol": "mSOLUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/mSOLUSDC--9y3qym5mcab8tu7oxrzaqnzhva75p8ridupievlp64cy/logo.svg",
+            "logo": "/networks/solana/tokens/mSOLUSDC--9y3QYM5mcaB8tU7oXRzAQnzHVa75P8riDuPievLp64cY/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13750,7 +14069,7 @@
   {
     "symbol": "mSOLUSDT",
     "name": "Orca Aquafarm Token (mSOL/USDT[aquafarm])",
-    "logo": "/networks/solana/tokens/mSOLUSDT--afvh7twfct1e9eeewjk17fpjnqk36hretjjk5g3s4fm8/logo.svg",
+    "logo": "/networks/solana/tokens/mSOLUSDT--Afvh7TWfcT1E9eEEWJk17fPjnqk36hreTJJK5g3s4fm8/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13762,11 +14081,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (mSOL/USDT[aquafarm])",
-            "address": "afvh7twfct1e9eeewjk17fpjnqk36hretjjk5g3s4fm8",
+            "address": "Afvh7TWfcT1E9eEEWJk17fPjnqk36hreTJJK5g3s4fm8",
             "symbol": "mSOLUSDT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/mSOLUSDT--afvh7twfct1e9eeewjk17fpjnqk36hretjjk5g3s4fm8/logo.svg",
+            "logo": "/networks/solana/tokens/mSOLUSDT--Afvh7TWfcT1E9eEEWJk17fPjnqk36hreTJJK5g3s4fm8/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13779,7 +14098,7 @@
   {
     "symbol": "mSOLwhETH",
     "name": "Orca Aquafarm Token (mSOL/whETH[aquafarm])",
-    "logo": "/networks/solana/tokens/mSOLwhETH--58nifjpjf3cutgz2xmxvamk7r9ygbvec8cstj4rccs8j/logo.svg",
+    "logo": "/networks/solana/tokens/mSOLwhETH--58nifjPjF3CutGz2xMxvAMk7R9YgbVEc8Cstj4rCcs8j/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13791,11 +14110,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (mSOL/whETH[aquafarm])",
-            "address": "58nifjpjf3cutgz2xmxvamk7r9ygbvec8cstj4rccs8j",
+            "address": "58nifjPjF3CutGz2xMxvAMk7R9YgbVEc8Cstj4rCcs8j",
             "symbol": "mSOLwhETH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/mSOLwhETH--58nifjpjf3cutgz2xmxvamk7r9ygbvec8cstj4rccs8j/logo.svg",
+            "logo": "/networks/solana/tokens/mSOLwhETH--58nifjPjF3CutGz2xMxvAMk7R9YgbVEc8Cstj4rCcs8j/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13808,7 +14127,7 @@
   {
     "symbol": "pBTC",
     "name": "pBTC (Parrot BTC)",
-    "logo": "/networks/solana/tokens/pBTC--dydwu4he4mn3ah897xq3srts5eajjdmqsklnhbpuikun/logo.svg",
+    "logo": "/networks/solana/tokens/pBTC--DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13820,11 +14139,11 @@
         "assets": [
           {
             "name": "pBTC (Parrot BTC)",
-            "address": "dydwu4he4mn3ah897xq3srts5eajjdmqsklnhbpuikun",
+            "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
             "symbol": "pBTC",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/pBTC--dydwu4he4mn3ah897xq3srts5eajjdmqsklnhbpuikun/logo.svg",
+            "logo": "/networks/solana/tokens/pBTC--DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13837,7 +14156,7 @@
   {
     "symbol": "renBCH",
     "name": "renBCH",
-    "logo": "/networks/solana/tokens/renBCH--g1a6jxyz3m8dvymqynuv7s86wd4fvuxynewspljkmsxj/logo.png",
+    "logo": "/networks/solana/tokens/renBCH--G1a6jxYz3m8DVyMqYnuV7s86wD4fvuXYneWSpLJkmsXj/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13849,11 +14168,11 @@
         "assets": [
           {
             "name": "renBCH",
-            "address": "g1a6jxyz3m8dvymqynuv7s86wd4fvuxynewspljkmsxj",
+            "address": "G1a6jxYz3m8DVyMqYnuV7s86wD4fvuXYneWSpLJkmsXj",
             "symbol": "renBCH",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/renBCH--g1a6jxyz3m8dvymqynuv7s86wd4fvuxynewspljkmsxj/logo.png",
+            "logo": "/networks/solana/tokens/renBCH--G1a6jxYz3m8DVyMqYnuV7s86wD4fvuXYneWSpLJkmsXj/logo.png",
             "tags": [
               "spl"
             ],
@@ -13866,7 +14185,7 @@
   {
     "symbol": "renBTC",
     "name": "renBTC",
-    "logo": "/networks/solana/tokens/renBTC--cdjwuqtcytvakxavxoqzfes5jufc7owseq7emqcdsbo5/logo.png",
+    "logo": "/networks/solana/tokens/renBTC--CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13878,11 +14197,11 @@
         "assets": [
           {
             "name": "renBTC",
-            "address": "cdjwuqtcytvakxavxoqzfes5jufc7owseq7emqcdsbo5",
+            "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
             "symbol": "renBTC",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/renBTC--cdjwuqtcytvakxavxoqzfes5jufc7owseq7emqcdsbo5/logo.png",
+            "logo": "/networks/solana/tokens/renBTC--CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5/logo.png",
             "tags": [
               "spl"
             ],
@@ -13895,7 +14214,7 @@
   {
     "symbol": "stETH",
     "name": "Lido Staked ETH",
-    "logo": "/networks/solana/tokens/stETH--h2mf9qndu2niq6qr7367ua2trbsvsclyx5bz7r3pw5se/logo.png",
+    "logo": "/networks/solana/tokens/stETH--H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13907,11 +14226,11 @@
         "assets": [
           {
             "name": "Lido Staked ETH",
-            "address": "h2mf9qndu2niq6qr7367ua2trbsvsclyx5bz7r3pw5se",
+            "address": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
             "symbol": "stETH",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/stETH--h2mf9qndu2niq6qr7367ua2trbsvsclyx5bz7r3pw5se/logo.png",
+            "logo": "/networks/solana/tokens/stETH--H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png",
             "tags": [
               "spl"
             ],
@@ -13924,7 +14243,7 @@
   {
     "symbol": "stSOLwstETH",
     "name": "Orca Double Dip Token (stSOL/wstETH[aquafarm])",
-    "logo": "/networks/solana/tokens/stSOLwstETH--5wxyg6zl1hmespcshhkbtqlurpzcngd9mtb25op87fku/logo.svg",
+    "logo": "/networks/solana/tokens/stSOLwstETH--5WXyG6zL1HmESPCSHHKBtqLuRPZCNgd9mTB25op87FkU/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13936,11 +14255,11 @@
         "assets": [
           {
             "name": "Orca Double Dip Token (stSOL/wstETH[aquafarm])",
-            "address": "5wxyg6zl1hmespcshhkbtqlurpzcngd9mtb25op87fku",
+            "address": "5WXyG6zL1HmESPCSHHKBtqLuRPZCNgd9mTB25op87FkU",
             "symbol": "stSOLwstETH",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/stSOLwstETH--5wxyg6zl1hmespcshhkbtqlurpzcngd9mtb25op87fku/logo.svg",
+            "logo": "/networks/solana/tokens/stSOLwstETH--5WXyG6zL1HmESPCSHHKBtqLuRPZCNgd9mTB25op87FkU/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13953,7 +14272,7 @@
   {
     "symbol": "wHAPIUSDC",
     "name": "Orca Aquafarm Token (wHAPI/USDC[aquafarm])",
-    "logo": "/networks/solana/tokens/wHAPIUSDC--bfoi3rnnfdp5vergqvta8mrn9epgjozgekfe8webhuxe/logo.svg",
+    "logo": "/networks/solana/tokens/wHAPIUSDC--Bfoi3RNnfdP5VeRGqvTA8MRN9ePGJoZgeKfe8WeBHUxE/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -13965,11 +14284,11 @@
         "assets": [
           {
             "name": "Orca Aquafarm Token (wHAPI/USDC[aquafarm])",
-            "address": "bfoi3rnnfdp5vergqvta8mrn9epgjozgekfe8webhuxe",
+            "address": "Bfoi3RNnfdP5VeRGqvTA8MRN9ePGJoZgeKfe8WeBHUxE",
             "symbol": "wHAPIUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/wHAPIUSDC--bfoi3rnnfdp5vergqvta8mrn9epgjozgekfe8webhuxe/logo.svg",
+            "logo": "/networks/solana/tokens/wHAPIUSDC--Bfoi3RNnfdP5VeRGqvTA8MRN9ePGJoZgeKfe8WeBHUxE/logo.svg",
             "tags": [
               "spl"
             ],
@@ -13982,7 +14301,7 @@
   {
     "symbol": "wUSDT",
     "name": "Wrapped USDT (Sollet)",
-    "logo": "/networks/solana/tokens/wUSDT--bqcdhdaqw1hczdbbi9hiegxar7a98q9jx3x3ibbbdiq4/logo.png",
+    "logo": "/networks/solana/tokens/wUSDT--BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -13994,11 +14313,11 @@
         "assets": [
           {
             "name": "Wrapped USDT (Sollet)",
-            "address": "bqcdhdaqw1hczdbbi9hiegxar7a98q9jx3x3ibbbdiq4",
+            "address": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
             "symbol": "wUSDT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/wUSDT--bqcdhdaqw1hczdbbi9hiegxar7a98q9jx3x3ibbbdiq4/logo.png",
+            "logo": "/networks/solana/tokens/wUSDT--BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
             "tags": [
               "spl"
             ],
@@ -14011,7 +14330,7 @@
   {
     "symbol": "wYLD",
     "name": "Yield (Wormhole)",
-    "logo": "/networks/solana/tokens/wYLD--cqwsjtkmmy16q9qlnqxktm1byzvhgrr8b6lcpuzneeil/logo.png",
+    "logo": "/networks/solana/tokens/wYLD--CqWSJtkMMY16q9QLnQxktM1byzVHGRr8b6LCPuZnEeiL/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -14023,11 +14342,11 @@
         "assets": [
           {
             "name": "Yield (Wormhole)",
-            "address": "cqwsjtkmmy16q9qlnqxktm1byzvhgrr8b6lcpuzneeil",
+            "address": "CqWSJtkMMY16q9QLnQxktM1byzVHGRr8b6LCPuZnEeiL",
             "symbol": "wYLD",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/wYLD--cqwsjtkmmy16q9qlnqxktm1byzvhgrr8b6lcpuzneeil/logo.png",
+            "logo": "/networks/solana/tokens/wYLD--CqWSJtkMMY16q9QLnQxktM1byzVHGRr8b6LCPuZnEeiL/logo.png",
             "tags": [
               "spl"
             ],
@@ -14040,7 +14359,7 @@
   {
     "symbol": "waAAVE",
     "name": "Aave interest bearing AAVE (Wormhole)",
-    "logo": "/networks/solana/tokens/waAAVE--g1o2fhzxypceaecy4o6as7smvauu65drhcq1s4cfap9t/logo.svg",
+    "logo": "/networks/solana/tokens/waAAVE--G1o2fHZXyPCeAEcY4o6as7SmVaUu65DRhcq1S4Cfap9T/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14052,11 +14371,11 @@
         "assets": [
           {
             "name": "Aave interest bearing AAVE (Wormhole)",
-            "address": "g1o2fhzxypceaecy4o6as7smvauu65drhcq1s4cfap9t",
+            "address": "G1o2fHZXyPCeAEcY4o6as7SmVaUu65DRhcq1S4Cfap9T",
             "symbol": "waAAVE",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waAAVE--g1o2fhzxypceaecy4o6as7smvauu65drhcq1s4cfap9t/logo.svg",
+            "logo": "/networks/solana/tokens/waAAVE--G1o2fHZXyPCeAEcY4o6as7SmVaUu65DRhcq1S4Cfap9T/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14069,7 +14388,7 @@
   {
     "symbol": "waBAT",
     "name": "Aave Interest bearing BAT (Wormhole)",
-    "logo": "/networks/solana/tokens/waBAT--gcddivgznkwcangktusjhoho2chab9jfrry3q5w51zvc/logo.svg",
+    "logo": "/networks/solana/tokens/waBAT--GCdDiVgZnkWCAnGktUsjhoho2CHab9JfrRy3Q5W51zvC/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14081,11 +14400,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing BAT (Wormhole)",
-            "address": "gcddivgznkwcangktusjhoho2chab9jfrry3q5w51zvc",
+            "address": "GCdDiVgZnkWCAnGktUsjhoho2CHab9JfrRy3Q5W51zvC",
             "symbol": "waBAT",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waBAT--gcddivgznkwcangktusjhoho2chab9jfrry3q5w51zvc/logo.svg",
+            "logo": "/networks/solana/tokens/waBAT--GCdDiVgZnkWCAnGktUsjhoho2CHab9JfrRy3Q5W51zvC/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14098,7 +14417,7 @@
   {
     "symbol": "waBUSD",
     "name": "Aave Interest bearing Binance USD (Wormhole)",
-    "logo": "/networks/solana/tokens/waBUSD--f2wgohlwv4pfxn4wrus2q6kkmfcsnorgyq82oapnuflp/logo.svg",
+    "logo": "/networks/solana/tokens/waBUSD--F2WgoHLwV4pfxN4WrUs2q6KkmFCsNorGYQ82oaPNUFLP/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14110,11 +14429,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing Binance USD (Wormhole)",
-            "address": "f2wgohlwv4pfxn4wrus2q6kkmfcsnorgyq82oapnuflp",
+            "address": "F2WgoHLwV4pfxN4WrUs2q6KkmFCsNorGYQ82oaPNUFLP",
             "symbol": "waBUSD",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waBUSD--f2wgohlwv4pfxn4wrus2q6kkmfcsnorgyq82oapnuflp/logo.svg",
+            "logo": "/networks/solana/tokens/waBUSD--F2WgoHLwV4pfxN4WrUs2q6KkmFCsNorGYQ82oaPNUFLP/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14127,7 +14446,7 @@
   {
     "symbol": "waDAI",
     "name": "Aave interest bearing DAI (Wormhole)",
-    "logo": "/networks/solana/tokens/waDAI--4jrrhrs56i9gzksmgacy3zsxmo3jeqqviu64ki7zjpak/logo.svg",
+    "logo": "/networks/solana/tokens/waDAI--4JrrHRS56i9GZkSmGaCY3ZsxMo3JEqQviU64ki7ZJPak/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14139,11 +14458,11 @@
         "assets": [
           {
             "name": "Aave interest bearing DAI (Wormhole)",
-            "address": "4jrrhrs56i9gzksmgacy3zsxmo3jeqqviu64ki7zjpak",
+            "address": "4JrrHRS56i9GZkSmGaCY3ZsxMo3JEqQviU64ki7ZJPak",
             "symbol": "waDAI",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waDAI--4jrrhrs56i9gzksmgacy3zsxmo3jeqqviu64ki7zjpak/logo.svg",
+            "logo": "/networks/solana/tokens/waDAI--4JrrHRS56i9GZkSmGaCY3ZsxMo3JEqQviU64ki7ZJPak/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14156,7 +14475,7 @@
   {
     "symbol": "waENJ",
     "name": "Aave Interest bearing ENJ (Wormhole)",
-    "logo": "/networks/solana/tokens/waENJ--3rnuqjgvfz5efszvckvdycbd9zzs6ymtwqsoutfkmvd4/logo.svg",
+    "logo": "/networks/solana/tokens/waENJ--3rNUQJgvfZ5eFsZvCkvdYcbd9ZzS6YmtwQsoUTFKmVd4/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14168,11 +14487,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing ENJ (Wormhole)",
-            "address": "3rnuqjgvfz5efszvckvdycbd9zzs6ymtwqsoutfkmvd4",
+            "address": "3rNUQJgvfZ5eFsZvCkvdYcbd9ZzS6YmtwQsoUTFKmVd4",
             "symbol": "waENJ",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waENJ--3rnuqjgvfz5efszvckvdycbd9zzs6ymtwqsoutfkmvd4/logo.svg",
+            "logo": "/networks/solana/tokens/waENJ--3rNUQJgvfZ5eFsZvCkvdYcbd9ZzS6YmtwQsoUTFKmVd4/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14185,7 +14504,7 @@
   {
     "symbol": "waKNC",
     "name": "Aave interest bearing KNC (Wormhole)",
-    "logo": "/networks/solana/tokens/waKNC--7vd2gosm34hb7kughtqu1n3sw92hq3xwklti1n1tdkrj/logo.svg",
+    "logo": "/networks/solana/tokens/waKNC--7VD2Gosm34hB7kughTqu1N3sW92hq3XwKLTi1N1tdKrj/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14197,11 +14516,11 @@
         "assets": [
           {
             "name": "Aave interest bearing KNC (Wormhole)",
-            "address": "7vd2gosm34hb7kughtqu1n3sw92hq3xwklti1n1tdkrj",
+            "address": "7VD2Gosm34hB7kughTqu1N3sW92hq3XwKLTi1N1tdKrj",
             "symbol": "waKNC",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waKNC--7vd2gosm34hb7kughtqu1n3sw92hq3xwklti1n1tdkrj/logo.svg",
+            "logo": "/networks/solana/tokens/waKNC--7VD2Gosm34hB7kughTqu1N3sW92hq3XwKLTi1N1tdKrj/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14214,7 +14533,7 @@
   {
     "symbol": "waLINK",
     "name": "Aave Interest bearing LINK (Wormhole)",
-    "logo": "/networks/solana/tokens/waLINK--adp88wrqdgexptu26ddbnbn2ffwmkxlxwqzjtdfrqiji/logo.svg",
+    "logo": "/networks/solana/tokens/waLINK--Adp88WrQDgExPTu26DdBnbN2ffWMkXLxwqzjTdfRQiJi/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14226,11 +14545,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing LINK (Wormhole)",
-            "address": "adp88wrqdgexptu26ddbnbn2ffwmkxlxwqzjtdfrqiji",
+            "address": "Adp88WrQDgExPTu26DdBnbN2ffWMkXLxwqzjTdfRQiJi",
             "symbol": "waLINK",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waLINK--adp88wrqdgexptu26ddbnbn2ffwmkxlxwqzjtdfrqiji/logo.svg",
+            "logo": "/networks/solana/tokens/waLINK--Adp88WrQDgExPTu26DdBnbN2ffWMkXLxwqzjTdfRQiJi/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14243,7 +14562,7 @@
   {
     "symbol": "waMANA",
     "name": "Aave Interest bearing MANA (Wormhole)",
-    "logo": "/networks/solana/tokens/waMANA--ems6trcu8ubmumzukrsshgs1yzhgqyd3s8hw2syulx3t/logo.svg",
+    "logo": "/networks/solana/tokens/waMANA--EMS6TrCU8uBMumZukRSShGS1yzHGqYd3S8hW2sYULX3T/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14255,11 +14574,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing MANA (Wormhole)",
-            "address": "ems6trcu8ubmumzukrsshgs1yzhgqyd3s8hw2syulx3t",
+            "address": "EMS6TrCU8uBMumZukRSShGS1yzHGqYd3S8hW2sYULX3T",
             "symbol": "waMANA",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waMANA--ems6trcu8ubmumzukrsshgs1yzhgqyd3s8hw2syulx3t/logo.svg",
+            "logo": "/networks/solana/tokens/waMANA--EMS6TrCU8uBMumZukRSShGS1yzHGqYd3S8hW2sYULX3T/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14272,7 +14591,7 @@
   {
     "symbol": "waMKR",
     "name": "Aave interest bearing MKR (Wormhole)",
-    "logo": "/networks/solana/tokens/waMKR--4kjmfagjzqfuwto5rx6f1xscwybevbzepdjmiqtcnzjj/logo.svg",
+    "logo": "/networks/solana/tokens/waMKR--4kJmfagJzQFuwto5RX6f1xScWYbEVBzEpdjmiqTCnzjJ/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14284,11 +14603,11 @@
         "assets": [
           {
             "name": "Aave interest bearing MKR (Wormhole)",
-            "address": "4kjmfagjzqfuwto5rx6f1xscwybevbzepdjmiqtcnzjj",
+            "address": "4kJmfagJzQFuwto5RX6f1xScWYbEVBzEpdjmiqTCnzjJ",
             "symbol": "waMKR",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waMKR--4kjmfagjzqfuwto5rx6f1xscwybevbzepdjmiqtcnzjj/logo.svg",
+            "logo": "/networks/solana/tokens/waMKR--4kJmfagJzQFuwto5RX6f1xScWYbEVBzEpdjmiqTCnzjJ/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14301,7 +14620,7 @@
   {
     "symbol": "waREN",
     "name": "Aave interest bearing REN (Wormhole)",
-    "logo": "/networks/solana/tokens/waREN--dn8jpo8yztxhlmydmkcnwfukqy8wfn2urpx8ct4rc8bc/logo.svg",
+    "logo": "/networks/solana/tokens/waREN--DN8jPo8YZTXhLMyDMKcnwFuKqY8wfn2UrpX8ct4rc8Bc/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14313,11 +14632,11 @@
         "assets": [
           {
             "name": "Aave interest bearing REN (Wormhole)",
-            "address": "dn8jpo8yztxhlmydmkcnwfukqy8wfn2urpx8ct4rc8bc",
+            "address": "DN8jPo8YZTXhLMyDMKcnwFuKqY8wfn2UrpX8ct4rc8Bc",
             "symbol": "waREN",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waREN--dn8jpo8yztxhlmydmkcnwfukqy8wfn2urpx8ct4rc8bc/logo.svg",
+            "logo": "/networks/solana/tokens/waREN--DN8jPo8YZTXhLMyDMKcnwFuKqY8wfn2UrpX8ct4rc8Bc/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14330,7 +14649,7 @@
   {
     "symbol": "waSNX",
     "name": "Aave interest bearing SNX (Wormhole)",
-    "logo": "/networks/solana/tokens/waSNX--hwbjzxj7s1d1zi5p7yvgrumzpxvysfv6vsyu765ti422/logo.svg",
+    "logo": "/networks/solana/tokens/waSNX--HWbJZXJ7s1D1zi5P7yVgRUmZPXvYSFv6vsYU765Ti422/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14342,11 +14661,11 @@
         "assets": [
           {
             "name": "Aave interest bearing SNX (Wormhole)",
-            "address": "hwbjzxj7s1d1zi5p7yvgrumzpxvysfv6vsyu765ti422",
+            "address": "HWbJZXJ7s1D1zi5P7yVgRUmZPXvYSFv6vsYU765Ti422",
             "symbol": "waSNX",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waSNX--hwbjzxj7s1d1zi5p7yvgrumzpxvysfv6vsyu765ti422/logo.svg",
+            "logo": "/networks/solana/tokens/waSNX--HWbJZXJ7s1D1zi5P7yVgRUmZPXvYSFv6vsYU765Ti422/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14359,7 +14678,7 @@
   {
     "symbol": "waSUSD",
     "name": "Aave Interest bearing SUSD (Wormhole)",
-    "logo": "/networks/solana/tokens/waSUSD--bmrbf8dz9u5kgdj4f2mjbh5d6kpi5fqvp7eqmlrhde1f/logo.svg",
+    "logo": "/networks/solana/tokens/waSUSD--BMrbF8DZ9U5KGdJ4F2MJbH5d6KPi5FQVp7EqmLrhDe1f/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14371,11 +14690,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing SUSD (Wormhole)",
-            "address": "bmrbf8dz9u5kgdj4f2mjbh5d6kpi5fqvp7eqmlrhde1f",
+            "address": "BMrbF8DZ9U5KGdJ4F2MJbH5d6KPi5FQVp7EqmLrhDe1f",
             "symbol": "waSUSD",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waSUSD--bmrbf8dz9u5kgdj4f2mjbh5d6kpi5fqvp7eqmlrhde1f/logo.svg",
+            "logo": "/networks/solana/tokens/waSUSD--BMrbF8DZ9U5KGdJ4F2MJbH5d6KPi5FQVp7EqmLrhDe1f/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14388,7 +14707,7 @@
   {
     "symbol": "waTUSD",
     "name": "Aave interest bearing TUSD (Wormhole)",
-    "logo": "/networks/solana/tokens/waTUSD--badj3s29a2u1auxmijwg5vgjhplb1k6wlpoigtwjkpxp/logo.svg",
+    "logo": "/networks/solana/tokens/waTUSD--Badj3S29a2u1auxmijwg5vGjhPLb1K6WLPoigtWjKPXp/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14400,11 +14719,11 @@
         "assets": [
           {
             "name": "Aave interest bearing TUSD (Wormhole)",
-            "address": "badj3s29a2u1auxmijwg5vgjhplb1k6wlpoigtwjkpxp",
+            "address": "Badj3S29a2u1auxmijwg5vGjhPLb1K6WLPoigtWjKPXp",
             "symbol": "waTUSD",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waTUSD--badj3s29a2u1auxmijwg5vgjhplb1k6wlpoigtwjkpxp/logo.svg",
+            "logo": "/networks/solana/tokens/waTUSD--Badj3S29a2u1auxmijwg5vGjhPLb1K6WLPoigtWjKPXp/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14417,7 +14736,7 @@
   {
     "symbol": "waUNI",
     "name": "Aave Interest bearing Uniswap (Wormhole)",
-    "logo": "/networks/solana/tokens/waUNI--8kwclkwbv4qtjpcbsv65twdqmjurjbgrsv6vtc1jtil8/logo.png",
+    "logo": "/networks/solana/tokens/waUNI--8kwCLkWbv4qTJPcbSV65tWdQmjURjBGRSv6VtC1JTiL8/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -14429,11 +14748,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing Uniswap (Wormhole)",
-            "address": "8kwclkwbv4qtjpcbsv65twdqmjurjbgrsv6vtc1jtil8",
+            "address": "8kwCLkWbv4qTJPcbSV65tWdQmjURjBGRSv6VtC1JTiL8",
             "symbol": "waUNI",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waUNI--8kwclkwbv4qtjpcbsv65twdqmjurjbgrsv6vtc1jtil8/logo.png",
+            "logo": "/networks/solana/tokens/waUNI--8kwCLkWbv4qTJPcbSV65tWdQmjURjBGRSv6VtC1JTiL8/logo.png",
             "tags": [
               "spl"
             ],
@@ -14446,7 +14765,7 @@
   {
     "symbol": "waUSDC",
     "name": "Aave interest bearing USDC (Wormhole)",
-    "logo": "/networks/solana/tokens/waUSDC--bzcppva12m9sqjgcpf8jtp9si6rmanfour3i7nchha7m/logo.svg",
+    "logo": "/networks/solana/tokens/waUSDC--BZCPpva12M9SqJgcpf8jtP9Si6rMANFoUR3i7nchha7M/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14458,11 +14777,11 @@
         "assets": [
           {
             "name": "Aave interest bearing USDC (Wormhole)",
-            "address": "bzcppva12m9sqjgcpf8jtp9si6rmanfour3i7nchha7m",
+            "address": "BZCPpva12M9SqJgcpf8jtP9Si6rMANFoUR3i7nchha7M",
             "symbol": "waUSDC",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waUSDC--bzcppva12m9sqjgcpf8jtp9si6rmanfour3i7nchha7m/logo.svg",
+            "logo": "/networks/solana/tokens/waUSDC--BZCPpva12M9SqJgcpf8jtP9Si6rMANFoUR3i7nchha7M/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14475,7 +14794,7 @@
   {
     "symbol": "waUSDT",
     "name": "Aave interest bearing USDT (Wormhole)",
-    "logo": "/networks/solana/tokens/waUSDT--gnpaf84zetkyyfuy2fg8tzvwse7lptseyypsyekfqa2y/logo.svg",
+    "logo": "/networks/solana/tokens/waUSDT--GNPAF84ZEtKYyfuY2fg8tZVwse7LpTSeyYPSyEKFqa2Y/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14487,11 +14806,11 @@
         "assets": [
           {
             "name": "Aave interest bearing USDT (Wormhole)",
-            "address": "gnpaf84zetkyyfuy2fg8tzvwse7lptseyypsyekfqa2y",
+            "address": "GNPAF84ZEtKYyfuY2fg8tZVwse7LpTSeyYPSyEKFqa2Y",
             "symbol": "waUSDT",
             "decimals": 6,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waUSDT--gnpaf84zetkyyfuy2fg8tzvwse7lptseyypsyekfqa2y/logo.svg",
+            "logo": "/networks/solana/tokens/waUSDT--GNPAF84ZEtKYyfuY2fg8tZVwse7LpTSeyYPSyEKFqa2Y/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14504,7 +14823,7 @@
   {
     "symbol": "waWBTC",
     "name": "Aave Interest bearing WBTC (Wormhole)",
-    "logo": "/networks/solana/tokens/waWBTC--gvervvwtuh1s26yxyjunxh1j5mmdu5crc2k2uqy26kxi/logo.svg",
+    "logo": "/networks/solana/tokens/waWBTC--GveRVvWTUH1s26YxyjUnXh1J5mMdu5crC2K2uQy26KXi/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14516,11 +14835,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing WBTC (Wormhole)",
-            "address": "gvervvwtuh1s26yxyjunxh1j5mmdu5crc2k2uqy26kxi",
+            "address": "GveRVvWTUH1s26YxyjUnXh1J5mMdu5crC2K2uQy26KXi",
             "symbol": "waWBTC",
             "decimals": 8,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waWBTC--gvervvwtuh1s26yxyjunxh1j5mmdu5crc2k2uqy26kxi/logo.svg",
+            "logo": "/networks/solana/tokens/waWBTC--GveRVvWTUH1s26YxyjUnXh1J5mMdu5crC2K2uQy26KXi/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14533,7 +14852,7 @@
   {
     "symbol": "waYFI",
     "name": "Aave Interest bearing YFI (Wormhole)",
-    "logo": "/networks/solana/tokens/waYFI--ee58fvyg1uoy6givy3k3gsrde9shmj6x1bnochbtd3sz/logo.png",
+    "logo": "/networks/solana/tokens/waYFI--EE58FVYG1UoY6Givy3K3GSRde9sHMj6X1BnocHBtd3sz/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -14545,11 +14864,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing YFI (Wormhole)",
-            "address": "ee58fvyg1uoy6givy3k3gsrde9shmj6x1bnochbtd3sz",
+            "address": "EE58FVYG1UoY6Givy3K3GSRde9sHMj6X1BnocHBtd3sz",
             "symbol": "waYFI",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waYFI--ee58fvyg1uoy6givy3k3gsrde9shmj6x1bnochbtd3sz/logo.png",
+            "logo": "/networks/solana/tokens/waYFI--EE58FVYG1UoY6Givy3K3GSRde9sHMj6X1BnocHBtd3sz/logo.png",
             "tags": [
               "spl"
             ],
@@ -14562,7 +14881,7 @@
   {
     "symbol": "waZRX",
     "name": "Aave Interest bearing ZRX (Wormhole)",
-    "logo": "/networks/solana/tokens/waZRX--qhqzfh7ajeukugqypxncwhfxtbebfnu5qqurzhjalb4/logo.svg",
+    "logo": "/networks/solana/tokens/waZRX--qhqzfH7AjeukUgqyPXncWHFXTBebFNu5QQUrzhJaLB4/logo.svg",
     "priority": -1,
     "networks": [
       {
@@ -14574,11 +14893,11 @@
         "assets": [
           {
             "name": "Aave Interest bearing ZRX (Wormhole)",
-            "address": "qhqzfh7ajeukugqypxncwhfxtbebfnu5qqurzhjalb4",
+            "address": "qhqzfH7AjeukUgqyPXncWHFXTBebFNu5QQUrzhJaLB4",
             "symbol": "waZRX",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/waZRX--qhqzfh7ajeukugqypxncwhfxtbebfnu5qqurzhjalb4/logo.svg",
+            "logo": "/networks/solana/tokens/waZRX--qhqzfH7AjeukUgqyPXncWHFXTBebFNu5QQUrzhJaLB4/logo.svg",
             "tags": [
               "spl"
             ],
@@ -14591,7 +14910,7 @@
   {
     "symbol": "xMARK",
     "name": "Standard",
-    "logo": "/networks/solana/tokens/xMARK--2odxyggtbmst4rc3yn1ytcseck7redz8whwlqzaunwxh/logo.png",
+    "logo": "/networks/solana/tokens/xMARK--2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH/logo.png",
     "priority": -1,
     "networks": [
       {
@@ -14603,11 +14922,11 @@
         "assets": [
           {
             "name": "Standard",
-            "address": "2odxyggtbmst4rc3yn1ytcseck7redz8whwlqzaunwxh",
+            "address": "2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH",
             "symbol": "xMARK",
             "decimals": 9,
             "chainId": 101,
-            "logo": "/networks/solana/tokens/xMARK--2odxyggtbmst4rc3yn1ytcseck7redz8whwlqzaunwxh/logo.png",
+            "logo": "/networks/solana/tokens/xMARK--2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH/logo.png",
             "tags": [
               "spl"
             ],
@@ -18001,6 +18320,35 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/GRO--0xbad7b06c436200db693dd49418a96e2bf857f9a2/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "GTON",
+    "name": "Graviton",
+    "logo": "/networks/avalanche-c/tokens/GTON--0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642/logo.png",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Graviton",
+            "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+            "symbol": "GTON",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/GTON--0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642/logo.png",
             "tags": [
               "erc20avax"
             ],
@@ -21578,6 +21926,35 @@
     ]
   },
   {
+    "symbol": "SEED",
+    "name": "The Seed Farm",
+    "logo": "/networks/avalanche-c/tokens/SEED--0x37427C72f3534d854EE462d18f42aD5fbE74AA2B/logo.png",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "The Seed Farm",
+            "address": "0x37427C72f3534d854EE462d18f42aD5fbE74AA2B",
+            "symbol": "SEED",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/SEED--0x37427C72f3534d854EE462d18f42aD5fbE74AA2B/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "symbol": "SFI",
     "name": "Spice",
     "logo": "/networks/avalanche-c/tokens/SFI--0xc386282f66c090a1e42c39e83dbd2c2d447de506/logo.png",
@@ -22699,6 +23076,35 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/TRUST--0x0b483a7e8119d9f9fbff4a86cd751c51b6a81af9/logo.png",
+            "tags": [
+              "erc20avax"
+            ],
+            "type": "token"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "symbol": "TRYB",
+    "name": "BiLira",
+    "logo": "/networks/avalanche-c/tokens/TRYB--0x564a341df6c126f90cf3ecb92120fd7190acb401/logo.png",
+    "priority": -1,
+    "networks": [
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "BiLira",
+            "address": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
+            "symbol": "TRYB",
+            "decimals": 6,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/TRYB--0x564a341df6c126f90cf3ecb92120fd7190acb401/logo.png",
             "tags": [
               "erc20avax"
             ],

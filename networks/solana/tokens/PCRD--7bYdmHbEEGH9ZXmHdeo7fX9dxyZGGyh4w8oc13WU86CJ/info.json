@@ -1,0 +1,11 @@
+{
+  "name": "PubCred token",
+  "address": "7bYdmHbEEGH9ZXmHdeo7fX9dxyZGGyh4w8oc13WU86CJ",
+  "symbol": "PCRD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zSTEP (ACUMEN)",
+  "address": "BR31LZKtry5tyjVtZ49PFZoZjtE5SeS4rjVMuL9Xiyer",
+  "symbol": "zSTEP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zSTEP--BR31LZKtry5tyjVtZ49PFZoZjtE5SeS4rjVMuL9Xiyer/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

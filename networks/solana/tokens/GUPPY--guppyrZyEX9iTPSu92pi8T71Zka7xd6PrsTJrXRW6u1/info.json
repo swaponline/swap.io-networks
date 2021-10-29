@@ -1,0 +1,11 @@
+{
+  "name": "Orca Guppy Collectible",
+  "address": "guppyrZyEX9iTPSu92pi8T71Zka7xd6PrsTJrXRW6u1",
+  "symbol": "GUPPY",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GUPPY--guppyrZyEX9iTPSu92pi8T71Zka7xd6PrsTJrXRW6u1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

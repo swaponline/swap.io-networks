@@ -1,0 +1,11 @@
+{
+  "name": "GÜ",
+  "address": "5KV2W2XPdSo97wQWcuAVi6G4PaCoieg4Lhhi61PAMaMJ",
+  "symbol": "GÜ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GÜ--5KV2W2XPdSo97wQWcuAVi6G4PaCoieg4Lhhi61PAMaMJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

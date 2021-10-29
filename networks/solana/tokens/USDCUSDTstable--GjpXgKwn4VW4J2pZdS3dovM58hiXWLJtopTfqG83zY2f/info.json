@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (USDC/USDT[stable])",
+  "address": "GjpXgKwn4VW4J2pZdS3dovM58hiXWLJtopTfqG83zY2f",
+  "symbol": "USDCUSDTstable",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDCUSDTstable--GjpXgKwn4VW4J2pZdS3dovM58hiXWLJtopTfqG83zY2f/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

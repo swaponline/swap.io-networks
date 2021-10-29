@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ALEPH (Sollet)",
+  "address": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
+  "symbol": "ALEPH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ALEPH--CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

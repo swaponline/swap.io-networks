@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic USD",
+  "address": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
+  "symbol": "xUSD",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xUSD--83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

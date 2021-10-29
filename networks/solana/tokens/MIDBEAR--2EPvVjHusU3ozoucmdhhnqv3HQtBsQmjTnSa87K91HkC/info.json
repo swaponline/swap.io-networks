@@ -1,0 +1,11 @@
+{
+  "name": "MIDBEAR",
+  "address": "2EPvVjHusU3ozoucmdhhnqv3HQtBsQmjTnSa87K91HkC",
+  "symbol": "MIDBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

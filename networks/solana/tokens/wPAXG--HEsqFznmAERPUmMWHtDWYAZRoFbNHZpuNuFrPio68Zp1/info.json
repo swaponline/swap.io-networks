@@ -1,0 +1,11 @@
+{
+  "name": "Paxos Gold (Wormhole)",
+  "address": "HEsqFznmAERPUmMWHtDWYAZRoFbNHZpuNuFrPio68Zp1",
+  "symbol": "wPAXG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPAXG--HEsqFznmAERPUmMWHtDWYAZRoFbNHZpuNuFrPio68Zp1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

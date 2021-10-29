@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped GRT  (Sollet)",
+  "address": "38i2NQxjp5rt5B3KogqrxmBxgrAwaB3W1f1GmiKqh9MS",
+  "symbol": "GRT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GRT--38i2NQxjp5rt5B3KogqrxmBxgrAwaB3W1f1GmiKqh9MS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

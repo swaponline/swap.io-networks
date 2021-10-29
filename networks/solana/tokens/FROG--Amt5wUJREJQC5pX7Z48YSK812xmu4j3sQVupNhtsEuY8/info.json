@@ -1,0 +1,11 @@
+{
+  "name": "FROG",
+  "address": "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
+  "symbol": "FROG",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FROG--Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

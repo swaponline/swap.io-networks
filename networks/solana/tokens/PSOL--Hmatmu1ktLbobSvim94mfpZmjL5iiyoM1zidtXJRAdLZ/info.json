@@ -1,0 +1,11 @@
+{
+  "name": "Parasol",
+  "address": "Hmatmu1ktLbobSvim94mfpZmjL5iiyoM1zidtXJRAdLZ",
+  "symbol": "PSOL",
+  "decimals": 7,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PSOL--Hmatmu1ktLbobSvim94mfpZmjL5iiyoM1zidtXJRAdLZ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

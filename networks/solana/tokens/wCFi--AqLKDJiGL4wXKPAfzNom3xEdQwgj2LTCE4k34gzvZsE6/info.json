@@ -1,0 +1,11 @@
+{
+  "name": "CyberFi Token (Wormhole)",
+  "address": "AqLKDJiGL4wXKPAfzNom3xEdQwgj2LTCE4k34gzvZsE6",
+  "symbol": "wCFi",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCFi--AqLKDJiGL4wXKPAfzNom3xEdQwgj2LTCE4k34gzvZsE6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

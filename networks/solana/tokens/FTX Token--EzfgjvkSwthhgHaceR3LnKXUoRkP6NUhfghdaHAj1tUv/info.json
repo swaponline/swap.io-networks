@@ -1,0 +1,11 @@
+{
+  "name": "FTT (Wormhole)",
+  "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+  "symbol": "FTX Token",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FTX Token--EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tuPOLIS",
+  "address": "658FZo9B4HgKxsKsM7cUHN7jfNFgC7YftusWWYWc4piD",
+  "symbol": "tuPOLIS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuPOLIS--658FZo9B4HgKxsKsM7cUHN7jfNFgC7YftusWWYWc4piD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

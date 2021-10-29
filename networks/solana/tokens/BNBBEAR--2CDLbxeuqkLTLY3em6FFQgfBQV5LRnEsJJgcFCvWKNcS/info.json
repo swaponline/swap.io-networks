@@ -1,0 +1,11 @@
+{
+  "name": "BNBBEAR",
+  "address": "2CDLbxeuqkLTLY3em6FFQgfBQV5LRnEsJJgcFCvWKNcS",
+  "symbol": "BNBBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

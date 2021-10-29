@@ -1,0 +1,11 @@
+{
+  "name": "ChadTrader Token",
+  "address": "5j6BmiZTfHssaWPT23EQYQci3w57VTw7QypKArQZbSZ9",
+  "symbol": "CHAD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CHAD--5j6BmiZTfHssaWPT23EQYQci3w57VTw7QypKArQZbSZ9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

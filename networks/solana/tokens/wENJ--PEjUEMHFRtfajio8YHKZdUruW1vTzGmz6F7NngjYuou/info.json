@@ -1,0 +1,11 @@
+{
+  "name": "Enjin Coin (Wormhole)",
+  "address": "PEjUEMHFRtfajio8YHKZdUruW1vTzGmz6F7NngjYuou",
+  "symbol": "wENJ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wENJ--PEjUEMHFRtfajio8YHKZdUruW1vTzGmz6F7NngjYuou/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SOLBET",
+  "address": "3UMYcByZNQVHHyyqVfXMKr8XWP64omYBFVvf7bD6wBiA",
+  "symbol": "BET",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

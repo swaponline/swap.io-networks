@@ -1,0 +1,11 @@
+{
+  "name": "Qia Coin",
+  "address": "8SvvzDMu5jqcBhfdYZM1zDjDG5YGYrsNmGsPzTm4bFYU",
+  "symbol": "QIA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/QIA--8SvvzDMu5jqcBhfdYZM1zDjDG5YGYrsNmGsPzTm4bFYU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

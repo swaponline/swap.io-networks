@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing UNI (Wormhole)",
+  "address": "2TZ8s2FwtWqJrWpdFsSf2uM2Fvjw474n6HhTdTEWoLor",
+  "symbol": "waUNI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUNI--2TZ8s2FwtWqJrWpdFsSf2uM2Fvjw474n6HhTdTEWoLor/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

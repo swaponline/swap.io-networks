@@ -1,0 +1,11 @@
+{
+  "name": "SOLINU",
+  "address": "53K4DK7D5vY8wmi3dxNphekBETQHFhqpa2VPwR4DQjvj",
+  "symbol": "SOLINU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Galaxy Digital Holdings",
+  "address": "EYLa7susWhzqDNKYe7qLhFHb3Y9kdNwThc6QSnc4TLWN",
+  "symbol": "GLXY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GLXY--EYLa7susWhzqDNKYe7qLhFHb3Y9kdNwThc6QSnc4TLWN/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

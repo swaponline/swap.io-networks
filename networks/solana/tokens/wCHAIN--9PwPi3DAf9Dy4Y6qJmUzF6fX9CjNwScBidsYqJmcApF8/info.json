@@ -1,0 +1,11 @@
+{
+  "name": "Chain Games (Wormhole)",
+  "address": "9PwPi3DAf9Dy4Y6qJmUzF6fX9CjNwScBidsYqJmcApF8",
+  "symbol": "wCHAIN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCHAIN--9PwPi3DAf9Dy4Y6qJmUzF6fX9CjNwScBidsYqJmcApF8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

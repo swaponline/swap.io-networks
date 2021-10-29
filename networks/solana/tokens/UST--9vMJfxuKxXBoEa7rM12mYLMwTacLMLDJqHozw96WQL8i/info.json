@@ -1,0 +1,11 @@
+{
+  "name": "UST (Wormhole)",
+  "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+  "symbol": "UST",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UST--9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

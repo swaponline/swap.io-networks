@@ -1,0 +1,11 @@
+{
+  "name": "RADIOZONE26",
+  "address": "8BNNxGUinfDgwXodroVfGQde1RnwsA2DW34gc89YcBH9",
+  "symbol": "RDZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RDZ--8BNNxGUinfDgwXodroVfGQde1RnwsA2DW34gc89YcBH9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

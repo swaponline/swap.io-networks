@@ -1,0 +1,11 @@
+{
+  "name": "Mercurial LP Token (USDC-USDT-PAI)",
+  "address": "9s6dXtMgV5E6v3rHqBF2LejHcA2GWoZb7xNUkgXgsBqt",
+  "symbol": "USDC-USDT-PAI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDC-USDT-PAI--9s6dXtMgV5E6v3rHqBF2LejHcA2GWoZb7xNUkgXgsBqt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

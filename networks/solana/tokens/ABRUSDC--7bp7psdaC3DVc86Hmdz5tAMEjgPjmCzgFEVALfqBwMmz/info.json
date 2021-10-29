@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (ABR/USDC[aquafarm])",
+  "address": "7bp7psdaC3DVc86Hmdz5tAMEjgPjmCzgFEVALfqBwMmz",
+  "symbol": "ABRUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ABRUSDC--7bp7psdaC3DVc86Hmdz5tAMEjgPjmCzgFEVALfqBwMmz/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

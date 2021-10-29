@@ -1,0 +1,11 @@
+{
+  "name": "Swiss and Makeup",
+  "address": "ABFPEo4pUy1is4Atf33zZoYpG2nkB66W3fsTwAeCUSkA",
+  "symbol": "SAM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAM--ABFPEo4pUy1is4Atf33zZoYpG2nkB66W3fsTwAeCUSkA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

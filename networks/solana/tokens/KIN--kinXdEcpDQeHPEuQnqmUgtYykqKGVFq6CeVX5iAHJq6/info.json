@@ -1,0 +1,11 @@
+{
+  "name": "KIN",
+  "address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+  "symbol": "KIN",
+  "decimals": 5,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KIN--kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

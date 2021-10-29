@@ -1,0 +1,11 @@
+{
+  "name": "Yet Another Token PIRIT",
+  "address": "6E8tJq85M64wqerfwBN6iYQGJPVcUFzgc8wKqc3tcKeD",
+  "symbol": "YAT-PIR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YAT-PIR--6E8tJq85M64wqerfwBN6iYQGJPVcUFzgc8wKqc3tcKeD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SuperFarm (Wormhole)",
+  "address": "3bkBFHyof411hGBdcsiM1KSDdErw63Xoj3eLB8yNknB4",
+  "symbol": "wSUPER",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSUPER--3bkBFHyof411hGBdcsiM1KSDdErw63Xoj3eLB8yNknB4/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

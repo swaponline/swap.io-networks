@@ -1,0 +1,11 @@
+{
+  "name": "SOLLAMA",
+  "address": "9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv",
+  "symbol": "LLAMA",
+  "decimals": 1,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LLAMA--9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

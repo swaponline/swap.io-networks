@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Celsius (Sollet)",
+  "address": "DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE",
+  "symbol": "CEL",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CEL--DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

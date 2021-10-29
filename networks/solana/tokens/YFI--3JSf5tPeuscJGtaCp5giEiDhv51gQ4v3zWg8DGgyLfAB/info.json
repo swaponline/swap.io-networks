@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped YFI (Sollet)",
+  "address": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
+  "symbol": "YFI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YFI--3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

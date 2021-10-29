@@ -1,0 +1,11 @@
+{
+  "name": "Quant (Wormhole)",
+  "address": "BrtLvpVCwVDH5Jpqjtiuhh8wKYA5b3NZCnsSftr61viv",
+  "symbol": "wQNT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wQNT--BrtLvpVCwVDH5Jpqjtiuhh8wKYA5b3NZCnsSftr61viv/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

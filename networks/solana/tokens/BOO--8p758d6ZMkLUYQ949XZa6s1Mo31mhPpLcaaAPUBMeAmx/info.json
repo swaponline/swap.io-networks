@@ -1,0 +1,11 @@
+{
+  "name": "Gene Crucean",
+  "address": "8p758d6ZMkLUYQ949XZa6s1Mo31mhPpLcaaAPUBMeAmx",
+  "symbol": "BOO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOO--8p758d6ZMkLUYQ949XZa6s1Mo31mhPpLcaaAPUBMeAmx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

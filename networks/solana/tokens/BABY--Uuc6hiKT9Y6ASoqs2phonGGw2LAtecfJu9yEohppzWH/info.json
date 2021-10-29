@@ -1,0 +1,11 @@
+{
+  "name": "Baby Samo Coin",
+  "address": "Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH",
+  "symbol": "BABY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BABY--Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

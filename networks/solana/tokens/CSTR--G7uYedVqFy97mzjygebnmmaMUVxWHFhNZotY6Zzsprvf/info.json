@@ -1,0 +1,11 @@
+{
+  "name": "CoreStarter",
+  "address": "G7uYedVqFy97mzjygebnmmaMUVxWHFhNZotY6Zzsprvf",
+  "symbol": "CSTR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CSTR--G7uYedVqFy97mzjygebnmmaMUVxWHFhNZotY6Zzsprvf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

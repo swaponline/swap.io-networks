@@ -1,0 +1,11 @@
+{
+  "name": "Swapfolio (Wormhole)",
+  "address": "4obZok5FFUcQXQoV39hhcqk9xSmo4WnP9wnrNCk1g5BC",
+  "symbol": "wSWFL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSWFL--4obZok5FFUcQXQoV39hhcqk9xSmo4WnP9wnrNCk1g5BC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

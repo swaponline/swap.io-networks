@@ -1,0 +1,11 @@
+{
+  "name": "Lido Staked SOL",
+  "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+  "symbol": "stSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/stSOL--7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

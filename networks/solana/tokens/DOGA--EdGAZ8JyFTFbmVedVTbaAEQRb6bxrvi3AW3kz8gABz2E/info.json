@@ -1,0 +1,11 @@
+{
+  "name": "Dogana",
+  "address": "EdGAZ8JyFTFbmVedVTbaAEQRb6bxrvi3AW3kz8gABz2E",
+  "symbol": "DOGA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOGA--EdGAZ8JyFTFbmVedVTbaAEQRb6bxrvi3AW3kz8gABz2E/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

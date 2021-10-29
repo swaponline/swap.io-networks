@@ -1,0 +1,11 @@
+{
+  "name": "LTCBEAR",
+  "address": "8L9XGTMzcqS9p61zsR35t7qipwAXMYkD6disWoDFZiFT",
+  "symbol": "LTCBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

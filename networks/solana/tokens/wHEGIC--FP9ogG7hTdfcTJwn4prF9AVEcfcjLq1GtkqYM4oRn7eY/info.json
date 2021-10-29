@@ -1,0 +1,11 @@
+{
+  "name": "Hegic (Wormhole)",
+  "address": "FP9ogG7hTdfcTJwn4prF9AVEcfcjLq1GtkqYM4oRn7eY",
+  "symbol": "wHEGIC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wHEGIC--FP9ogG7hTdfcTJwn4prF9AVEcfcjLq1GtkqYM4oRn7eY/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

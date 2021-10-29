@@ -1,0 +1,11 @@
+{
+  "name": "Rarible (Wormhole)",
+  "address": "8HCWFQA2GsA6Nm2L5jidM3mus7NeeQ8wp1ri3XFF9WWH",
+  "symbol": "wRARI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRARI--8HCWFQA2GsA6Nm2L5jidM3mus7NeeQ8wp1ri3XFF9WWH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

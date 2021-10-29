@@ -1,0 +1,11 @@
+{
+  "name": "ARK Innovation ETF",
+  "address": "GPoBx2hycDs3t4Q8DeBme9RHb9nQpzH3a36iUoojHe16",
+  "symbol": "ARKK",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ARKK--GPoBx2hycDs3t4Q8DeBme9RHb9nQpzH3a36iUoojHe16/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped 1INCH (Sollet)",
+  "address": "5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US",
+  "symbol": "1INCH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

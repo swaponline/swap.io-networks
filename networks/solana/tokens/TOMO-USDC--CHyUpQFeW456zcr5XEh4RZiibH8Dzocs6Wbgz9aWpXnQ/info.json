@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (TOMO-USDC)",
+  "address": "CHyUpQFeW456zcr5XEh4RZiibH8Dzocs6Wbgz9aWpXnQ",
+  "symbol": "TOMO-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TOMO-USDC--CHyUpQFeW456zcr5XEh4RZiibH8Dzocs6Wbgz9aWpXnQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

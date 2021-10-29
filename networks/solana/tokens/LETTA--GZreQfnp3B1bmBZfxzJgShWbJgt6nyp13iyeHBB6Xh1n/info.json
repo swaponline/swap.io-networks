@@ -1,0 +1,11 @@
+{
+  "name": "Soletta",
+  "address": "GZreQfnp3B1bmBZfxzJgShWbJgt6nyp13iyeHBB6Xh1n",
+  "symbol": "LETTA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LETTA--GZreQfnp3B1bmBZfxzJgShWbJgt6nyp13iyeHBB6Xh1n/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

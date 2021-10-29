@@ -1,0 +1,11 @@
+{
+  "name": "XTAG",
+  "address": "7Qbjc2DZ6K2t6NtQhQnJfsi9V2Aa2KSmKyWZZEdfTXsT",
+  "symbol": "XTAG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

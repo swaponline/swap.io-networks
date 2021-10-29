@@ -1,0 +1,11 @@
+{
+  "name": "NEXTSENSE",
+  "address": "nZhog7W722ieakdHxRp1pcHMZwvv1HUCW9Y1rPZHktE",
+  "symbol": "NXT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NXT--nZhog7W722ieakdHxRp1pcHMZwvv1HUCW9Y1rPZHktE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

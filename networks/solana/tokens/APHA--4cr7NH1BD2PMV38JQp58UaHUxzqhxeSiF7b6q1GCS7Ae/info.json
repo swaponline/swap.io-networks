@@ -1,0 +1,11 @@
+{
+  "name": "Aphria Inc",
+  "address": "4cr7NH1BD2PMV38JQp58UaHUxzqhxeSiF7b6q1GCS7Ae",
+  "symbol": "APHA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/APHA--4cr7NH1BD2PMV38JQp58UaHUxzqhxeSiF7b6q1GCS7Ae/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

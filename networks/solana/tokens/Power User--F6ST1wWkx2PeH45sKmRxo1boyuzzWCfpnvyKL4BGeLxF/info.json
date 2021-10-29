@@ -1,0 +1,11 @@
+{
+  "name": "Power User",
+  "address": "F6ST1wWkx2PeH45sKmRxo1boyuzzWCfpnvyKL4BGeLxF",
+  "symbol": "Power User",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

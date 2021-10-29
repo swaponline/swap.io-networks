@@ -1,0 +1,11 @@
+{
+  "name": "Agronomist coin",
+  "address": "4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV",
+  "symbol": "AGTE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AGTE--4QV4wzDdy7S1EV6y2r9DkmaDsHeoKz6HUvFLVtAsu6dV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

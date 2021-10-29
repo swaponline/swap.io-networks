@@ -1,0 +1,11 @@
+{
+  "name": "SpiderSwap",
+  "address": "ATxXyewb1cXThrQFmwHUy4dtPTErfsuqkg7JcUXgLgqo",
+  "symbol": "SPW",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SPW--ATxXyewb1cXThrQFmwHUy4dtPTErfsuqkg7JcUXgLgqo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

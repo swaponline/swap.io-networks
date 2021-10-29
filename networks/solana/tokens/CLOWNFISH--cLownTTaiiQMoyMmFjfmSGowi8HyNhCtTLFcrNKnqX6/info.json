@@ -1,0 +1,11 @@
+{
+  "name": "Orca Clownfish Collectible",
+  "address": "cLownTTaiiQMoyMmFjfmSGowi8HyNhCtTLFcrNKnqX6",
+  "symbol": "CLOWNFISH",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CLOWNFISH--cLownTTaiiQMoyMmFjfmSGowi8HyNhCtTLFcrNKnqX6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "$Poolz Finance (Wormhole)",
+  "address": "CCAQZHBVWKDukT68PZ3LenDs7apibeSYeJ3jHE8NzBC5",
+  "symbol": "wPOOLZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPOOLZ--CCAQZHBVWKDukT68PZ3LenDs7apibeSYeJ3jHE8NzBC5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (POLIS/USDC[aquafarm])",
+  "address": "FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB",
+  "symbol": "POLISUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/POLISUSDC--FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sol80s",
+  "address": "CrLXpyFeJQbhhkjWcrXGyXcY56KtWEPQmZQpjf853wFG",
+  "symbol": "YUPPIE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YUPPIE--CrLXpyFeJQbhhkjWcrXGyXcY56KtWEPQmZQpjf853wFG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

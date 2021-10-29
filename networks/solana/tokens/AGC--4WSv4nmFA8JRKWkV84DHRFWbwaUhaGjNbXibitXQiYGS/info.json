@@ -1,0 +1,11 @@
+{
+  "name": "Automatic Get Coin",
+  "address": "4WSv4nmFA8JRKWkV84DHRFWbwaUhaGjNbXibitXQiYGS",
+  "symbol": "AGC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AGC--4WSv4nmFA8JRKWkV84DHRFWbwaUhaGjNbXibitXQiYGS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

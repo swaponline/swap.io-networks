@@ -1,0 +1,11 @@
+{
+  "name": "trollbox",
+  "address": "Bx4ykEMurwPQBAFNvthGj73fMBVTvHa8e9cbAyaK4ZSh",
+  "symbol": "TOX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TOX--Bx4ykEMurwPQBAFNvthGj73fMBVTvHa8e9cbAyaK4ZSh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

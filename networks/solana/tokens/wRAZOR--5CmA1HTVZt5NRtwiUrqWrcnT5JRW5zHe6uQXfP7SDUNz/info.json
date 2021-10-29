@@ -1,0 +1,11 @@
+{
+  "name": "RAZOR (Wormhole)",
+  "address": "5CmA1HTVZt5NRtwiUrqWrcnT5JRW5zHe6uQXfP7SDUNz",
+  "symbol": "wRAZOR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRAZOR--5CmA1HTVZt5NRtwiUrqWrcnT5JRW5zHe6uQXfP7SDUNz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

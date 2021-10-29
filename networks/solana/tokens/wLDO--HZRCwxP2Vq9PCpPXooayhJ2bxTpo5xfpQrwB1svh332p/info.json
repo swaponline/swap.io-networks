@@ -1,0 +1,11 @@
+{
+  "name": "Wormhole-wrapped Lido DAO Token",
+  "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+  "symbol": "wLDO",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLDO--HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

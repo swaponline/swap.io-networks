@@ -1,0 +1,11 @@
+{
+  "name": "FunFair (Wormhole)",
+  "address": "3EKQDmiXj8yLBFpZca4coxBpP8XJCzmjVgUdVydSmaaT",
+  "symbol": "wFUN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wFUN--3EKQDmiXj8yLBFpZca4coxBpP8XJCzmjVgUdVydSmaaT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

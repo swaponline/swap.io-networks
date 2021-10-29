@@ -1,0 +1,11 @@
+{
+  "name": "DoYourTip (Wormhole)",
+  "address": "4wvHoaxxZxFeNrMTP8bLVRh1ziSBV7crN665WX4rRMqe",
+  "symbol": "wDYT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wDYT--4wvHoaxxZxFeNrMTP8bLVRh1ziSBV7crN665WX4rRMqe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

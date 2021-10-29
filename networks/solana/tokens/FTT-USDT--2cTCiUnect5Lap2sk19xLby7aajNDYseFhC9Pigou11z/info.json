@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (FTT-USDT)",
+  "address": "2cTCiUnect5Lap2sk19xLby7aajNDYseFhC9Pigou11z",
+  "symbol": "FTT-USDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FTT-USDT--2cTCiUnect5Lap2sk19xLby7aajNDYseFhC9Pigou11z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

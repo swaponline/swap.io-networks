@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SUSHI-USDC)",
+  "address": "2QVjeR9d2PbSf8em8NE8zWd8RYHjFtucDUdDgdbDD2h2",
+  "symbol": "SUSHI-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUSHI-USDC--2QVjeR9d2PbSf8em8NE8zWd8RYHjFtucDUdDgdbDD2h2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

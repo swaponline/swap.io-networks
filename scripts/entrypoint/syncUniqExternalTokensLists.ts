@@ -24,7 +24,7 @@ export const syncUniqExternalTokens = async () => {
     externalTokenLists[listName].forEach((token) => {
       const { name, address, symbol, decimals, chainId, logoURI } = token
 
-      if (!name || !symbol || !address || (!decimals && decimals !== 0) || !chainId || !logoURI) {
+      if (!name || !symbol || !address || (!decimals && decimals !== 0) || !chainId) {
         return console.error(`Token haven't some prop for add to tokens list: ${JSON.stringify(token, null, 2)}`)
       }
 

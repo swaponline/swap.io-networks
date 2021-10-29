@@ -1,0 +1,11 @@
+{
+  "name": "The Last Stand",
+  "address": "Hfjgcs9ix17EwgXVVbKjo6NfMm2CXfr34cwty3xWARUm",
+  "symbol": "TLS",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TLS--Hfjgcs9ix17EwgXVVbKjo6NfMm2CXfr34cwty3xWARUm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

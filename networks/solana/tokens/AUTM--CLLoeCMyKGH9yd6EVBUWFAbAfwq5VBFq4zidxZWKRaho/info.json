@@ -1,0 +1,11 @@
+{
+  "name": "Autumn",
+  "address": "CLLoeCMyKGH9yd6EVBUWFAbAfwq5VBFq4zidxZWKRaho",
+  "symbol": "AUTM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AUTM--CLLoeCMyKGH9yd6EVBUWFAbAfwq5VBFq4zidxZWKRaho/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

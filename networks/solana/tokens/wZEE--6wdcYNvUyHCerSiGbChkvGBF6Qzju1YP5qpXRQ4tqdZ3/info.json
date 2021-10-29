@@ -1,0 +1,11 @@
+{
+  "name": "ZeroSwapToken (Wormhole)",
+  "address": "6wdcYNvUyHCerSiGbChkvGBF6Qzju1YP5qpXRQ4tqdZ3",
+  "symbol": "wZEE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wZEE--6wdcYNvUyHCerSiGbChkvGBF6Qzju1YP5qpXRQ4tqdZ3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

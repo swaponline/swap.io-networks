@@ -1,0 +1,11 @@
+{
+  "name": "Unisocks Edition 0 (Wormhole)",
+  "address": "6jVuhLJ2mzyZ8DyUcrDj8Qr6Q9bqbJnq4fAnMeEduDM9",
+  "symbol": "wSOCKS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSOCKS--6jVuhLJ2mzyZ8DyUcrDj8Qr6Q9bqbJnq4fAnMeEduDM9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

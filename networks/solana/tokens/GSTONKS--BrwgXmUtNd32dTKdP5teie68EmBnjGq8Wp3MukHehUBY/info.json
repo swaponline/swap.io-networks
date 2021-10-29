@@ -1,0 +1,11 @@
+{
+  "name": "Gamestonks",
+  "address": "BrwgXmUtNd32dTKdP5teie68EmBnjGq8Wp3MukHehUBY",
+  "symbol": "GSTONKS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GSTONKS--BrwgXmUtNd32dTKdP5teie68EmBnjGq8Wp3MukHehUBY/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

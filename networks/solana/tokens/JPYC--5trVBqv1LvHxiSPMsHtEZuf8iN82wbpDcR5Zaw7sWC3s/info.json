@@ -1,0 +1,11 @@
+{
+  "name": "JPY Coin(Sollet)(Deprecated)",
+  "address": "5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s",
+  "symbol": "JPYC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JPYC--5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

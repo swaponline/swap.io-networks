@@ -1,0 +1,11 @@
+{
+  "name": "BOIT Token",
+  "address": "72FzkmpjqXQunY1UvrYDYhCj3mtPYExbWq7wFBSuxmHA",
+  "symbol": "BOIT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOIT--72FzkmpjqXQunY1UvrYDYhCj3mtPYExbWq7wFBSuxmHA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

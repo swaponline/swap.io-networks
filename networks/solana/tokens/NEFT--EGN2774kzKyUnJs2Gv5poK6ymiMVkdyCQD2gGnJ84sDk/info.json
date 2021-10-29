@@ -1,0 +1,11 @@
+{
+  "name": "Neftea Labs Coin",
+  "address": "EGN2774kzKyUnJs2Gv5poK6ymiMVkdyCQD2gGnJ84sDk",
+  "symbol": "NEFT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NEFT--EGN2774kzKyUnJs2Gv5poK6ymiMVkdyCQD2gGnJ84sDk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Prithera token",
+  "address": "7b9rgZhiZHieCoPwxWd7ihbjtQ7Ljjy4McxvcA2TTgcK",
+  "symbol": "PERA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PERA--7b9rgZhiZHieCoPwxWd7ihbjtQ7Ljjy4McxvcA2TTgcK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

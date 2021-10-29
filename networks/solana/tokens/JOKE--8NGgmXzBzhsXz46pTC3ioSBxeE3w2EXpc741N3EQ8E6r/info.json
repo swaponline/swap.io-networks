@@ -1,0 +1,11 @@
+{
+  "name": "JOKESMEMES",
+  "address": "8NGgmXzBzhsXz46pTC3ioSBxeE3w2EXpc741N3EQ8E6r",
+  "symbol": "JOKE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JOKE--8NGgmXzBzhsXz46pTC3ioSBxeE3w2EXpc741N3EQ8E6r/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

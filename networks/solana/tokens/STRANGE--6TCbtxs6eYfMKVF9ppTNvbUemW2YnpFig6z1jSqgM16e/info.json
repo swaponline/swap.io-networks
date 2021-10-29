@@ -1,0 +1,11 @@
+{
+  "name": "STRANGE",
+  "address": "6TCbtxs6eYfMKVF9ppTNvbUemW2YnpFig6z1jSqgM16e",
+  "symbol": "STRANGE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STRANGE--6TCbtxs6eYfMKVF9ppTNvbUemW2YnpFig6z1jSqgM16e/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

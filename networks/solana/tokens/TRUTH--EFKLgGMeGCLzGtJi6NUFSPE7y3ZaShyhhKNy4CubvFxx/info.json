@@ -1,0 +1,11 @@
+{
+  "name": "TruthToken",
+  "address": "EFKLgGMeGCLzGtJi6NUFSPE7y3ZaShyhhKNy4CubvFxx",
+  "symbol": "TRUTH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TRUTH--EFKLgGMeGCLzGtJi6NUFSPE7y3ZaShyhhKNy4CubvFxx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

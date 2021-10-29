@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (RAY-USDC)",
+  "address": "FbC6K13MzHvN42bXrtGaWsvZY9fxrackRSZcBGfjPc7m",
+  "symbol": "RAY-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Legacy LP Token V3 (RAY-ETH)",
+  "address": "8Q6MKy5Yxb9vG1mWzppMtMb2nrhNuCRNUkJTeiE3fuwD",
+  "symbol": "RAY-ETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAY-ETH--8Q6MKy5Yxb9vG1mWzppMtMb2nrhNuCRNUkJTeiE3fuwD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

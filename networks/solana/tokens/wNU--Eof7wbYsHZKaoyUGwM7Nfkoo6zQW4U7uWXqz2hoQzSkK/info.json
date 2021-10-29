@@ -1,0 +1,11 @@
+{
+  "name": "NuCypher (Wormhole)",
+  "address": "Eof7wbYsHZKaoyUGwM7Nfkoo6zQW4U7uWXqz2hoQzSkK",
+  "symbol": "wNU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wNU--Eof7wbYsHZKaoyUGwM7Nfkoo6zQW4U7uWXqz2hoQzSkK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi Closeup",
+  "address": "GoC24kpj6TkvjzspXrjSJC2CVb5zMWhLyRcHJh9yKjRF",
+  "symbol": "Satoshi Closeup",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

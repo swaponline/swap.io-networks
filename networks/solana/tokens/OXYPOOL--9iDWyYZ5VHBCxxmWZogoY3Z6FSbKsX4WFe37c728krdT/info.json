@@ -1,0 +1,11 @@
+{
+  "name": "Bonfida Oxy Pool",
+  "address": "9iDWyYZ5VHBCxxmWZogoY3Z6FSbKsX4WFe37c728krdT",
+  "symbol": "OXYPOOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OXYPOOL--9iDWyYZ5VHBCxxmWZogoY3Z6FSbKsX4WFe37c728krdT/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

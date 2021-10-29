@@ -1,0 +1,11 @@
+{
+  "name": "SolaPAD Token (deprecated)",
+  "address": "BsDrXiQaFd147Fxq1fQYbJQ77P6tmPkRJQJzkKvspDKo",
+  "symbol": "SOLA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLA--BsDrXiQaFd147Fxq1fQYbJQ77P6tmPkRJQJzkKvspDKo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

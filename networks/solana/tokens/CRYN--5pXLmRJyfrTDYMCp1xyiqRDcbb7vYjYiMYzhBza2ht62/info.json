@@ -1,0 +1,11 @@
+{
+  "name": "Crayon",
+  "address": "5pXLmRJyfrTDYMCp1xyiqRDcbb7vYjYiMYzhBza2ht62",
+  "symbol": "CRYN",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRYN--5pXLmRJyfrTDYMCp1xyiqRDcbb7vYjYiMYzhBza2ht62/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

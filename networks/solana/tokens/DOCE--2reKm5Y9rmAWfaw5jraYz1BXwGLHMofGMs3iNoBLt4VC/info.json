@@ -1,0 +1,11 @@
+{
+  "name": "Doce Finance",
+  "address": "2reKm5Y9rmAWfaw5jraYz1BXwGLHMofGMs3iNoBLt4VC",
+  "symbol": "DOCE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOCE--2reKm5Y9rmAWfaw5jraYz1BXwGLHMofGMs3iNoBLt4VC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

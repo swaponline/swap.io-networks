@@ -1,0 +1,11 @@
+{
+  "name": "LGCY Network (Wormhole)",
+  "address": "AKiTcEWZarsnUbKkwQVRjJni5eqwiNeBQsJ3nrADacT4",
+  "symbol": "wLGCY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLGCY--AKiTcEWZarsnUbKkwQVRjJni5eqwiNeBQsJ3nrADacT4/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pi Token v2",
+  "address": "C3Rjiq8o2yiRWsmdSUSN276u5ah3UTqyWbZudLMG41pt",
+  "symbol": "PITXX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

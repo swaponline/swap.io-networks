@@ -1,0 +1,11 @@
+{
+  "name": "QUEST",
+  "address": "6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1",
+  "symbol": "QUEST",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/QUEST--6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

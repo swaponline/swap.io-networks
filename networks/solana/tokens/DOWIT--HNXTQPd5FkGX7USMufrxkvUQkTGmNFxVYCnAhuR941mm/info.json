@@ -1,0 +1,11 @@
+{
+  "name": "DOWIT",
+  "address": "HNXTQPd5FkGX7USMufrxkvUQkTGmNFxVYCnAhuR941mm",
+  "symbol": "DOWIT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOWIT--HNXTQPd5FkGX7USMufrxkvUQkTGmNFxVYCnAhuR941mm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "StaFi rSOL",
+  "address": "7hUdUTkJLwdcmt3jSEeqx4ep91sm1XwBxMDaJae6bD5D",
+  "symbol": "rSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/rSOL--7hUdUTkJLwdcmt3jSEeqx4ep91sm1XwBxMDaJae6bD5D/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

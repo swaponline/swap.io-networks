@@ -1,0 +1,11 @@
+{
+  "name": "tuTULIP",
+  "address": "Am2kxXzFH84biqbswGWq2zieWqsX2ANnFDyiZr9Fh7zc",
+  "symbol": "tuTULIP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuTULIP--Am2kxXzFH84biqbswGWq2zieWqsX2ANnFDyiZr9Fh7zc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

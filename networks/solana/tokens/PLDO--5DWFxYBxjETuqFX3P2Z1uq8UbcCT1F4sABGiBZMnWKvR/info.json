@@ -1,0 +1,11 @@
+{
+  "name": "PLEIDO",
+  "address": "5DWFxYBxjETuqFX3P2Z1uq8UbcCT1F4sABGiBZMnWKvR",
+  "symbol": "PLDO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PLDO--5DWFxYBxjETuqFX3P2Z1uq8UbcCT1F4sABGiBZMnWKvR/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

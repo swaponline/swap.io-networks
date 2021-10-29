@@ -1,0 +1,11 @@
+{
+  "name": "Graviton",
+  "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+  "symbol": "GTON",
+  "decimals": 18,
+  "chainId": 43114,
+  "logo": "/networks/avalanche-c/tokens/GTON--0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642/logo.png",
+  "tags": [
+    "erc20avax"
+  ]
+}

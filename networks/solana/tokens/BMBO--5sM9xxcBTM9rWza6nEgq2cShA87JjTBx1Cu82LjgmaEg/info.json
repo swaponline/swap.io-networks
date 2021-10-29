@@ -1,0 +1,11 @@
+{
+  "name": "Bamboo",
+  "address": "5sM9xxcBTM9rWza6nEgq2cShA87JjTBx1Cu82LjgmaEg",
+  "symbol": "BMBO",
+  "decimals": 7,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BMBO--5sM9xxcBTM9rWza6nEgq2cShA87JjTBx1Cu82LjgmaEg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Porpoise Collectible",
+  "address": "porpKs9ZZERXKkg55f1GRXCiXZK89Uz6VKS8Bv9qWqM",
+  "symbol": "PORPOISE",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PORPOISE--porpKs9ZZERXKkg55f1GRXCiXZK89Uz6VKS8Bv9qWqM/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

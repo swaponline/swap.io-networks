@@ -1,0 +1,11 @@
+{
+  "name": "Rogue Shark #129",
+  "address": "4oyPeSSUwfxExjBU76fTfAFHHrZ3HVwCHWqAUdpeFg6h",
+  "symbol": "SHARK",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SHARK--4oyPeSSUwfxExjBU76fTfAFHHrZ3HVwCHWqAUdpeFg6h/logo.jpeg",
+  "tags": [
+    "spl"
+  ]
+}

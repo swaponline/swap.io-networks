@@ -1,0 +1,11 @@
+{
+  "name": "DROID FINANCE",
+  "address": "2XkWD6spByDUoR3VDEjPXz4kxFV8e1skwaRSBArRLG3a",
+  "symbol": "DROIDF",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

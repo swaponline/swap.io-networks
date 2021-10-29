@@ -1,0 +1,11 @@
+{
+  "name": "BEAR",
+  "address": "45vwTZSDFBiqCMRdtK4xiLCHEov8LJRW8GwnofG8HYyH",
+  "symbol": "BEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (BOP-RAY)",
+  "address": "9nQPYJvysyfnXhQ6nkK5V7sZG26hmDgusfdNQijRk5LD",
+  "symbol": "BOP-RAY",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

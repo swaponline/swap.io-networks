@@ -1,0 +1,11 @@
+{
+  "name": "Rubic (Wormhole)",
+  "address": "HC8SaUm9rhvVZE5ZwBWiUhFAnCuG8byd5FxKYdpFm5MR",
+  "symbol": "wRBC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRBC--HC8SaUm9rhvVZE5ZwBWiUhFAnCuG8byd5FxKYdpFm5MR/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kreechures",
+  "address": "3cXftQWJJEeoysZrhAEjpfCHe9tSKyhYG63xpbue8m3s",
+  "symbol": "Kreechures",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Kreechures--3cXftQWJJEeoysZrhAEjpfCHe9tSKyhYG63xpbue8m3s/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

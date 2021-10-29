@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic BTC",
+  "address": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
+  "symbol": "xBTC",
+  "decimals": 10,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xBTC--HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

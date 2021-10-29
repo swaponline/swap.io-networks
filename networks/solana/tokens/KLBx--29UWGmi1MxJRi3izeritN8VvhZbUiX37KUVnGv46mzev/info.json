@@ -1,0 +1,11 @@
+{
+  "name": "Black Label X",
+  "address": "29UWGmi1MxJRi3izeritN8VvhZbUiX37KUVnGv46mzev",
+  "symbol": "KLBx",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KLBx--29UWGmi1MxJRi3izeritN8VvhZbUiX37KUVnGv46mzev/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

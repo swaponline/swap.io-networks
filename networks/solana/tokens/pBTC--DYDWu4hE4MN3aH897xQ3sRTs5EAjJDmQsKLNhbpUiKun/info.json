@@ -1,0 +1,11 @@
+{
+  "name": "pBTC (Parrot BTC)",
+  "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
+  "symbol": "pBTC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/pBTC--DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

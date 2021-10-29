@@ -1,0 +1,11 @@
+{
+  "name": "Media Network",
+  "address": "ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs",
+  "symbol": "MEDIA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MEDIA--ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

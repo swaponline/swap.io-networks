@@ -1,0 +1,11 @@
+{
+  "name": "ANUBEAST",
+  "address": "4R8DBzZEzjBQzPJe4qqaxXM97am7unGM1ZYfviS6oSFe",
+  "symbol": "ANU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ANU--4R8DBzZEzjBQzPJe4qqaxXM97am7unGM1ZYfviS6oSFe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

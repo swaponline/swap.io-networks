@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped USDC (Allbridge from Polygon)",
+  "address": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
+  "symbol": "apUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/apUSDC--eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

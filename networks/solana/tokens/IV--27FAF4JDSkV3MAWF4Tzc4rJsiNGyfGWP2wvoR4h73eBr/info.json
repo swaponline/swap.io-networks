@@ -1,0 +1,11 @@
+{
+  "name": "IV WorldWide Entertainment Token",
+  "address": "27FAF4JDSkV3MAWF4Tzc4rJsiNGyfGWP2wvoR4h73eBr",
+  "symbol": "IV",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/IV--27FAF4JDSkV3MAWF4Tzc4rJsiNGyfGWP2wvoR4h73eBr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

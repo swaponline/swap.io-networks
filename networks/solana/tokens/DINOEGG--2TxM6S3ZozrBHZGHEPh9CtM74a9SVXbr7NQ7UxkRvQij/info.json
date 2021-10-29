@@ -1,0 +1,11 @@
+{
+  "name": "DINOEGG",
+  "address": "2TxM6S3ZozrBHZGHEPh9CtM74a9SVXbr7NQ7UxkRvQij",
+  "symbol": "DINOEGG",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DINOEGG--2TxM6S3ZozrBHZGHEPh9CtM74a9SVXbr7NQ7UxkRvQij/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

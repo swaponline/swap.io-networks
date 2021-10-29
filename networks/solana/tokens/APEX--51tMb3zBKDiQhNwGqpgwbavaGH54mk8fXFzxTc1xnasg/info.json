@@ -1,0 +1,11 @@
+{
+  "name": "APEX",
+  "address": "51tMb3zBKDiQhNwGqpgwbavaGH54mk8fXFzxTc1xnasg",
+  "symbol": "APEX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/APEX--51tMb3zBKDiQhNwGqpgwbavaGH54mk8fXFzxTc1xnasg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

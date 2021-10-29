@@ -1,0 +1,11 @@
+{
+  "name": "Solex Finance",
+  "address": "AASdD9rAefJ4PP7iM89MYUsQEyCQwvBofhceZUGDh5HZ",
+  "symbol": "SLX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLX--AASdD9rAefJ4PP7iM89MYUsQEyCQwvBofhceZUGDh5HZ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

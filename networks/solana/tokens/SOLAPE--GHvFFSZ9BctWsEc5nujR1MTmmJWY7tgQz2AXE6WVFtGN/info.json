@@ -1,0 +1,11 @@
+{
+  "name": "SolAPE Token",
+  "address": "GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN",
+  "symbol": "SOLAPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLAPE--GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

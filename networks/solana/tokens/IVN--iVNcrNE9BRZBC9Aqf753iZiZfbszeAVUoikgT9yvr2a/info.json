@@ -1,0 +1,11 @@
+{
+  "name": "Investin Protocol",
+  "address": "iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a",
+  "symbol": "IVN",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/IVN--iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

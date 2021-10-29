@@ -1,0 +1,11 @@
+{
+  "name": "RADONTOKEN",
+  "address": "EqbY2zaTsJesaVviL5unHKjDsjoQZJhQAQz3iWQxAu1X",
+  "symbol": "RnV",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RnV--EqbY2zaTsJesaVviL5unHKjDsjoQZJhQAQz3iWQxAu1X/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "HBTC (Wormhole)",
+  "address": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
+  "symbol": "wHBTC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wHBTC--8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "COTI Token (Wormhole)",
+  "address": "HHoHTtntq2kiBPENyVM1DTP7pNrkBXX2Jye29PSyz3qf",
+  "symbol": "wCOTI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCOTI--HHoHTtntq2kiBPENyVM1DTP7pNrkBXX2Jye29PSyz3qf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kermit",
+  "address": "7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX",
+  "symbol": "KERMIT",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KERMIT--7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

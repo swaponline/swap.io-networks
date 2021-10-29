@@ -1,0 +1,11 @@
+{
+  "name": "Metaplex",
+  "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+  "symbol": "META",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/META--METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

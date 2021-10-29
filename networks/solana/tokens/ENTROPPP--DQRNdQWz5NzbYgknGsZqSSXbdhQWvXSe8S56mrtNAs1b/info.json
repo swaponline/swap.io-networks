@@ -1,0 +1,11 @@
+{
+  "name": "ENTROPPP (Entropy for security)",
+  "address": "DQRNdQWz5NzbYgknGsZqSSXbdhQWvXSe8S56mrtNAs1b",
+  "symbol": "ENTROPPP",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ENTROPPP--DQRNdQWz5NzbYgknGsZqSSXbdhQWvXSe8S56mrtNAs1b/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

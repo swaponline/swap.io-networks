@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing MANA (Wormhole)",
+  "address": "AXJWqG4SpAEwkMjKYkarKwv6Qfz5rLU3cwt5KtrDAAYe",
+  "symbol": "waMANA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waMANA--AXJWqG4SpAEwkMjKYkarKwv6Qfz5rLU3cwt5KtrDAAYe/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

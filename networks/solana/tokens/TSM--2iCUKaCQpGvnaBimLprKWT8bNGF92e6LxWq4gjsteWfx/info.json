@@ -1,0 +1,11 @@
+{
+  "name": "Taiwan Semiconductor Mfg",
+  "address": "2iCUKaCQpGvnaBimLprKWT8bNGF92e6LxWq4gjsteWfx",
+  "symbol": "TSM",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TSM--2iCUKaCQpGvnaBimLprKWT8bNGF92e6LxWq4gjsteWfx/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

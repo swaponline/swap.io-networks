@@ -1,0 +1,11 @@
+{
+  "name": "tuUSDC",
+  "address": "Amig8TisuLpzun8XyGfC5HJHHGUQEscjLgoTWsCCKihg",
+  "symbol": "tuUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuUSDC--Amig8TisuLpzun8XyGfC5HJHHGUQEscjLgoTWsCCKihg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

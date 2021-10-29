@@ -1,0 +1,11 @@
+{
+  "name": "Solcubator",
+  "address": "Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT",
+  "symbol": "SOLC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLC--Bx1fDtvTN6NvE4kjdPHQXtmGSg582bZx9fGy4DQNMmAT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

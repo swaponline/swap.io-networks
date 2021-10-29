@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (ROPE-USDC)",
+  "address": "Cq4HyW5xia37tKejPF2XfZeXQoPYW6KfbPvxvw5eRoUE",
+  "symbol": "ROPE-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

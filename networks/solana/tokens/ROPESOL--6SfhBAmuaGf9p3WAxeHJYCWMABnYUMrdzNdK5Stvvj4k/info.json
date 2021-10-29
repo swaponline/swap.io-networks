@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (ROPE/SOL)",
+  "address": "6SfhBAmuaGf9p3WAxeHJYCWMABnYUMrdzNdK5Stvvj4k",
+  "symbol": "ROPESOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ROPESOL--6SfhBAmuaGf9p3WAxeHJYCWMABnYUMrdzNdK5Stvvj4k/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

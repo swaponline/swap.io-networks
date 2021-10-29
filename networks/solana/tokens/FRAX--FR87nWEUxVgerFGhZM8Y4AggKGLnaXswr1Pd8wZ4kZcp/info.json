@@ -1,0 +1,11 @@
+{
+  "name": "Frax (Wormhole)",
+  "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+  "symbol": "FRAX",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FRAX--FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

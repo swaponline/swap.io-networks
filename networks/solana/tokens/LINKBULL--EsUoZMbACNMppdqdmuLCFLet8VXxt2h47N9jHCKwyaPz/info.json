@@ -1,0 +1,11 @@
+{
+  "name": "LINKBULL",
+  "address": "EsUoZMbACNMppdqdmuLCFLet8VXxt2h47N9jHCKwyaPz",
+  "symbol": "LINKBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

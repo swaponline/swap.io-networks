@@ -1,0 +1,11 @@
+{
+  "name": "SOL100",
+  "address": "GkDg1ZfoFkroLAwLqtJNXhxCDg8gmKxHAGxSUZagYFfE",
+  "symbol": "SOL100",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOL100--GkDg1ZfoFkroLAwLqtJNXhxCDg8gmKxHAGxSUZagYFfE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

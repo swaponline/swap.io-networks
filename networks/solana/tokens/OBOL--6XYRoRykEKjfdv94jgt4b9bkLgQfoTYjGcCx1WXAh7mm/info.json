@@ -1,0 +1,11 @@
+{
+  "name": "OBOL Token",
+  "address": "6XYRoRykEKjfdv94jgt4b9bkLgQfoTYjGcCx1WXAh7mm",
+  "symbol": "OBOL",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OBOL--6XYRoRykEKjfdv94jgt4b9bkLgQfoTYjGcCx1WXAh7mm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

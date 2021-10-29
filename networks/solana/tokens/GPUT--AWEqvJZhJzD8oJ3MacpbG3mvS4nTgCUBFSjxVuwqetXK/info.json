@@ -1,0 +1,11 @@
+{
+  "name": "GUTA Parallel Universe Token",
+  "address": "AWEqvJZhJzD8oJ3MacpbG3mvS4nTgCUBFSjxVuwqetXK",
+  "symbol": "GPUT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GPUT--AWEqvJZhJzD8oJ3MacpbG3mvS4nTgCUBFSjxVuwqetXK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

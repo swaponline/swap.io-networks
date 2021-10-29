@@ -1,0 +1,11 @@
+{
+  "name": "Aave interest bearing MKR (Wormhole)",
+  "address": "4kJmfagJzQFuwto5RX6f1xScWYbEVBzEpdjmiqTCnzjJ",
+  "symbol": "waMKR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waMKR--4kJmfagJzQFuwto5RX6f1xScWYbEVBzEpdjmiqTCnzjJ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

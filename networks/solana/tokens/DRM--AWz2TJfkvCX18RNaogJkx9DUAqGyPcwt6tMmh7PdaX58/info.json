@@ -1,0 +1,11 @@
+{
+  "name": "DARUMA TOKEN",
+  "address": "AWz2TJfkvCX18RNaogJkx9DUAqGyPcwt6tMmh7PdaX58",
+  "symbol": "DRM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gSAIL DEPRECATED",
+  "address": "GSaiLQxREzaxUcE3v28HxBacoUQPZNtXx1eQsCFsX9Bg",
+  "symbol": "XgSAIL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/XgSAIL--GSaiLQxREzaxUcE3v28HxBacoUQPZNtXx1eQsCFsX9Bg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

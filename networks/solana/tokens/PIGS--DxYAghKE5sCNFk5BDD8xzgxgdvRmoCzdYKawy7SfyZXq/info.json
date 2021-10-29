@@ -1,0 +1,11 @@
+{
+  "name": "Diamond Pigs",
+  "address": "DxYAghKE5sCNFk5BDD8xzgxgdvRmoCzdYKawy7SfyZXq",
+  "symbol": "PIGS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PIGS--DxYAghKE5sCNFk5BDD8xzgxgdvRmoCzdYKawy7SfyZXq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

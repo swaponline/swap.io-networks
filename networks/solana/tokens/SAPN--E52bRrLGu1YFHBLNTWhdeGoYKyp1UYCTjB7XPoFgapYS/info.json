@@ -1,0 +1,11 @@
+{
+  "name": "Sapling Network",
+  "address": "E52bRrLGu1YFHBLNTWhdeGoYKyp1UYCTjB7XPoFgapYS",
+  "symbol": "SAPN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAPN--E52bRrLGu1YFHBLNTWhdeGoYKyp1UYCTjB7XPoFgapYS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

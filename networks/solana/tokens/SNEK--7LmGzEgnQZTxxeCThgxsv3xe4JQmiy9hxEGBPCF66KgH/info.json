@@ -1,0 +1,11 @@
+{
+  "name": "Snek Coin",
+  "address": "7LmGzEgnQZTxxeCThgxsv3xe4JQmiy9hxEGBPCF66KgH",
+  "symbol": "SNEK",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SNEK--7LmGzEgnQZTxxeCThgxsv3xe4JQmiy9hxEGBPCF66KgH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

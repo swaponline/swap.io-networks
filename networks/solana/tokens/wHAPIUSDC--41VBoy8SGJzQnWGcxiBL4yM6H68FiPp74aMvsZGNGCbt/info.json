@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (wHAPI/USDC[aquafarm])",
+  "address": "41VBoy8SGJzQnWGcxiBL4yM6H68FiPp74aMvsZGNGCbt",
+  "symbol": "wHAPIUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wHAPIUSDC--41VBoy8SGJzQnWGcxiBL4yM6H68FiPp74aMvsZGNGCbt/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

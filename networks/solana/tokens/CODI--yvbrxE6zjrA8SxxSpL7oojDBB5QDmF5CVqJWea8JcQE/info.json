@@ -1,0 +1,11 @@
+{
+  "name": "CODI",
+  "address": "yvbrxE6zjrA8SxxSpL7oojDBB5QDmF5CVqJWea8JcQE",
+  "symbol": "CODI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CODI--yvbrxE6zjrA8SxxSpL7oojDBB5QDmF5CVqJWea8JcQE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

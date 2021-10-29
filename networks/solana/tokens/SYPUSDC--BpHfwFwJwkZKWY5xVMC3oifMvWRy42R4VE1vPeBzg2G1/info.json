@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (SYP/USDC[aquafarm])",
+  "address": "BpHfwFwJwkZKWY5xVMC3oifMvWRy42R4VE1vPeBzg2G1",
+  "symbol": "SYPUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SYPUSDC--BpHfwFwJwkZKWY5xVMC3oifMvWRy42R4VE1vPeBzg2G1/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tuLIKE",
+  "address": "DRu91PV94sb6kX6HwMGnGM8TuHrjycS4FmJNRWEgyw6n",
+  "symbol": "tuLIKE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuLIKE--DRu91PV94sb6kX6HwMGnGM8TuHrjycS4FmJNRWEgyw6n/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ALTBULL",
+  "address": "HRhaNssoyv5tKFRcbPg69ULEbcD8DPv99GdXLcdkgc1A",
+  "symbol": "ALTBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

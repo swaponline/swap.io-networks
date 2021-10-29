@@ -1,0 +1,11 @@
+{
+  "name": "SynesisOne",
+  "address": "51LAPRbcEvheteGQjSgAFV6rrEvjL4P2igvzPH8bu88",
+  "symbol": "SNS",
+  "decimals": 3,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SNS--51LAPRbcEvheteGQjSgAFV6rrEvjL4P2igvzPH8bu88/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

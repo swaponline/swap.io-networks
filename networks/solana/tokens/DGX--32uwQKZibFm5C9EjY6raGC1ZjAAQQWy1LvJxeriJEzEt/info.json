@@ -1,0 +1,11 @@
+{
+  "name": "DGX",
+  "address": "32uwQKZibFm5C9EjY6raGC1ZjAAQQWy1LvJxeriJEzEt",
+  "symbol": "DGX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DGX--32uwQKZibFm5C9EjY6raGC1ZjAAQQWy1LvJxeriJEzEt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

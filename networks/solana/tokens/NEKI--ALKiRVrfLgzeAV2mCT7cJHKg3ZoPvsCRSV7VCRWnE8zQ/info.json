@@ -1,0 +1,11 @@
+{
+  "name": "Maneki-neko",
+  "address": "ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ",
+  "symbol": "NEKI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NEKI--ALKiRVrfLgzeAV2mCT7cJHKg3ZoPvsCRSV7VCRWnE8zQ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

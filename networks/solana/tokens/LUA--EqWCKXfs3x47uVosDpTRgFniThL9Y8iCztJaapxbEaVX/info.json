@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped LUA (Sollet)",
+  "address": "EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX",
+  "symbol": "LUA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LUA--EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

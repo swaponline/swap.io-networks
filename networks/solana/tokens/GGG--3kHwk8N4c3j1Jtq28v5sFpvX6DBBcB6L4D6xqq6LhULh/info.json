@@ -1,0 +1,11 @@
+{
+  "name": "Good Games Guild",
+  "address": "3kHwk8N4c3j1Jtq28v5sFpvX6DBBcB6L4D6xqq6LhULh",
+  "symbol": "GGG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GGG--3kHwk8N4c3j1Jtq28v5sFpvX6DBBcB6L4D6xqq6LhULh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

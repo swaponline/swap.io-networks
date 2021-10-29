@@ -1,0 +1,11 @@
+{
+  "name": "BAIS Game",
+  "address": "FNAqSGbG4mtPgqrSFbAVMSYXteuefe6BUnWRURUqSkeg",
+  "symbol": "BAIS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BAIS--FNAqSGbG4mtPgqrSFbAVMSYXteuefe6BUnWRURUqSkeg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

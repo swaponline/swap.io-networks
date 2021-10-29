@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi OG",
+  "address": "8RoKfLx5RCscbtVh8kYb81TF7ngFJ38RPomXtUREKsT2",
+  "symbol": "Satoshi OG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

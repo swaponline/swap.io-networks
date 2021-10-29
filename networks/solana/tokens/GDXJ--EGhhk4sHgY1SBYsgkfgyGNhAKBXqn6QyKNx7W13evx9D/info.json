@@ -1,0 +1,11 @@
+{
+  "name": "VanEck Vectors Junior Gold Miners Etf",
+  "address": "EGhhk4sHgY1SBYsgkfgyGNhAKBXqn6QyKNx7W13evx9D",
+  "symbol": "GDXJ",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GDXJ--EGhhk4sHgY1SBYsgkfgyGNhAKBXqn6QyKNx7W13evx9D/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

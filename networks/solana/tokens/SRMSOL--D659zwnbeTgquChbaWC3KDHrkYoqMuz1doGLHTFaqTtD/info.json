@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SRM/SOL)",
+  "address": "D659zwnbeTgquChbaWC3KDHrkYoqMuz1doGLHTFaqTtD",
+  "symbol": "SRMSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SRMSOL--D659zwnbeTgquChbaWC3KDHrkYoqMuz1doGLHTFaqTtD/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

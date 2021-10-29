@@ -1,0 +1,11 @@
+{
+  "name": "PANDER",
+  "address": "az4Nt1UtDp7Vo8nabW7SokKejpHUAju79JUaYDnXgkF",
+  "symbol": "PNDR",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PNDR--az4Nt1UtDp7Vo8nabW7SokKejpHUAju79JUaYDnXgkF/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

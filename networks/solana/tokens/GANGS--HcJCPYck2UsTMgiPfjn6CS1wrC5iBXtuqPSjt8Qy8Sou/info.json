@@ -1,0 +1,11 @@
+{
+  "name": "Gangs of Solana",
+  "address": "HcJCPYck2UsTMgiPfjn6CS1wrC5iBXtuqPSjt8Qy8Sou",
+  "symbol": "GANGS",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GANGS--HcJCPYck2UsTMgiPfjn6CS1wrC5iBXtuqPSjt8Qy8Sou/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

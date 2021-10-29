@@ -1,0 +1,11 @@
+{
+  "name": "Schwabendollar",
+  "address": "8urbgQGLFvEScPKVbigbzcfU3BFHsZaVGZ7mhrMoaZcu",
+  "symbol": "SWAB",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SWAB--8urbgQGLFvEScPKVbigbzcfU3BFHsZaVGZ7mhrMoaZcu/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

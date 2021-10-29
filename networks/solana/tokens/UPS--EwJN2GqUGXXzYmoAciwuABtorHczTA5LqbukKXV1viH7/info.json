@@ -1,0 +1,11 @@
+{
+  "name": "UPS token (UPFI Network)",
+  "address": "EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7",
+  "symbol": "UPS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UPS--EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

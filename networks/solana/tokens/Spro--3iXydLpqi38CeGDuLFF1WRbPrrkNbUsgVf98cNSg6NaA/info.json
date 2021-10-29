@@ -1,0 +1,11 @@
+{
+  "name": "Sproken Token",
+  "address": "3iXydLpqi38CeGDuLFF1WRbPrrkNbUsgVf98cNSg6NaA",
+  "symbol": "Spro",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/Spro--3iXydLpqi38CeGDuLFF1WRbPrrkNbUsgVf98cNSg6NaA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

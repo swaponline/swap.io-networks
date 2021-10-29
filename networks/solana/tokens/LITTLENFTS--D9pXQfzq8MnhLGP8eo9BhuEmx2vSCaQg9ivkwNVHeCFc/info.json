@@ -1,0 +1,11 @@
+{
+  "name": "Jon Little NFTs",
+  "address": "D9pXQfzq8MnhLGP8eo9BhuEmx2vSCaQg9ivkwNVHeCFc",
+  "symbol": "LITTLENFTS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LITTLENFTS--D9pXQfzq8MnhLGP8eo9BhuEmx2vSCaQg9ivkwNVHeCFc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped SOL",
+  "address": "So11111111111111111111111111111111111111112",
+  "symbol": "SOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOL--So11111111111111111111111111111111111111112/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

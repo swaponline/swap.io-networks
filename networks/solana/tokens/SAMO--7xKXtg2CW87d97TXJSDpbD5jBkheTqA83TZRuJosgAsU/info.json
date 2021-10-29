@@ -1,0 +1,11 @@
+{
+  "name": "Samoyed Coin",
+  "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+  "symbol": "SAMO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SAMO--7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

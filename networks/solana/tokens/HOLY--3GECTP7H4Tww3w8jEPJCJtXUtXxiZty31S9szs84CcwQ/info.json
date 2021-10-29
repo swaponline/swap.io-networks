@@ -1,0 +1,11 @@
+{
+  "name": "HOLY",
+  "address": "3GECTP7H4Tww3w8jEPJCJtXUtXxiZty31S9szs84CcwQ",
+  "symbol": "HOLY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

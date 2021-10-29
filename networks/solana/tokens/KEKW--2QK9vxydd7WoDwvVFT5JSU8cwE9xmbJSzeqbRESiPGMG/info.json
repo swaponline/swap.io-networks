@@ -1,0 +1,11 @@
+{
+  "name": "kekwcoin",
+  "address": "2QK9vxydd7WoDwvVFT5JSU8cwE9xmbJSzeqbRESiPGMG",
+  "symbol": "KEKW",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KEKW--2QK9vxydd7WoDwvVFT5JSU8cwE9xmbJSzeqbRESiPGMG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

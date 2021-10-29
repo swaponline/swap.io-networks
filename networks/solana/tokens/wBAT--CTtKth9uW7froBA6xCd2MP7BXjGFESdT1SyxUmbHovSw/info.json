@@ -1,0 +1,11 @@
+{
+  "name": "Basic Attention Token (Wormhole)",
+  "address": "CTtKth9uW7froBA6xCd2MP7BXjGFESdT1SyxUmbHovSw",
+  "symbol": "wBAT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBAT--CTtKth9uW7froBA6xCd2MP7BXjGFESdT1SyxUmbHovSw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

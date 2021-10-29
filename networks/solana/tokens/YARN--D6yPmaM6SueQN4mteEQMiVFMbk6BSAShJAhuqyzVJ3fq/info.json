@@ -1,0 +1,11 @@
+{
+  "name": "Yarn Coin",
+  "address": "D6yPmaM6SueQN4mteEQMiVFMbk6BSAShJAhuqyzVJ3fq",
+  "symbol": "YARN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YARN--D6yPmaM6SueQN4mteEQMiVFMbk6BSAShJAhuqyzVJ3fq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

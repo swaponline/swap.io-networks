@@ -1,0 +1,11 @@
+{
+  "name": "renDOGE",
+  "address": "ArUkYE2XDKzqy77PRRGjo4wREWwqk6RXTfM9NeqzPvjU",
+  "symbol": "renDOGE",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renDOGE--ArUkYE2XDKzqy77PRRGjo4wREWwqk6RXTfM9NeqzPvjU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ETHBULL",
+  "address": "CwChm6p9Q3yFrjzVeiLTTbsoJkooscof5SJYZc2CrNqG",
+  "symbol": "ETHBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VentureCapital",
+  "address": "FZgL5motNWEDEa24xgfSdBDfXkB9Ru9KxfEsey9S58bb",
+  "symbol": "VCC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VCC--FZgL5motNWEDEa24xgfSdBDfXkB9Ru9KxfEsey9S58bb/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

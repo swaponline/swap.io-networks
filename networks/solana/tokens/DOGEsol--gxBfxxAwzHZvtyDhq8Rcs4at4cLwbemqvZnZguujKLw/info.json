@@ -1,0 +1,11 @@
+{
+  "name": "DOGESOL",
+  "address": "gxBfxxAwzHZvtyDhq8Rcs4at4cLwbemqvZnZguujKLw",
+  "symbol": "DOGEsol",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOGEsol--gxBfxxAwzHZvtyDhq8Rcs4at4cLwbemqvZnZguujKLw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

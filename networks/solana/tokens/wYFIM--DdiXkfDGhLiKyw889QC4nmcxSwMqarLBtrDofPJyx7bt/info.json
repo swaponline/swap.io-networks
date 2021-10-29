@@ -1,0 +1,11 @@
+{
+  "name": "yfi.mobi (Wormhole)",
+  "address": "DdiXkfDGhLiKyw889QC4nmcxSwMqarLBtrDofPJyx7bt",
+  "symbol": "wYFIM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wYFIM--DdiXkfDGhLiKyw889QC4nmcxSwMqarLBtrDofPJyx7bt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

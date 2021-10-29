@@ -1,0 +1,11 @@
+{
+  "name": "Diabolo Token",
+  "address": "26W4xxHbWJfrswaMNh14ag2s4PZTQuu2ypHGj6YEVXkT",
+  "symbol": "DCASH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DCASH--26W4xxHbWJfrswaMNh14ag2s4PZTQuu2ypHGj6YEVXkT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

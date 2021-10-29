@@ -1,0 +1,11 @@
+{
+  "name": "Edith Token",
+  "address": "BJDDAfxaiZh9cW4UxSKpsK2BWJfe65TwTi72brKHzCm6",
+  "symbol": "EDTH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EDTH--BJDDAfxaiZh9cW4UxSKpsK2BWJfe65TwTi72brKHzCm6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

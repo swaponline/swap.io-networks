@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (RAY-USDT)",
+  "address": "C3sT1R3nsw4AVdepvLTLKr5Gvszr7jufyBWUCvy4TUvT",
+  "symbol": "RAY-USDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAY-USDT--C3sT1R3nsw4AVdepvLTLKr5Gvszr7jufyBWUCvy4TUvT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

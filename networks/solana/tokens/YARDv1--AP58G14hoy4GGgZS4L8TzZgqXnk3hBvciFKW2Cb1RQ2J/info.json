@@ -1,0 +1,11 @@
+{
+  "name": "SolYard Finance Beta",
+  "address": "AP58G14hoy4GGgZS4L8TzZgqXnk3hBvciFKW2Cb1RQ2J",
+  "symbol": "YARDv1",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YARDv1--AP58G14hoy4GGgZS4L8TzZgqXnk3hBvciFKW2Cb1RQ2J/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped USDT (Allbridge from Ethereum)",
+  "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+  "symbol": "aeUSDT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aeUSDT--Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

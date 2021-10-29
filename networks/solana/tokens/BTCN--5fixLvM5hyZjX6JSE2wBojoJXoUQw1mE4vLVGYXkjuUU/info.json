@@ -1,0 +1,11 @@
+{
+  "name": "BatkaCoin",
+  "address": "5fixLvM5hyZjX6JSE2wBojoJXoUQw1mE4vLVGYXkjuUU",
+  "symbol": "BTCN",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTCN--5fixLvM5hyZjX6JSE2wBojoJXoUQw1mE4vLVGYXkjuUU/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

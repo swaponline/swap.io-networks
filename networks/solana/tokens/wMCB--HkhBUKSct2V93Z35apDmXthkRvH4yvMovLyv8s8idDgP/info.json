@@ -1,0 +1,11 @@
+{
+  "name": "MCDEX Token (Wormhole)",
+  "address": "HkhBUKSct2V93Z35apDmXthkRvH4yvMovLyv8s8idDgP",
+  "symbol": "wMCB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMCB--HkhBUKSct2V93Z35apDmXthkRvH4yvMovLyv8s8idDgP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

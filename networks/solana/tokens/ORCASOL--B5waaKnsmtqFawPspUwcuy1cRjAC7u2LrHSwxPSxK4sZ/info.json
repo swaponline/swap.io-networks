@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (ORCA/SOL)",
+  "address": "B5waaKnsmtqFawPspUwcuy1cRjAC7u2LrHSwxPSxK4sZ",
+  "symbol": "ORCASOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ORCASOL--B5waaKnsmtqFawPspUwcuy1cRjAC7u2LrHSwxPSxK4sZ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

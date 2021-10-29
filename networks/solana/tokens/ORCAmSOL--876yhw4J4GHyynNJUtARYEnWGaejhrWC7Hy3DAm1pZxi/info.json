@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (ORCA/mSOL[aquafarm])",
+  "address": "876yhw4J4GHyynNJUtARYEnWGaejhrWC7Hy3DAm1pZxi",
+  "symbol": "ORCAmSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ORCAmSOL--876yhw4J4GHyynNJUtARYEnWGaejhrWC7Hy3DAm1pZxi/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tribeland Governance Token",
+  "address": "3CKQgrcvwhvFqVXXxLTb1u262nh26SJ3uutkSCTtbZxH",
+  "symbol": "TRBL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TRBL--3CKQgrcvwhvFqVXXxLTb1u262nh26SJ3uutkSCTtbZxH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Whispell",
+  "address": "9JTriKH36nk7kQvK5V5TiVnuGQTqAJHRkX4kunGvZXfP",
+  "symbol": "WHISP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WHISP--9JTriKH36nk7kQvK5V5TiVnuGQTqAJHRkX4kunGvZXfP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

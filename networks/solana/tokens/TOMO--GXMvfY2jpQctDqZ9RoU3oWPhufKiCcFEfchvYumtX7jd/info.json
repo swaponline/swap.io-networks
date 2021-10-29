@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped TOMO (Sollet)",
+  "address": "GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd",
+  "symbol": "TOMO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TOMO--GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

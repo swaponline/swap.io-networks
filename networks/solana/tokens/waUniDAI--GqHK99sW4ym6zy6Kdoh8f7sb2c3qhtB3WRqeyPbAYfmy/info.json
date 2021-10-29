@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing UniDAI (Wormhole)",
+  "address": "GqHK99sW4ym6zy6Kdoh8f7sb2c3qhtB3WRqeyPbAYfmy",
+  "symbol": "waUniDAI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUniDAI--GqHK99sW4ym6zy6Kdoh8f7sb2c3qhtB3WRqeyPbAYfmy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

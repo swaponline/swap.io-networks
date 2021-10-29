@@ -1,0 +1,11 @@
+{
+  "name": "Star Atlas DAO",
+  "address": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
+  "symbol": "POLIS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/POLIS--poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Crowns (Wormhole)",
+  "address": "59NPV18vAbTgwC9aeEGikrmX3EbZHMEMkZfvcsHBNFr9",
+  "symbol": "wCWS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCWS--59NPV18vAbTgwC9aeEGikrmX3EbZHMEMkZfvcsHBNFr9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

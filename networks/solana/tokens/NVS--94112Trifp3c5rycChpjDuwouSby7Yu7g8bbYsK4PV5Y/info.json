@@ -1,0 +1,11 @@
+{
+  "name": "Novisium",
+  "address": "94112Trifp3c5rycChpjDuwouSby7Yu7g8bbYsK4PV5Y",
+  "symbol": "NVS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NVS--94112Trifp3c5rycChpjDuwouSby7Yu7g8bbYsK4PV5Y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

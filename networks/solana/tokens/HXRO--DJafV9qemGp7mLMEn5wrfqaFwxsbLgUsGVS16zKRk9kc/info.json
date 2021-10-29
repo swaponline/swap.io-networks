@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped HXRO (Sollet)",
+  "address": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
+  "symbol": "HXRO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HXRO--DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

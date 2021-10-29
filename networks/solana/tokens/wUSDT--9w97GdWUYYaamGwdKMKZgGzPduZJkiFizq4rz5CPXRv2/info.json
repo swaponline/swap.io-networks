@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD (Wormhole)",
+  "address": "9w97GdWUYYaamGwdKMKZgGzPduZJkiFizq4rz5CPXRv2",
+  "symbol": "wUSDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUSDT--9w97GdWUYYaamGwdKMKZgGzPduZJkiFizq4rz5CPXRv2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

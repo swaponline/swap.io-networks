@@ -1,0 +1,11 @@
+{
+  "name": "boozcoin",
+  "address": "31HcuZjFHCV8VcydRjXz9NFnte4RVRRuR5n9rECfy79W",
+  "symbol": "BOOZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOOZ--31HcuZjFHCV8VcydRjXz9NFnte4RVRRuR5n9rECfy79W/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

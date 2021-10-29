@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Strong (Sollet)",
+  "address": "AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2",
+  "symbol": "STRONG",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STRONG--AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

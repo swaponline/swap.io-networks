@@ -1,0 +1,11 @@
+{
+  "name": "Gains Network",
+  "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+  "symbol": "GNS",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/GNS--0xE5417Af564e4bFDA1c483642db72007871397896/logo.png",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OMG Network (Wormhole)",
+  "address": "5ZXLGj7onpitgtREJNYb51DwDPddvqV1YLC8jn2sgz48",
+  "symbol": "wOMG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wOMG--5ZXLGj7onpitgtREJNYb51DwDPddvqV1YLC8jn2sgz48/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

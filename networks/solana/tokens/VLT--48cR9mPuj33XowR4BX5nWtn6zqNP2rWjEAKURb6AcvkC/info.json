@@ -1,0 +1,11 @@
+{
+  "name": "Vault Coin",
+  "address": "48cR9mPuj33XowR4BX5nWtn6zqNP2rWjEAKURb6AcvkC",
+  "symbol": "VLT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

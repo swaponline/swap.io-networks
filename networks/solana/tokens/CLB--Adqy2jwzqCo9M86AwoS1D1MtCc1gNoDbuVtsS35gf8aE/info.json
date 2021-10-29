@@ -1,0 +1,11 @@
+{
+  "name": "Columbus",
+  "address": "Adqy2jwzqCo9M86AwoS1D1MtCc1gNoDbuVtsS35gf8aE",
+  "symbol": "CLB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CLB--Adqy2jwzqCo9M86AwoS1D1MtCc1gNoDbuVtsS35gf8aE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

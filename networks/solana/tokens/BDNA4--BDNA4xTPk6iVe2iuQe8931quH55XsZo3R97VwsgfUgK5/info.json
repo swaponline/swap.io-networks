@@ -1,0 +1,11 @@
+{
+  "name": "Brown SolBull DNA",
+  "address": "BDNA4xTPk6iVe2iuQe8931quH55XsZo3R97VwsgfUgK5",
+  "symbol": "BDNA4",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BDNA4--BDNA4xTPk6iVe2iuQe8931quH55XsZo3R97VwsgfUgK5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

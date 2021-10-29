@@ -1,0 +1,11 @@
+{
+  "name": "SBF",
+  "address": "GyRkPAxpd9XrMHcBF6fYHVRSZQvQBwAGKAGQeBPSKzMq",
+  "symbol": "SBF",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "POLYPLAY",
+  "address": "FTD9EisrsMt5TW5wSTMqyXLh2o7xTb6KNuTiXgHhw8Q8",
+  "symbol": "PLAY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

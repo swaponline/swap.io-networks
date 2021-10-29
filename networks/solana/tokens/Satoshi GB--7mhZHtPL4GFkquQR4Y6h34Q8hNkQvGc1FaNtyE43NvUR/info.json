@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi GB",
+  "address": "7mhZHtPL4GFkquQR4Y6h34Q8hNkQvGc1FaNtyE43NvUR",
+  "symbol": "Satoshi GB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

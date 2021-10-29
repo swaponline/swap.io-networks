@@ -1,0 +1,11 @@
+{
+  "name": "FARM Reward Token (Wormhole)",
+  "address": "53ETjuzUNHG8c7rZ2hxQLQfN5R6tEYtdYwNQsa68xFUk",
+  "symbol": "wFARM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wFARM--53ETjuzUNHG8c7rZ2hxQLQfN5R6tEYtdYwNQsa68xFUk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

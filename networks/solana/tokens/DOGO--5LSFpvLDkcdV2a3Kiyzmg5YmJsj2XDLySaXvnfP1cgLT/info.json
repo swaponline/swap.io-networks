@@ -1,0 +1,11 @@
+{
+  "name": "Dogemon",
+  "address": "5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT",
+  "symbol": "DOGO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOGO--5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

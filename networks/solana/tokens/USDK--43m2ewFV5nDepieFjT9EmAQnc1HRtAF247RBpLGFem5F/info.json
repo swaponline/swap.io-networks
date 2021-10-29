@@ -1,0 +1,11 @@
+{
+  "name": "USDK (Wormhole)",
+  "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+  "symbol": "USDK",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDK--43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Berkshire Hathaway Inc",
+  "address": "Dj76V3vdFGGE8444NWFACR5qmtJrrSop5RCBAGbC88nr",
+  "symbol": "BRKA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BRKA--Dj76V3vdFGGE8444NWFACR5qmtJrrSop5RCBAGbC88nr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

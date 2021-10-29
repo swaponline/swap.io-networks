@@ -1,0 +1,11 @@
+{
+  "name": "TurtleTraders",
+  "address": "3VhB8EAL8dZ457SiksLPpMUR1pyACpbNh5rTjQUEVCcH",
+  "symbol": "TUTL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TUTL--3VhB8EAL8dZ457SiksLPpMUR1pyACpbNh5rTjQUEVCcH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

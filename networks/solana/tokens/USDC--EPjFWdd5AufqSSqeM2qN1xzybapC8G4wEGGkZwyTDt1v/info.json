@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "symbol": "USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDC--EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

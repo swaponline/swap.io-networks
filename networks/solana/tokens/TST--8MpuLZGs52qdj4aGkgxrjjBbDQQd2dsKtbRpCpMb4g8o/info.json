@@ -1,0 +1,11 @@
+{
+  "name": "CHTST",
+  "address": "8MpuLZGs52qdj4aGkgxrjjBbDQQd2dsKtbRpCpMb4g8o",
+  "symbol": "TST",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

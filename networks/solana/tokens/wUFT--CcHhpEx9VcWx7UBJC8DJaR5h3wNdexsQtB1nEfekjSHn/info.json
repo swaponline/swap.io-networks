@@ -1,0 +1,11 @@
+{
+  "name": "UniLend Finance Token (Wormhole)",
+  "address": "CcHhpEx9VcWx7UBJC8DJaR5h3wNdexsQtB1nEfekjSHn",
+  "symbol": "wUFT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUFT--CcHhpEx9VcWx7UBJC8DJaR5h3wNdexsQtB1nEfekjSHn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

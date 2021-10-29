@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing UniLENDETH (Wormhole)",
+  "address": "Hc1zHQxg1k2JVwvuv3kqbCyZDEJYfDdNftBMab4EMUx9",
+  "symbol": "waUniLENDETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waUniLENDETH--Hc1zHQxg1k2JVwvuv3kqbCyZDEJYfDdNftBMab4EMUx9/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

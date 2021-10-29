@@ -1,0 +1,11 @@
+{
+  "name": "FUS Token",
+  "address": "Cf6rda8prASJemo9w4Q3NeBEM2pcYKK8aNZ5zLk4Dmzh",
+  "symbol": "FUS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FUS--Cf6rda8prASJemo9w4Q3NeBEM2pcYKK8aNZ5zLk4Dmzh/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

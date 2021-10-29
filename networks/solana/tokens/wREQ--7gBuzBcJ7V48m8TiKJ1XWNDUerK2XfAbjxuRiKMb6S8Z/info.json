@@ -1,0 +1,11 @@
+{
+  "name": "Request Token (Wormhole)",
+  "address": "7gBuzBcJ7V48m8TiKJ1XWNDUerK2XfAbjxuRiKMb6S8Z",
+  "symbol": "wREQ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wREQ--7gBuzBcJ7V48m8TiKJ1XWNDUerK2XfAbjxuRiKMb6S8Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

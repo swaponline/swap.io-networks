@@ -1,0 +1,11 @@
+{
+  "name": "SolBird",
+  "address": "DjDBpTJdatCrfR4XRWgKiQ8WY6K6RNuMsyTKAQ8rK9Rp",
+  "symbol": "BRD",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BRD--DjDBpTJdatCrfR4XRWgKiQ8WY6K6RNuMsyTKAQ8rK9Rp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

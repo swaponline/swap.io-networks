@@ -1,0 +1,11 @@
+{
+  "name": "UniTrade (Wormhole)",
+  "address": "4ighgEijHcCoLu9AsvwVz2TnGFqAgzQtQMr6ch88Jrfe",
+  "symbol": "wTRADE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wTRADE--4ighgEijHcCoLu9AsvwVz2TnGFqAgzQtQMr6ch88Jrfe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

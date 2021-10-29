@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (renBTC-USDC)",
+  "address": "CTEpsih91ZLo5gunvryLpJ3pzMjmt5jbS6AnSQrzYw7V",
+  "symbol": "renBTC-USDC",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

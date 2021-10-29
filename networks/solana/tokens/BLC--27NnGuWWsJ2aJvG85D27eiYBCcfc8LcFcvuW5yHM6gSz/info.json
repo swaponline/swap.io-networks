@@ -1,0 +1,11 @@
+{
+  "name": "bl Coin",
+  "address": "27NnGuWWsJ2aJvG85D27eiYBCcfc8LcFcvuW5yHM6gSz",
+  "symbol": "BLC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BLC--27NnGuWWsJ2aJvG85D27eiYBCcfc8LcFcvuW5yHM6gSz/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

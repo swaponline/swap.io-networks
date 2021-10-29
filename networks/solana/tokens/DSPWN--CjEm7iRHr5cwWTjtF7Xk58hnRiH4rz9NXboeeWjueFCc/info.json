@@ -1,0 +1,11 @@
+{
+  "name": "Despawn",
+  "address": "CjEm7iRHr5cwWTjtF7Xk58hnRiH4rz9NXboeeWjueFCc",
+  "symbol": "DSPWN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DSPWN--CjEm7iRHr5cwWTjtF7Xk58hnRiH4rz9NXboeeWjueFCc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

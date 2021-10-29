@@ -1,0 +1,11 @@
+{
+  "name": "Frax Share (Wormhole)",
+  "address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+  "symbol": "FXS",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FXS--6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

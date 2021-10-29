@@ -1,0 +1,11 @@
+{
+  "name": "Bonfida Ray Pool",
+  "address": "4fiysjiegD8yoqHX75YXBvhBzmaUEQhyuAVRX8fGL3F1",
+  "symbol": "RAYPOOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAYPOOL--4fiysjiegD8yoqHX75YXBvhBzmaUEQhyuAVRX8fGL3F1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cheesesodaDAO",
+  "address": "sodaoT6Wh1nxHaarw4kDh7AkK4oZnERK1QgDUtHPR3H",
+  "symbol": "SODAO",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SODAO--sodaoT6Wh1nxHaarw4kDh7AkK4oZnERK1QgDUtHPR3H/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SandDollarClassic",
+  "address": "BKMWPkPS8jXw59ezYwK2ueNTZRF4m8MYHDjh9HwUmkQ7",
+  "symbol": "SDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SDC--BKMWPkPS8jXw59ezYwK2ueNTZRF4m8MYHDjh9HwUmkQ7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

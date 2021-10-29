@@ -1,0 +1,11 @@
+{
+  "name": "Mango Market Caps",
+  "address": "2prC8tcVsXwVJAinhxd2zeMeWMWaVyzPoQeLKyDZRFKd",
+  "symbol": "MCAPS",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MCAPS--2prC8tcVsXwVJAinhxd2zeMeWMWaVyzPoQeLKyDZRFKd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solend USDC",
+  "address": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+  "symbol": "cUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cUSDC--993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Simp.",
+  "address": "EKEjv7VJTsKsfyZMNgPfoKkdk7pYNSgb3tg2h3zUe4PT",
+  "symbol": "SIMP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SIMP--EKEjv7VJTsKsfyZMNgPfoKkdk7pYNSgb3tg2h3zUe4PT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

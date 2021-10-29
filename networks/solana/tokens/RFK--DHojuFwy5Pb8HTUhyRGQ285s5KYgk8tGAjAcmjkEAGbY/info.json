@@ -1,0 +1,11 @@
+{
+  "name": "Refrak",
+  "address": "DHojuFwy5Pb8HTUhyRGQ285s5KYgk8tGAjAcmjkEAGbY",
+  "symbol": "RFK",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RFK--DHojuFwy5Pb8HTUhyRGQ285s5KYgk8tGAjAcmjkEAGbY/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

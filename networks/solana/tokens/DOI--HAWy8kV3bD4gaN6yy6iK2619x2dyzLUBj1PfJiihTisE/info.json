@@ -1,0 +1,11 @@
+{
+  "name": "Discovery of Iris",
+  "address": "HAWy8kV3bD4gaN6yy6iK2619x2dyzLUBj1PfJiihTisE",
+  "symbol": "DOI",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DOI--HAWy8kV3bD4gaN6yy6iK2619x2dyzLUBj1PfJiihTisE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

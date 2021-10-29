@@ -1,0 +1,11 @@
+{
+  "name": "Balisari",
+  "address": "EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2",
+  "symbol": "BST",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BST--EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

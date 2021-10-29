@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (RAY-SOL)",
+  "address": "89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip",
+  "symbol": "RAY-SOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

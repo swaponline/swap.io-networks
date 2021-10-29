@@ -1,0 +1,11 @@
+{
+  "name": "cheesesoda token",
+  "address": "sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE",
+  "symbol": "SODA",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SODA--sodaNXUbtjMvHe9c5Uw7o7VAcVpXPHAvtaRaiPVJQuE/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "88mph.app (Wormhole)",
+  "address": "5SU7veiCRA16ZxnS24kCC1dwQYVwi3whvTdM48iNE1Rm",
+  "symbol": "wMPH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wMPH--5SU7veiCRA16ZxnS24kCC1dwQYVwi3whvTdM48iNE1Rm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

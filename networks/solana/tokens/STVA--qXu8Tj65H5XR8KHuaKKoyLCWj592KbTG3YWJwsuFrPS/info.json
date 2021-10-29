@@ -1,0 +1,11 @@
+{
+  "name": "SOLtiva",
+  "address": "qXu8Tj65H5XR8KHuaKKoyLCWj592KbTG3YWJwsuFrPS",
+  "symbol": "STVA",
+  "decimals": 3,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STVA--qXu8Tj65H5XR8KHuaKKoyLCWj592KbTG3YWJwsuFrPS/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

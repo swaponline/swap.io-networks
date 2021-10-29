@@ -1,0 +1,11 @@
+{
+  "name": "Lilypad",
+  "address": "DhuzmUvC4YTRDJwFfPSynDCGaJcMotnqjdNcGeFFrQSD",
+  "symbol": "PAD",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PAD--DhuzmUvC4YTRDJwFfPSynDCGaJcMotnqjdNcGeFFrQSD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

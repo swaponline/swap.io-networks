@@ -1,0 +1,11 @@
+{
+  "name": "wen-token",
+  "address": "64SqEfHtu4bZ6jr1mAxaWrLFdMngbKbru9AyaG2Dyk5T",
+  "symbol": "wen-token",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wen-token--64SqEfHtu4bZ6jr1mAxaWrLFdMngbKbru9AyaG2Dyk5T/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

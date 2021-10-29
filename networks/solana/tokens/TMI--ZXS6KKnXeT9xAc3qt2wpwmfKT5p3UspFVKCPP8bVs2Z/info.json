@@ -1,0 +1,11 @@
+{
+  "name": "TUMI",
+  "address": "ZXS6KKnXeT9xAc3qt2wpwmfKT5p3UspFVKCPP8bVs2Z",
+  "symbol": "TMI",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TMI--ZXS6KKnXeT9xAc3qt2wpwmfKT5p3UspFVKCPP8bVs2Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

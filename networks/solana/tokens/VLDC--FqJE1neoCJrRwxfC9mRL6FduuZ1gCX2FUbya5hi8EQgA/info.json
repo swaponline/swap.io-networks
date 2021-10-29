@@ -1,0 +1,11 @@
+{
+  "name": "Viloid Coin",
+  "address": "FqJE1neoCJrRwxfC9mRL6FduuZ1gCX2FUbya5hi8EQgA",
+  "symbol": "VLDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VLDC--FqJE1neoCJrRwxfC9mRL6FduuZ1gCX2FUbya5hi8EQgA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

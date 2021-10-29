@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (MEDIA/USDC[aquafarm])",
+  "address": "3pMYToENTB7jKrJiUPq19FCZCWE35Ph7bkRRMN6kxDXK",
+  "symbol": "MEDIAUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MEDIAUSDC--3pMYToENTB7jKrJiUPq19FCZCWE35Ph7bkRRMN6kxDXK/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

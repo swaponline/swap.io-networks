@@ -1,0 +1,11 @@
+{
+  "name": "Soltriever",
+  "address": "GpS9AavHtSUspaBnL1Tu26FWbUAdW8tm3MbacsNvwtGu",
+  "symbol": "SOLT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLT--GpS9AavHtSUspaBnL1Tu26FWbUAdW8tm3MbacsNvwtGu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

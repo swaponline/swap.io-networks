@@ -1,0 +1,11 @@
+{
+  "name": "UXD Stablecoin",
+  "address": "H5kMHghGUKo4MnGEp4mpAMxveDwnRZ4hXeZMWfp5EzGF",
+  "symbol": "UXD",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UXD--H5kMHghGUKo4MnGEp4mpAMxveDwnRZ4hXeZMWfp5EzGF/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

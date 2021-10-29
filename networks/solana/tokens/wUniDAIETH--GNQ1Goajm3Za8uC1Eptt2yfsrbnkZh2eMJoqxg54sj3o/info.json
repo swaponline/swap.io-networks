@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap DAI LP (Wormhole)",
+  "address": "GNQ1Goajm3Za8uC1Eptt2yfsrbnkZh2eMJoqxg54sj3o",
+  "symbol": "wUniDAIETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUniDAIETH--GNQ1Goajm3Za8uC1Eptt2yfsrbnkZh2eMJoqxg54sj3o/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Amp (Wormhole)",
+  "address": "Egrv6hURf5o68xJ1AGYeRv8RNj2nXJVuSoA5wwiSALcN",
+  "symbol": "wAMP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wAMP--Egrv6hURf5o68xJ1AGYeRv8RNj2nXJVuSoA5wwiSALcN/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

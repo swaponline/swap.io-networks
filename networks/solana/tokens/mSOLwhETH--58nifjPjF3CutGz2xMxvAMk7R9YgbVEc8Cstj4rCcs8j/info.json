@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (mSOL/whETH[aquafarm])",
+  "address": "58nifjPjF3CutGz2xMxvAMk7R9YgbVEc8Cstj4rCcs8j",
+  "symbol": "mSOLwhETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mSOLwhETH--58nifjPjF3CutGz2xMxvAMk7R9YgbVEc8Cstj4rCcs8j/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

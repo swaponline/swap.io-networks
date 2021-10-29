@@ -1,0 +1,11 @@
+{
+  "name": "SURF.Finance (Wormhole)",
+  "address": "F48zUwoQMzgCTf5wihwz8GPN23gdcoVMiT227APqA6hC",
+  "symbol": "wSURF",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSURF--F48zUwoQMzgCTf5wihwz8GPN23gdcoVMiT227APqA6hC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

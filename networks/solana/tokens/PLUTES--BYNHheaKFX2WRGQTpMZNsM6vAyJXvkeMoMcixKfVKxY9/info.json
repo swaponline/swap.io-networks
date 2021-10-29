@@ -1,0 +1,11 @@
+{
+  "name": "Plutonium",
+  "address": "BYNHheaKFX2WRGQTpMZNsM6vAyJXvkeMoMcixKfVKxY9",
+  "symbol": "PLUTES",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PLUTES--BYNHheaKFX2WRGQTpMZNsM6vAyJXvkeMoMcixKfVKxY9/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Solend ETH",
+  "address": "AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa",
+  "symbol": "cETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cETH--AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

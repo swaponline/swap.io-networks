@@ -1,0 +1,11 @@
+{
+  "name": "Jackie Chan Fan Token",
+  "address": "9xkb4MSeD2WkJuio3EdGhEjNP5MuAp56scwKpiDNLtHc",
+  "symbol": "JACKIE",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JACKIE--9xkb4MSeD2WkJuio3EdGhEjNP5MuAp56scwKpiDNLtHc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

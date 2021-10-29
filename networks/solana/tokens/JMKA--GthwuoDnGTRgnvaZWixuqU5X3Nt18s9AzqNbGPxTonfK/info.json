@@ -1,0 +1,11 @@
+{
+  "name": "Jacob Makarsky Social Token",
+  "address": "GthwuoDnGTRgnvaZWixuqU5X3Nt18s9AzqNbGPxTonfK",
+  "symbol": "JMKA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/JMKA--GthwuoDnGTRgnvaZWixuqU5X3Nt18s9AzqNbGPxTonfK/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

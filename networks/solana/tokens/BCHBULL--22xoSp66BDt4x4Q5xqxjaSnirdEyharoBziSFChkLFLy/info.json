@@ -1,0 +1,11 @@
+{
+  "name": "BCHBULL",
+  "address": "22xoSp66BDt4x4Q5xqxjaSnirdEyharoBziSFChkLFLy",
+  "symbol": "BCHBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

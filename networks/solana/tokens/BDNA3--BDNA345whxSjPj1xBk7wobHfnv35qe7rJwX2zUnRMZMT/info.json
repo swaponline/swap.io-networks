@@ -1,0 +1,11 @@
+{
+  "name": "Grey SolBull DNA",
+  "address": "BDNA345whxSjPj1xBk7wobHfnv35qe7rJwX2zUnRMZMT",
+  "symbol": "BDNA3",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BDNA3--BDNA345whxSjPj1xBk7wobHfnv35qe7rJwX2zUnRMZMT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

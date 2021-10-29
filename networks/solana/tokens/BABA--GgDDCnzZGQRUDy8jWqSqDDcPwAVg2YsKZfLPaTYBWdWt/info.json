@@ -1,0 +1,11 @@
+{
+  "name": "Alibaba",
+  "address": "GgDDCnzZGQRUDy8jWqSqDDcPwAVg2YsKZfLPaTYBWdWt",
+  "symbol": "BABA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BABA--GgDDCnzZGQRUDy8jWqSqDDcPwAVg2YsKZfLPaTYBWdWt/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

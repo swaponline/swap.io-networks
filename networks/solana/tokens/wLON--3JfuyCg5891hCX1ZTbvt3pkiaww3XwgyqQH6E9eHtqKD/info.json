@@ -1,0 +1,11 @@
+{
+  "name": "Tokenlon (Wormhole)",
+  "address": "3JfuyCg5891hCX1ZTbvt3pkiaww3XwgyqQH6E9eHtqKD",
+  "symbol": "wLON",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wLON--3JfuyCg5891hCX1ZTbvt3pkiaww3XwgyqQH6E9eHtqKD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

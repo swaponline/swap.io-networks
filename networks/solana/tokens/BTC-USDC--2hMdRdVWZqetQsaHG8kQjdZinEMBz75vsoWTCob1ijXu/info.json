@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (BTC-USDC)",
+  "address": "2hMdRdVWZqetQsaHG8kQjdZinEMBz75vsoWTCob1ijXu",
+  "symbol": "BTC-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTC-USDC--2hMdRdVWZqetQsaHG8kQjdZinEMBz75vsoWTCob1ijXu/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

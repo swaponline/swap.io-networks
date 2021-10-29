@@ -1,0 +1,11 @@
+{
+  "name": "GALAXY PANDA",
+  "address": "5E2742iZRZgZF94bfz39NgV9wjppe24YrQJVu6niLPMA",
+  "symbol": "GPA",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GPA--5E2742iZRZgZF94bfz39NgV9wjppe24YrQJVu6niLPMA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

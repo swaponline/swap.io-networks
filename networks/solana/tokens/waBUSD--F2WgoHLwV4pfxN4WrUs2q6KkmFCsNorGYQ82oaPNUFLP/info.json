@@ -1,0 +1,11 @@
+{
+  "name": "Aave Interest bearing Binance USD (Wormhole)",
+  "address": "F2WgoHLwV4pfxN4WrUs2q6KkmFCsNorGYQ82oaPNUFLP",
+  "symbol": "waBUSD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/waBUSD--F2WgoHLwV4pfxN4WrUs2q6KkmFCsNorGYQ82oaPNUFLP/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

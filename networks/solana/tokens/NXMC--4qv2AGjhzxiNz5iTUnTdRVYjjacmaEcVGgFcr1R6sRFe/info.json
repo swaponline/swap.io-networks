@@ -1,0 +1,11 @@
+{
+  "name": "NextMindCoin",
+  "address": "4qv2AGjhzxiNz5iTUnTdRVYjjacmaEcVGgFcr1R6sRFe",
+  "symbol": "NXMC",
+  "decimals": 7,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NXMC--4qv2AGjhzxiNz5iTUnTdRVYjjacmaEcVGgFcr1R6sRFe/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

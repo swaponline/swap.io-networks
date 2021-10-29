@@ -1,0 +1,11 @@
+{
+  "name": "Polkamarkets (Wormhole)",
+  "address": "2PSvGigDY4MVUmv51bBiARBMcHBtXcUBnx5V9BwWbbi2",
+  "symbol": "wPOLK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wPOLK--2PSvGigDY4MVUmv51bBiARBMcHBtXcUBnx5V9BwWbbi2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

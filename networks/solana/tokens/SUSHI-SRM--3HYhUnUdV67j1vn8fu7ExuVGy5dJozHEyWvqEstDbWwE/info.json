@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (SUSHI-SRM)",
+  "address": "3HYhUnUdV67j1vn8fu7ExuVGy5dJozHEyWvqEstDbWwE",
+  "symbol": "SUSHI-SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SUSHI-SRM--3HYhUnUdV67j1vn8fu7ExuVGy5dJozHEyWvqEstDbWwE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

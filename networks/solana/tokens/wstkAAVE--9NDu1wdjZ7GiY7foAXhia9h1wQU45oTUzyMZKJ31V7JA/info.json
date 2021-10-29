@@ -1,0 +1,11 @@
+{
+  "name": "Staked Aave (Wormhole)",
+  "address": "9NDu1wdjZ7GiY7foAXhia9h1wQU45oTUzyMZKJ31V7JA",
+  "symbol": "wstkAAVE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wstkAAVE--9NDu1wdjZ7GiY7foAXhia9h1wQU45oTUzyMZKJ31V7JA/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

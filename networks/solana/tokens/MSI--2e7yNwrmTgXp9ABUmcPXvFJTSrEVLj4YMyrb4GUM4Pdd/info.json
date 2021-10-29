@@ -1,0 +1,11 @@
+{
+  "name": "Matrix Solana Index",
+  "address": "2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd",
+  "symbol": "MSI",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MSI--2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

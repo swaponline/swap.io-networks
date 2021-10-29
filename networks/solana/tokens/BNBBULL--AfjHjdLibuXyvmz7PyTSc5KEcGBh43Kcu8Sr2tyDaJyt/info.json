@@ -1,0 +1,11 @@
+{
+  "name": "BNBBULL",
+  "address": "AfjHjdLibuXyvmz7PyTSc5KEcGBh43Kcu8Sr2tyDaJyt",
+  "symbol": "BNBBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Entropy",
+  "address": "GmwiyYf1Biz9XjgofNBMdKSTgz134pmHWPhBanAFfDfa",
+  "symbol": "ENT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ENT--GmwiyYf1Biz9XjgofNBMdKSTgz134pmHWPhBanAFfDfa/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Xfinance (Wormhole)",
+  "address": "DboP5vvYUVjmKSHKJ1YFHwmv41KtUscnYgzjmPgHwQVn",
+  "symbol": "wXFI",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wXFI--DboP5vvYUVjmKSHKJ1YFHwmv41KtUscnYgzjmPgHwQVn/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

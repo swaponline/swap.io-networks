@@ -1,0 +1,11 @@
+{
+  "name": "KittyCoin",
+  "address": "0xb4228798fF437ecD8fa43429664e9992256fe6Ac",
+  "symbol": "KITTY",
+  "decimals": 18,
+  "chainId": 137,
+  "logo": "/networks/polygon/tokens/KITTY--0xb4228798fF437ecD8fa43429664e9992256fe6Ac/logo.jpeg",
+  "tags": [
+    "erc20matic"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wise Token (Wormhole)",
+  "address": "FLrjpCRrd4GffHu8MVYGvuLxYLuBGVaXsnCecw3Effci",
+  "symbol": "wWISE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wWISE--FLrjpCRrd4GffHu8MVYGvuLxYLuBGVaXsnCecw3Effci/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

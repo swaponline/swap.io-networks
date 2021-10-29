@@ -1,0 +1,11 @@
+{
+  "name": "tuSOL",
+  "address": "H4Q3hDbuMUw8Bu72Ph8oV2xMQ7BFNbekpfQZKS2xF7jW",
+  "symbol": "tuSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuSOL--H4Q3hDbuMUw8Bu72Ph8oV2xMQ7BFNbekpfQZKS2xF7jW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

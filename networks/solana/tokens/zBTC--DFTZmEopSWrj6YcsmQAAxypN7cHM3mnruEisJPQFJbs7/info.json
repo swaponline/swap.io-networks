@@ -1,0 +1,11 @@
+{
+  "name": "zBTC (ACUMEN)",
+  "address": "DFTZmEopSWrj6YcsmQAAxypN7cHM3mnruEisJPQFJbs7",
+  "symbol": "zBTC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zBTC--DFTZmEopSWrj6YcsmQAAxypN7cHM3mnruEisJPQFJbs7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

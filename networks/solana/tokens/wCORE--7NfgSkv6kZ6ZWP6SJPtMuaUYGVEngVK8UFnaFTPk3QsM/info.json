@@ -1,0 +1,11 @@
+{
+  "name": "cVault.finance (Wormhole)",
+  "address": "7NfgSkv6kZ6ZWP6SJPtMuaUYGVEngVK8UFnaFTPk3QsM",
+  "symbol": "wCORE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wCORE--7NfgSkv6kZ6ZWP6SJPtMuaUYGVEngVK8UFnaFTPk3QsM/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

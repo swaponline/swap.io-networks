@@ -1,0 +1,11 @@
+{
+  "name": "NINJA",
+  "address": "FgX1WD9WzMU3yLwXaFSarPfkgzjLb2DZCqmkx9ExpuvJ",
+  "symbol": "NINJA",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NINJA--FgX1WD9WzMU3yLwXaFSarPfkgzjLb2DZCqmkx9ExpuvJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

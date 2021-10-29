@@ -1,0 +1,11 @@
+{
+  "name": "Rocket Pool (Wormhole)",
+  "address": "4psmnTirimNyPEPEZtkQkdEPJagTXS3a7wsu1XN9MYK3",
+  "symbol": "wRPL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRPL--4psmnTirimNyPEPEZtkQkdEPJagTXS3a7wsu1XN9MYK3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Nur Coin",
+  "address": "5ToouaoWhGCiaicANcewnaNKJssdZTxPATDhqJXARiJG",
+  "symbol": "NUR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NUR--5ToouaoWhGCiaicANcewnaNKJssdZTxPATDhqJXARiJG/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

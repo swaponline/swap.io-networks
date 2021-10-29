@@ -1,0 +1,11 @@
+{
+  "name": "HoneyFarmer",
+  "address": "84kYHLFYpBL1bcXXV6VhLAWDVMphejeVdeWqYqsxARcW",
+  "symbol": "HNF",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

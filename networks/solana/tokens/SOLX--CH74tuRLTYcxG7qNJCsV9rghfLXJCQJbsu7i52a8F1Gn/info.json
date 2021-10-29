@@ -1,0 +1,11 @@
+{
+  "name": "Soldex",
+  "address": "CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn",
+  "symbol": "SOLX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

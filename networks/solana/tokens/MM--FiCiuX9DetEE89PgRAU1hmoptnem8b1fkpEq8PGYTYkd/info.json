@@ -1,0 +1,11 @@
+{
+  "name": "Million",
+  "address": "FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd",
+  "symbol": "MM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MM--FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

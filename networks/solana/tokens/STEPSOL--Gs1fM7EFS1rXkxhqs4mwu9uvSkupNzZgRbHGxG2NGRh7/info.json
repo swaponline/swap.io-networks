@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (STEP/SOL[aquafarm])",
+  "address": "Gs1fM7EFS1rXkxhqs4mwu9uvSkupNzZgRbHGxG2NGRh7",
+  "symbol": "STEPSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STEPSOL--Gs1fM7EFS1rXkxhqs4mwu9uvSkupNzZgRbHGxG2NGRh7/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

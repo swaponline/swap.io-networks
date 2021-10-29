@@ -1,0 +1,11 @@
+{
+  "name": "sosol",
+  "address": "soso1vCmdxwEZqU47M4NZ4MxZH19ppgqF1auG7dP3wz",
+  "symbol": "SSL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SSL--soso1vCmdxwEZqU47M4NZ4MxZH19ppgqF1auG7dP3wz/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

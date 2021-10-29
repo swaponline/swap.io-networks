@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (ETH/SOL)",
+  "address": "CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer",
+  "symbol": "ETHSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETHSOL--CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iMentusCoin",
+  "address": "6foyeENL9GhqZEqPeaRK9YtP8HnFfej1JBwdn5rcsPDi",
+  "symbol": "iM",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/iM--6foyeENL9GhqZEqPeaRK9YtP8HnFfej1JBwdn5rcsPDi/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

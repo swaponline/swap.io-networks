@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ETH (Allbridge from Ethereum)",
+  "address": "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE",
+  "symbol": "aeWETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/aeWETH--AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

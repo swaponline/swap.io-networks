@@ -1,0 +1,11 @@
+{
+  "name": "CARROT",
+  "address": "9Y8NT5HT9z2EsmCbYMgKXPRq3h3aa6tycEqfFiXjfZM7",
+  "symbol": "CRT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CRT--9Y8NT5HT9z2EsmCbYMgKXPRq3h3aa6tycEqfFiXjfZM7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (RAY-SRM)",
+  "address": "7P5Thr9Egi2rvMmEuQkLn8x8e8Qro7u2U7yLD2tU2Hbe",
+  "symbol": "RAY-SRM",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

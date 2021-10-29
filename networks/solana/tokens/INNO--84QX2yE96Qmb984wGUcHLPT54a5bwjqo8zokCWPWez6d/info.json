@@ -1,0 +1,11 @@
+{
+  "name": "INNOVATEK",
+  "address": "84QX2yE96Qmb984wGUcHLPT54a5bwjqo8zokCWPWez6d",
+  "symbol": "INNO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (ALEPH-USDC)",
+  "address": "iUDasAP2nXm5wvTukAHEKSdSXn8vQkRtaiShs9ceGB7",
+  "symbol": "ALEPH-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

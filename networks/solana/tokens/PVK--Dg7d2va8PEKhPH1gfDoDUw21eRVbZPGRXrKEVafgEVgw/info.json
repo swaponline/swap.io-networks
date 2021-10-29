@@ -1,0 +1,11 @@
+{
+  "name": "PlatinumO2",
+  "address": "Dg7d2va8PEKhPH1gfDoDUw21eRVbZPGRXrKEVafgEVgw",
+  "symbol": "PVK",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PVK--Dg7d2va8PEKhPH1gfDoDUw21eRVbZPGRXrKEVafgEVgw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Snake Eyes",
+  "address": "Hejznrp39zCfcmq4WpihfAeyhzhqeFtj4PURHFqMaHSS",
+  "symbol": "SE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SE--Hejznrp39zCfcmq4WpihfAeyhzhqeFtj4PURHFqMaHSS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

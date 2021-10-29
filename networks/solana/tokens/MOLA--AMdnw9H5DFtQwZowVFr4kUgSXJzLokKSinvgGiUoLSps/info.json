@@ -1,0 +1,11 @@
+{
+  "name": "MOONLANA",
+  "address": "AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps",
+  "symbol": "MOLA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MOLA--AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

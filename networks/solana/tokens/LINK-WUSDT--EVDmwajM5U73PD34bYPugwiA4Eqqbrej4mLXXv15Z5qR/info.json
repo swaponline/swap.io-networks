@@ -1,0 +1,11 @@
+{
+  "name": "Raydium Legacy LP Token V2 (LINK-WUSDT)",
+  "address": "EVDmwajM5U73PD34bYPugwiA4Eqqbrej4mLXXv15Z5qR",
+  "symbol": "LINK-WUSDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LINK-WUSDT--EVDmwajM5U73PD34bYPugwiA4Eqqbrej4mLXXv15Z5qR/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

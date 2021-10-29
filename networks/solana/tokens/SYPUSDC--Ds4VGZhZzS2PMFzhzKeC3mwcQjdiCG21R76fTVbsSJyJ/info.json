@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (SYP/USDC[aquafarm])",
+  "address": "Ds4VGZhZzS2PMFzhzKeC3mwcQjdiCG21R76fTVbsSJyJ",
+  "symbol": "SYPUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SYPUSDC--Ds4VGZhZzS2PMFzhzKeC3mwcQjdiCG21R76fTVbsSJyJ/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

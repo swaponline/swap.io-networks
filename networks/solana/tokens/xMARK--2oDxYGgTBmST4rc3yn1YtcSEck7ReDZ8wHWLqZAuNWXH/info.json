@@ -1,0 +1,11 @@
+{
+  "name": "Standard",
+  "address": "2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH",
+  "symbol": "xMARK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xMARK--2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SOL-CATS",
+  "address": "HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8",
+  "symbol": "MEOW",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MEOW--HAgX1HSfok8DohiNCS54FnC2UJkDSrRVnT38W3iWFwc8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

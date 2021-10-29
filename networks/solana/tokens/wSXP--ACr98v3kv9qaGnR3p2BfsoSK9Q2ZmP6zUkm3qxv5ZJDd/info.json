@@ -1,0 +1,11 @@
+{
+  "name": "Swipe (Wormhole)",
+  "address": "ACr98v3kv9qaGnR3p2BfsoSK9Q2ZmP6zUkm3qxv5ZJDd",
+  "symbol": "wSXP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wSXP--ACr98v3kv9qaGnR3p2BfsoSK9Q2ZmP6zUkm3qxv5ZJDd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

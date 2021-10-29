@@ -1,0 +1,11 @@
+{
+  "name": "METASEER",
+  "address": "3Ztt53vwGhQGoEp3n1RjSu4CFnGRfqzwo6L8KN8gmXfd",
+  "symbol": "METAS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/METAS--3Ztt53vwGhQGoEp3n1RjSu4CFnGRfqzwo6L8KN8gmXfd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

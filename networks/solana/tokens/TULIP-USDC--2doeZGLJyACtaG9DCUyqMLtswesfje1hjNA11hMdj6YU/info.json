@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (TULIP-USDC)",
+  "address": "2doeZGLJyACtaG9DCUyqMLtswesfje1hjNA11hMdj6YU",
+  "symbol": "TULIP-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TULIP-USDC--2doeZGLJyACtaG9DCUyqMLtswesfje1hjNA11hMdj6YU/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

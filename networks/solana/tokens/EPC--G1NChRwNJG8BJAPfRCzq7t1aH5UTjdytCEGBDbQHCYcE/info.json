@@ -1,0 +1,11 @@
+{
+  "name": "Elliptic",
+  "address": "G1NChRwNJG8BJAPfRCzq7t1aH5UTjdytCEGBDbQHCYcE",
+  "symbol": "EPC",
+  "decimals": 2,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/EPC--G1NChRwNJG8BJAPfRCzq7t1aH5UTjdytCEGBDbQHCYcE/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

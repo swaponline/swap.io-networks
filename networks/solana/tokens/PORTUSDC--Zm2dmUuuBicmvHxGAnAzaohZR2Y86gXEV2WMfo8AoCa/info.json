@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (PORT/USDC[aquafarm])",
+  "address": "Zm2dmUuuBicmvHxGAnAzaohZR2Y86gXEV2WMfo8AoCa",
+  "symbol": "PORTUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PORTUSDC--Zm2dmUuuBicmvHxGAnAzaohZR2Y86gXEV2WMfo8AoCa/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "JareBear",
+  "address": "7Y2FprWHsBYCFkTpWiQ123BMPgWWquraaZHy6oFofcvs",
+  "symbol": "JDBEAR",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DOGEBULL",
+  "address": "ASboaJPFtJeCS5eG4gL3Lg95xrTz2UZSLE9sdJtY93kE",
+  "symbol": "DOGEBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

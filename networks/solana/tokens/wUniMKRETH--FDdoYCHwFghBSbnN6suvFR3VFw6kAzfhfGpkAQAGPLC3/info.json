@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap MKR LP (Wormhole)",
+  "address": "FDdoYCHwFghBSbnN6suvFR3VFw6kAzfhfGpkAQAGPLC3",
+  "symbol": "wUniMKRETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUniMKRETH--FDdoYCHwFghBSbnN6suvFR3VFw6kAzfhfGpkAQAGPLC3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

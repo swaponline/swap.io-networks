@@ -1,0 +1,11 @@
+{
+  "name": "Autostorm",
+  "address": "D1EjNd9c7MgepvQCS31x5TpdXpvtDwDNCLwLGEYg6hYo",
+  "symbol": "AUTOS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AUTOS--D1EjNd9c7MgepvQCS31x5TpdXpvtDwDNCLwLGEYg6hYo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

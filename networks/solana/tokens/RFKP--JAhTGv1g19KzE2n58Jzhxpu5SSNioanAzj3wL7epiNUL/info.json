@@ -1,0 +1,11 @@
+{
+  "name": "Refrak Platinum",
+  "address": "JAhTGv1g19KzE2n58Jzhxpu5SSNioanAzj3wL7epiNUL",
+  "symbol": "RFKP",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RFKP--JAhTGv1g19KzE2n58Jzhxpu5SSNioanAzj3wL7epiNUL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

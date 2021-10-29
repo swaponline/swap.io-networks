@@ -1,0 +1,11 @@
+{
+  "name": "HydraSwap LP Token (ETH-USDC)",
+  "address": "HRhugQTKnX5TK6dQUygwUr7rgCZmzJjk4CiAxZV3eaTk",
+  "symbol": "ETH-USDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETH-USDC--HRhugQTKnX5TK6dQUygwUr7rgCZmzJjk4CiAxZV3eaTk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

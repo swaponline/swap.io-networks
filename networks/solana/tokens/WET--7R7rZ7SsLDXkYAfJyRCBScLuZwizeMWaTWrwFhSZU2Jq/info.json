@@ -1,0 +1,11 @@
+{
+  "name": "Weble Ecosystem Token",
+  "address": "7R7rZ7SsLDXkYAfJyRCBScLuZwizeMWaTWrwFhSZU2Jq",
+  "symbol": "WET",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WET--7R7rZ7SsLDXkYAfJyRCBScLuZwizeMWaTWrwFhSZU2Jq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

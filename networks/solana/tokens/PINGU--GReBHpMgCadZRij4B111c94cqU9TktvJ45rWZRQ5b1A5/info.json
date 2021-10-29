@@ -1,0 +1,11 @@
+{
+  "name": "Penguincoin",
+  "address": "GReBHpMgCadZRij4B111c94cqU9TktvJ45rWZRQ5b1A5",
+  "symbol": "PINGU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PINGU--GReBHpMgCadZRij4B111c94cqU9TktvJ45rWZRQ5b1A5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

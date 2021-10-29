@@ -1,0 +1,11 @@
+{
+  "name": "SolStar",
+  "address": "D7U3BPHr5JBbFmPTaVNpmEKGBPFdQS3udijyte1QtuLk",
+  "symbol": "STAR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STAR--D7U3BPHr5JBbFmPTaVNpmEKGBPFdQS3udijyte1QtuLk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

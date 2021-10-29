@@ -1,0 +1,11 @@
+{
+  "name": "Brane",
+  "address": "EfdM1aiUaoXHu3TdVAGYiyHKcvkZURjmxsfXWLa5LyTc",
+  "symbol": "BRANE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BRANE--EfdM1aiUaoXHu3TdVAGYiyHKcvkZURjmxsfXWLa5LyTc/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

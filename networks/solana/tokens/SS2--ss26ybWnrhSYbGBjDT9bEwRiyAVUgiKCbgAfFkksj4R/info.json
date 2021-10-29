@@ -1,0 +1,11 @@
+{
+  "name": "POH",
+  "address": "ss26ybWnrhSYbGBjDT9bEwRiyAVUgiKCbgAfFkksj4R",
+  "symbol": "SS2",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SS2--ss26ybWnrhSYbGBjDT9bEwRiyAVUgiKCbgAfFkksj4R/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

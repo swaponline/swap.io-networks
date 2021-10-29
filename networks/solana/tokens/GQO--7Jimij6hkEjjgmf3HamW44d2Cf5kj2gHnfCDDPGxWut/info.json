@@ -1,0 +1,11 @@
+{
+  "name": "GIGQO",
+  "address": "7Jimij6hkEjjgmf3HamW44d2Cf5kj2gHnfCDDPGxWut",
+  "symbol": "GQO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GQO--7Jimij6hkEjjgmf3HamW44d2Cf5kj2gHnfCDDPGxWut/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

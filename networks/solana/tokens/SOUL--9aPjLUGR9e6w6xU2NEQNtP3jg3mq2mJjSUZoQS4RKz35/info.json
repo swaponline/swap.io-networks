@@ -1,0 +1,11 @@
+{
+  "name": "Soulana",
+  "address": "9aPjLUGR9e6w6xU2NEQNtP3jg3mq2mJjSUZoQS4RKz35",
+  "symbol": "SOUL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOUL--9aPjLUGR9e6w6xU2NEQNtP3jg3mq2mJjSUZoQS4RKz35/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

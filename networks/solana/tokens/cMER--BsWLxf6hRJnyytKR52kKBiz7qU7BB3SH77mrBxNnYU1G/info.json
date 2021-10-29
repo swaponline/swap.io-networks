@@ -1,0 +1,11 @@
+{
+  "name": "Solend MER",
+  "address": "BsWLxf6hRJnyytKR52kKBiz7qU7BB3SH77mrBxNnYU1G",
+  "symbol": "cMER",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cMER--BsWLxf6hRJnyytKR52kKBiz7qU7BB3SH77mrBxNnYU1G/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Nio",
+  "address": "56Zwe8Crm4pXvmByCxmGDjYrLPxkenTrckdRM7WG3zQv",
+  "symbol": "NIO",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NIO--56Zwe8Crm4pXvmByCxmGDjYrLPxkenTrckdRM7WG3zQv/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Zaucoin",
+  "address": "AWTE7toEwKdSRd7zh3q45SjKhmYVFp3zk4quWHsM92bj",
+  "symbol": "ZAU",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ZAU--AWTE7toEwKdSRd7zh3q45SjKhmYVFp3zk4quWHsM92bj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

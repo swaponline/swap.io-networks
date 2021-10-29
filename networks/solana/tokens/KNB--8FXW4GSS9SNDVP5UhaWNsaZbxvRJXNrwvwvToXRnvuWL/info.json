@@ -1,0 +1,11 @@
+{
+  "name": "KNB",
+  "address": "8FXW4GSS9SNDVP5UhaWNsaZbxvRJXNrwvwvToXRnvuWL",
+  "symbol": "KNB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KNB--8FXW4GSS9SNDVP5UhaWNsaZbxvRJXNrwvwvToXRnvuWL/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

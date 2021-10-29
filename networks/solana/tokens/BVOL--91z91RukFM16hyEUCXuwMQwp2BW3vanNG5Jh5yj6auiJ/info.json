@@ -1,0 +1,11 @@
+{
+  "name": "BVOL",
+  "address": "91z91RukFM16hyEUCXuwMQwp2BW3vanNG5Jh5yj6auiJ",
+  "symbol": "BVOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

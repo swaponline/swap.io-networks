@@ -1,0 +1,11 @@
+{
+  "name": "Donkey Hee Haw",
+  "address": "58yYYVT5FoVx2jtvD9xtX4JxE8jogtA5tjMkJudgERMS",
+  "symbol": "DONKEY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DONKEY--58yYYVT5FoVx2jtvD9xtX4JxE8jogtA5tjMkJudgERMS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zSOL (ACUMEN)",
+  "address": "HRhCiCe8WLC4Jsy43Jkhq3poEWpjgXKD1U26XACReimt",
+  "symbol": "zSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zSOL--HRhCiCe8WLC4Jsy43Jkhq3poEWpjgXKD1U26XACReimt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

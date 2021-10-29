@@ -1,0 +1,11 @@
+{
+  "name": "Interstellar",
+  "address": "BXhAKUxkGvFbAarA3K1SUYnqXRhEBC1bhUaCaxvzgyJ1",
+  "symbol": "ISA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ISA--BXhAKUxkGvFbAarA3K1SUYnqXRhEBC1bhUaCaxvzgyJ1/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

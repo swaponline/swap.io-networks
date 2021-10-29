@@ -1,0 +1,11 @@
+{
+  "name": "VPOWER",
+  "address": "35KgRun5UMT2Kjtjw4cNG1tXHcgBxuxji6Yp6ciz7yX7",
+  "symbol": "VPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VPE--35KgRun5UMT2Kjtjw4cNG1tXHcgBxuxji6Yp6ciz7yX7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

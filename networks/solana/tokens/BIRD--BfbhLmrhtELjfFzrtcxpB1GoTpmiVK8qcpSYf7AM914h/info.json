@@ -1,0 +1,11 @@
+{
+  "name": "SolBird2",
+  "address": "BfbhLmrhtELjfFzrtcxpB1GoTpmiVK8qcpSYf7AM914h",
+  "symbol": "BIRD",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BIRD--BfbhLmrhtELjfFzrtcxpB1GoTpmiVK8qcpSYf7AM914h/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

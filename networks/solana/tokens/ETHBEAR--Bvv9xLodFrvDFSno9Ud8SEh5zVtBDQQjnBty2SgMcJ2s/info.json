@@ -1,0 +1,11 @@
+{
+  "name": "ETHBEAR",
+  "address": "Bvv9xLodFrvDFSno9Ud8SEh5zVtBDQQjnBty2SgMcJ2s",
+  "symbol": "ETHBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

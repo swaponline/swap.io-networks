@@ -1,0 +1,11 @@
+{
+  "name": "Bongocoin",
+  "address": "C3vBJEuNvrUqJYQ5ki8TSrCndphJQ7wwiXEwvuy1AJkW",
+  "symbol": "BONGO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

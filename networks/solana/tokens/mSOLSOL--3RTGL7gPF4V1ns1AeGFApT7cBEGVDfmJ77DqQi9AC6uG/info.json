@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (mSOL/SOL)",
+  "address": "3RTGL7gPF4V1ns1AeGFApT7cBEGVDfmJ77DqQi9AC6uG",
+  "symbol": "mSOLSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mSOLSOL--3RTGL7gPF4V1ns1AeGFApT7cBEGVDfmJ77DqQi9AC6uG/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

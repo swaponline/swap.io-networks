@@ -1,0 +1,11 @@
+{
+  "name": "SolFlower",
+  "address": "3Wup5AtKjDki1yX75WZuzGbqrNJTmLPvVPMwWEhBNKES",
+  "symbol": "BLISS",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BLISS--3Wup5AtKjDki1yX75WZuzGbqrNJTmLPvVPMwWEhBNKES/logo.jpg",
+  "tags": [
+    "spl"
+  ]
+}

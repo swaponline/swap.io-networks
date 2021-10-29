@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (ETH/USDC)",
+  "address": "7TYb32qkwYosUQfUspU45cou7Bb3nefJocVMFX2mEGTT",
+  "symbol": "ETHUSDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/ETHUSDC--7TYb32qkwYosUQfUspU45cou7Bb3nefJocVMFX2mEGTT/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

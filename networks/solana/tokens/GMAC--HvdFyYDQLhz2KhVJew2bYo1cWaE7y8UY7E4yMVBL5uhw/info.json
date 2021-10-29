@@ -1,0 +1,11 @@
+{
+  "name": "GMAC Unique Token",
+  "address": "HvdFyYDQLhz2KhVJew2bYo1cWaE7y8UY7E4yMVBL5uhw",
+  "symbol": "GMAC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GMAC--HvdFyYDQLhz2KhVJew2bYo1cWaE7y8UY7E4yMVBL5uhw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

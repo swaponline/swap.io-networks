@@ -1,0 +1,11 @@
+{
+  "name": "Orca LP Token (SOL/SRM)",
+  "address": "6ojPekCSQimAjDjaMApLvh3jF6wnZeNEVRVVoGNzEXvV",
+  "symbol": "SOLSRM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

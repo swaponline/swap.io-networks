@@ -1,0 +1,11 @@
+{
+  "name": "Marinade staked SOL (mSOL)",
+  "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+  "symbol": "mSOL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/mSOL--mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

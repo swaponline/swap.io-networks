@@ -1,0 +1,11 @@
+{
+  "name": "Sol Infinity",
+  "address": "6w5GEARUppTyeQee2grCUYjXi933Yswz5ZjYKt5nicY2",
+  "symbol": "SOTY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOTY--6w5GEARUppTyeQee2grCUYjXi933Yswz5ZjYKt5nicY2/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CHANGPENGUIN",
+  "address": "8b9mQo6ZU2rwZQgSFqGNQvXzrUSHDTRpKSKi9XXdGmqN",
+  "symbol": "CHANGPENGUIN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CHANGPENGUIN--8b9mQo6ZU2rwZQgSFqGNQvXzrUSHDTRpKSKi9XXdGmqN/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

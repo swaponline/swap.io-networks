@@ -1,0 +1,11 @@
+{
+  "name": "renBCH",
+  "address": "G1a6jxYz3m8DVyMqYnuV7s86wD4fvuXYneWSpLJkmsXj",
+  "symbol": "renBCH",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/renBCH--G1a6jxYz3m8DVyMqYnuV7s86wD4fvuXYneWSpLJkmsXj/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

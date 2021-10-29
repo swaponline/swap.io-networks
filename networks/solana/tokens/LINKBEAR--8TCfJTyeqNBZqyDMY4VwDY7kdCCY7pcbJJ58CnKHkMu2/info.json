@@ -1,0 +1,11 @@
+{
+  "name": "LINKBEAR",
+  "address": "8TCfJTyeqNBZqyDMY4VwDY7kdCCY7pcbJJ58CnKHkMu2",
+  "symbol": "LINKBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token V4 (STEP-USDC)",
+  "address": "3k8BDobgihmk72jVmXYLE168bxxQUhqqyESW4dQVktqC",
+  "symbol": "STEP-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

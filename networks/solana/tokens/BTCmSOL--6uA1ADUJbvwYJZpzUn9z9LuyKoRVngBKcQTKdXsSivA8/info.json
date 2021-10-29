@@ -1,0 +1,11 @@
+{
+  "name": "Orca Double Dip Token (BTC/mSOL[aquafarm])",
+  "address": "6uA1ADUJbvwYJZpzUn9z9LuyKoRVngBKcQTKdXsSivA8",
+  "symbol": "BTCmSOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTCmSOL--6uA1ADUJbvwYJZpzUn9z9LuyKoRVngBKcQTKdXsSivA8/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

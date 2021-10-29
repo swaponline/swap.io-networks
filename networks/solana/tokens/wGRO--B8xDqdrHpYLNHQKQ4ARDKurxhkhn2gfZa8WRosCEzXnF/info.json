@@ -1,0 +1,11 @@
+{
+  "name": "Growth (Wormhole)",
+  "address": "B8xDqdrHpYLNHQKQ4ARDKurxhkhn2gfZa8WRosCEzXnF",
+  "symbol": "wGRO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wGRO--B8xDqdrHpYLNHQKQ4ARDKurxhkhn2gfZa8WRosCEzXnF/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bilby Finance",
+  "address": "A9EEvcRcT7Q9XAa6NfqrqJChoc4XGDhd2mtc4xfniQkS",
+  "symbol": "BILBY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BILBY--A9EEvcRcT7Q9XAa6NfqrqJChoc4XGDhd2mtc4xfniQkS/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

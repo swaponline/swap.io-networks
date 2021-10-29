@@ -1,0 +1,11 @@
+{
+  "name": "PEPE Coin",
+  "address": "6JxHWpKwZjcnxjE9DZtaCEaoVNgpJzuBmrGQ6hmJ7DuM",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PEPE--6JxHWpKwZjcnxjE9DZtaCEaoVNgpJzuBmrGQ6hmJ7DuM/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

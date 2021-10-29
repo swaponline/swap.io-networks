@@ -1,0 +1,11 @@
+{
+  "name": "Graph Token (Wormhole)",
+  "address": "BmxZ1pghpcoyT7aykj7D1o4AxWirTqvD7zD2tNngjirT",
+  "symbol": "wGRT",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wGRT--BmxZ1pghpcoyT7aykj7D1o4AxWirTqvD7zD2tNngjirT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FBD Collectible Token",
+  "address": "CAeZWe4RoK6fj6XHhLiynxZKV2tXqeS1kpTtP3JTWVXw",
+  "symbol": "FBD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FBD--CAeZWe4RoK6fj6XHhLiynxZKV2tXqeS1kpTtP3JTWVXw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped KARMA (Sollet)",
+  "address": "EcqExpGNFBve2i1cMJUTR4bPXj4ZoqmDD2rTkeCcaTFX",
+  "symbol": "KARMA",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KARMA--EcqExpGNFBve2i1cMJUTR4bPXj4ZoqmDD2rTkeCcaTFX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

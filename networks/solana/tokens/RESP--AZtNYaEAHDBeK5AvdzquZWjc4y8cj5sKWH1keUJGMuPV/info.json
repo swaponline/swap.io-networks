@@ -1,0 +1,11 @@
+{
+  "name": "RESPECT",
+  "address": "AZtNYaEAHDBeK5AvdzquZWjc4y8cj5sKWH1keUJGMuPV",
+  "symbol": "RESP",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RESP--AZtNYaEAHDBeK5AvdzquZWjc4y8cj5sKWH1keUJGMuPV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

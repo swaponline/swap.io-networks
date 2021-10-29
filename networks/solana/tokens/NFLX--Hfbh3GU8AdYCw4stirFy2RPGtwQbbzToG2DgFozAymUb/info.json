@@ -1,0 +1,11 @@
+{
+  "name": "Netflix",
+  "address": "Hfbh3GU8AdYCw4stirFy2RPGtwQbbzToG2DgFozAymUb",
+  "symbol": "NFLX",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NFLX--Hfbh3GU8AdYCw4stirFy2RPGtwQbbzToG2DgFozAymUb/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

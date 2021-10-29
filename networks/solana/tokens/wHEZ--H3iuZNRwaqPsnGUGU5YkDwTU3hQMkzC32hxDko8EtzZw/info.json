@@ -1,0 +1,11 @@
+{
+  "name": "Hermez Network Token (Wormhole)",
+  "address": "H3iuZNRwaqPsnGUGU5YkDwTU3hQMkzC32hxDko8EtzZw",
+  "symbol": "wHEZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wHEZ--H3iuZNRwaqPsnGUGU5YkDwTU3hQMkzC32hxDko8EtzZw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

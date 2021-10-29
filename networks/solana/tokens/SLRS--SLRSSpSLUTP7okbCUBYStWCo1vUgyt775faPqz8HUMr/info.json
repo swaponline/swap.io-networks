@@ -1,0 +1,11 @@
+{
+  "name": "Solrise Finance",
+  "address": "SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr",
+  "symbol": "SLRS",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLRS--SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

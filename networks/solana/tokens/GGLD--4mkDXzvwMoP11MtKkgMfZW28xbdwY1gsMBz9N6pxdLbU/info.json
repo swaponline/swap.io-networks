@@ -1,0 +1,11 @@
+{
+  "name": "GreenGoldCoin",
+  "address": "4mkDXzvwMoP11MtKkgMfZW28xbdwY1gsMBz9N6pxdLbU",
+  "symbol": "GGLD",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GGLD--4mkDXzvwMoP11MtKkgMfZW28xbdwY1gsMBz9N6pxdLbU/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

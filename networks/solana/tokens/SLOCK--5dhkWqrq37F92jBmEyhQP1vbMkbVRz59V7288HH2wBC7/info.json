@@ -1,0 +1,11 @@
+{
+  "name": "SOLLock",
+  "address": "5dhkWqrq37F92jBmEyhQP1vbMkbVRz59V7288HH2wBC7",
+  "symbol": "SLOCK",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SLOCK--5dhkWqrq37F92jBmEyhQP1vbMkbVRz59V7288HH2wBC7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

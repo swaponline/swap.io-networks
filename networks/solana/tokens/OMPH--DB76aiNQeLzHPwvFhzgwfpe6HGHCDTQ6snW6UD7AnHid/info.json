@@ -1,0 +1,11 @@
+{
+  "name": "Om Photoli",
+  "address": "DB76aiNQeLzHPwvFhzgwfpe6HGHCDTQ6snW6UD7AnHid",
+  "symbol": "OMPH",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OMPH--DB76aiNQeLzHPwvFhzgwfpe6HGHCDTQ6snW6UD7AnHid/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

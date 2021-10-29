@@ -1,0 +1,11 @@
+{
+  "name": "Raydium",
+  "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+  "symbol": "RAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RAY--4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Amazon",
+  "address": "3bjpzTTK49eP8m1bYxw6HYAFGtzyWjvEyGYcFS4gbRAx",
+  "symbol": "AMZN",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/AMZN--3bjpzTTK49eP8m1bYxw6HYAFGtzyWjvEyGYcFS4gbRAx/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

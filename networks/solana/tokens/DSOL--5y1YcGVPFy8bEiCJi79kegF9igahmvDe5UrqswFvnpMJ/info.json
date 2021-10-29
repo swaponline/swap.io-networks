@@ -1,0 +1,11 @@
+{
+  "name": "DecentSol",
+  "address": "5y1YcGVPFy8bEiCJi79kegF9igahmvDe5UrqswFvnpMJ",
+  "symbol": "DSOL",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/DSOL--5y1YcGVPFy8bEiCJi79kegF9igahmvDe5UrqswFvnpMJ/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

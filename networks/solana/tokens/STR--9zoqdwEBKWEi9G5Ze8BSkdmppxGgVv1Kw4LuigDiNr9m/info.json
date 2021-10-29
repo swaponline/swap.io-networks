@@ -1,0 +1,11 @@
+{
+  "name": "Solster",
+  "address": "9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m",
+  "symbol": "STR",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/STR--9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

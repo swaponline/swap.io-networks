@@ -1,0 +1,11 @@
+{
+  "name": "Road Protocol",
+  "address": "BTk1SU7EM3sv7u8iaeUjJahm5oeXhEFeC3GJ3KqjTkGL",
+  "symbol": "RDP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RDP--BTk1SU7EM3sv7u8iaeUjJahm5oeXhEFeC3GJ3KqjTkGL/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

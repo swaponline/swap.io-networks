@@ -1,0 +1,11 @@
+{
+  "name": "COBAN",
+  "address": "7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY",
+  "symbol": "COBAN",
+  "decimals": 3,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/COBAN--7udMmYXh6cuWVY6qQVCd9b429wDVn2J71r5BdxHkQADY/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

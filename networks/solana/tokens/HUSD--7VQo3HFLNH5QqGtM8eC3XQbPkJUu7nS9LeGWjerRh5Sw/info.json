@@ -1,0 +1,11 @@
+{
+  "name": "HUSD (Wormhole)",
+  "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+  "symbol": "HUSD",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HUSD--7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

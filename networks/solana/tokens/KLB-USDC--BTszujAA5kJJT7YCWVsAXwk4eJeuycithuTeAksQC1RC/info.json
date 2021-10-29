@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (KLB-USDC)",
+  "address": "BTszujAA5kJJT7YCWVsAXwk4eJeuycithuTeAksQC1RC",
+  "symbol": "KLB-USDC",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/KLB-USDC--BTszujAA5kJJT7YCWVsAXwk4eJeuycithuTeAksQC1RC/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

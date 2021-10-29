@@ -1,0 +1,11 @@
+{
+  "name": "Balancer (Wormhole)",
+  "address": "HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat",
+  "symbol": "wBAL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wBAL--HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

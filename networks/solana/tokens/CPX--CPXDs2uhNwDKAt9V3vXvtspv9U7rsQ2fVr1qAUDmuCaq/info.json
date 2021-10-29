@@ -1,0 +1,11 @@
+{
+  "name": "Circlepod Protocol Token",
+  "address": "CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq",
+  "symbol": "CPX",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CPX--CPXDs2uhNwDKAt9V3vXvtspv9U7rsQ2fVr1qAUDmuCaq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

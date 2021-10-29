@@ -1,0 +1,11 @@
+{
+  "name": "GooseFX",
+  "address": "GFX1ZjR2P15tmrSwow6FjyDYcEkoFb4p4gJCpLBjaxHD",
+  "symbol": "GOFX",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/GOFX--GFX1ZjR2P15tmrSwow6FjyDYcEkoFb4p4gJCpLBjaxHD/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

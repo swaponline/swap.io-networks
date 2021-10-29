@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped USDC (Sollet)",
+  "address": "BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW",
+  "symbol": "WUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WUSDC--BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

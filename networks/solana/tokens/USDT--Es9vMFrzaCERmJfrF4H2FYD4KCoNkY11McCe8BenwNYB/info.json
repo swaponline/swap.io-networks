@@ -1,0 +1,11 @@
+{
+  "name": "USDT",
+  "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+  "symbol": "USDT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/USDT--Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Alpha NFT Token",
+  "address": "9ubSPNJoTjbvo1aVArBBXHqoTXxdHKvNGiDnHWmskdv7",
+  "symbol": "$ALPHA",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/$ALPHA--9ubSPNJoTjbvo1aVArBBXHqoTXxdHKvNGiDnHWmskdv7/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (NINJA/SOL)",
+  "address": "7YyhptkxY81HPzFVfyCzA5UXxWdsNRD41ofLva3TuSpd",
+  "symbol": "NINJASOL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/NINJASOL--7YyhptkxY81HPzFVfyCzA5UXxWdsNRD41ofLva3TuSpd/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

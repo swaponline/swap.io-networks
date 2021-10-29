@@ -1,0 +1,11 @@
+{
+  "name": "Uniswap USDC LP (Wormhole)",
+  "address": "7NFin546WNvWkhtfftfY77z8C1TrxLbUcKmw5TpHGGtC",
+  "symbol": "wUniUSDCETH",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wUniUSDCETH--7NFin546WNvWkhtfftfY77z8C1TrxLbUcKmw5TpHGGtC/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped MATH (Sollet)",
+  "address": "GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza",
+  "symbol": "MATH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/MATH--GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

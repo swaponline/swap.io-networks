@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped BNB (Wormhole)",
+  "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+  "symbol": "WBNB",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/WBNB--9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

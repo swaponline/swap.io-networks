@@ -1,0 +1,11 @@
+{
+  "name": "Oxbull Sol",
+  "address": "4TGxgCSJQx2GQk9oHZ8dC5m3JNXTYZHjXumKAW3vLnNx",
+  "symbol": "OXS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/OXS--4TGxgCSJQx2GQk9oHZ8dC5m3JNXTYZHjXumKAW3vLnNx/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

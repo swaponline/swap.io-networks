@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (TULIP/USDC[aquafarm])",
+  "address": "2KYUwdRbVtaMUgHp1a6NuTomyCb33FxoZ4fkeVdwjaJA",
+  "symbol": "TULIPUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/TULIPUSDC--2KYUwdRbVtaMUgHp1a6NuTomyCb33FxoZ4fkeVdwjaJA/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

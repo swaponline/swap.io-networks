@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped ANATHA (Wormhole)",
+  "address": "4xh8iC54UgaNpY4h34rxfZBSc9L2fBB8gWcYtDGHjxhN",
+  "symbol": "wwANATHA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wwANATHA--4xh8iC54UgaNpY4h34rxfZBSc9L2fBB8gWcYtDGHjxhN/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

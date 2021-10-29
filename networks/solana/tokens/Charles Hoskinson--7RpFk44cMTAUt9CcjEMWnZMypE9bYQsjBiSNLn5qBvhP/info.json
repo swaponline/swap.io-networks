@@ -1,0 +1,11 @@
+{
+  "name": "Charles Hoskinson",
+  "address": "7RpFk44cMTAUt9CcjEMWnZMypE9bYQsjBiSNLn5qBvhP",
+  "symbol": "Charles Hoskinson",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

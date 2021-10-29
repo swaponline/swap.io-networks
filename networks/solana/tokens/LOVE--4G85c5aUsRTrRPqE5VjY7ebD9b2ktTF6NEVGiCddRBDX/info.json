@@ -1,0 +1,11 @@
+{
+  "name": "B ❤ P",
+  "address": "4G85c5aUsRTrRPqE5VjY7ebD9b2ktTF6NEVGiCddRBDX",
+  "symbol": "LOVE",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LOVE--4G85c5aUsRTrRPqE5VjY7ebD9b2ktTF6NEVGiCddRBDX/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

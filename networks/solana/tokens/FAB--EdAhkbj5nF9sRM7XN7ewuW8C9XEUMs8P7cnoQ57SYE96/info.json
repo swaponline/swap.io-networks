@@ -1,0 +1,11 @@
+{
+  "name": "FABRIC",
+  "address": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+  "symbol": "FAB",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/FAB--EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

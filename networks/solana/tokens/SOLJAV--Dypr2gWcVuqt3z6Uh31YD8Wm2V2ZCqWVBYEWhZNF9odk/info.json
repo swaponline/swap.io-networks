@@ -1,0 +1,11 @@
+{
+  "name": "SOLJAV",
+  "address": "Dypr2gWcVuqt3z6Uh31YD8Wm2V2ZCqWVBYEWhZNF9odk",
+  "symbol": "SOLJAV",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SOLJAV--Dypr2gWcVuqt3z6Uh31YD8Wm2V2ZCqWVBYEWhZNF9odk/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

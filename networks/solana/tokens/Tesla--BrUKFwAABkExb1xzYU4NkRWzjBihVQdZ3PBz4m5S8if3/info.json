@@ -1,0 +1,11 @@
+{
+  "name": "Tesla",
+  "address": "BrUKFwAABkExb1xzYU4NkRWzjBihVQdZ3PBz4m5S8if3",
+  "symbol": "Tesla",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

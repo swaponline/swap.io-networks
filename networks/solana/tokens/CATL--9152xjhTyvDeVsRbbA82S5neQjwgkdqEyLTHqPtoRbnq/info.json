@@ -1,0 +1,11 @@
+{
+  "name": "Cat Lover",
+  "address": "9152xjhTyvDeVsRbbA82S5neQjwgkdqEyLTHqPtoRbnq",
+  "symbol": "CATL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CATL--9152xjhTyvDeVsRbbA82S5neQjwgkdqEyLTHqPtoRbnq/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

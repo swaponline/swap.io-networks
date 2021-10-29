@@ -1,0 +1,11 @@
+{
+  "name": "Staked Step",
+  "address": "xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G",
+  "symbol": "xSTEP",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/xSTEP--xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

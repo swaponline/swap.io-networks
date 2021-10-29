@@ -1,0 +1,11 @@
+{
+  "name": "Bitsol Finance",
+  "address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
+  "symbol": "BTSL",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BTSL--DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

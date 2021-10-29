@@ -1,0 +1,11 @@
+{
+  "name": "Celsius (Wormhole)",
+  "address": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
+  "symbol": "CEL",
+  "decimals": 4,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CEL--nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

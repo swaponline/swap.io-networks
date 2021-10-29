@@ -1,0 +1,11 @@
+{
+  "name": "Yet Another Token LAZURIT",
+  "address": "7duMWSNdYMof6WKZHs5X1wdmmxUa6cDGqqKShhMSGkgg",
+  "symbol": "YAT-LAZ",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/YAT-LAZ--7duMWSNdYMof6WKZHs5X1wdmmxUa6cDGqqKShhMSGkgg/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Port Finance Token",
+  "address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+  "symbol": "PORT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PORT--PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Upbots (Sollet)",
+  "address": "873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei",
+  "symbol": "UBXT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/UBXT--873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

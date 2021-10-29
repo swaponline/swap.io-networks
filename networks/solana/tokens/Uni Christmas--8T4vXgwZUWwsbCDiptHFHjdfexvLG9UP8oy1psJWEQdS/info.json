@@ -1,0 +1,11 @@
+{
+  "name": "Uni Christmas",
+  "address": "8T4vXgwZUWwsbCDiptHFHjdfexvLG9UP8oy1psJWEQdS",
+  "symbol": "Uni Christmas",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

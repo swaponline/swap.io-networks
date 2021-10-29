@@ -1,0 +1,11 @@
+{
+  "name": "Squid Game Invitation",
+  "address": "54s1cUvcF5CuMhomJ65A3PFn6RASixP3J96taku6w6PP",
+  "symbol": "SQD",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SQD--54s1cUvcF5CuMhomJ65A3PFn6RASixP3J96taku6w6PP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rally (Wormhole)",
+  "address": "DL7873Hud4eMdGScQFD7vrbC6fzWAMQ2LMuoZSn4zUry",
+  "symbol": "wRLY",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wRLY--DL7873Hud4eMdGScQFD7vrbC6fzWAMQ2LMuoZSn4zUry/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

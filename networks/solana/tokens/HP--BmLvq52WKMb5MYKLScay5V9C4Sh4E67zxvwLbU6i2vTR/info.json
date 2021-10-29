@@ -1,0 +1,11 @@
+{
+  "name": "Honey Pot",
+  "address": "BmLvq52WKMb5MYKLScay5V9C4Sh4E67zxvwLbU6i2vTR",
+  "symbol": "HP",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/HP--BmLvq52WKMb5MYKLScay5V9C4Sh4E67zxvwLbU6i2vTR/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

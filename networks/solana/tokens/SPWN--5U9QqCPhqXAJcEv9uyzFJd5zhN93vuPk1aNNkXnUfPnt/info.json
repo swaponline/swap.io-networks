@@ -1,0 +1,11 @@
+{
+  "name": "Bitspawn Token",
+  "address": "5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt",
+  "symbol": "SPWN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SPWN--5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

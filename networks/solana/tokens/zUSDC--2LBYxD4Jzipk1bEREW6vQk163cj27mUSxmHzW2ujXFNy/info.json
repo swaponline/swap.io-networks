@@ -1,0 +1,11 @@
+{
+  "name": "zUSDC (ACUMEN)",
+  "address": "2LBYxD4Jzipk1bEREW6vQk163cj27mUSxmHzW2ujXFNy",
+  "symbol": "zUSDC",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zUSDC--2LBYxD4Jzipk1bEREW6vQk163cj27mUSxmHzW2ujXFNy/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

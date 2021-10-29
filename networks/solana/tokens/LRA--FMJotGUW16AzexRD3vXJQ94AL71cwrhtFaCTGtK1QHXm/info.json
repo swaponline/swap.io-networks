@@ -1,0 +1,11 @@
+{
+  "name": "Lumos Rewards",
+  "address": "FMJotGUW16AzexRD3vXJQ94AL71cwrhtFaCTGtK1QHXm",
+  "symbol": "LRA",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LRA--FMJotGUW16AzexRD3vXJQ94AL71cwrhtFaCTGtK1QHXm/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

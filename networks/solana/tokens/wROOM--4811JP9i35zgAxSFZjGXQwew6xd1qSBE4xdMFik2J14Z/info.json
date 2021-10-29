@@ -1,0 +1,11 @@
+{
+  "name": "OptionRoom Token (Wormhole)",
+  "address": "4811JP9i35zgAxSFZjGXQwew6xd1qSBE4xdMFik2J14Z",
+  "symbol": "wROOM",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wROOM--4811JP9i35zgAxSFZjGXQwew6xd1qSBE4xdMFik2J14Z/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MIDBULL",
+  "address": "EL1aDTnLKjf4SaGpqtxJPyK94imSBr8fWDbcXjXQrsmj",
+  "symbol": "MIDBULL",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lstars",
+  "address": "AErxrfertfwzFANXPpgpKkgBPY5kMZzRsafBU3a5mFw6",
+  "symbol": "LSTR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/LSTR--AErxrfertfwzFANXPpgpKkgBPY5kMZzRsafBU3a5mFw6/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

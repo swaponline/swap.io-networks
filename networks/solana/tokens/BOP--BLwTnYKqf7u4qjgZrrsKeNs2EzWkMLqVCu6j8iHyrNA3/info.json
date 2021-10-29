@@ -1,0 +1,11 @@
+{
+  "name": "Boring Protocol",
+  "address": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
+  "symbol": "BOP",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/BOP--BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

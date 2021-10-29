@@ -1,0 +1,11 @@
+{
+  "name": "PizzaPugCoin",
+  "address": "E7WqtfRHcY8YW8z65u9WmD7CfMmvtrm2qPVicSzDxLaT",
+  "symbol": "PPUG",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/PPUG--E7WqtfRHcY8YW8z65u9WmD7CfMmvtrm2qPVicSzDxLaT/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

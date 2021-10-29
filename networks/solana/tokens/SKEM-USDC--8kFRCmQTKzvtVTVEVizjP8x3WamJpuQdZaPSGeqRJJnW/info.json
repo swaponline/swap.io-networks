@@ -1,0 +1,11 @@
+{
+  "name": "Raydium LP Token (SKEM-USDC)",
+  "address": "8kFRCmQTKzvtVTVEVizjP8x3WamJpuQdZaPSGeqRJJnW",
+  "symbol": "SKEM-USDC",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/SKEM-USDC--8kFRCmQTKzvtVTVEVizjP8x3WamJpuQdZaPSGeqRJJnW/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

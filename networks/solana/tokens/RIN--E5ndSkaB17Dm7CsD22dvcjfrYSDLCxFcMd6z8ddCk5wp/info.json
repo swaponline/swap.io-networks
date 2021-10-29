@@ -1,0 +1,11 @@
+{
+  "name": "Aldrin",
+  "address": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+  "symbol": "RIN",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/RIN--E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

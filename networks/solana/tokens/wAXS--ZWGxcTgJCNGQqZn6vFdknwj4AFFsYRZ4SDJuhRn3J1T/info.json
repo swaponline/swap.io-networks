@@ -1,0 +1,11 @@
+{
+  "name": "Axie Infinity (Wormhole)",
+  "address": "ZWGxcTgJCNGQqZn6vFdknwj4AFFsYRZ4SDJuhRn3J1T",
+  "symbol": "wAXS",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/wAXS--ZWGxcTgJCNGQqZn6vFdknwj4AFFsYRZ4SDJuhRn3J1T/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

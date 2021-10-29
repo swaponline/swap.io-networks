@@ -1,0 +1,11 @@
+{
+  "name": "Orca Aquafarm Token (stSOL/wLDO[aquafarm])",
+  "address": "DQsbebdNDy8yQrwLTpieckhzi7Ewx9LoCPVf7G9KvY2U",
+  "symbol": "stSOLwLDO",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/stSOLwLDO--DQsbebdNDy8yQrwLTpieckhzi7Ewx9LoCPVf7G9KvY2U/logo.svg",
+  "tags": [
+    "spl"
+  ]
+}

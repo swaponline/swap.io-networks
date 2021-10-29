@@ -1,0 +1,11 @@
+{
+  "name": "POWER COIN",
+  "address": "qs9Scx8YwNXS6zHYPCnDnyHQcRHg3QwXxpyCXs5tdM8",
+  "symbol": "POCO",
+  "decimals": 9,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/POCO--qs9Scx8YwNXS6zHYPCnDnyHQcRHg3QwXxpyCXs5tdM8/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

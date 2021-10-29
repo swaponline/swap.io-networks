@@ -1,0 +1,11 @@
+{
+  "name": "BCHBEAR",
+  "address": "2VTAVf1YCwamD3ALMdYHRMV5vPUCXdnatJH5f1khbmx6",
+  "symbol": "BCHBEAR",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

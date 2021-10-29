@@ -1,0 +1,11 @@
+{
+  "name": "Vibes",
+  "address": "8WR1cJ2RvcqFMNpsaBdUHamsibv8ywcCwmUAMg6ob1Xo",
+  "symbol": "VIBES",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/VIBES--8WR1cJ2RvcqFMNpsaBdUHamsibv8ywcCwmUAMg6ob1Xo/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

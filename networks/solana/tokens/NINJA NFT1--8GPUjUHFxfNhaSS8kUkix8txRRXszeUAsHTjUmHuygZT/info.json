@@ -1,0 +1,11 @@
+{
+  "name": "NINJA NFT1",
+  "address": "8GPUjUHFxfNhaSS8kUkix8txRRXszeUAsHTjUmHuygZT",
+  "symbol": "NINJA NFT1",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

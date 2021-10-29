@@ -1,0 +1,11 @@
+{
+  "name": "Solend FTT",
+  "address": "A38TjtcYrfutXT6nfRxhqwoGiXyzwJsGPmekoZYYmfgP",
+  "symbol": "cFTT",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/cFTT--A38TjtcYrfutXT6nfRxhqwoGiXyzwJsGPmekoZYYmfgP/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

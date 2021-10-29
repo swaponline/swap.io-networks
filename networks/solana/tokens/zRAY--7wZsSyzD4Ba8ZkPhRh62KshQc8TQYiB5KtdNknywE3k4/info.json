@@ -1,0 +1,11 @@
+{
+  "name": "zRAY (ACUMEN)",
+  "address": "7wZsSyzD4Ba8ZkPhRh62KshQc8TQYiB5KtdNknywE3k4",
+  "symbol": "zRAY",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/zRAY--7wZsSyzD4Ba8ZkPhRh62KshQc8TQYiB5KtdNknywE3k4/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

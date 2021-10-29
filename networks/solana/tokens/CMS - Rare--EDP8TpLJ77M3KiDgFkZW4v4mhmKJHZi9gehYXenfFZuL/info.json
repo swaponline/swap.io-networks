@@ -1,0 +1,11 @@
+{
+  "name": "CMS - Rare",
+  "address": "EDP8TpLJ77M3KiDgFkZW4v4mhmKJHZi9gehYXenfFZuL",
+  "symbol": "CMS - Rare",
+  "decimals": 0,
+  "chainId": 101,
+  "logo": "",
+  "tags": [
+    "spl"
+  ]
+}

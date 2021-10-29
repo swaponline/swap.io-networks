@@ -1,0 +1,11 @@
+{
+  "name": "tuETH",
+  "address": "C1gwRSpKFu4Vjrg9MhNfRjg65SV4CNLsb3C6d7kWFEyV",
+  "symbol": "tuETH",
+  "decimals": 6,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/tuETH--C1gwRSpKFu4Vjrg9MhNfRjg65SV4CNLsb3C6d7kWFEyV/logo.png",
+  "tags": [
+    "spl"
+  ]
+}

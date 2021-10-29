@@ -1,0 +1,11 @@
+{
+  "name": "COIN HUNTER",
+  "address": "CnLLrX9A8RhKpq8Z3CKko7sQMqN2AXj8AfFyxxoBBEFf",
+  "symbol": "CH",
+  "decimals": 8,
+  "chainId": 101,
+  "logo": "/networks/solana/tokens/CH--CnLLrX9A8RhKpq8Z3CKko7sQMqN2AXj8AfFyxxoBBEFf/logo.png",
+  "tags": [
+    "spl"
+  ]
+}
