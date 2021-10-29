@@ -1,6 +1,6 @@
 {
   "name": "swap.io-networks",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The repo contains the network definitions and  metadata for the different cryptocurrencies,   tokens and their networks.",
   "main": "index.js",
   "scripts": {

@@ -97,9 +97,6 @@ const generateAssetGroups = (dataType = "mainnet") => {
 
 
     const isCustomAssetGroup = !isNetworkCoinAssetGroup(mainAssetNetworkSlug, symbol)
-    isCustomAssetGroup
-    ? () => {}
-    : console.log(symbol, mainAssetNetworkSlug)
 
     isCustomAssetGroup
     ? generatedCustomAssetGroups.push(assetGroup)
