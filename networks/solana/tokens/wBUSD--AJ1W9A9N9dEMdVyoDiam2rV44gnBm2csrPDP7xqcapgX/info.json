@@ -4,8 +4,10 @@
   "symbol": "wBUSD",
   "decimals": 9,
   "chainId": 101,
-  "logo": "/networks/solana/tokens/wBUSD--AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX/logo.png",
+  "logo": "/networks/solana/tokens/wBUSD--AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX/logo.svg",
   "tags": [
-    "spl"
+    "spl",
+    "wrapped",
+    "busd"
   ]
 }

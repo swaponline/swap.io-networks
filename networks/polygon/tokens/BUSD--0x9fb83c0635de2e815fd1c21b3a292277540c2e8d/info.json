@@ -1,11 +1,13 @@
 {
-  "name": "Binance USD",
+  "name": "Binance-Peg BUSD Token",
   "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
   "symbol": "BUSD",
   "decimals": 18,
   "chainId": 137,
   "logo": "/networks/polygon/tokens/BUSD--0x9fb83c0635de2e815fd1c21b3a292277540c2e8d/logo.png",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wraped",
+    "busd"
   ]
 }

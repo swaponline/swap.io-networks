@@ -4,8 +4,10 @@
   "symbol": "WBUSD",
   "decimals": 18,
   "chainId": 137,
-  "logo": "/networks/polygon/tokens/WBUSD--0x87ff96aba480f1813af5c780387d8de7cf7d8261/logo.png",
+  "logo": "/networks/polygon/tokens/WBUSD--0x87ff96aba480f1813af5c780387d8de7cf7d8261/logo.svg",
   "tags": [
-    "erc20matic"
+    "erc20matic",
+    "wrapped",
+    "busd"
   ]
 }

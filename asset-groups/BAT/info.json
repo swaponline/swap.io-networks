@@ -8,6 +8,7 @@
     "/networks/ethereum/tokens/aBATv1--0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00/info.json",
     "/networks/binance-smart-chain/tokens/BAT--0x101d82428437127bf1608f699cd651e6abf9766e/info.json",
     "/networks/polygon/tokens/BAT--0x3cef98bb43d732e2f285ee605a8158cde967d219/info.json",
+    "/networks/solana/tokens/wBAT--CTtKth9uW7froBA6xCd2MP7BXjGFESdT1SyxUmbHovSw/info.json",
     "/networks/avalanche-c/tokens/BAT--0x98443b96ea4b0858fdf3219cd13e98c7a4690588/info.json",
     "/networks/avalanche-c/tokens/BAT--0x6b329326e0f6b95b93b52229b213334278d6f277/info.json",
     "/networks/xdai/tokens/BAT--0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3/info.json"

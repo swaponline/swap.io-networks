@@ -4002,35 +4002,6 @@
     ]
   },
   {
-    "symbol": "BUSD",
-    "name": "Binance USD",
-    "logo": "/networks/polygon/tokens/BUSD--0x9fb83c0635de2e815fd1c21b3a292277540c2e8d/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance USD",
-            "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/BUSD--0x9fb83c0635de2e815fd1c21b3a292277540c2e8d/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BYN",
     "name": "Beyond Finance",
     "logo": "/networks/polygon/tokens/BYN--0x11602a402281974a70c2b4824d58ebede967e2be/logo.jpg",
@@ -9301,35 +9272,6 @@
             "decimals": 6,
             "chainId": 101,
             "logo": "",
-            "tags": [
-              "spl"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BUSD",
-    "name": "Binance USD (Wormhole)",
-    "logo": "/networks/solana/tokens/BUSD--33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Solana",
-          "slug": "solana",
-          "logo": "/networks/solana/coins/SOL/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance USD (Wormhole)",
-            "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
-            "symbol": "BUSD",
-            "decimals": 8,
-            "chainId": 101,
-            "logo": "/networks/solana/tokens/BUSD--33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
             "tags": [
               "spl"
             ],
