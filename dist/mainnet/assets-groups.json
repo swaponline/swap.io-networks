@@ -400,7 +400,7 @@
             "symbol": "WBNB",
             "decimals": 18,
             "chainId": 56,
-            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
+            "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.svg",
             "tags": [
               "bep20",
               "wrapped",
@@ -423,9 +423,83 @@
             "symbol": "PBNB",
             "decimals": 18,
             "chainId": 137,
-            "logo": "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/logo.png",
+            "logo": "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/logo.svg",
             "tags": [
               "erc20matic",
+              "wrapped",
+              "binance"
+            ],
+            "type": "token"
+          },
+          {
+            "name": "Binance Token (Quickswap)",
+            "address": "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
+            "symbol": "BNB",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/BNB--0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f/logo.svg",
+            "tags": [
+              "erc20matic",
+              "wrapped",
+              "binance"
+            ],
+            "type": "token"
+          },
+          {
+            "name": "Binance Coin (AnySwap)",
+            "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
+            "symbol": "BNB",
+            "decimals": 18,
+            "chainId": 137,
+            "logo": "/networks/polygon/tokens/BNB--0xa649325aa7c5093d12d6f98eb4378deae68ce23f/logo.svg",
+            "tags": [
+              "erc20matic",
+              "wrapped",
+              "binance"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Wrapped BNB (Wormhole)",
+            "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+            "symbol": "WBNB",
+            "decimals": 8,
+            "chainId": 101,
+            "logo": "/networks/solana/tokens/WBNB--9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.svg",
+            "tags": [
+              "spl",
+              "wrapped",
+              "binance"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
+          "name": "Avalanche C-Chain",
+          "slug": "avalanche-c",
+          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Binance Coin",
+            "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+            "symbol": "BNB",
+            "decimals": 18,
+            "chainId": 43114,
+            "logo": "/networks/avalanche-c/tokens/BNB--0x264c1383ea520f73dd837f915ef3a732e204a493/logo.svg",
+            "tags": [
+              "erc20avax",
               "wrapped",
               "binance"
             ],
@@ -778,6 +852,29 @@
             "logo": "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/logo.svg",
             "tags": [
               "erc20matic",
+              "wrapped",
+              "avalanche"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "AVAX (Allbridge from Avalanche)",
+            "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
+            "symbol": "AVAX",
+            "decimals": 9,
+            "chainId": 101,
+            "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.svg",
+            "tags": [
+              "spl",
               "wrapped",
               "avalanche"
             ],
@@ -1307,6 +1404,29 @@
       },
       {
         "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Wrapped 1INCH (Sollet)",
+            "address": "5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US",
+            "symbol": "1INCH",
+            "decimals": 6,
+            "chainId": 101,
+            "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.svg",
+            "tags": [
+              "spl",
+              "wrapped",
+              "1inch"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
           "name": "Avalanche C-Chain",
           "slug": "avalanche-c",
           "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
@@ -1490,6 +1610,29 @@
             "logo": "/networks/polygon/tokens/maAAVE--0x823cd4264c1b951c9209ad0deaea9988fe8429bf/logo.svg",
             "tags": [
               "erc20matic",
+              "wrapped",
+              "aave"
+            ],
+            "type": "token"
+          }
+        ]
+      },
+      {
+        "network": {
+          "name": "Solana",
+          "slug": "solana",
+          "logo": "/networks/solana/coins/SOL/logo.svg"
+        },
+        "assets": [
+          {
+            "name": "Wrapped Aave",
+            "address": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
+            "symbol": "AAVE",
+            "decimals": 6,
+            "chainId": 101,
+            "logo": "/networks/solana/tokens/AAVE--dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.svg",
+            "tags": [
+              "spl",
               "wrapped",
               "aave"
             ],
@@ -107884,39 +108027,10 @@
     ]
   },
   {
-    "symbol": "WBNB",
-    "name": "Wrapped BNB (Wormhole)",
-    "logo": "/networks/solana/tokens/WBNB--9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
-    "priority": 3577,
-    "networks": [
-      {
-        "network": {
-          "name": "Solana",
-          "slug": "solana",
-          "logo": "/networks/solana/coins/SOL/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped BNB (Wormhole)",
-            "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
-            "symbol": "WBNB",
-            "decimals": 8,
-            "chainId": 101,
-            "logo": "/networks/solana/tokens/WBNB--9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
-            "tags": [
-              "spl"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "WEEB",
     "name": "Weeb Finance Token",
     "logo": "/networks/solana/tokens/WEEB--9VgfFUFkGGrRePvpKLPkp9DR3crRepf6CJsYU3UmudtY/logo.png",
-    "priority": 3578,
+    "priority": 3577,
     "networks": [
       {
         "network": {
@@ -107945,7 +108059,7 @@
     "symbol": "WENA",
     "name": "WENATURE",
     "logo": "/networks/solana/tokens/WENA--7kWEmnn8sCDnB3gDyeNss8Jo8tgj7i3yHyKrYjbXV6Jd/logo.png",
-    "priority": 3579,
+    "priority": 3578,
     "networks": [
       {
         "network": {
@@ -107974,7 +108088,7 @@
     "symbol": "WESH",
     "name": "WeShare",
     "logo": "/networks/solana/tokens/WESH--2KccNRqHQdnQ9WS8vLSo8uwVPpW7dojmMmZuDpwi6mKd/logo.png",
-    "priority": 3580,
+    "priority": 3579,
     "networks": [
       {
         "network": {
@@ -108003,7 +108117,7 @@
     "symbol": "WETH",
     "name": "Wrapped Ether (Wormhole)",
     "logo": "/networks/solana/tokens/WETH--7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
-    "priority": 3581,
+    "priority": 3580,
     "networks": [
       {
         "network": {
@@ -108032,7 +108146,7 @@
     "symbol": "WGMI",
     "name": "WGMI NFT Collector's Club",
     "logo": "/networks/solana/tokens/WGMI--1YDQ35V8g68FGvcT85haHwAXv1U7XMzuc4mZeEXfrjE/logo.png",
-    "priority": 3582,
+    "priority": 3581,
     "networks": [
       {
         "network": {
@@ -108061,7 +108175,7 @@
     "symbol": "WHISP",
     "name": "Whispell",
     "logo": "/networks/solana/tokens/WHISP--9JTriKH36nk7kQvK5V5TiVnuGQTqAJHRkX4kunGvZXfP/logo.png",
-    "priority": 3583,
+    "priority": 3582,
     "networks": [
       {
         "network": {
@@ -108090,7 +108204,7 @@
     "symbol": "WNAV",
     "name": "Wrapped Navcoin",
     "logo": "/networks/solana/tokens/WNAV--HRBrRXGCrPro6TtryKQkLXuZqg3LdBMN9ZWx2v66pT4L/logo.png",
-    "priority": 3584,
+    "priority": 3583,
     "networks": [
       {
         "network": {
@@ -108119,7 +108233,7 @@
     "symbol": "WOLFE",
     "name": "Wolfecoin",
     "logo": "/networks/solana/tokens/WOLFE--3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ/logo.png",
-    "priority": 3585,
+    "priority": 3584,
     "networks": [
       {
         "network": {
@@ -108148,7 +108262,7 @@
     "symbol": "WOO-USDC",
     "name": "Raydium LP Token V4 (WOO-USDC)",
     "logo": "",
-    "priority": 3586,
+    "priority": 3585,
     "networks": [
       {
         "network": {
@@ -108177,7 +108291,7 @@
     "symbol": "WOOF",
     "name": "WOOFENOMICS",
     "logo": "/networks/solana/tokens/WOOF--9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE/logo.png",
-    "priority": 3587,
+    "priority": 3586,
     "networks": [
       {
         "network": {
@@ -108206,7 +108320,7 @@
     "symbol": "WTTE",
     "name": "WATTTON Exchange",
     "logo": "/networks/solana/tokens/WTTE--AKAwZaP91svXuYTe2gD5JVmUZteDFrT4G92rMtrF1Wb4/logo.png",
-    "priority": 3588,
+    "priority": 3587,
     "networks": [
       {
         "network": {
@@ -108235,7 +108349,7 @@
     "symbol": "WUSDC",
     "name": "Wrapped USDC (Sollet)",
     "logo": "/networks/solana/tokens/WUSDC--BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
-    "priority": 3589,
+    "priority": 3588,
     "networks": [
       {
         "network": {
@@ -108264,7 +108378,7 @@
     "symbol": "XCOPE",
     "name": "XCOPE",
     "logo": "/networks/solana/tokens/XCOPE--3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.png",
-    "priority": 3590,
+    "priority": 3589,
     "networks": [
       {
         "network": {
@@ -108293,7 +108407,7 @@
     "symbol": "XRPBEAR",
     "name": "XRPBEAR",
     "logo": "",
-    "priority": 3591,
+    "priority": 3590,
     "networks": [
       {
         "network": {
@@ -108322,7 +108436,7 @@
     "symbol": "XRPBULL",
     "name": "XRPBULL",
     "logo": "",
-    "priority": 3592,
+    "priority": 3591,
     "networks": [
       {
         "network": {
@@ -108351,7 +108465,7 @@
     "symbol": "XSB",
     "name": "Solareum",
     "logo": "/networks/solana/tokens/XSB--4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt/logo.png",
-    "priority": 3593,
+    "priority": 3592,
     "networks": [
       {
         "network": {
@@ -108380,7 +108494,7 @@
     "symbol": "XSOL",
     "name": "XSOL Token",
     "logo": "/networks/solana/tokens/XSOL--ABxCiDz4jjKt1t7Syu5Tb37o8Wew9ADpwngZh6kpLbLX/logo.png",
-    "priority": 3594,
+    "priority": 3593,
     "networks": [
       {
         "network": {
@@ -108409,7 +108523,7 @@
     "symbol": "XTAG",
     "name": "XTAG",
     "logo": "",
-    "priority": 3595,
+    "priority": 3594,
     "networks": [
       {
         "network": {
@@ -108438,7 +108552,7 @@
     "symbol": "XVC",
     "name": "Xverse Token",
     "logo": "/networks/solana/tokens/XVC--25Vu6457o2gdZRGVVt5K8NbAvaP3esYaQNHbNDitVtw1/logo.png",
-    "priority": 3596,
+    "priority": 3595,
     "networks": [
       {
         "network": {
@@ -108467,7 +108581,7 @@
     "symbol": "XgSAIL",
     "name": "gSAIL DEPRECATED",
     "logo": "/networks/solana/tokens/XgSAIL--GSaiLQxREzaxUcE3v28HxBacoUQPZNtXx1eQsCFsX9Bg/logo.png",
-    "priority": 3597,
+    "priority": 3596,
     "networks": [
       {
         "network": {
@@ -108496,7 +108610,7 @@
     "symbol": "YARD",
     "name": "SolYard Finance",
     "logo": "/networks/solana/tokens/YARD--8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz/logo.png",
-    "priority": 3598,
+    "priority": 3597,
     "networks": [
       {
         "network": {
@@ -108525,7 +108639,7 @@
     "symbol": "YARDv1",
     "name": "SolYard Finance Beta",
     "logo": "/networks/solana/tokens/YARDv1--AP58G14hoy4GGgZS4L8TzZgqXnk3hBvciFKW2Cb1RQ2J/logo.png",
-    "priority": 3599,
+    "priority": 3598,
     "networks": [
       {
         "network": {
@@ -108554,7 +108668,7 @@
     "symbol": "YARN",
     "name": "Yarn Coin",
     "logo": "/networks/solana/tokens/YARN--D6yPmaM6SueQN4mteEQMiVFMbk6BSAShJAhuqyzVJ3fq/logo.png",
-    "priority": 3600,
+    "priority": 3599,
     "networks": [
       {
         "network": {
@@ -108583,7 +108697,7 @@
     "symbol": "YAT-LAZ",
     "name": "Yet Another Token LAZURIT",
     "logo": "/networks/solana/tokens/YAT-LAZ--7duMWSNdYMof6WKZHs5X1wdmmxUa6cDGqqKShhMSGkgg/logo.png",
-    "priority": 3601,
+    "priority": 3600,
     "networks": [
       {
         "network": {
@@ -108612,7 +108726,7 @@
     "symbol": "YAT-PIR",
     "name": "Yet Another Token PIRIT",
     "logo": "/networks/solana/tokens/YAT-PIR--6E8tJq85M64wqerfwBN6iYQGJPVcUFzgc8wKqc3tcKeD/logo.png",
-    "priority": 3602,
+    "priority": 3601,
     "networks": [
       {
         "network": {
@@ -108641,7 +108755,7 @@
     "symbol": "YFI-SRM",
     "name": "Raydium LP Token V4 (YFI-SRM)",
     "logo": "/networks/solana/tokens/YFI-SRM--EGJht91R7dKpCj8wzALkjmNdUUUcQgodqWCYweyKcRcV/logo.png",
-    "priority": 3603,
+    "priority": 3602,
     "networks": [
       {
         "network": {
@@ -108670,7 +108784,7 @@
     "symbol": "YFI-USDC",
     "name": "Raydium LP Token V4 (YFI-USDC)",
     "logo": "/networks/solana/tokens/YFI-USDC--865j7iMmRRycSYUXzJ33ZcvLiX9JHvaLidasCyUyKaRE/logo.png",
-    "priority": 3604,
+    "priority": 3603,
     "networks": [
       {
         "network": {
@@ -108699,7 +108813,7 @@
     "symbol": "YFI-USDT",
     "name": "Raydium LP Token V4 (YFI-USDT)",
     "logo": "/networks/solana/tokens/YFI-USDT--FA1i7fej1pAbQbnY8NbyYUsTrWcasTyipKreDgy1Mgku/logo.png",
-    "priority": 3605,
+    "priority": 3604,
     "networks": [
       {
         "network": {
@@ -108728,7 +108842,7 @@
     "symbol": "YUMZ",
     "name": "Food tasting Social Token",
     "logo": "/networks/solana/tokens/YUMZ--5AX3ZyDN1rpamEzHpLfsJ5t6TyNECKSwPRfnzVHVuRFj/logo.JPG",
-    "priority": 3606,
+    "priority": 3605,
     "networks": [
       {
         "network": {
@@ -108757,7 +108871,7 @@
     "symbol": "YUPPIE",
     "name": "Sol80s",
     "logo": "/networks/solana/tokens/YUPPIE--CrLXpyFeJQbhhkjWcrXGyXcY56KtWEPQmZQpjf853wFG/logo.png",
-    "priority": 3607,
+    "priority": 3606,
     "networks": [
       {
         "network": {
@@ -108786,7 +108900,7 @@
     "symbol": "Z",
     "name": "Zeus",
     "logo": "/networks/solana/tokens/Z--4HjScxnKaowf2SJzEKUCaHLJUe4qUBX15jCop6FQ4Ht1/logo.png",
-    "priority": 3608,
+    "priority": 3607,
     "networks": [
       {
         "network": {
@@ -108815,7 +108929,7 @@
     "symbol": "ZAU",
     "name": "Zaucoin",
     "logo": "/networks/solana/tokens/ZAU--AWTE7toEwKdSRd7zh3q45SjKhmYVFp3zk4quWHsM92bj/logo.png",
-    "priority": 3609,
+    "priority": 3608,
     "networks": [
       {
         "network": {
@@ -108844,7 +108958,7 @@
     "symbol": "ZEUS",
     "name": "ZEUS",
     "logo": "/networks/solana/tokens/ZEUS--5F3beSzHFv1m3T2Sqp7dNQPYrZeetLZ8JYe6QPW6cqKA/logo.jpg",
-    "priority": 3610,
+    "priority": 3609,
     "networks": [
       {
         "network": {
@@ -108873,7 +108987,7 @@
     "symbol": "ZI",
     "name": "ZI (The Z Institute Token)",
     "logo": "/networks/solana/tokens/ZI--99pifp4v4qQNk3irTHpmAEEzgKfs3ahLE7iFKEqfyxPj/logo.png",
-    "priority": 3611,
+    "priority": 3610,
     "networks": [
       {
         "network": {
@@ -108902,7 +109016,7 @@
     "symbol": "ZINTI",
     "name": "Zia Inti",
     "logo": "/networks/solana/tokens/ZINTI--A7SXXA9wveT2quqqzh5m6Zf3ueCb9kBezQdpnYxHwzLt/logo.png",
-    "priority": 3612,
+    "priority": 3611,
     "networks": [
       {
         "network": {
@@ -108931,7 +109045,7 @@
     "symbol": "ZKL",
     "name": "zkrollup cross chain link",
     "logo": "/networks/solana/tokens/ZKL--6veSH51HZGQKP9icyDis69v21eWUmJLfKNgPADzngEWJ/logo.png",
-    "priority": 3613,
+    "priority": 3612,
     "networks": [
       {
         "network": {
@@ -108960,7 +109074,7 @@
     "symbol": "ZM",
     "name": "Zoom",
     "logo": "/networks/solana/tokens/ZM--BcALTCjD4HJJxBDUXi3nHUgqsJmXAQdBbQrcmtLtqZaf/logo.svg",
-    "priority": 3614,
+    "priority": 3613,
     "networks": [
       {
         "network": {
@@ -108989,7 +109103,7 @@
     "symbol": "ZMR",
     "name": "ZMIRROR",
     "logo": "/networks/solana/tokens/ZMR--6h6uy8yAfaAb5sPE2bvXQEB93LnUMEdcCRU2kfiErTct/logo.JPG",
-    "priority": 3615,
+    "priority": 3614,
     "networks": [
       {
         "network": {
@@ -109018,7 +109132,7 @@
     "symbol": "aaDAI",
     "name": "Wrapped DAI (Allbridge from Avalanche)",
     "logo": "/networks/solana/tokens/aaDAI--EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi/logo.png",
-    "priority": 3616,
+    "priority": 3615,
     "networks": [
       {
         "network": {
@@ -109047,7 +109161,7 @@
     "symbol": "aaUSDC",
     "name": "Wrapped USDC (Allbridge from Avalanche)",
     "logo": "/networks/solana/tokens/aaUSDC--8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr/logo.png",
-    "priority": 3617,
+    "priority": 3616,
     "networks": [
       {
         "network": {
@@ -109076,7 +109190,7 @@
     "symbol": "aaUSDT",
     "name": "Wrapped USDT (Allbridge from Avalanche)",
     "logo": "/networks/solana/tokens/aaUSDT--FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj/logo.svg",
-    "priority": 3618,
+    "priority": 3617,
     "networks": [
       {
         "network": {
@@ -109105,7 +109219,7 @@
     "symbol": "aaWBTC",
     "name": "Wrapped BTC (Allbridge from Avalanche)",
     "logo": "/networks/solana/tokens/aaWBTC--Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw/logo.png",
-    "priority": 3619,
+    "priority": 3618,
     "networks": [
       {
         "network": {
@@ -109134,7 +109248,7 @@
     "symbol": "abBUSD",
     "name": "Wrapped BUSD (Allbridge from BSC)",
     "logo": "/networks/solana/tokens/abBUSD--6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF/logo.png",
-    "priority": 3620,
+    "priority": 3619,
     "networks": [
       {
         "network": {
@@ -109163,7 +109277,7 @@
     "symbol": "acUSD",
     "name": "Wrapped CUSD (Allbridge from Celo)",
     "logo": "/networks/solana/tokens/acUSD--EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e/logo.png",
-    "priority": 3621,
+    "priority": 3620,
     "networks": [
       {
         "network": {
@@ -109192,7 +109306,7 @@
     "symbol": "aeDAI",
     "name": "Wrapped DAI (Allbridge from Ethereum)",
     "logo": "/networks/solana/tokens/aeDAI--9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs/logo.png",
-    "priority": 3622,
+    "priority": 3621,
     "networks": [
       {
         "network": {
@@ -109221,7 +109335,7 @@
     "symbol": "aeFTT",
     "name": "Wrapped FTT (Allbridge from Ethereum)",
     "logo": "/networks/solana/tokens/aeFTT--BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf/logo.png",
-    "priority": 3623,
+    "priority": 3622,
     "networks": [
       {
         "network": {
@@ -109250,7 +109364,7 @@
     "symbol": "aeUSDC",
     "name": "Wrapped USDC (Allbridge from Ethereum)",
     "logo": "/networks/solana/tokens/aeUSDC--DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9/logo.png",
-    "priority": 3624,
+    "priority": 3623,
     "networks": [
       {
         "network": {
@@ -109279,7 +109393,7 @@
     "symbol": "aeUSDT",
     "name": "Wrapped USDT (Allbridge from Ethereum)",
     "logo": "/networks/solana/tokens/aeUSDT--Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn/logo.svg",
-    "priority": 3625,
+    "priority": 3624,
     "networks": [
       {
         "network": {
@@ -109308,7 +109422,7 @@
     "symbol": "aeWETH",
     "name": "Wrapped ETH (Allbridge from Ethereum)",
     "logo": "/networks/solana/tokens/aeWETH--AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE/logo.png",
-    "priority": 3626,
+    "priority": 3625,
     "networks": [
       {
         "network": {
@@ -109337,7 +109451,7 @@
     "symbol": "apUSDC",
     "name": "Wrapped USDC (Allbridge from Polygon)",
     "logo": "/networks/solana/tokens/apUSDC--eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca/logo.png",
-    "priority": 3627,
+    "priority": 3626,
     "networks": [
       {
         "network": {
@@ -109366,7 +109480,7 @@
     "symbol": "apUSDT",
     "name": "Wrapped USDT (Allbridge from Polygon)",
     "logo": "/networks/solana/tokens/apUSDT--DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ/logo.png",
-    "priority": 3628,
+    "priority": 3627,
     "networks": [
       {
         "network": {
@@ -109395,7 +109509,7 @@
     "symbol": "cFTT",
     "name": "Solend FTT",
     "logo": "/networks/solana/tokens/cFTT--A38TjtcYrfutXT6nfRxhqwoGiXyzwJsGPmekoZYYmfgP/logo.png",
-    "priority": 3629,
+    "priority": 3628,
     "networks": [
       {
         "network": {
@@ -109424,7 +109538,7 @@
     "symbol": "cMER",
     "name": "Solend MER",
     "logo": "/networks/solana/tokens/cMER--BsWLxf6hRJnyytKR52kKBiz7qU7BB3SH77mrBxNnYU1G/logo.png",
-    "priority": 3630,
+    "priority": 3629,
     "networks": [
       {
         "network": {
@@ -109453,7 +109567,7 @@
     "symbol": "cRAY",
     "name": "Solend RAY",
     "logo": "/networks/solana/tokens/cRAY--2d95ZC8L5XP6xCnaKx8D5U5eX6rKbboBBAwuBLxaFmmJ/logo.png",
-    "priority": 3631,
+    "priority": 3630,
     "networks": [
       {
         "network": {
@@ -109482,7 +109596,7 @@
     "symbol": "cSBR",
     "name": "Solend SBR",
     "logo": "/networks/solana/tokens/cSBR--Bpm2aBL57uqVhgxutfRVrbtnjDpZLV8PZrRrytV1LgeT/logo.png",
-    "priority": 3632,
+    "priority": 3631,
     "networks": [
       {
         "network": {
@@ -109511,7 +109625,7 @@
     "symbol": "cSOL",
     "name": "Solend SOL",
     "logo": "/networks/solana/tokens/cSOL--5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV/logo.png",
-    "priority": 3633,
+    "priority": 3632,
     "networks": [
       {
         "network": {
@@ -109540,7 +109654,7 @@
     "symbol": "cSRM",
     "name": "Solend SRM",
     "logo": "/networks/solana/tokens/cSRM--4CxGuD2NMr6zM8f18gr6kRhgd748pnmkAhkY1YJtkup1/logo.png",
-    "priority": 3634,
+    "priority": 3633,
     "networks": [
       {
         "network": {
@@ -109569,7 +109683,7 @@
     "symbol": "cvs",
     "name": "coinvs",
     "logo": "/networks/solana/tokens/cvs--84vmWvKxebcnZL5JPnqkzPFVBaL4y5uGCRRJW2a9P4SL/logo.png",
-    "priority": 3635,
+    "priority": 3634,
     "networks": [
       {
         "network": {
@@ -109598,7 +109712,7 @@
     "symbol": "gSAIL",
     "name": "SolanaSail Governance Token V2",
     "logo": "/networks/solana/tokens/gSAIL--Gsai2KN28MTGcSZ1gKYFswUpFpS7EM9mvdR9c8f6iVXJ/logo.png",
-    "priority": 3636,
+    "priority": 3635,
     "networks": [
       {
         "network": {
@@ -109627,7 +109741,7 @@
     "symbol": "iM",
     "name": "iMentusCoin",
     "logo": "/networks/solana/tokens/iM--6foyeENL9GhqZEqPeaRK9YtP8HnFfej1JBwdn5rcsPDi/logo.png",
-    "priority": 3637,
+    "priority": 3636,
     "networks": [
       {
         "network": {
@@ -109656,7 +109770,7 @@
     "symbol": "mBRZ",
     "name": "SolMiner Bronze",
     "logo": "/networks/solana/tokens/mBRZ--Bxp46xCB6CLjiqE99QaTcJAaY1hYF1o63DUUrXAS7QFu/logo.png",
-    "priority": 3638,
+    "priority": 3637,
     "networks": [
       {
         "network": {
@@ -109685,7 +109799,7 @@
     "symbol": "mDIAM",
     "name": "SolMiner Diamond",
     "logo": "/networks/solana/tokens/mDIAM--Er7a3ugS6kkAqj6sp3UmXEFAFrDdLMRQEkV9QH2fwRYA/logo.png",
-    "priority": 3639,
+    "priority": 3638,
     "networks": [
       {
         "network": {
@@ -109714,7 +109828,7 @@
     "symbol": "mPLAT",
     "name": "SolMiner Platinum",
     "logo": "/networks/solana/tokens/mPLAT--GZNrMEdrt6Vg428JzvJYRGGPpVxgjUPsg6WLqKBvmNLw/logo.png",
-    "priority": 3640,
+    "priority": 3639,
     "networks": [
       {
         "network": {
@@ -109743,7 +109857,7 @@
     "symbol": "mSOL",
     "name": "Marinade staked SOL (mSOL)",
     "logo": "/networks/solana/tokens/mSOL--mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
-    "priority": 3641,
+    "priority": 3640,
     "networks": [
       {
         "network": {
@@ -109772,7 +109886,7 @@
     "symbol": "mSOL-SOL",
     "name": "Mercurial LP Token (mSOL-2Pool)",
     "logo": "/networks/solana/tokens/mSOL-SOL--7HqhfUqig7kekN8FbJCtQ36VgdXKriZWQ62rTve9ZmQ/logo.png",
-    "priority": 3642,
+    "priority": 3641,
     "networks": [
       {
         "network": {
@@ -109801,7 +109915,7 @@
     "symbol": "mSOL-SOL-LP",
     "name": "Marinade LP token",
     "logo": "/networks/solana/tokens/mSOL-SOL-LP--LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj/logo.png",
-    "priority": 3643,
+    "priority": 3642,
     "networks": [
       {
         "network": {
@@ -109830,7 +109944,7 @@
     "symbol": "mSOLSOL",
     "name": "Orca Aquafarm Token (mSOL/SOL)",
     "logo": "/networks/solana/tokens/mSOLSOL--3RTGL7gPF4V1ns1AeGFApT7cBEGVDfmJ77DqQi9AC6uG/logo.svg",
-    "priority": 3644,
+    "priority": 3643,
     "networks": [
       {
         "network": {
@@ -109859,7 +109973,7 @@
     "symbol": "mSOLSOLstable",
     "name": "Orca Double Dip Token (mSOL/SOL[stable][aquafarm])",
     "logo": "/networks/solana/tokens/mSOLSOLstable--576ABEdvLG1iFU3bLC8AMJ3mo5LhfgPPhMtTeVAGG6u7/logo.svg",
-    "priority": 3645,
+    "priority": 3644,
     "networks": [
       {
         "network": {
@@ -109888,7 +110002,7 @@
     "symbol": "mSOLUSDC",
     "name": "Orca Aquafarm Token (mSOL/USDC)",
     "logo": "/networks/solana/tokens/mSOLUSDC--5r3vDsNTGXXb9cGQfqyNuYD2bjhRPymGJBfDmKosR9Ev/logo.svg",
-    "priority": 3646,
+    "priority": 3645,
     "networks": [
       {
         "network": {
@@ -109917,7 +110031,7 @@
     "symbol": "mSOLUSDT",
     "name": "Orca Double Dip Token (mSOL/USDT[aquafarm])",
     "logo": "/networks/solana/tokens/mSOLUSDT--7iKG16aukdXXw43MowbfrGqXhAoYe51iVR9u2Nf2dCEY/logo.svg",
-    "priority": 3647,
+    "priority": 3646,
     "networks": [
       {
         "network": {
@@ -109946,7 +110060,7 @@
     "symbol": "mSOLwhETH",
     "name": "Orca Double Dip Token (mSOL/whETH[aquafarm])",
     "logo": "/networks/solana/tokens/mSOLwhETH--3kFeVJUxhQS7PE7vV8pt9bhTCQrUDqeGf6AU4sjkLzVt/logo.svg",
-    "priority": 3648,
+    "priority": 3647,
     "networks": [
       {
         "network": {
@@ -109975,7 +110089,7 @@
     "symbol": "oDOP",
     "name": "Dominican Pesos",
     "logo": "/networks/solana/tokens/oDOP--4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf/logo.png",
-    "priority": 3649,
+    "priority": 3648,
     "networks": [
       {
         "network": {
@@ -110004,7 +110118,7 @@
     "symbol": "pSOL",
     "name": "pSOL (Parrot SOL)",
     "logo": "/networks/solana/tokens/pSOL--9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX/logo.svg",
-    "priority": 3650,
+    "priority": 3649,
     "networks": [
       {
         "network": {
@@ -110033,7 +110147,7 @@
     "symbol": "pSOLUSDC",
     "name": "Orca Aquafarm Token (pSOL/USDC)",
     "logo": "/networks/solana/tokens/pSOLUSDC--8kWk6CuCAfaxhWQZvQva6qkB1DkWNHq9LRKKN6n9joUG/logo.svg",
-    "priority": 3651,
+    "priority": 3650,
     "networks": [
       {
         "network": {
@@ -110062,7 +110176,7 @@
     "symbol": "rSOL",
     "name": "StaFi rSOL",
     "logo": "/networks/solana/tokens/rSOL--7hUdUTkJLwdcmt3jSEeqx4ep91sm1XwBxMDaJae6bD5D/logo.png",
-    "priority": 3652,
+    "priority": 3651,
     "networks": [
       {
         "network": {
@@ -110091,7 +110205,7 @@
     "symbol": "renBTC-USDC",
     "name": "Raydium LP Token V4 (renBTC-USDC)",
     "logo": "",
-    "priority": 3653,
+    "priority": 3652,
     "networks": [
       {
         "network": {
@@ -110120,7 +110234,7 @@
     "symbol": "renDGB",
     "name": "renDGB",
     "logo": "/networks/solana/tokens/renDGB--FKJvvVJ242tX7zFtzTmzqoA631LqHh4CdgcN8dcfFSju/logo.png",
-    "priority": 3654,
+    "priority": 3653,
     "networks": [
       {
         "network": {
@@ -110149,7 +110263,7 @@
     "symbol": "renDOGE",
     "name": "renDOGE",
     "logo": "/networks/solana/tokens/renDOGE--ArUkYE2XDKzqy77PRRGjo4wREWwqk6RXTfM9NeqzPvjU/logo.png",
-    "priority": 3655,
+    "priority": 3654,
     "networks": [
       {
         "network": {
@@ -110178,7 +110292,7 @@
     "symbol": "renDOGE-USDC",
     "name": "Raydium LP Token V4 (renDOGE-USDC)",
     "logo": "",
-    "priority": 3656,
+    "priority": 3655,
     "networks": [
       {
         "network": {
@@ -110207,7 +110321,7 @@
     "symbol": "renFIL",
     "name": "renFIL",
     "logo": "/networks/solana/tokens/renFIL--De2bU64vsXKU9jq4bCjeDxNRGPn8nr3euaTK8jBYmD3J/logo.png",
-    "priority": 3657,
+    "priority": 3656,
     "networks": [
       {
         "network": {
@@ -110236,7 +110350,7 @@
     "symbol": "renLUNA",
     "name": "renLUNA",
     "logo": "/networks/solana/tokens/renLUNA--8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE/logo.png",
-    "priority": 3658,
+    "priority": 3657,
     "networks": [
       {
         "network": {
@@ -110265,7 +110379,7 @@
     "symbol": "renZEC",
     "name": "renZEC",
     "logo": "/networks/solana/tokens/renZEC--E99CQ2gFMmbiyK2bwiaFNWUUmwz4r8k2CVEFxwuvQ7ue/logo.png",
-    "priority": 3659,
+    "priority": 3658,
     "networks": [
       {
         "network": {
@@ -110294,7 +110408,7 @@
     "symbol": "sSOL",
     "name": "SunnySideUp staked SOL (sSOL)",
     "logo": "/networks/solana/tokens/sSOL--8EDaoeBqpcVACwvkYXh1vAcU29HiBiNhqoF4pRsuUsZS/logo.png",
-    "priority": 3660,
+    "priority": 3659,
     "networks": [
       {
         "network": {
@@ -110323,7 +110437,7 @@
     "symbol": "scnSOL",
     "name": "Socean staked SOL",
     "logo": "/networks/solana/tokens/scnSOL--5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png",
-    "priority": 3661,
+    "priority": 3660,
     "networks": [
       {
         "network": {
@@ -110352,7 +110466,7 @@
     "symbol": "stSOL",
     "name": "Lido Staked SOL",
     "logo": "/networks/solana/tokens/stSOL--7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj/logo.png",
-    "priority": 3662,
+    "priority": 3661,
     "networks": [
       {
         "network": {
@@ -110381,7 +110495,7 @@
     "symbol": "stSOL-SOL",
     "name": "Mercurial LP Token (stSOL-2Pool)",
     "logo": "/networks/solana/tokens/stSOL-SOL--4q19vhpG6y4ZeMPLQiUNNaJStb8XivCFQy4m4mdnVnQZ/logo.png",
-    "priority": 3663,
+    "priority": 3662,
     "networks": [
       {
         "network": {
@@ -110410,7 +110524,7 @@
     "symbol": "stSOLwLDO",
     "name": "Orca Aquafarm Token (stSOL/wLDO[aquafarm])",
     "logo": "/networks/solana/tokens/stSOLwLDO--DQsbebdNDy8yQrwLTpieckhzi7Ewx9LoCPVf7G9KvY2U/logo.svg",
-    "priority": 3664,
+    "priority": 3663,
     "networks": [
       {
         "network": {
@@ -110439,7 +110553,7 @@
     "symbol": "stSOLwstETH",
     "name": "Orca Aquafarm Token (stSOL/wstETH[aquafarm])",
     "logo": "/networks/solana/tokens/stSOLwstETH--3kT3oYuS1rCfhmqfgy6EKcbZdaJimaVEjoy25QiuEaoj/logo.svg",
-    "priority": 3665,
+    "priority": 3664,
     "networks": [
       {
         "network": {
@@ -110468,7 +110582,7 @@
     "symbol": "tuATLAS",
     "name": "tuATLAS",
     "logo": "/networks/solana/tokens/tuATLAS--9eGNc4BZCAgpTSEjbu7ACCLjpnZh1WSdts3y4nMik4e7/logo.png",
-    "priority": 3666,
+    "priority": 3665,
     "networks": [
       {
         "network": {
@@ -110497,7 +110611,7 @@
     "symbol": "tuCOPE",
     "name": "tuCOPE",
     "logo": "/networks/solana/tokens/tuCOPE--8cm7UrBiDQ4C1ntQSCZfHSWKUizdW31ddTQGNY6Lym3B/logo.png",
-    "priority": 3667,
+    "priority": 3666,
     "networks": [
       {
         "network": {
@@ -110526,7 +110640,7 @@
     "symbol": "tuETH",
     "name": "tuETH",
     "logo": "/networks/solana/tokens/tuETH--C1gwRSpKFu4Vjrg9MhNfRjg65SV4CNLsb3C6d7kWFEyV/logo.png",
-    "priority": 3668,
+    "priority": 3667,
     "networks": [
       {
         "network": {
@@ -110555,7 +110669,7 @@
     "symbol": "tuLIKE",
     "name": "tuLIKE",
     "logo": "/networks/solana/tokens/tuLIKE--DRu91PV94sb6kX6HwMGnGM8TuHrjycS4FmJNRWEgyw6n/logo.png",
-    "priority": 3669,
+    "priority": 3668,
     "networks": [
       {
         "network": {
@@ -110584,7 +110698,7 @@
     "symbol": "tuMEDIA",
     "name": "tuMEDIA",
     "logo": "/networks/solana/tokens/tuMEDIA--6fGTc455JK3bsiSrvyLkEymQasPDXdrw2jJR16UkPnT5/logo.png",
-    "priority": 3670,
+    "priority": 3669,
     "networks": [
       {
         "network": {
@@ -110613,7 +110727,7 @@
     "symbol": "tuPOLIS",
     "name": "tuPOLIS",
     "logo": "/networks/solana/tokens/tuPOLIS--658FZo9B4HgKxsKsM7cUHN7jfNFgC7YftusWWYWc4piD/logo.png",
-    "priority": 3671,
+    "priority": 3670,
     "networks": [
       {
         "network": {
@@ -110642,7 +110756,7 @@
     "symbol": "tuRAY",
     "name": "tuRAY",
     "logo": "/networks/solana/tokens/tuRAY--8Lg7TowFuMQoGiTsLE6qV9x3czRgDmVy8f8Vv8KS4uW/logo.png",
-    "priority": 3672,
+    "priority": 3671,
     "networks": [
       {
         "network": {
@@ -110671,7 +110785,7 @@
     "symbol": "tuSLRS",
     "name": "tuSLRS",
     "logo": "/networks/solana/tokens/tuSLRS--GtFtWCcLYtWQT8NLRwEfUqc9sgVnq4SbuSnMCpwcutNk/logo.png",
-    "priority": 3673,
+    "priority": 3672,
     "networks": [
       {
         "network": {
@@ -110700,7 +110814,7 @@
     "symbol": "tuSNY",
     "name": "tuSNY",
     "logo": "/networks/solana/tokens/tuSNY--2yQJdxJy4tGeeXK2u8Lwdy9oY6Ks5shVH9gYtRH9zdDw/logo.png",
-    "priority": 3674,
+    "priority": 3673,
     "networks": [
       {
         "network": {
@@ -110729,7 +110843,7 @@
     "symbol": "tuSOL",
     "name": "tuSOL",
     "logo": "/networks/solana/tokens/tuSOL--H4Q3hDbuMUw8Bu72Ph8oV2xMQ7BFNbekpfQZKS2xF7jW/logo.png",
-    "priority": 3675,
+    "priority": 3674,
     "networks": [
       {
         "network": {
@@ -110758,7 +110872,7 @@
     "symbol": "tuTULIP",
     "name": "tuTULIP",
     "logo": "/networks/solana/tokens/tuTULIP--Am2kxXzFH84biqbswGWq2zieWqsX2ANnFDyiZr9Fh7zc/logo.png",
-    "priority": 3676,
+    "priority": 3675,
     "networks": [
       {
         "network": {
@@ -110787,7 +110901,7 @@
     "symbol": "tuUSDC",
     "name": "tuUSDC",
     "logo": "/networks/solana/tokens/tuUSDC--Amig8TisuLpzun8XyGfC5HJHHGUQEscjLgoTWsCCKihg/logo.png",
-    "priority": 3677,
+    "priority": 3676,
     "networks": [
       {
         "network": {
@@ -110816,7 +110930,7 @@
     "symbol": "w1INCH",
     "name": "1INCH Token (Wormhole)",
     "logo": "/networks/solana/tokens/w1INCH--8F3kZd9XEpFgNZ4fZnEAC5CJZLewnkNE8QCjdvorGWuW/logo.png",
-    "priority": 3678,
+    "priority": 3677,
     "networks": [
       {
         "network": {
@@ -110845,7 +110959,7 @@
     "symbol": "wAAVE",
     "name": "Aave Token (Wormhole)",
     "logo": "/networks/solana/tokens/wAAVE--5DQZ14hLDxveMH7NyGmTmUTRGgVAVXADp3cP2UHeH6hM/logo.png",
-    "priority": 3679,
+    "priority": 3678,
     "networks": [
       {
         "network": {
@@ -110874,7 +110988,7 @@
     "symbol": "wALBT",
     "name": "AllianceBlock Token (Wormhole)",
     "logo": "/networks/solana/tokens/wALBT--6k7mrqiAqEWnABVN8FhfuNUrmrnaMh44nNWydNXctbpV/logo.png",
-    "priority": 3680,
+    "priority": 3679,
     "networks": [
       {
         "network": {
@@ -110903,7 +111017,7 @@
     "symbol": "wAMP",
     "name": "Amp (Wormhole)",
     "logo": "/networks/solana/tokens/wAMP--Egrv6hURf5o68xJ1AGYeRv8RNj2nXJVuSoA5wwiSALcN/logo.png",
-    "priority": 3681,
+    "priority": 3680,
     "networks": [
       {
         "network": {
@@ -110932,7 +111046,7 @@
     "symbol": "wAMPL",
     "name": "Ampleforth (Wormhole)",
     "logo": "/networks/solana/tokens/wAMPL--BV5tm1uCRWQCQKNgQVFnkseqAjxpmbJkRCXvzFWBdgMp/logo.png",
-    "priority": 3682,
+    "priority": 3681,
     "networks": [
       {
         "network": {
@@ -110961,7 +111075,7 @@
     "symbol": "wANT",
     "name": "Aragon Network Token (Wormhole)",
     "logo": "/networks/solana/tokens/wANT--EjBpnWzWZeW1PKzfCszLdHgENZLZDoTNaEmz8BddpWJx/logo.png",
-    "priority": 3683,
+    "priority": 3682,
     "networks": [
       {
         "network": {
@@ -110990,7 +111104,7 @@
     "symbol": "wAPY",
     "name": "APY Governance Token (Wormhole)",
     "logo": "/networks/solana/tokens/wAPY--EJKqF4p7xVhXkcDNCrVQJE4osow76226bc6u3AtsGXaG/logo.png",
-    "priority": 3684,
+    "priority": 3683,
     "networks": [
       {
         "network": {
@@ -111019,7 +111133,7 @@
     "symbol": "wARMOR",
     "name": "Armor (Wormhole)",
     "logo": "/networks/solana/tokens/wARMOR--H3UMboX4tnjba1Xw1a2VhUtkdgnrbmPvmDm6jaouQDN9/logo.png",
-    "priority": 3685,
+    "priority": 3684,
     "networks": [
       {
         "network": {
@@ -111048,7 +111162,7 @@
     "symbol": "wAUDIO",
     "name": "Audius (Wormhole)",
     "logo": "/networks/solana/tokens/wAUDIO--CYzPVv1zB9RH6hRWRKprFoepdD8Y7Q5HefCqrybvetja/logo.png",
-    "priority": 3686,
+    "priority": 3685,
     "networks": [
       {
         "network": {
@@ -111077,7 +111191,7 @@
     "symbol": "wAXN",
     "name": "Axion (Wormhole)",
     "logo": "/networks/solana/tokens/wAXN--QVDE6rhcGPSB3ex5T7vWBzvoSRUXULjuSGpVuKwu5XH/logo.png",
-    "priority": 3687,
+    "priority": 3686,
     "networks": [
       {
         "network": {
@@ -111106,7 +111220,7 @@
     "symbol": "wAXS",
     "name": "Axie Infinity (Wormhole)",
     "logo": "/networks/solana/tokens/wAXS--ZWGxcTgJCNGQqZn6vFdknwj4AFFsYRZ4SDJuhRn3J1T/logo.png",
-    "priority": 3688,
+    "priority": 3687,
     "networks": [
       {
         "network": {
@@ -111135,7 +111249,7 @@
     "symbol": "wBAL",
     "name": "Balancer (Wormhole)",
     "logo": "/networks/solana/tokens/wBAL--HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat/logo.png",
-    "priority": 3689,
+    "priority": 3688,
     "networks": [
       {
         "network": {
@@ -111164,7 +111278,7 @@
     "symbol": "wBAND",
     "name": "BandToken (Wormhole)",
     "logo": "/networks/solana/tokens/wBAND--AV7NgJV2BsgEukzUTrcUMz3LD37xLcLtygFig5WJ3kQN/logo.png",
-    "priority": 3690,
+    "priority": 3689,
     "networks": [
       {
         "network": {
@@ -111193,7 +111307,7 @@
     "symbol": "wBAT",
     "name": "Basic Attention Token (Wormhole)",
     "logo": "/networks/solana/tokens/wBAT--CTtKth9uW7froBA6xCd2MP7BXjGFESdT1SyxUmbHovSw/logo.png",
-    "priority": 3691,
+    "priority": 3690,
     "networks": [
       {
         "network": {
@@ -111222,7 +111336,7 @@
     "symbol": "wBBR",
     "name": "BitberryToken (Wormhole)",
     "logo": "/networks/solana/tokens/wBBR--Fe5fWjCLDMJoi4sTmfR2VW4BT1LwsbR1n6QAjzJQvhhf/logo.png",
-    "priority": 3692,
+    "priority": 3691,
     "networks": [
       {
         "network": {
@@ -111251,7 +111365,7 @@
     "symbol": "wBBTC",
     "name": "Binance Wrapped BTC (Wormhole)",
     "logo": "/networks/solana/tokens/wBBTC--3UeKTABxz9XexDtyKq646rSQvx8GVpKNwfMoKKfxsTsF/logo.png",
-    "priority": 3693,
+    "priority": 3692,
     "networks": [
       {
         "network": {
@@ -111280,7 +111394,7 @@
     "symbol": "wBIRD",
     "name": "Bird.Money (Wormhole)",
     "logo": "/networks/solana/tokens/wBIRD--FTPnEQ3NfRRZ9tvmpDW6JFrvweBE5sanxnXSpJL1dvbB/logo.png",
-    "priority": 3694,
+    "priority": 3693,
     "networks": [
       {
         "network": {
@@ -111309,7 +111423,7 @@
     "symbol": "wBMI",
     "name": "Bridge Mutual (Wormhole)",
     "logo": "/networks/solana/tokens/wBMI--J6AbGG62yo9UJ2T9r9GM7pnoRNui5DsZDnPbiNAPqbVd/logo.png",
-    "priority": 3695,
+    "priority": 3694,
     "networks": [
       {
         "network": {
@@ -111338,7 +111452,7 @@
     "symbol": "wBONDLY",
     "name": "Bondly Token (Wormhole)",
     "logo": "/networks/solana/tokens/wBONDLY--5Ro6JxJ4NjSTEppdX2iXUYgWkAEF1dcs9gqMX99E2vkL/logo.png",
-    "priority": 3696,
+    "priority": 3695,
     "networks": [
       {
         "network": {
@@ -111367,7 +111481,7 @@
     "symbol": "wBUSD",
     "name": "Binance USD (Wormhole)",
     "logo": "/networks/solana/tokens/wBUSD--AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX/logo.png",
-    "priority": 3697,
+    "priority": 3696,
     "networks": [
       {
         "network": {
@@ -111396,7 +111510,7 @@
     "symbol": "wCAPS",
     "name": "Wrapped Capsule Coin (Wormhole)",
     "logo": "/networks/solana/tokens/wCAPS--FeLoyXk8ac2AYVmDhAWEKNWWT63Z9TczeidYbpDvxF3T/logo.svg",
-    "priority": 3698,
+    "priority": 3697,
     "networks": [
       {
         "network": {
@@ -111425,7 +111539,7 @@
     "symbol": "wCC10",
     "name": "Cryptocurrency Top 10 Tokens Index (Wormhole)",
     "logo": "/networks/solana/tokens/wCC10--EzeRaHuh1Xu1nDUypv1VWXcGsNJ71ncCJ8HeWuyg8atJ/logo.png",
-    "priority": 3699,
+    "priority": 3698,
     "networks": [
       {
         "network": {
@@ -111454,7 +111568,7 @@
     "symbol": "wCCX",
     "name": "Wrapped Conceal",
     "logo": "",
-    "priority": 3700,
+    "priority": 3699,
     "networks": [
       {
         "network": {
@@ -111483,7 +111597,7 @@
     "symbol": "wCEL",
     "name": "Celsius (Wormhole)",
     "logo": "/networks/solana/tokens/wCEL--DTQStP2z4DRqbNHRxtwThAujr9aPFPsv4y2kkXTVLVvb/logo.png",
-    "priority": 3701,
+    "priority": 3700,
     "networks": [
       {
         "network": {
@@ -111512,7 +111626,7 @@
     "symbol": "wCFi",
     "name": "CyberFi Token (Wormhole)",
     "logo": "/networks/solana/tokens/wCFi--AqLKDJiGL4wXKPAfzNom3xEdQwgj2LTCE4k34gzvZsE6/logo.png",
-    "priority": 3702,
+    "priority": 3701,
     "networks": [
       {
         "network": {
@@ -111541,7 +111655,7 @@
     "symbol": "wCHAIN",
     "name": "Chain Games (Wormhole)",
     "logo": "/networks/solana/tokens/wCHAIN--9PwPi3DAf9Dy4Y6qJmUzF6fX9CjNwScBidsYqJmcApF8/logo.png",
-    "priority": 3703,
+    "priority": 3702,
     "networks": [
       {
         "network": {
@@ -111570,7 +111684,7 @@
     "symbol": "wCOMP",
     "name": "Compound (Wormhole)",
     "logo": "/networks/solana/tokens/wCOMP--3XnhArdJydrpbr9Nbj8wNUaozPL9WAo9YDyNWakhTm9X/logo.png",
-    "priority": 3704,
+    "priority": 3703,
     "networks": [
       {
         "network": {
@@ -111599,7 +111713,7 @@
     "symbol": "wCORE",
     "name": "cVault.finance (Wormhole)",
     "logo": "/networks/solana/tokens/wCORE--7NfgSkv6kZ6ZWP6SJPtMuaUYGVEngVK8UFnaFTPk3QsM/logo.png",
-    "priority": 3705,
+    "priority": 3704,
     "networks": [
       {
         "network": {
@@ -111628,7 +111742,7 @@
     "symbol": "wCOTI",
     "name": "COTI Token (Wormhole)",
     "logo": "/networks/solana/tokens/wCOTI--HHoHTtntq2kiBPENyVM1DTP7pNrkBXX2Jye29PSyz3qf/logo.png",
-    "priority": 3706,
+    "priority": 3705,
     "networks": [
       {
         "network": {
@@ -111657,7 +111771,7 @@
     "symbol": "wCREAM",
     "name": "Cream (Wormhole)",
     "logo": "/networks/solana/tokens/wCREAM--9iwfHhE7BJKNo4Eb1wX3p4uyJjEN9RoGLt4BvMdzZoiN/logo.png",
-    "priority": 3707,
+    "priority": 3706,
     "networks": [
       {
         "network": {
@@ -111686,7 +111800,7 @@
     "symbol": "wCRV",
     "name": "Curve DAO Token (Wormhole)",
     "logo": "/networks/solana/tokens/wCRV--ApmXkxXCASdxRf3Ln6Ni7oAZ7E6CX1CcJAD8A5qBdhSm/logo.png",
-    "priority": 3708,
+    "priority": 3707,
     "networks": [
       {
         "network": {
@@ -111715,7 +111829,7 @@
     "symbol": "wCVP",
     "name": "Concentrated Voting Power (Wormhole)",
     "logo": "/networks/solana/tokens/wCVP--G27M8w6G4hwatMNFi46DPAUR1YkxSmRNFKus7SgYLoDy/logo.png",
-    "priority": 3709,
+    "priority": 3708,
     "networks": [
       {
         "network": {
@@ -111744,7 +111858,7 @@
     "symbol": "wCWS",
     "name": "Crowns (Wormhole)",
     "logo": "/networks/solana/tokens/wCWS--59NPV18vAbTgwC9aeEGikrmX3EbZHMEMkZfvcsHBNFr9/logo.png",
-    "priority": 3710,
+    "priority": 3709,
     "networks": [
       {
         "network": {
@@ -111773,7 +111887,7 @@
     "symbol": "wDAI",
     "name": "Dai Stablecoin (Wormhole)",
     "logo": "/networks/solana/tokens/wDAI--FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
-    "priority": 3711,
+    "priority": 3710,
     "networks": [
       {
         "network": {
@@ -111802,7 +111916,7 @@
     "symbol": "wDAIv2",
     "name": "DAI (Wormhole V2)",
     "logo": "/networks/solana/tokens/wDAIv2--EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o/logo.png",
-    "priority": 3712,
+    "priority": 3711,
     "networks": [
       {
         "network": {
@@ -111831,7 +111945,7 @@
     "symbol": "wDAY",
     "name": "ChronoLogic DAY (Wormhole)",
     "logo": "/networks/solana/tokens/wDAY--DQP2edsDc4bApMaQ4pRim6AE18yCjHpohFLhnWbxc4um/logo.png",
-    "priority": 3713,
+    "priority": 3712,
     "networks": [
       {
         "network": {
@@ -111860,7 +111974,7 @@
     "symbol": "wDDIM",
     "name": "DuckDaoDime (Wormhole)",
     "logo": "/networks/solana/tokens/wDDIM--FR5qPX4gbKHPyKMK7Cey6dHZ7wtqmqRogYPJo6bpd5Uw/logo.png",
-    "priority": 3714,
+    "priority": 3713,
     "networks": [
       {
         "network": {
@@ -111889,7 +112003,7 @@
     "symbol": "wDETS",
     "name": "Dextrust (Wormhole)",
     "logo": "/networks/solana/tokens/wDETS--5jFzUEqWLnvGvKWb1Pji9nWVYy5vLG2saoXCyVNWEdEi/logo.png",
-    "priority": 3715,
+    "priority": 3714,
     "networks": [
       {
         "network": {
@@ -111918,7 +112032,7 @@
     "symbol": "wDEXT",
     "name": "DEXTools (Wormhole)",
     "logo": "/networks/solana/tokens/wDEXT--Az8PAQ7s6s5ZFgBiKKEizHt3SzDxXKZayDCtRZoC3452/logo.png",
-    "priority": 3716,
+    "priority": 3715,
     "networks": [
       {
         "network": {
@@ -111947,7 +112061,7 @@
     "symbol": "wDEXTF",
     "name": "DEXTF Token (Wormhole)",
     "logo": "/networks/solana/tokens/wDEXTF--6c4U9yxGzVjejSJJXrdX8wtt532Et6MrBUZc2oK5j6w5/logo.png",
-    "priority": 3717,
+    "priority": 3716,
     "networks": [
       {
         "network": {
@@ -111976,7 +112090,7 @@
     "symbol": "wDHC",
     "name": "DeltaHub Community (Wormhole)",
     "logo": "/networks/solana/tokens/wDHC--AC4BK5yoEKn5hw6WpH3iWu56pEwigQdR48CiiqJ3R1pd/logo.png",
-    "priority": 3718,
+    "priority": 3717,
     "networks": [
       {
         "network": {
@@ -112005,7 +112119,7 @@
     "symbol": "wDIA",
     "name": "DIA (Wormhole)",
     "logo": "/networks/solana/tokens/wDIA--4LLAYXVmT3U8Sew6k3tk66zk3btT91QRzQzxcNX8XhzV/logo.png",
-    "priority": 3719,
+    "priority": 3718,
     "networks": [
       {
         "network": {
@@ -112034,7 +112148,7 @@
     "symbol": "wDMG",
     "name": "DMM: Governance (Wormhole)",
     "logo": "/networks/solana/tokens/wDMG--B2m4B527oLo5WFWLgy2MitP66azhEW2puaazUAuvNgqZ/logo.png",
-    "priority": 3720,
+    "priority": 3719,
     "networks": [
       {
         "network": {
@@ -112063,7 +112177,7 @@
     "symbol": "wDPI",
     "name": "DefiPulse Index (Wormhole)",
     "logo": "/networks/solana/tokens/wDPI--3GVAecXsFP8xLFuAMMpg5NU4g5JK6h2NZWsQJ45wiw6b/logo.png",
-    "priority": 3721,
+    "priority": 3720,
     "networks": [
       {
         "network": {
@@ -112092,7 +112206,7 @@
     "symbol": "wDUCK",
     "name": "DLP Duck Token (Wormhole)",
     "logo": "/networks/solana/tokens/wDUCK--D6eVKSfLdioqo2zG8LbQYFU2gf66FrjKA7afCYNo1GHt/logo.png",
-    "priority": 3722,
+    "priority": 3721,
     "networks": [
       {
         "network": {
@@ -112121,7 +112235,7 @@
     "symbol": "wDYT",
     "name": "DoYourTip (Wormhole)",
     "logo": "/networks/solana/tokens/wDYT--4wvHoaxxZxFeNrMTP8bLVRh1ziSBV7crN665WX4rRMqe/logo.png",
-    "priority": 3723,
+    "priority": 3722,
     "networks": [
       {
         "network": {
@@ -112150,7 +112264,7 @@
     "symbol": "wENJ",
     "name": "Enjin Coin (Wormhole)",
     "logo": "/networks/solana/tokens/wENJ--PEjUEMHFRtfajio8YHKZdUruW1vTzGmz6F7NngjYuou/logo.png",
-    "priority": 3724,
+    "priority": 3723,
     "networks": [
       {
         "network": {
@@ -112179,7 +112293,7 @@
     "symbol": "wEWTB",
     "name": "Energy Web Token Bridged (Wormhole)",
     "logo": "/networks/solana/tokens/wEWTB--5uC8Gj96sK6UG44AYLpbX3DUjKtBUxBrhHcM8JDtyYum/logo.png",
-    "priority": 3725,
+    "priority": 3724,
     "networks": [
       {
         "network": {
@@ -112208,7 +112322,7 @@
     "symbol": "wEXNT",
     "name": "ExNetwork Community Token (Wormhole)",
     "logo": "/networks/solana/tokens/wEXNT--3Y2wTtM4kCX8uUSLrKJ8wpajCu1C9LaWWAd7b7Nb2BDw/logo.png",
-    "priority": 3726,
+    "priority": 3725,
     "networks": [
       {
         "network": {
@@ -112237,7 +112351,7 @@
     "symbol": "wFARM",
     "name": "FARM Reward Token (Wormhole)",
     "logo": "/networks/solana/tokens/wFARM--53ETjuzUNHG8c7rZ2hxQLQfN5R6tEYtdYwNQsa68xFUk/logo.png",
-    "priority": 3727,
+    "priority": 3726,
     "networks": [
       {
         "network": {
@@ -112266,7 +112380,7 @@
     "symbol": "wFCL",
     "name": "Fractal Protocol Token (Wormhole)",
     "logo": "/networks/solana/tokens/wFCL--8ArKbnnDiq8eRR8hZ1eULMjd2iMAD8AqwyVJRAX7mHQo/logo.png",
-    "priority": 3728,
+    "priority": 3727,
     "networks": [
       {
         "network": {
@@ -112295,7 +112409,7 @@
     "symbol": "wFRAX",
     "name": "Frax (Wormhole)",
     "logo": "/networks/solana/tokens/wFRAX--8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU/logo.png",
-    "priority": 3729,
+    "priority": 3728,
     "networks": [
       {
         "network": {
@@ -112324,7 +112438,7 @@
     "symbol": "wFSW",
     "name": "FalconSwap Token (Wormhole)",
     "logo": "/networks/solana/tokens/wFSW--GXMaB6jm5cdoQgb65YpkEu61eDYtod3PuVwYYXdZZJ9r/logo.png",
-    "priority": 3730,
+    "priority": 3729,
     "networks": [
       {
         "network": {
@@ -112353,7 +112467,7 @@
     "symbol": "wFTT",
     "name": "Wrapped FTT (Wormhole)",
     "logo": "/networks/solana/tokens/wFTT--GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi/logo.png",
-    "priority": 3731,
+    "priority": 3730,
     "networks": [
       {
         "network": {
@@ -112382,7 +112496,7 @@
     "symbol": "wFUN",
     "name": "FunFair (Wormhole)",
     "logo": "/networks/solana/tokens/wFUN--3EKQDmiXj8yLBFpZca4coxBpP8XJCzmjVgUdVydSmaaT/logo.png",
-    "priority": 3732,
+    "priority": 3731,
     "networks": [
       {
         "network": {
@@ -112411,7 +112525,7 @@
     "symbol": "wFYZ",
     "name": "Fyooz (Wormhole)",
     "logo": "/networks/solana/tokens/wFYZ--6Tmi8TZasqdxWB59uE5Zw9VLKecuCbsLSsPEqoMpmozA/logo.png",
-    "priority": 3733,
+    "priority": 3732,
     "networks": [
       {
         "network": {
@@ -112440,7 +112554,7 @@
     "symbol": "wGNO",
     "name": "Gnosis Token (Wormhole)",
     "logo": "/networks/solana/tokens/wGNO--GaMPhVyp1xd9xJuPskDEzQzp8mKfEjAmhny8NX7y7YKc/logo.png",
-    "priority": 3734,
+    "priority": 3733,
     "networks": [
       {
         "network": {
@@ -112469,7 +112583,7 @@
     "symbol": "wGRO",
     "name": "Growth (Wormhole)",
     "logo": "/networks/solana/tokens/wGRO--B8xDqdrHpYLNHQKQ4ARDKurxhkhn2gfZa8WRosCEzXnF/logo.png",
-    "priority": 3735,
+    "priority": 3734,
     "networks": [
       {
         "network": {
@@ -112498,7 +112612,7 @@
     "symbol": "wGRT",
     "name": "Graph Token (Wormhole)",
     "logo": "/networks/solana/tokens/wGRT--BmxZ1pghpcoyT7aykj7D1o4AxWirTqvD7zD2tNngjirT/logo.png",
-    "priority": 3736,
+    "priority": 3735,
     "networks": [
       {
         "network": {
@@ -112527,7 +112641,7 @@
     "symbol": "wHAPI",
     "name": "Wrapped HAPI",
     "logo": "/networks/solana/tokens/wHAPI--6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm/logo.png",
-    "priority": 3737,
+    "priority": 3736,
     "networks": [
       {
         "network": {
@@ -112556,7 +112670,7 @@
     "symbol": "wHAPIUSDC",
     "name": "Orca Double Dip Token (wHAPI/USDC[aquafarm])",
     "logo": "/networks/solana/tokens/wHAPIUSDC--41VBoy8SGJzQnWGcxiBL4yM6H68FiPp74aMvsZGNGCbt/logo.svg",
-    "priority": 3738,
+    "priority": 3737,
     "networks": [
       {
         "network": {
@@ -112585,7 +112699,7 @@
     "symbol": "wHBTC",
     "name": "HBTC (Wormhole)",
     "logo": "/networks/solana/tokens/wHBTC--8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref/logo.png",
-    "priority": 3739,
+    "priority": 3738,
     "networks": [
       {
         "network": {
@@ -112614,7 +112728,7 @@
     "symbol": "wHEGIC",
     "name": "Hegic (Wormhole)",
     "logo": "/networks/solana/tokens/wHEGIC--FP9ogG7hTdfcTJwn4prF9AVEcfcjLq1GtkqYM4oRn7eY/logo.png",
-    "priority": 3740,
+    "priority": 3739,
     "networks": [
       {
         "network": {
@@ -112643,7 +112757,7 @@
     "symbol": "wHEX",
     "name": "HEX (Wormhole)",
     "logo": "/networks/solana/tokens/wHEX--ELSnGFd5XnSdYFFSgYQp7n89FEbDqxN4npuRLW4PPPLv/logo.png",
-    "priority": 3741,
+    "priority": 3740,
     "networks": [
       {
         "network": {
@@ -112672,7 +112786,7 @@
     "symbol": "wHEZ",
     "name": "Hermez Network Token (Wormhole)",
     "logo": "/networks/solana/tokens/wHEZ--H3iuZNRwaqPsnGUGU5YkDwTU3hQMkzC32hxDko8EtzZw/logo.png",
-    "priority": 3742,
+    "priority": 3741,
     "networks": [
       {
         "network": {
@@ -112701,7 +112815,7 @@
     "symbol": "wHUSD",
     "name": "HUSD Stablecoin (Wormhole)",
     "logo": "/networks/solana/tokens/wHUSD--BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX/logo.png",
-    "priority": 3743,
+    "priority": 3742,
     "networks": [
       {
         "network": {
@@ -112730,7 +112844,7 @@
     "symbol": "wINJ",
     "name": "Injective Token (Wormhole)",
     "logo": "/networks/solana/tokens/wINJ--4sEpUsJ6uJZYi6A2da8EGjKPacRSqYJaPJffPnTqoWVv/logo.png",
-    "priority": 3744,
+    "priority": 3743,
     "networks": [
       {
         "network": {
@@ -112759,7 +112873,7 @@
     "symbol": "wKEEP",
     "name": "KEEP Token (Wormhole)",
     "logo": "/networks/solana/tokens/wKEEP--H3oVL2zJpHJaDoRfQmSrftv3fkGzvsiQgugCZmcRBykG/logo.png",
-    "priority": 3745,
+    "priority": 3744,
     "networks": [
       {
         "network": {
@@ -112788,7 +112902,7 @@
     "symbol": "wKEX",
     "name": "KIRA Network (Wormhole)",
     "logo": "/networks/solana/tokens/wKEX--7bXgNP7SEwrqbnfLBPgKDRKSGjVe7cjbuioRP23upF5H/logo.png",
-    "priority": 3746,
+    "priority": 3745,
     "networks": [
       {
         "network": {
@@ -112817,7 +112931,7 @@
     "symbol": "wKNC",
     "name": "Kyber Network Crystal (Wormhole)",
     "logo": "/networks/solana/tokens/wKNC--26ZzQVGZruwcZPs2sqb8n9ojKt2cviUjHcMjstFtK6ow/logo.png",
-    "priority": 3747,
+    "priority": 3746,
     "networks": [
       {
         "network": {
@@ -112846,7 +112960,7 @@
     "symbol": "wKP3R",
     "name": "Keep3rV1 (Wormhole)",
     "logo": "/networks/solana/tokens/wKP3R--8cGPyDGT1mgG1iWzNjPmCDKSK9veJhoBAguq7rp7CjTe/logo.png",
-    "priority": 3748,
+    "priority": 3747,
     "networks": [
       {
         "network": {
@@ -112875,7 +112989,7 @@
     "symbol": "wLAYER",
     "name": "Unilayer (Wormhole)",
     "logo": "/networks/solana/tokens/wLAYER--CQivbzuRQLvZbqefKc5gLzhSzZzAaySAdMmTG7pFn41w/logo.png",
-    "priority": 3749,
+    "priority": 3748,
     "networks": [
       {
         "network": {
@@ -112904,7 +113018,7 @@
     "symbol": "wLDO",
     "name": "Wormhole-wrapped Lido DAO Token",
     "logo": "/networks/solana/tokens/wLDO--HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
-    "priority": 3750,
+    "priority": 3749,
     "networks": [
       {
         "network": {
@@ -112933,7 +113047,7 @@
     "symbol": "wLEAD",
     "name": "Lead Token (Wormhole)",
     "logo": "/networks/solana/tokens/wLEAD--DGghbWvncPL41U8TmUtXcGMgLeQqkaA2yM7UfcabftR8/logo.png",
-    "priority": 3751,
+    "priority": 3750,
     "networks": [
       {
         "network": {
@@ -112962,7 +113076,7 @@
     "symbol": "wLEND",
     "name": "Lend (Wormhole)",
     "logo": "/networks/solana/tokens/wLEND--Arc2ZVKNCdDU4vB8Ubud5QayDtjo2oJF9xVrUPQ6TWxF/logo.png",
-    "priority": 3752,
+    "priority": 3751,
     "networks": [
       {
         "network": {
@@ -112991,7 +113105,7 @@
     "symbol": "wLGCY",
     "name": "LGCY Network (Wormhole)",
     "logo": "/networks/solana/tokens/wLGCY--AKiTcEWZarsnUbKkwQVRjJni5eqwiNeBQsJ3nrADacT4/logo.png",
-    "priority": 3753,
+    "priority": 3752,
     "networks": [
       {
         "network": {
@@ -113020,7 +113134,7 @@
     "symbol": "wLINK",
     "name": "ChainLink Token (Wormhole)",
     "logo": "/networks/solana/tokens/wLINK--6msNYXzSVtjinqapq2xcvBb5NRq4YTPAi7wc5Jx8M8TS/logo.png",
-    "priority": 3754,
+    "priority": 3753,
     "networks": [
       {
         "network": {
@@ -113049,7 +113163,7 @@
     "symbol": "wLON",
     "name": "Tokenlon (Wormhole)",
     "logo": "/networks/solana/tokens/wLON--3JfuyCg5891hCX1ZTbvt3pkiaww3XwgyqQH6E9eHtqKD/logo.png",
-    "priority": 3755,
+    "priority": 3754,
     "networks": [
       {
         "network": {
@@ -113078,7 +113192,7 @@
     "symbol": "wLRC",
     "name": "LoopringCoin V2 (Wormhole)",
     "logo": "/networks/solana/tokens/wLRC--HCP8hGKS6fUGfTA1tQxBKzbXuQk7yktzz71pY8LXVJyR/logo.png",
-    "priority": 3756,
+    "priority": 3755,
     "networks": [
       {
         "network": {
@@ -113107,7 +113221,7 @@
     "symbol": "wLUNA",
     "name": "Wrapped LUNA Token (Wormhole)",
     "logo": "/networks/solana/tokens/wLUNA--2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV/logo.png",
-    "priority": 3757,
+    "priority": 3756,
     "networks": [
       {
         "network": {
@@ -113136,7 +113250,7 @@
     "symbol": "wMAHA",
     "name": "MahaDAO (Wormhole)",
     "logo": "/networks/solana/tokens/wMAHA--E1w2uKRsVJeDf1Qqbk7DDKEDe7NCYwh8ySgqCaEZ4BTC/logo.png",
-    "priority": 3758,
+    "priority": 3757,
     "networks": [
       {
         "network": {
@@ -113165,7 +113279,7 @@
     "symbol": "wMANA",
     "name": "Decentraland MANA (Wormhole)",
     "logo": "/networks/solana/tokens/wMANA--DrL2D4qCRCeNkQz3AJikLjBc3cS6fqqcQ3W7T9vbshCu/logo.png",
-    "priority": 3759,
+    "priority": 3758,
     "networks": [
       {
         "network": {
@@ -113194,7 +113308,7 @@
     "symbol": "wMATIC",
     "name": "Matic Token (Wormhole)",
     "logo": "/networks/solana/tokens/wMATIC--4DHywS5EjUTF5AYisPZiJbWcCV4gfpH98oKxpgyKRnnQ/logo.png",
-    "priority": 3760,
+    "priority": 3759,
     "networks": [
       {
         "network": {
@@ -113223,7 +113337,7 @@
     "symbol": "wMCB",
     "name": "MCDEX Token (Wormhole)",
     "logo": "/networks/solana/tokens/wMCB--HkhBUKSct2V93Z35apDmXthkRvH4yvMovLyv8s8idDgP/logo.png",
-    "priority": 3761,
+    "priority": 3760,
     "networks": [
       {
         "network": {
@@ -113252,7 +113366,7 @@
     "symbol": "wMEME",
     "name": "MEME (Wormhole)",
     "logo": "/networks/solana/tokens/wMEME--DWECGzR56MruYJyo5g5QpoxZbFoydt3oWUkkDsVhxXzs/logo.png",
-    "priority": 3762,
+    "priority": 3761,
     "networks": [
       {
         "network": {
@@ -113281,7 +113395,7 @@
     "symbol": "wMIR",
     "name": "Wrapped MIR Token (Wormhole)",
     "logo": "/networks/solana/tokens/wMIR--Gc9rR2dUHfuYCJ8rU1Ye9fr8JoZZt9ZrfmXitQRLsxRW/logo.png",
-    "priority": 3763,
+    "priority": 3762,
     "networks": [
       {
         "network": {
@@ -113310,7 +113424,7 @@
     "symbol": "wMKR",
     "name": "MakerDAO (Wormhole)",
     "logo": "/networks/solana/tokens/wMKR--GBvv3jn9u6pZqPd2GVnQ7BKJzLwQnEWe4ci9k359PN9Z/logo.png",
-    "priority": 3764,
+    "priority": 3763,
     "networks": [
       {
         "network": {
@@ -113339,7 +113453,7 @@
     "symbol": "wMPH",
     "name": "88mph.app (Wormhole)",
     "logo": "/networks/solana/tokens/wMPH--5SU7veiCRA16ZxnS24kCC1dwQYVwi3whvTdM48iNE1Rm/logo.png",
-    "priority": 3765,
+    "priority": 3764,
     "networks": [
       {
         "network": {
@@ -113368,7 +113482,7 @@
     "symbol": "wMTA",
     "name": "Meta (Wormhole)",
     "logo": "/networks/solana/tokens/wMTA--T2mo6dnFiutu26KMuCMSjCLBB4ofWvQ3qBJGEMc3JSe/logo.png",
-    "priority": 3766,
+    "priority": 3765,
     "networks": [
       {
         "network": {
@@ -113397,7 +113511,7 @@
     "symbol": "wNEXO",
     "name": "Nexo (Wormhole)",
     "logo": "/networks/solana/tokens/wNEXO--FrhQauNRm7ecom9FRprNcyz58agDe5ujAbAtA9NG6jtU/logo.png",
-    "priority": 3767,
+    "priority": 3766,
     "networks": [
       {
         "network": {
@@ -113426,7 +113540,7 @@
     "symbol": "wNOIA",
     "name": "NOIA Token (Wormhole)",
     "logo": "/networks/solana/tokens/wNOIA--9DdtKWoK8cBfLSLhHXHFZzzhxp4rdwHbFEAis8n5AsfQ/logo.png",
-    "priority": 3768,
+    "priority": 3767,
     "networks": [
       {
         "network": {
@@ -113455,7 +113569,7 @@
     "symbol": "wNPXS",
     "name": "Pundi X Token (Wormhole)",
     "logo": "/networks/solana/tokens/wNPXS--Rs4LHZ4WogZCAkCzfsKJib5LLnYL6xcVAfTcLQiSjg2/logo.png",
-    "priority": 3769,
+    "priority": 3768,
     "networks": [
       {
         "network": {
@@ -113484,7 +113598,7 @@
     "symbol": "wNU",
     "name": "NuCypher (Wormhole)",
     "logo": "/networks/solana/tokens/wNU--Eof7wbYsHZKaoyUGwM7Nfkoo6zQW4U7uWXqz2hoQzSkK/logo.png",
-    "priority": 3770,
+    "priority": 3769,
     "networks": [
       {
         "network": {
@@ -113513,7 +113627,7 @@
     "symbol": "wOCEAN",
     "name": "Ocean Protocol (Wormhole)",
     "logo": "/networks/solana/tokens/wOCEAN--AF7Dv5Vzi1dT2fLnz4ysiRQ6FxGN1M6mrmHwgNpx7FVH/logo.png",
-    "priority": 3771,
+    "priority": 3770,
     "networks": [
       {
         "network": {
@@ -113542,7 +113656,7 @@
     "symbol": "wOMG",
     "name": "OMG Network (Wormhole)",
     "logo": "/networks/solana/tokens/wOMG--5ZXLGj7onpitgtREJNYb51DwDPddvqV1YLC8jn2sgz48/logo.png",
-    "priority": 3772,
+    "priority": 3771,
     "networks": [
       {
         "network": {
@@ -113571,7 +113685,7 @@
     "symbol": "wORAI",
     "name": "Oraichain Token (Wormhole)",
     "logo": "/networks/solana/tokens/wORAI--8DRgurhcQPJeCqQEpbeYGUmwAz2tETbyWUYLUU4Q7goM/logo.png",
-    "priority": 3773,
+    "priority": 3772,
     "networks": [
       {
         "network": {
@@ -113600,7 +113714,7 @@
     "symbol": "wORN",
     "name": "Orion Protocol (Wormhole)",
     "logo": "/networks/solana/tokens/wORN--VPjCJkR1uZGT9k9q7PsLArS5sEQtWgij8eZC8tysCy7/logo.png",
-    "priority": 3774,
+    "priority": 3773,
     "networks": [
       {
         "network": {
@@ -113629,7 +113743,7 @@
     "symbol": "wPAID",
     "name": "PAID Network (Wormhole)",
     "logo": "/networks/solana/tokens/wPAID--5fv26ojhPHWNaikXcMf2TBu4JENjLQ2PWgWYeitttVwv/logo.png",
-    "priority": 3775,
+    "priority": 3774,
     "networks": [
       {
         "network": {
@@ -113658,7 +113772,7 @@
     "symbol": "wPAXG",
     "name": "Paxos Gold (Wormhole)",
     "logo": "/networks/solana/tokens/wPAXG--HEsqFznmAERPUmMWHtDWYAZRoFbNHZpuNuFrPio68Zp1/logo.png",
-    "priority": 3776,
+    "priority": 3775,
     "networks": [
       {
         "network": {
@@ -113687,7 +113801,7 @@
     "symbol": "wPERP",
     "name": "Perpetual (Wormhole)",
     "logo": "/networks/solana/tokens/wPERP--9sNArcS6veh7DLEo7Y1ZSbBCYtkuPVE6S3HhVrcWR2Zw/logo.png",
-    "priority": 3777,
+    "priority": 3776,
     "networks": [
       {
         "network": {
@@ -113716,7 +113830,7 @@
     "symbol": "wPICKLE",
     "name": "PickleToken (Wormhole)",
     "logo": "/networks/solana/tokens/wPICKLE--6J9soByB65WUamsEG8KSPdphBV1oCoGvr5QpaUaY3r19/logo.png",
-    "priority": 3778,
+    "priority": 3777,
     "networks": [
       {
         "network": {
@@ -113745,7 +113859,7 @@
     "symbol": "wPNK",
     "name": "Pinakion (Wormhole)",
     "logo": "/networks/solana/tokens/wPNK--JDUgn6JUSwufqqthRdnZZKWv2vEdYvHxigF5Hk79yxRm/logo.png",
-    "priority": 3779,
+    "priority": 3778,
     "networks": [
       {
         "network": {
@@ -113774,7 +113888,7 @@
     "symbol": "wPOLK",
     "name": "Polkamarkets (Wormhole)",
     "logo": "/networks/solana/tokens/wPOLK--2PSvGigDY4MVUmv51bBiARBMcHBtXcUBnx5V9BwWbbi2/logo.png",
-    "priority": 3780,
+    "priority": 3779,
     "networks": [
       {
         "network": {
@@ -113803,7 +113917,7 @@
     "symbol": "wPOLS",
     "name": "PolkastarterToken (Wormhole)",
     "logo": "/networks/solana/tokens/wPOLS--2ctKUDkGBnVykt31AhMPhHvAQWJvoNGbLh7aRidjtAqv/logo.png",
-    "priority": 3781,
+    "priority": 3780,
     "networks": [
       {
         "network": {
@@ -113832,7 +113946,7 @@
     "symbol": "wPOOLZ",
     "name": "$Poolz Finance (Wormhole)",
     "logo": "/networks/solana/tokens/wPOOLZ--CCAQZHBVWKDukT68PZ3LenDs7apibeSYeJ3jHE8NzBC5/logo.png",
-    "priority": 3782,
+    "priority": 3781,
     "networks": [
       {
         "network": {
@@ -113861,7 +113975,7 @@
     "symbol": "wPRQ",
     "name": "Parsiq Token (Wormhole)",
     "logo": "/networks/solana/tokens/wPRQ--6uMUH5ztnj6AKYvL71EZgcyyRxjyBC5LVkscA5LrBc3c/logo.png",
-    "priority": 3783,
+    "priority": 3782,
     "networks": [
       {
         "network": {
@@ -113890,7 +114004,7 @@
     "symbol": "wQNT",
     "name": "Quant (Wormhole)",
     "logo": "/networks/solana/tokens/wQNT--BrtLvpVCwVDH5Jpqjtiuhh8wKYA5b3NZCnsSftr61viv/logo.png",
-    "priority": 3784,
+    "priority": 3783,
     "networks": [
       {
         "network": {
@@ -113919,7 +114033,7 @@
     "symbol": "wQRX",
     "name": "QuiverX (Wormhole)",
     "logo": "/networks/solana/tokens/wQRX--3sHinPxEPqhEGip2Wy45TFmgAA1Atg2mctMjY5RKJUjk/logo.png",
-    "priority": 3785,
+    "priority": 3784,
     "networks": [
       {
         "network": {
@@ -113948,7 +114062,7 @@
     "symbol": "wRAMP",
     "name": "RAMP DEFI (Wormhole)",
     "logo": "/networks/solana/tokens/wRAMP--5Jq6S9HYqfG6TUMjjsKpnfis7utUAB69JiEGkkypdmgP/logo.png",
-    "priority": 3786,
+    "priority": 3785,
     "networks": [
       {
         "network": {
@@ -113977,7 +114091,7 @@
     "symbol": "wRARI",
     "name": "Rarible (Wormhole)",
     "logo": "/networks/solana/tokens/wRARI--8HCWFQA2GsA6Nm2L5jidM3mus7NeeQ8wp1ri3XFF9WWH/logo.png",
-    "priority": 3787,
+    "priority": 3786,
     "networks": [
       {
         "network": {
@@ -114006,7 +114120,7 @@
     "symbol": "wRAZOR",
     "name": "RAZOR (Wormhole)",
     "logo": "/networks/solana/tokens/wRAZOR--5CmA1HTVZt5NRtwiUrqWrcnT5JRW5zHe6uQXfP7SDUNz/logo.png",
-    "priority": 3788,
+    "priority": 3787,
     "networks": [
       {
         "network": {
@@ -114035,7 +114149,7 @@
     "symbol": "wRBC",
     "name": "Rubic (Wormhole)",
     "logo": "/networks/solana/tokens/wRBC--HC8SaUm9rhvVZE5ZwBWiUhFAnCuG8byd5FxKYdpFm5MR/logo.png",
-    "priority": 3789,
+    "priority": 3788,
     "networks": [
       {
         "network": {
@@ -114064,7 +114178,7 @@
     "symbol": "wREN",
     "name": "Republic Token (Wormhole)",
     "logo": "/networks/solana/tokens/wREN--FjucGZpcdVXaWJH21pbrGQaKNszsGsJqbAXu4sJywKJa/logo.png",
-    "priority": 3790,
+    "priority": 3789,
     "networks": [
       {
         "network": {
@@ -114093,7 +114207,7 @@
     "symbol": "wREP",
     "name": "Reputation (Wormhole)",
     "logo": "/networks/solana/tokens/wREP--9yPmJNUp1qFV6LafdYdegZ8sCgC4oy6Rgt9WsDJqv3EX/logo.png",
-    "priority": 3791,
+    "priority": 3790,
     "networks": [
       {
         "network": {
@@ -114122,7 +114236,7 @@
     "symbol": "wREQ",
     "name": "Request Token (Wormhole)",
     "logo": "/networks/solana/tokens/wREQ--7gBuzBcJ7V48m8TiKJ1XWNDUerK2XfAbjxuRiKMb6S8Z/logo.png",
-    "priority": 3792,
+    "priority": 3791,
     "networks": [
       {
         "network": {
@@ -114151,7 +114265,7 @@
     "symbol": "wRFOX",
     "name": "RFOX (Wormhole)",
     "logo": "/networks/solana/tokens/wRFOX--65ribugkb42AANKYrEeuruhhfXffyE4jY22FUxFbpW7C/logo.png",
-    "priority": 3793,
+    "priority": 3792,
     "networks": [
       {
         "network": {
@@ -114180,7 +114294,7 @@
     "symbol": "wRFuel",
     "name": "Rio Fuel Token (Wormhole)",
     "logo": "/networks/solana/tokens/wRFuel--4kPHTMfSD1k3SytAMKEVRWH5ip6WD5U52tC5q6TuXUNU/logo.png",
-    "priority": 3794,
+    "priority": 3793,
     "networks": [
       {
         "network": {
@@ -114209,7 +114323,7 @@
     "symbol": "wRLC",
     "name": "iExec RLC (Wormhole)",
     "logo": "/networks/solana/tokens/wRLC--JuXkRYNw54rujC7SPWcAM4ArLgA5x8nDQbS8xHAr6MA/logo.png",
-    "priority": 3795,
+    "priority": 3794,
     "networks": [
       {
         "network": {
@@ -114238,7 +114352,7 @@
     "symbol": "wRLY",
     "name": "Rally (Wormhole)",
     "logo": "/networks/solana/tokens/wRLY--DL7873Hud4eMdGScQFD7vrbC6fzWAMQ2LMuoZSn4zUry/logo.png",
-    "priority": 3796,
+    "priority": 3795,
     "networks": [
       {
         "network": {
@@ -114267,7 +114381,7 @@
     "symbol": "wROOM",
     "name": "OptionRoom Token (Wormhole)",
     "logo": "/networks/solana/tokens/wROOM--4811JP9i35zgAxSFZjGXQwew6xd1qSBE4xdMFik2J14Z/logo.png",
-    "priority": 3797,
+    "priority": 3796,
     "networks": [
       {
         "network": {
@@ -114296,7 +114410,7 @@
     "symbol": "wROOT",
     "name": "RootKit (Wormhole)",
     "logo": "/networks/solana/tokens/wROOT--FMr15arp651N6fR2WEL36pCMBnFecHcN6wDxne2Vf3SK/logo.png",
-    "priority": 3798,
+    "priority": 3797,
     "networks": [
       {
         "network": {
@@ -114325,7 +114439,7 @@
     "symbol": "wRPL",
     "name": "Rocket Pool (Wormhole)",
     "logo": "/networks/solana/tokens/wRPL--4psmnTirimNyPEPEZtkQkdEPJagTXS3a7wsu1XN9MYK3/logo.png",
-    "priority": 3799,
+    "priority": 3798,
     "networks": [
       {
         "network": {
@@ -114354,7 +114468,7 @@
     "symbol": "wRSR",
     "name": "Reserve Rights (Wormhole)",
     "logo": "/networks/solana/tokens/wRSR--64oqP1dFqqD8NEL4RPCpMyrHmpo31rj3nYxULVXvayfW/logo.png",
-    "priority": 3800,
+    "priority": 3799,
     "networks": [
       {
         "network": {
@@ -114383,7 +114497,7 @@
     "symbol": "wSAND",
     "name": "SAND (Wormhole)",
     "logo": "/networks/solana/tokens/wSAND--F6M9DW1cWw7EtFK9m2ukvT9WEvtEbdZfTzZTtDeBcnAf/logo.png",
-    "priority": 3801,
+    "priority": 3800,
     "networks": [
       {
         "network": {
@@ -114412,7 +114526,7 @@
     "symbol": "wSDT",
     "name": "Stake DAO Token (Wormhole)",
     "logo": "/networks/solana/tokens/wSDT--D3ajQoyBGJz3JCXCPsxHZJbLQKGt9UgxLavgurieGNcD/logo.png",
-    "priority": 3802,
+    "priority": 3801,
     "networks": [
       {
         "network": {
@@ -114441,7 +114555,7 @@
     "symbol": "wSFI",
     "name": "Spice (Wormhole)",
     "logo": "/networks/solana/tokens/wSFI--AoU75vwpnWEVvfarxRALjzRc8vS9UdDhRMkwoDimt9ss/logo.png",
-    "priority": 3803,
+    "priority": 3802,
     "networks": [
       {
         "network": {
@@ -114470,7 +114584,7 @@
     "symbol": "wSKL",
     "name": "SKALE (Wormhole)",
     "logo": "/networks/solana/tokens/wSKL--4b166BQEQunjg8oNTDcLeWU3nidQnVTL1Vni8ANU7Mvt/logo.png",
-    "priority": 3804,
+    "priority": 3803,
     "networks": [
       {
         "network": {
@@ -114499,7 +114613,7 @@
     "symbol": "wSLP",
     "name": "Small Love Potion (Wormhole)",
     "logo": "/networks/solana/tokens/wSLP--42gecM46tdSiYZN2CK1ek5raCxnzQf1xfhoKAf3F7Y5k/logo.png",
-    "priority": 3805,
+    "priority": 3804,
     "networks": [
       {
         "network": {
@@ -114528,7 +114642,7 @@
     "symbol": "wSNX",
     "name": "Synthetix Network Token (Wormhole)",
     "logo": "/networks/solana/tokens/wSNX--CPLNm9UMKfiJKiySQathV99yeSgTVjPDZx4ucFrbp2MD/logo.png",
-    "priority": 3806,
+    "priority": 3805,
     "networks": [
       {
         "network": {
@@ -114557,7 +114671,7 @@
     "symbol": "wSOCKS",
     "name": "Unisocks Edition 0 (Wormhole)",
     "logo": "/networks/solana/tokens/wSOCKS--6jVuhLJ2mzyZ8DyUcrDj8Qr6Q9bqbJnq4fAnMeEduDM9/logo.png",
-    "priority": 3807,
+    "priority": 3806,
     "networks": [
       {
         "network": {
@@ -114586,7 +114700,7 @@
     "symbol": "wSPI",
     "name": "Shopping.io (Wormhole)",
     "logo": "/networks/solana/tokens/wSPI--AyNULvvLGW11fThvhncqNRjEgmDbMEHdDL4HqXD6SM8V/logo.png",
-    "priority": 3808,
+    "priority": 3807,
     "networks": [
       {
         "network": {
@@ -114615,7 +114729,7 @@
     "symbol": "wSRK",
     "name": "SparkPoint (Wormhole)",
     "logo": "/networks/solana/tokens/wSRK--CxzHZtzrm6bAz6iFCAGgCYCd3iQb5guUD7oQXKxdgk5c/logo.png",
-    "priority": 3809,
+    "priority": 3808,
     "networks": [
       {
         "network": {
@@ -114644,7 +114758,7 @@
     "symbol": "wSTAKE",
     "name": "xDai (Wormhole)",
     "logo": "/networks/solana/tokens/wSTAKE--GE1X8ef7fcsJ93THx4CvV7BQsdEyEAyk61s2L5YfSXiL/logo.png",
-    "priority": 3810,
+    "priority": 3809,
     "networks": [
       {
         "network": {
@@ -114673,7 +114787,7 @@
     "symbol": "wSTBZ",
     "name": "Stabilize Token (Wormhole)",
     "logo": "/networks/solana/tokens/wSTBZ--CRZuALvCYjPLB65WFLHh9JkmPWK5C81TXpy2aEEaCjr3/logo.png",
-    "priority": 3811,
+    "priority": 3810,
     "networks": [
       {
         "network": {
@@ -114702,7 +114816,7 @@
     "symbol": "wSUPER",
     "name": "SuperFarm (Wormhole)",
     "logo": "/networks/solana/tokens/wSUPER--3bkBFHyof411hGBdcsiM1KSDdErw63Xoj3eLB8yNknB4/logo.png",
-    "priority": 3812,
+    "priority": 3811,
     "networks": [
       {
         "network": {
@@ -114731,7 +114845,7 @@
     "symbol": "wSURF",
     "name": "SURF.Finance (Wormhole)",
     "logo": "/networks/solana/tokens/wSURF--F48zUwoQMzgCTf5wihwz8GPN23gdcoVMiT227APqA6hC/logo.png",
-    "priority": 3813,
+    "priority": 3812,
     "networks": [
       {
         "network": {
@@ -114760,7 +114874,7 @@
     "symbol": "wSUSHI",
     "name": "SushiSwap (Wormhole)",
     "logo": "/networks/solana/tokens/wSUSHI--HbMGwfGjGPchtaPwyrtJFy8APZN5w1hi63xnzmj1f23v/logo.png",
-    "priority": 3814,
+    "priority": 3813,
     "networks": [
       {
         "network": {
@@ -114789,7 +114903,7 @@
     "symbol": "wSWAP",
     "name": "TrustSwap Token (Wormhole)",
     "logo": "/networks/solana/tokens/wSWAP--E9X7rKAGfSh1gsHC6qh5MVLkDzRcT64KQbjzvHnc5zEq/logo.png",
-    "priority": 3815,
+    "priority": 3814,
     "networks": [
       {
         "network": {
@@ -114818,7 +114932,7 @@
     "symbol": "wSWFL",
     "name": "Swapfolio (Wormhole)",
     "logo": "/networks/solana/tokens/wSWFL--4obZok5FFUcQXQoV39hhcqk9xSmo4WnP9wnrNCk1g5BC/logo.png",
-    "priority": 3816,
+    "priority": 3815,
     "networks": [
       {
         "network": {
@@ -114847,7 +114961,7 @@
     "symbol": "wSXP",
     "name": "Swipe (Wormhole)",
     "logo": "/networks/solana/tokens/wSXP--ACr98v3kv9qaGnR3p2BfsoSK9Q2ZmP6zUkm3qxv5ZJDd/logo.png",
-    "priority": 3817,
+    "priority": 3816,
     "networks": [
       {
         "network": {
@@ -114876,7 +114990,7 @@
     "symbol": "wSkey",
     "name": "SmartKey (Wormhole)",
     "logo": "/networks/solana/tokens/wSkey--6GGNzF99kCG1ozQbP7M7EYW9zPbQGPMwTCCi2Dqx3qhU/logo.png",
-    "priority": 3818,
+    "priority": 3817,
     "networks": [
       {
         "network": {
@@ -114905,7 +115019,7 @@
     "symbol": "wTRADE",
     "name": "UniTrade (Wormhole)",
     "logo": "/networks/solana/tokens/wTRADE--4ighgEijHcCoLu9AsvwVz2TnGFqAgzQtQMr6ch88Jrfe/logo.png",
-    "priority": 3819,
+    "priority": 3818,
     "networks": [
       {
         "network": {
@@ -114934,7 +115048,7 @@
     "symbol": "wTRU",
     "name": "TrustToken (Wormhole)",
     "logo": "/networks/solana/tokens/wTRU--4e5cqAsZ7wQqwLi7AApS9CgN8Yaho5TvkhvcLaGyiuzL/logo.png",
-    "priority": 3820,
+    "priority": 3819,
     "networks": [
       {
         "network": {
@@ -114963,7 +115077,7 @@
     "symbol": "wTUSD",
     "name": "TrueUSD (Wormhole)",
     "logo": "/networks/solana/tokens/wTUSD--AbLwQCyU9S8ycJgu8wn6woRCHSYJmjMpJFcAHQ6vjq2P/logo.png",
-    "priority": 3821,
+    "priority": 3820,
     "networks": [
       {
         "network": {
@@ -114992,7 +115106,7 @@
     "symbol": "wTVK",
     "name": "Terra Virtua Kolect (Wormhole)",
     "logo": "/networks/solana/tokens/wTVK--5NEENV1mNvu7MfNNtKuGSDC8zoNStq1tuLkDXFtv6rZd/logo.png",
-    "priority": 3822,
+    "priority": 3821,
     "networks": [
       {
         "network": {
@@ -115021,7 +115135,7 @@
     "symbol": "wUBT",
     "name": "Unibright (Wormhole)",
     "logo": "/networks/solana/tokens/wUBT--8FnkznYpHvKiaBkgatVoCrNiS5y5KW62JqgjnxVhDejC/logo.png",
-    "priority": 3823,
+    "priority": 3822,
     "networks": [
       {
         "network": {
@@ -115050,7 +115164,7 @@
     "symbol": "wUFT",
     "name": "UniLend Finance Token (Wormhole)",
     "logo": "/networks/solana/tokens/wUFT--CcHhpEx9VcWx7UBJC8DJaR5h3wNdexsQtB1nEfekjSHn/logo.png",
-    "priority": 3824,
+    "priority": 3823,
     "networks": [
       {
         "network": {
@@ -115079,7 +115193,7 @@
     "symbol": "wUMA",
     "name": "UMA Voting Token v1 (Wormhole)",
     "logo": "/networks/solana/tokens/wUMA--FqMZWvmii4NNzhLBKGzkvGj3e3XTxNVDNSKDJnt9fVQV/logo.png",
-    "priority": 3825,
+    "priority": 3824,
     "networks": [
       {
         "network": {
@@ -115108,7 +115222,7 @@
     "symbol": "wUMX",
     "name": "https://unimex.network/ (Wormhole)",
     "logo": "/networks/solana/tokens/wUMX--C1LpKYrkVvWF5imsQ7JqJSZHj9NXNmJ5tEHkGTtLVH2L/logo.png",
-    "priority": 3826,
+    "priority": 3825,
     "networks": [
       {
         "network": {
@@ -115137,7 +115251,7 @@
     "symbol": "wUNI",
     "name": "Uniswap (Wormhole)",
     "logo": "/networks/solana/tokens/wUNI--3MVa4e32PaKmPxYUQ6n8vFkWtCma68Ld7e7fTktWDueQ/logo.png",
-    "priority": 3827,
+    "priority": 3826,
     "networks": [
       {
         "network": {
@@ -115166,7 +115280,7 @@
     "symbol": "wUNISTAKE",
     "name": "Unistake (Wormhole)",
     "logo": "/networks/solana/tokens/wUNISTAKE--DsGbyCHbG4vSWBqAprR2eWuUAg8fXAgYkWL9psgvYZn5/logo.png",
-    "priority": 3828,
+    "priority": 3827,
     "networks": [
       {
         "network": {
@@ -115195,7 +115309,7 @@
     "symbol": "wUNN",
     "name": "UNION Protocol Governance Token (Wormhole)",
     "logo": "/networks/solana/tokens/wUNN--8My83RG8Xa1EhXdDKHWq8BWZN1zF3XUrWL3TXCLjVPFh/logo.png",
-    "priority": 3829,
+    "priority": 3828,
     "networks": [
       {
         "network": {
@@ -115224,7 +115338,7 @@
     "symbol": "wUSDC",
     "name": "USD Coin (Wormhole)",
     "logo": "/networks/solana/tokens/wUSDC--FVsXUnbhifqJ4LiXQEbpUtXVdB8T5ADLKqSs5t1oc54F/logo.png",
-    "priority": 3830,
+    "priority": 3829,
     "networks": [
       {
         "network": {
@@ -115253,7 +115367,7 @@
     "symbol": "wUSDCv2",
     "name": "USD Coin (Wormhole V2)",
     "logo": "/networks/solana/tokens/wUSDCv2--A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
-    "priority": 3831,
+    "priority": 3830,
     "networks": [
       {
         "network": {
@@ -115282,7 +115396,7 @@
     "symbol": "wUSDT",
     "name": "Tether USD (Wormhole)",
     "logo": "/networks/solana/tokens/wUSDT--9w97GdWUYYaamGwdKMKZgGzPduZJkiFizq4rz5CPXRv2/logo.png",
-    "priority": 3832,
+    "priority": 3831,
     "networks": [
       {
         "network": {
@@ -115311,7 +115425,7 @@
     "symbol": "wUSDTv2",
     "name": "USDT (Wormhole V2)",
     "logo": "/networks/solana/tokens/wUSDTv2--Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
-    "priority": 3833,
+    "priority": 3832,
     "networks": [
       {
         "network": {
@@ -115340,7 +115454,7 @@
     "symbol": "wUST",
     "name": "Wrapped UST (Wormhole)",
     "logo": "/networks/solana/tokens/wUST--CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
-    "priority": 3834,
+    "priority": 3833,
     "networks": [
       {
         "network": {
@@ -115369,7 +115483,7 @@
     "symbol": "wUniDAIETH",
     "name": "Uniswap DAI LP (Wormhole)",
     "logo": "/networks/solana/tokens/wUniDAIETH--GNQ1Goajm3Za8uC1Eptt2yfsrbnkZh2eMJoqxg54sj3o/logo.png",
-    "priority": 3835,
+    "priority": 3834,
     "networks": [
       {
         "network": {
@@ -115398,7 +115512,7 @@
     "symbol": "wUniLENDETH",
     "name": "Uniswap LEND LP (Wormhole)",
     "logo": "/networks/solana/tokens/wUniLENDETH--4aqNtSCr77eiEZJ9u9BhPErjEMju6FFdLeBKkE1pdxuK/logo.png",
-    "priority": 3836,
+    "priority": 3835,
     "networks": [
       {
         "network": {
@@ -115427,7 +115541,7 @@
     "symbol": "wUniLINKETH",
     "name": "Uniswap LINK LP (Wormhole)",
     "logo": "/networks/solana/tokens/wUniLINKETH--FSSTfbb1vh1TRe8Ja64hC65QTc7pPUhwHh5uTAWj5haH/logo.png",
-    "priority": 3837,
+    "priority": 3836,
     "networks": [
       {
         "network": {
@@ -115456,7 +115570,7 @@
     "symbol": "wUniMKRETH",
     "name": "Uniswap MKR LP (Wormhole)",
     "logo": "/networks/solana/tokens/wUniMKRETH--FDdoYCHwFghBSbnN6suvFR3VFw6kAzfhfGpkAQAGPLC3/logo.png",
-    "priority": 3838,
+    "priority": 3837,
     "networks": [
       {
         "network": {
@@ -115485,7 +115599,7 @@
     "symbol": "wUniUSDCETH",
     "name": "Uniswap USDC LP (Wormhole)",
     "logo": "/networks/solana/tokens/wUniUSDCETH--7NFin546WNvWkhtfftfY77z8C1TrxLbUcKmw5TpHGGtC/logo.png",
-    "priority": 3839,
+    "priority": 3838,
     "networks": [
       {
         "network": {
@@ -115514,7 +115628,7 @@
     "symbol": "wUnisETHETH",
     "name": "Uniswap sETH LP (Wormhole)",
     "logo": "/networks/solana/tokens/wUnisETHETH--7gersKTtU65ERNBNTZKjYgKf7HypR7PDMprcuhQJChaq/logo.png",
-    "priority": 3840,
+    "priority": 3839,
     "networks": [
       {
         "network": {
@@ -115543,7 +115657,7 @@
     "symbol": "wVSP",
     "name": "VesperToken (Wormhole)",
     "logo": "/networks/solana/tokens/wVSP--CZxP1KtsfvMXZTGKR1fNwNChv8hGAfQrgVoENabN8zKU/logo.png",
-    "priority": 3841,
+    "priority": 3840,
     "networks": [
       {
         "network": {
@@ -115572,7 +115686,7 @@
     "symbol": "wWAXE",
     "name": "WAX Economic Token (Wormhole)",
     "logo": "/networks/solana/tokens/wWAXE--5J9yhFRnQZx3RiqHzfQpAffX5UQz3k8vQCZH2g9Z9sDg/logo.png",
-    "priority": 3842,
+    "priority": 3841,
     "networks": [
       {
         "network": {
@@ -115601,7 +115715,7 @@
     "symbol": "wWBTC",
     "name": "Wrapped BTC (Wormhole)",
     "logo": "/networks/solana/tokens/wWBTC--qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
-    "priority": 3843,
+    "priority": 3842,
     "networks": [
       {
         "network": {
@@ -115630,7 +115744,7 @@
     "symbol": "wWETH",
     "name": "Wrapped Ether (Wormhole)",
     "logo": "/networks/solana/tokens/wWETH--FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
-    "priority": 3844,
+    "priority": 3843,
     "networks": [
       {
         "network": {
@@ -115659,7 +115773,7 @@
     "symbol": "wWHALE",
     "name": "WHALE (Wormhole)",
     "logo": "/networks/solana/tokens/wWHALE--CtDjsryLtwZCLj8TeniV7tWHbkaREfjKDWpvyQvsTyek/logo.png",
-    "priority": 3845,
+    "priority": 3844,
     "networks": [
       {
         "network": {
@@ -115688,7 +115802,7 @@
     "symbol": "wWISE",
     "name": "Wise Token (Wormhole)",
     "logo": "/networks/solana/tokens/wWISE--FLrjpCRrd4GffHu8MVYGvuLxYLuBGVaXsnCecw3Effci/logo.png",
-    "priority": 3846,
+    "priority": 3845,
     "networks": [
       {
         "network": {
@@ -115717,7 +115831,7 @@
     "symbol": "wXFI",
     "name": "Xfinance (Wormhole)",
     "logo": "/networks/solana/tokens/wXFI--DboP5vvYUVjmKSHKJ1YFHwmv41KtUscnYgzjmPgHwQVn/logo.png",
-    "priority": 3847,
+    "priority": 3846,
     "networks": [
       {
         "network": {
@@ -115746,7 +115860,7 @@
     "symbol": "wXIO",
     "name": "XIO Network (Wormhole)",
     "logo": "/networks/solana/tokens/wXIO--3cJKTW69FQDDCud7AhKHXZg126b3t73a2qVcVBS1BWjL/logo.png",
-    "priority": 3848,
+    "priority": 3847,
     "networks": [
       {
         "network": {
@@ -115775,7 +115889,7 @@
     "symbol": "wXOR",
     "name": "Sora (Wormhole)",
     "logo": "/networks/solana/tokens/wXOR--5kvugu18snfGRu1PykMfRzYfUxJYs3smk1PWQcGo6Z8a/logo.png",
-    "priority": 3849,
+    "priority": 3848,
     "networks": [
       {
         "network": {
@@ -115804,7 +115918,7 @@
     "symbol": "wXRT",
     "name": "Robonomics (Wormhole)",
     "logo": "/networks/solana/tokens/wXRT--Au9E8ygQdTJQZXmNKPdtLEP8rGjC4qsGRhkJgjFNPAr8/logo.png",
-    "priority": 3850,
+    "priority": 3849,
     "networks": [
       {
         "network": {
@@ -115833,7 +115947,7 @@
     "symbol": "wYFI",
     "name": "yearn.finance (Wormhole)",
     "logo": "/networks/solana/tokens/wYFI--7TK6QeyTsnTT6KsnK2tHHfh62mbjNuFWoyUc8vo3CmmU/logo.png",
-    "priority": 3851,
+    "priority": 3850,
     "networks": [
       {
         "network": {
@@ -115862,7 +115976,7 @@
     "symbol": "wYFIM",
     "name": "yfi.mobi (Wormhole)",
     "logo": "/networks/solana/tokens/wYFIM--DdiXkfDGhLiKyw889QC4nmcxSwMqarLBtrDofPJyx7bt/logo.png",
-    "priority": 3852,
+    "priority": 3851,
     "networks": [
       {
         "network": {
@@ -115891,7 +116005,7 @@
     "symbol": "wYLD",
     "name": "Yield (Wormhole)",
     "logo": "/networks/solana/tokens/wYLD--2cW5deMKeR97C7csq1aMMWUa5RNWkpQFz8tumxk4ZV8w/logo.png",
-    "priority": 3853,
+    "priority": 3852,
     "networks": [
       {
         "network": {
@@ -115920,7 +116034,7 @@
     "symbol": "wYOP",
     "name": "YOP (Wormhole)",
     "logo": "/networks/solana/tokens/wYOP--2VAdvHWMpzMnDYYn64MgqLNpGQ19iCiusCet8JLMtxU5/logo.png",
-    "priority": 3854,
+    "priority": 3853,
     "networks": [
       {
         "network": {
@@ -115949,7 +116063,7 @@
     "symbol": "wYf-DAI",
     "name": "YfDAI.finance (Wormhole)",
     "logo": "/networks/solana/tokens/wYf-DAI--3N89w9KPUVYUK5MMGNY8yMXhrr89QQ1RQPJxVnQHgMdd/logo.png",
-    "priority": 3855,
+    "priority": 3854,
     "networks": [
       {
         "network": {
@@ -115978,7 +116092,7 @@
     "symbol": "wZEE",
     "name": "ZeroSwapToken (Wormhole)",
     "logo": "/networks/solana/tokens/wZEE--6wdcYNvUyHCerSiGbChkvGBF6Qzju1YP5qpXRQ4tqdZ3/logo.png",
-    "priority": 3856,
+    "priority": 3855,
     "networks": [
       {
         "network": {
@@ -116007,7 +116121,7 @@
     "symbol": "wZRX",
     "name": "0x Protocol Token (Wormhole)",
     "logo": "/networks/solana/tokens/wZRX--G2jrxYSoCSzmohxERa2JzSJMuRM4kiNvRA3DnCv7Lzcz/logo.png",
-    "priority": 3857,
+    "priority": 3856,
     "networks": [
       {
         "network": {
@@ -116036,7 +116150,7 @@
     "symbol": "waAAVE",
     "name": "Aave Interest bearing Aave Token (Wormhole)",
     "logo": "/networks/solana/tokens/waAAVE--8aYsiHR6oVTAcFUzdXDhaPkgRbn4QYRCkdk3ATmAmY4p/logo.svg",
-    "priority": 3858,
+    "priority": 3857,
     "networks": [
       {
         "network": {
@@ -116065,7 +116179,7 @@
     "symbol": "waBAT",
     "name": "Aave interest bearing BAT (Wormhole)",
     "logo": "/networks/solana/tokens/waBAT--8PeWkyvCDHpSgT5oiGFgZQtXSRBij7ZFLJTHAGBntRDH/logo.svg",
-    "priority": 3859,
+    "priority": 3858,
     "networks": [
       {
         "network": {
@@ -116094,7 +116208,7 @@
     "symbol": "waBUSD",
     "name": "Aave interest bearing BUSD (Wormhole)",
     "logo": "/networks/solana/tokens/waBUSD--67opsuaXQ3JRSJ1mmF7aPLSq6JaZcwAmXwcMzUN5PSMv/logo.svg",
-    "priority": 3860,
+    "priority": 3859,
     "networks": [
       {
         "network": {
@@ -116123,7 +116237,7 @@
     "symbol": "waDAI",
     "name": "Aave Interest bearing DAI (Wormhole)",
     "logo": "/networks/solana/tokens/waDAI--2VmKuXMwdzouMndWcK7BK2951tBEtYVmGsdU4dXbjyaY/logo.svg",
-    "priority": 3861,
+    "priority": 3860,
     "networks": [
       {
         "network": {
@@ -116152,7 +116266,7 @@
     "symbol": "waENJ",
     "name": "Aave interest bearing ENJ (Wormhole)",
     "logo": "/networks/solana/tokens/waENJ--3LmfKjsSU9hdxfZfcr873DMNR5nnrk8EvdueXg1dTSin/logo.svg",
-    "priority": 3862,
+    "priority": 3861,
     "networks": [
       {
         "network": {
@@ -116181,7 +116295,7 @@
     "symbol": "waETH",
     "name": "Aave Interest bearing ETH (Wormhole)",
     "logo": "/networks/solana/tokens/waETH--FBrfFh7fb7xKfyBMJA32KufMjEkgSgY4AuzLXFKdJFRj/logo.svg",
-    "priority": 3863,
+    "priority": 3862,
     "networks": [
       {
         "network": {
@@ -116210,7 +116324,7 @@
     "symbol": "waEth",
     "name": "aEthereum (Wormhole)",
     "logo": "/networks/solana/tokens/waEth--7kkkoa1MB93ELm3vjvyC8GJ65G7eEgLhfaHU58riJUCx/logo.png",
-    "priority": 3864,
+    "priority": 3863,
     "networks": [
       {
         "network": {
@@ -116239,7 +116353,7 @@
     "symbol": "waKNC",
     "name": "Aave Interest bearing KNC (Wormhole)",
     "logo": "/networks/solana/tokens/waKNC--3p67dqghWn6reQcVCqNBkufrpU1gtA1ZRAYja6GMXySG/logo.svg",
-    "priority": 3865,
+    "priority": 3864,
     "networks": [
       {
         "network": {
@@ -116268,7 +116382,7 @@
     "symbol": "waLEND",
     "name": "Aave Interest bearing LEND (Wormhole)",
     "logo": "/networks/solana/tokens/waLEND--Fzx4N1xJPDZENAhrAaH79k2izT9CFbfnDEcpcWjiusdY/logo.svg",
-    "priority": 3866,
+    "priority": 3865,
     "networks": [
       {
         "network": {
@@ -116297,7 +116411,7 @@
     "symbol": "waLINK",
     "name": "Aave interest bearing LINK (Wormhole)",
     "logo": "/networks/solana/tokens/waLINK--4erbVWFvdvS5P8ews7kUjqfpCQbA8vurnWyvRLsnZJgv/logo.svg",
-    "priority": 3867,
+    "priority": 3866,
     "networks": [
       {
         "network": {
@@ -116326,7 +116440,7 @@
     "symbol": "waMANA",
     "name": "Aave interest bearing MANA (Wormhole)",
     "logo": "/networks/solana/tokens/waMANA--AXJWqG4SpAEwkMjKYkarKwv6Qfz5rLU3cwt5KtrDAAYe/logo.svg",
-    "priority": 3868,
+    "priority": 3867,
     "networks": [
       {
         "network": {
@@ -116355,7 +116469,7 @@
     "symbol": "waMKR",
     "name": "Aave Interest bearing MKR (Wormhole)",
     "logo": "/networks/solana/tokens/waMKR--3iTtcKUVa5ouzwNZFc3SasuAKkY2ZuMxLERRcWfxQVN3/logo.svg",
-    "priority": 3869,
+    "priority": 3868,
     "networks": [
       {
         "network": {
@@ -116384,7 +116498,7 @@
     "symbol": "waREN",
     "name": "Aave Interest bearing REN (Wormhole)",
     "logo": "/networks/solana/tokens/waREN--BHh8nyDwdUG4uyyQYNqGXGLHPyb83R6Y2fqJrNVKtTsT/logo.png",
-    "priority": 3870,
+    "priority": 3869,
     "networks": [
       {
         "network": {
@@ -116413,7 +116527,7 @@
     "symbol": "waREP",
     "name": "Aave Interest bearing REP (Wormhole)",
     "logo": "/networks/solana/tokens/waREP--A4qYX1xuewaBL9SeZnwA3We6MhG8TYcTceHAJpk7Etdt/logo.svg",
-    "priority": 3871,
+    "priority": 3870,
     "networks": [
       {
         "network": {
@@ -116442,7 +116556,7 @@
     "symbol": "waSNX",
     "name": "Aave Interest bearing SNX (Wormhole)",
     "logo": "/networks/solana/tokens/waSNX--FeU2J26AfMqh2mh7Cf4Lw1HRueAvAkZYxGr8njFNMeQ2/logo.png",
-    "priority": 3872,
+    "priority": 3871,
     "networks": [
       {
         "network": {
@@ -116471,7 +116585,7 @@
     "symbol": "waSUSD",
     "name": "Aave interest bearing SUSD (Wormhole)",
     "logo": "/networks/solana/tokens/waSUSD--2LForywWWpHzmR5NjSEyF1kcw9ffyLuJX7V7hne2fHfY/logo.svg",
-    "priority": 3873,
+    "priority": 3872,
     "networks": [
       {
         "network": {
@@ -116500,7 +116614,7 @@
     "symbol": "waTUSD",
     "name": "Aave Interest bearing TUSD (Wormhole)",
     "logo": "/networks/solana/tokens/waTUSD--AXvWVviBmySSdghmuomYHqYB3AZn7NmAWrHYHKKPJxoL/logo.svg",
-    "priority": 3874,
+    "priority": 3873,
     "networks": [
       {
         "network": {
@@ -116529,7 +116643,7 @@
     "symbol": "waUNI",
     "name": "Aave interest bearing UNI (Wormhole)",
     "logo": "/networks/solana/tokens/waUNI--2TZ8s2FwtWqJrWpdFsSf2uM2Fvjw474n6HhTdTEWoLor/logo.svg",
-    "priority": 3875,
+    "priority": 3874,
     "networks": [
       {
         "network": {
@@ -116558,7 +116672,7 @@
     "symbol": "waUSDC",
     "name": "Aave Interest bearing USDC (Wormhole)",
     "logo": "/networks/solana/tokens/waUSDC--AkaisFPmasQYZUJsZLD9wPEo2KA7aCRqyRawX18ZRzGr/logo.svg",
-    "priority": 3876,
+    "priority": 3875,
     "networks": [
       {
         "network": {
@@ -116587,7 +116701,7 @@
     "symbol": "waUSDT",
     "name": "Aave Interest bearing USDT (Wormhole)",
     "logo": "/networks/solana/tokens/waUSDT--FZfQtWMoTQ51Z4jxvHfmFcqj4862u9GzmugBnZUuWqR5/logo.svg",
-    "priority": 3877,
+    "priority": 3876,
     "networks": [
       {
         "network": {
@@ -116616,7 +116730,7 @@
     "symbol": "waUniDAI",
     "name": "Aave Interest bearing UniDAI (Wormhole)",
     "logo": "/networks/solana/tokens/waUniDAI--GqHK99sW4ym6zy6Kdoh8f7sb2c3qhtB3WRqeyPbAYfmy/logo.png",
-    "priority": 3878,
+    "priority": 3877,
     "networks": [
       {
         "network": {
@@ -116645,7 +116759,7 @@
     "symbol": "waUniDAIETH",
     "name": "Aave Interest bearing UniDAIETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniDAIETH--CvG3gtKYJtKRzEUgMeb42xnd8HDjESgLtyJqQ2kuLncp/logo.svg",
-    "priority": 3879,
+    "priority": 3878,
     "networks": [
       {
         "network": {
@@ -116674,7 +116788,7 @@
     "symbol": "waUniETH",
     "name": "Aave Interest bearing UniETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniETH--Aci9xBGywrgBxQoFnL6LCoCYuX5k6AqaYhimgSZ1Fhrk/logo.png",
-    "priority": 3880,
+    "priority": 3879,
     "networks": [
       {
         "network": {
@@ -116703,7 +116817,7 @@
     "symbol": "waUniLENDETH",
     "name": "Aave Interest bearing UniLENDETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniLENDETH--Hc1zHQxg1k2JVwvuv3kqbCyZDEJYfDdNftBMab4EMUx9/logo.svg",
-    "priority": 3881,
+    "priority": 3880,
     "networks": [
       {
         "network": {
@@ -116732,7 +116846,7 @@
     "symbol": "waUniLINKETH",
     "name": "Aave Interest bearing UniLINKETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniLINKETH--KcHygDp4o7ENsHjevYM4T3u6R7KHa5VyvkJ7kpmJcYo/logo.svg",
-    "priority": 3882,
+    "priority": 3881,
     "networks": [
       {
         "network": {
@@ -116761,7 +116875,7 @@
     "symbol": "waUniMKRETH",
     "name": "Aave Interest bearing UniMKRETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniMKRETH--9PejEmx6NKDHgf6jpgAWwZsibURKifBakjzDQdtCtAXT/logo.svg",
-    "priority": 3883,
+    "priority": 3882,
     "networks": [
       {
         "network": {
@@ -116790,7 +116904,7 @@
     "symbol": "waUniSETHETH",
     "name": "Aave Interest bearing UniSETHETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniSETHETH--7LUdsedi7qpTJGnFpZo6mWqVtKKpccr9XrQGxJ2xUDPT/logo.svg",
-    "priority": 3884,
+    "priority": 3883,
     "networks": [
       {
         "network": {
@@ -116819,7 +116933,7 @@
     "symbol": "waUniUSDC",
     "name": "Aave Interest bearing UniUSDC (Wormhole)",
     "logo": "/networks/solana/tokens/waUniUSDC--4e4TpGVJMYiz5UBrAXuNmiVJ9yvc7ppJeAn8sXmbnmDi/logo.png",
-    "priority": 3885,
+    "priority": 3884,
     "networks": [
       {
         "network": {
@@ -116848,7 +116962,7 @@
     "symbol": "waUniUSDCETH",
     "name": "Aave Interest bearing UniUSDCETH (Wormhole)",
     "logo": "/networks/solana/tokens/waUniUSDCETH--GSv5ECZaMfaceZK4WKKzA4tKVDkqtfBASECcmYFWcy4G/logo.svg",
-    "priority": 3886,
+    "priority": 3885,
     "networks": [
       {
         "network": {
@@ -116877,7 +116991,7 @@
     "symbol": "waUniUSDT",
     "name": "Aave Interest bearing UniUSDT (Wormhole)",
     "logo": "/networks/solana/tokens/waUniUSDT--49LoAnQQdo9171zfcWRUoQLYSScrxXobbuwt14xjvfVm/logo.png",
-    "priority": 3887,
+    "priority": 3886,
     "networks": [
       {
         "network": {
@@ -116906,7 +117020,7 @@
     "symbol": "waWBTC",
     "name": "Aave interest bearing WBTC (Wormhole)",
     "logo": "/networks/solana/tokens/waWBTC--3QTknQ3i27rDKm5hvBaScFLQ34xX9N7J7XfEFwy27qbZ/logo.svg",
-    "priority": 3888,
+    "priority": 3887,
     "networks": [
       {
         "network": {
@@ -116935,7 +117049,7 @@
     "symbol": "waWETH",
     "name": "Aave interest bearing WETH (Wormhole)",
     "logo": "/networks/solana/tokens/waWETH--EbpkofeWyiQouGyxQAgXxEyGtjgq13NSucX3CNvucNpb/logo.png",
-    "priority": 3889,
+    "priority": 3888,
     "networks": [
       {
         "network": {
@@ -116964,7 +117078,7 @@
     "symbol": "waYFI",
     "name": "Aave interest bearing YFI (Wormhole)",
     "logo": "/networks/solana/tokens/waYFI--67uaa3Z7SX7GC6dqSTjpJLnySLXZpCAK9MHMi3232Bfb/logo.svg",
-    "priority": 3890,
+    "priority": 3889,
     "networks": [
       {
         "network": {
@@ -116993,7 +117107,7 @@
     "symbol": "waZRX",
     "name": "Aave interest bearing ZRX (Wormhole)",
     "logo": "/networks/solana/tokens/waZRX--9xS6et5uvQ64QsmaGMfzfXrwTsfYPjwEWuiPnBGFgfw/logo.svg",
-    "priority": 3891,
+    "priority": 3890,
     "networks": [
       {
         "network": {
@@ -117022,7 +117136,7 @@
     "symbol": "warNXM",
     "name": "Armor NXM (Wormhole)",
     "logo": "/networks/solana/tokens/warNXM--Cw26Yz3rAN42mM5WpKriuGvbXnvRYmFA9sbBWH49KyqL/logo.png",
-    "priority": 3892,
+    "priority": 3891,
     "networks": [
       {
         "network": {
@@ -117051,7 +117165,7 @@
     "symbol": "weRSDL",
     "name": "UnFederalReserveToken (Wormhole)",
     "logo": "/networks/solana/tokens/weRSDL--BX2gcRRS12iqFzKCpvTt4krBBYNymR9JBDZBxzfFLnbF/logo.png",
-    "priority": 3893,
+    "priority": 3892,
     "networks": [
       {
         "network": {
@@ -117080,7 +117194,7 @@
     "symbol": "wen-token",
     "name": "wen-token",
     "logo": "/networks/solana/tokens/wen-token--64SqEfHtu4bZ6jr1mAxaWrLFdMngbKbru9AyaG2Dyk5T/logo.png",
-    "priority": 3894,
+    "priority": 3893,
     "networks": [
       {
         "network": {
@@ -117109,7 +117223,7 @@
     "symbol": "wen-token-2",
     "name": "wen-token-2",
     "logo": "/networks/solana/tokens/wen-token-2--9axWWN2FY8njSSQReepkiSE56U2yAvPFGuaXRQNdkZaS/logo.png",
-    "priority": 3895,
+    "priority": 3894,
     "networks": [
       {
         "network": {
@@ -117138,7 +117252,7 @@
     "symbol": "whETHSOL",
     "name": "Orca Aquafarm Token (whETH/SOL[aquafarm])",
     "logo": "/networks/solana/tokens/whETHSOL--FkHQBBZGh5GS4GcXpcVksKYUUkLTNn6Yk1PCMxucR2AK/logo.svg",
-    "priority": 3896,
+    "priority": 3895,
     "networks": [
       {
         "network": {
@@ -117167,7 +117281,7 @@
     "symbol": "whETHUSDC",
     "name": "Orca Aquafarm Token (whETH/USDC[aquafarm])",
     "logo": "/networks/solana/tokens/whETHUSDC--B11Xp26xU2gzjToJEuGswvr6Jtidfh4GRUyCWzWMNdQZ/logo.svg",
-    "priority": 3897,
+    "priority": 3896,
     "networks": [
       {
         "network": {
@@ -117196,7 +117310,7 @@
     "symbol": "wrenBTC",
     "name": "renBTC (Wormhole)",
     "logo": "/networks/solana/tokens/wrenBTC--EK6iyvvqvQtsWYcySrZVHkXjCLX494r9PhnDWJaX1CPu/logo.png",
-    "priority": 3898,
+    "priority": 3897,
     "networks": [
       {
         "network": {
@@ -117225,7 +117339,7 @@
     "symbol": "wsUSD",
     "name": "Synth sUSD (Wormhole)",
     "logo": "/networks/solana/tokens/wsUSD--CCGLdsokcybeF8NrCcu1RSQK8isNBjBA58kVEMTHTKjx/logo.png",
-    "priority": 3899,
+    "priority": 3898,
     "networks": [
       {
         "network": {
@@ -117254,7 +117368,7 @@
     "symbol": "wstETH",
     "name": "Lido Wrapped Staked ETH",
     "logo": "/networks/solana/tokens/wstETH--ZScHuTtqZukUrtZS43teTKGs2VqkKL8k4QCouR2n6Uo/logo.png",
-    "priority": 3900,
+    "priority": 3899,
     "networks": [
       {
         "network": {
@@ -117283,7 +117397,7 @@
     "symbol": "wstkAAVE",
     "name": "Staked Aave (Wormhole)",
     "logo": "/networks/solana/tokens/wstkAAVE--9NDu1wdjZ7GiY7foAXhia9h1wQU45oTUzyMZKJ31V7JA/logo.png",
-    "priority": 3901,
+    "priority": 3900,
     "networks": [
       {
         "network": {
@@ -117312,7 +117426,7 @@
     "symbol": "wwANATHA",
     "name": "Wrapped ANATHA (Wormhole)",
     "logo": "/networks/solana/tokens/wwANATHA--4xh8iC54UgaNpY4h34rxfZBSc9L2fBB8gWcYtDGHjxhN/logo.png",
-    "priority": 3902,
+    "priority": 3901,
     "networks": [
       {
         "network": {
@@ -117341,7 +117455,7 @@
     "symbol": "xABR",
     "name": "Allbridge Staking",
     "logo": "/networks/solana/tokens/xABR--xAx6d1sjmBvpWkVZQEqgUvPmGBNndEXPxYpr3QVp61H/logo.svg",
-    "priority": 3903,
+    "priority": 3902,
     "networks": [
       {
         "network": {
@@ -117370,7 +117484,7 @@
     "symbol": "xBTC",
     "name": "Synthetic BTC",
     "logo": "/networks/solana/tokens/xBTC--HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D/logo.svg",
-    "priority": 3904,
+    "priority": 3903,
     "networks": [
       {
         "network": {
@@ -117399,7 +117513,7 @@
     "symbol": "xETH",
     "name": "Synthetic ETH",
     "logo": "/networks/solana/tokens/xETH--8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK/logo.svg",
-    "priority": 3905,
+    "priority": 3904,
     "networks": [
       {
         "network": {
@@ -117428,7 +117542,7 @@
     "symbol": "xFTT",
     "name": "Synthetic FTT",
     "logo": "/networks/solana/tokens/xFTT--Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9/logo.svg",
-    "priority": 3906,
+    "priority": 3905,
     "networks": [
       {
         "network": {
@@ -117457,7 +117571,7 @@
     "symbol": "xSOL",
     "name": "Synthetic SOL",
     "logo": "/networks/solana/tokens/xSOL--BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov/logo.svg",
-    "priority": 3907,
+    "priority": 3906,
     "networks": [
       {
         "network": {
@@ -117486,7 +117600,7 @@
     "symbol": "xSTEP",
     "name": "Staked Step",
     "logo": "/networks/solana/tokens/xSTEP--xStpgUCss9piqeFUk2iLVcvJEGhAdJxJQuwLkXP555G/logo.svg",
-    "priority": 3908,
+    "priority": 3907,
     "networks": [
       {
         "network": {
@@ -117515,7 +117629,7 @@
     "symbol": "xUSD",
     "name": "Synthetic USD",
     "logo": "/networks/solana/tokens/xUSD--83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y/logo.svg",
-    "priority": 3909,
+    "priority": 3908,
     "networks": [
       {
         "network": {
@@ -117544,7 +117658,7 @@
     "symbol": "zBTC",
     "name": "zBTC (ACUMEN)",
     "logo": "/networks/solana/tokens/zBTC--DFTZmEopSWrj6YcsmQAAxypN7cHM3mnruEisJPQFJbs7/logo.png",
-    "priority": 3910,
+    "priority": 3909,
     "networks": [
       {
         "network": {
@@ -117573,7 +117687,7 @@
     "symbol": "zETH",
     "name": "zETH (ACUMEN)",
     "logo": "/networks/solana/tokens/zETH--A8pnvbKWmTjjnUMzmY6pDJRHy3QdQNdqJdL1VFYXX4oW/logo.png",
-    "priority": 3911,
+    "priority": 3910,
     "networks": [
       {
         "network": {
@@ -117602,7 +117716,7 @@
     "symbol": "zRAY",
     "name": "zRAY (ACUMEN)",
     "logo": "/networks/solana/tokens/zRAY--7wZsSyzD4Ba8ZkPhRh62KshQc8TQYiB5KtdNknywE3k4/logo.png",
-    "priority": 3912,
+    "priority": 3911,
     "networks": [
       {
         "network": {
@@ -117631,7 +117745,7 @@
     "symbol": "zSOL",
     "name": "zSOL (ACUMEN)",
     "logo": "/networks/solana/tokens/zSOL--HRhCiCe8WLC4Jsy43Jkhq3poEWpjgXKD1U26XACReimt/logo.png",
-    "priority": 3913,
+    "priority": 3912,
     "networks": [
       {
         "network": {
@@ -117660,7 +117774,7 @@
     "symbol": "zSRM",
     "name": "zSRM (ACUMEN)",
     "logo": "/networks/solana/tokens/zSRM--9hZt5mP139TvzDBZHtruXxAyjYHiovKXfxW6XNYiofae/logo.png",
-    "priority": 3914,
+    "priority": 3913,
     "networks": [
       {
         "network": {
@@ -117689,7 +117803,7 @@
     "symbol": "zSTEP",
     "name": "zSTEP (ACUMEN)",
     "logo": "/networks/solana/tokens/zSTEP--BR31LZKtry5tyjVtZ49PFZoZjtE5SeS4rjVMuL9Xiyer/logo.png",
-    "priority": 3915,
+    "priority": 3914,
     "networks": [
       {
         "network": {
@@ -117718,7 +117832,7 @@
     "symbol": "zUSDC",
     "name": "zUSDC (ACUMEN)",
     "logo": "/networks/solana/tokens/zUSDC--2LBYxD4Jzipk1bEREW6vQk163cj27mUSxmHzW2ujXFNy/logo.png",
-    "priority": 3916,
+    "priority": 3915,
     "networks": [
       {
         "network": {
@@ -117747,7 +117861,7 @@
     "symbol": "0xMR",
     "name": "0xMonero",
     "logo": "/networks/avalanche-c/tokens/0xMR--0xc309fd43f845a46aa2a4c75459b076543c6e9f4a/logo.png",
-    "priority": 3917,
+    "priority": 3916,
     "networks": [
       {
         "network": {
@@ -117776,7 +117890,7 @@
     "symbol": "ABLOCK",
     "name": "ANY Blocknet",
     "logo": "/networks/avalanche-c/tokens/ABLOCK--0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50/logo.jpg",
-    "priority": 3918,
+    "priority": 3917,
     "networks": [
       {
         "network": {
@@ -117805,7 +117919,7 @@
     "symbol": "ANYAN",
     "name": "AvaNyan",
     "logo": "/networks/avalanche-c/tokens/ANYAN--0xf54501fbc97d5cb9c8b96480996a397e07516b2e/logo.jpg",
-    "priority": 3919,
+    "priority": 3918,
     "networks": [
       {
         "network": {
@@ -117834,7 +117948,7 @@
     "symbol": "APE-X",
     "name": "Ape X",
     "logo": "/networks/avalanche-c/tokens/APE-X--0xd039c9079ca7f2a87d632a9c0d7cea0137bacfb5/logo.jpg",
-    "priority": 3920,
+    "priority": 3919,
     "networks": [
       {
         "network": {
@@ -117863,7 +117977,7 @@
     "symbol": "APEIN",
     "name": "Ape In",
     "logo": "/networks/avalanche-c/tokens/APEIN--0x938fe3788222a74924e062120e7bfac829c719fb/logo.PNG",
-    "priority": 3921,
+    "priority": 3920,
     "networks": [
       {
         "network": {
@@ -117892,7 +118006,7 @@
     "symbol": "AVAI",
     "name": "Orca AVAI",
     "logo": "/networks/avalanche-c/tokens/AVAI--0x346a59146b9b4a77100d369a3d18e8007a9f46a6/logo.png",
-    "priority": 3922,
+    "priority": 3921,
     "networks": [
       {
         "network": {
@@ -117921,7 +118035,7 @@
     "symbol": "AVME",
     "name": "AVME",
     "logo": "/networks/avalanche-c/tokens/AVME--0x1ecd47ff4d9598f89721a2866bfeb99505a413ed/logo.png",
-    "priority": 3923,
+    "priority": 3922,
     "networks": [
       {
         "network": {
@@ -117950,7 +118064,7 @@
     "symbol": "AVXT",
     "name": "Avaxtars Token",
     "logo": "/networks/avalanche-c/tokens/AVXT--0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.PNG",
-    "priority": 3924,
+    "priority": 3923,
     "networks": [
       {
         "network": {
@@ -117979,7 +118093,7 @@
     "symbol": "AceD",
     "name": "AceD",
     "logo": "/networks/avalanche-c/tokens/AceD--0x0a15ed1b1f1be0b2024b4d22b4f19ebb99a6fd11/logo.png",
-    "priority": 3925,
+    "priority": 3924,
     "networks": [
       {
         "network": {
@@ -118008,7 +118122,7 @@
     "symbol": "BLIZZ",
     "name": "Blizzard Network",
     "logo": "/networks/avalanche-c/tokens/BLIZZ--0xb147656604217a03fe2c73c4838770df8d9d21b8/logo.PNG",
-    "priority": 3926,
+    "priority": 3925,
     "networks": [
       {
         "network": {
@@ -118037,7 +118151,7 @@
     "symbol": "BLY",
     "name": "Blocery Token",
     "logo": "/networks/avalanche-c/tokens/BLY--0xeee72b81fc4cf5a4bf9dc10c1d12f73c440ff7e9/logo.png",
-    "priority": 3927,
+    "priority": 3926,
     "networks": [
       {
         "network": {
@@ -118066,7 +118180,7 @@
     "symbol": "BOOFI",
     "name": "Boo Finance",
     "logo": "/networks/avalanche-c/tokens/BOOFI--0xb00f1ad977a949a3ccc389ca1d1282a2946963b0/logo.jpg",
-    "priority": 3928,
+    "priority": 3927,
     "networks": [
       {
         "network": {
@@ -118095,7 +118209,7 @@
     "symbol": "CFi",
     "name": "CyberFi Token",
     "logo": "/networks/avalanche-c/tokens/CFi--0xd77b301d644608ee1e3dc56c3cf8540e6c9ec60f/logo.png",
-    "priority": 3929,
+    "priority": 3928,
     "networks": [
       {
         "network": {
@@ -118124,7 +118238,7 @@
     "symbol": "CHIHUA",
     "name": "Chihuahuax",
     "logo": "/networks/avalanche-c/tokens/CHIHUA--0x4735721ed62713e3a141c939f4aa55ca8ad5f66a/logo.png",
-    "priority": 3930,
+    "priority": 3929,
     "networks": [
       {
         "network": {
@@ -118153,7 +118267,7 @@
     "symbol": "CNR",
     "name": "Canary",
     "logo": "/networks/avalanche-c/tokens/CNR--0x8d88e48465f30acfb8dac0b3e35c9d6d7d36abaf/logo.png",
-    "priority": 3931,
+    "priority": 3930,
     "networks": [
       {
         "network": {
@@ -118182,7 +118296,7 @@
     "symbol": "CYCLE",
     "name": "Cycle Token",
     "logo": "/networks/avalanche-c/tokens/CYCLE--0x81440c939f2c1e34fc7048e518a637205a632a74/logo.png",
-    "priority": 3932,
+    "priority": 3931,
     "networks": [
       {
         "network": {
@@ -118211,7 +118325,7 @@
     "symbol": "DREGG",
     "name": "Dragon Egg",
     "logo": "/networks/avalanche-c/tokens/DREGG--0x88c090496125b751b4e3ce4d3fdb8e47dd079c57/logo.png",
-    "priority": 3933,
+    "priority": 3932,
     "networks": [
       {
         "network": {
@@ -118240,7 +118354,7 @@
     "symbol": "ELK",
     "name": "Elk Finance",
     "logo": "/networks/avalanche-c/tokens/ELK--0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/logo.png",
-    "priority": 3934,
+    "priority": 3933,
     "networks": [
       {
         "network": {
@@ -118269,7 +118383,7 @@
     "symbol": "EVRT",
     "name": "Everest Token",
     "logo": "/networks/avalanche-c/tokens/EVRT--0x3aca5545e76746a3fe13ea66b24bc0ebcc51e6b4/logo.png",
-    "priority": 3935,
+    "priority": 3934,
     "networks": [
       {
         "network": {
@@ -118298,7 +118412,7 @@
     "symbol": "GB",
     "name": "Good Bridging",
     "logo": "/networks/avalanche-c/tokens/GB--0x90842eb834cfd2a1db0b1512b254a18e4d396215/logo.jpg",
-    "priority": 3936,
+    "priority": 3935,
     "networks": [
       {
         "network": {
@@ -118327,7 +118441,7 @@
     "symbol": "GDL",
     "name": "Gondola Finance",
     "logo": "/networks/avalanche-c/tokens/GDL--0xd606199557c8ab6f4cc70bd03facc96ca576f142/logo.png",
-    "priority": 3937,
+    "priority": 3936,
     "networks": [
       {
         "network": {
@@ -118356,7 +118470,7 @@
     "symbol": "GOLDx",
     "name": "dForce",
     "logo": "/networks/avalanche-c/tokens/GOLDx--0xe3edb25e952e9b3575efb71de14651ef3f2e8faf/logo.png",
-    "priority": 3938,
+    "priority": 3937,
     "networks": [
       {
         "network": {
@@ -118385,7 +118499,7 @@
     "symbol": "HCT",
     "name": "HurricaneSwap Token",
     "logo": "/networks/avalanche-c/tokens/HCT--0x45c13620b55c35a5f539d26e88247011eb10fdbd/logo.PNG",
-    "priority": 3939,
+    "priority": 3938,
     "networks": [
       {
         "network": {
@@ -118414,7 +118528,7 @@
     "symbol": "HOOP",
     "name": "Hoopoe",
     "logo": "/networks/avalanche-c/tokens/HOOP--0x0592af5414f2f8d90a5ae3c25e937804d3965c87/logo.PNG",
-    "priority": 3940,
+    "priority": 3939,
     "networks": [
       {
         "network": {
@@ -118443,7 +118557,7 @@
     "symbol": "HUSKY",
     "name": "Husky AVAX",
     "logo": "/networks/avalanche-c/tokens/HUSKY--0x65378b697853568da9ff8eab60c13e1ee9f4a654/logo.png",
-    "priority": 3941,
+    "priority": 3940,
     "networks": [
       {
         "network": {
@@ -118472,7 +118586,7 @@
     "symbol": "ICUBE",
     "name": "IceCubes Finance",
     "logo": "/networks/avalanche-c/tokens/ICUBE--0x951c8a8dee33bd5039a71e7bd4244d5659cf1517/logo.png",
-    "priority": 3942,
+    "priority": 3941,
     "networks": [
       {
         "network": {
@@ -118501,7 +118615,7 @@
     "symbol": "JOE",
     "name": "JOE",
     "logo": "/networks/avalanche-c/tokens/JOE--0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/logo.png",
-    "priority": 3943,
+    "priority": 3942,
     "networks": [
       {
         "network": {
@@ -118530,7 +118644,7 @@
     "symbol": "KLO",
     "name": "Kalao",
     "logo": "/networks/avalanche-c/tokens/KLO--0xb27c8941a7df8958a1778c0259f76d1f8b711c35/logo.jpg",
-    "priority": 3944,
+    "priority": 3943,
     "networks": [
       {
         "network": {
@@ -118559,7 +118673,7 @@
     "symbol": "LOC",
     "name": "LockChain",
     "logo": "/networks/avalanche-c/tokens/LOC--0xb7617ad97645729f41cfd969312532e080f03864/logo.png",
-    "priority": 3945,
+    "priority": 3944,
     "networks": [
       {
         "network": {
@@ -118588,7 +118702,7 @@
     "symbol": "LYD",
     "name": "Lydia Finance",
     "logo": "/networks/avalanche-c/tokens/LYD--0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/logo.png",
-    "priority": 3946,
+    "priority": 3945,
     "networks": [
       {
         "network": {
@@ -118617,7 +118731,7 @@
     "symbol": "LYK",
     "name": "Luyuka",
     "logo": "/networks/avalanche-c/tokens/LYK--0xb3f52c360201201d366efd2cda4db78e00cb9d5d/logo.png",
-    "priority": 3947,
+    "priority": 3946,
     "networks": [
       {
         "network": {
@@ -118646,7 +118760,7 @@
     "symbol": "LYXe",
     "name": "LUKSO Token",
     "logo": "/networks/avalanche-c/tokens/LYXe--0xcd82b8f5f145abb08f8c495bdb675d1ac4d40eb2/logo.png",
-    "priority": 3948,
+    "priority": 3947,
     "networks": [
       {
         "network": {
@@ -118675,7 +118789,7 @@
     "symbol": "MYAK",
     "name": "MiniYAK",
     "logo": "/networks/avalanche-c/tokens/MYAK--0xddaaad7366b455aff8e7c82940c43ceb5829b604/logo.png",
-    "priority": 3949,
+    "priority": 3948,
     "networks": [
       {
         "network": {
@@ -118704,7 +118818,7 @@
     "symbol": "NBT",
     "name": "NIX Bridge Token",
     "logo": "/networks/avalanche-c/tokens/NBT--0x3e6867bb936e83bc686a89fdbfab3fd0d6ee3de8/logo.png",
-    "priority": 3950,
+    "priority": 3949,
     "networks": [
       {
         "network": {
@@ -118733,7 +118847,7 @@
     "symbol": "NFTD",
     "name": "NFTrade",
     "logo": "/networks/avalanche-c/tokens/NFTD--0x8e0fe2947752be0d5acf73aae77362daf79cb379/logo.png",
-    "priority": 3951,
+    "priority": 3950,
     "networks": [
       {
         "network": {
@@ -118762,7 +118876,7 @@
     "symbol": "OH",
     "name": "Oh  Finance",
     "logo": "/networks/avalanche-c/tokens/OH--0x937e077abaea52d3abf879c9b9d3f2ebd15baa21/logo.png",
-    "priority": 3952,
+    "priority": 3951,
     "networks": [
       {
         "network": {
@@ -118791,7 +118905,7 @@
     "symbol": "OLIVE",
     "name": "Olive Cash",
     "logo": "/networks/avalanche-c/tokens/OLIVE--0x617724974218a18769020a70162165a539c07e8a/logo.png",
-    "priority": 3953,
+    "priority": 3952,
     "networks": [
       {
         "network": {
@@ -118820,7 +118934,7 @@
     "symbol": "OPUS",
     "name": "Canopus",
     "logo": "/networks/avalanche-c/tokens/OPUS--0x76076880e1ebbce597e6e15c47386cd34de4930f/logo.png",
-    "priority": 3954,
+    "priority": 3953,
     "networks": [
       {
         "network": {
@@ -118849,7 +118963,7 @@
     "symbol": "PEFI",
     "name": "Penguin Finance",
     "logo": "/networks/avalanche-c/tokens/PEFI--0xe896cdeaac9615145c0ca09c8cd5c25bced6384c/logo.png",
-    "priority": 3955,
+    "priority": 3954,
     "networks": [
       {
         "network": {
@@ -118878,7 +118992,7 @@
     "symbol": "PNG",
     "name": "Pangolin",
     "logo": "/networks/avalanche-c/tokens/PNG--0x60781c2586d68229fde47564546784ab3faca982/logo.jpg",
-    "priority": 3956,
+    "priority": 3955,
     "networks": [
       {
         "network": {
@@ -118907,7 +119021,7 @@
     "symbol": "RFuel",
     "name": "Rio Fuel Token",
     "logo": "/networks/avalanche-c/tokens/RFuel--0x3361a925ecba04e4de70c0fa6310e710a2079a28/logo.png",
-    "priority": 3957,
+    "priority": 3956,
     "networks": [
       {
         "network": {
@@ -118936,7 +119050,7 @@
     "symbol": "ROCO",
     "name": "Roco Finance",
     "logo": "/networks/avalanche-c/tokens/ROCO--0xb2a85c5ecea99187a977ac34303b80acbddfa208/logo.png",
-    "priority": 3958,
+    "priority": 3957,
     "networks": [
       {
         "network": {
@@ -118965,7 +119079,7 @@
     "symbol": "SAFEMOONA",
     "name": "SafemoonAvax",
     "logo": "/networks/avalanche-c/tokens/SAFEMOONA--0x4501e37a79cf953116331a105b3644d07b74c0f8/logo.png",
-    "priority": 3959,
+    "priority": 3958,
     "networks": [
       {
         "network": {
@@ -118994,7 +119108,7 @@
     "symbol": "SHERPA",
     "name": "Sherpa",
     "logo": "/networks/avalanche-c/tokens/SHERPA--0xa5e59761ebd4436fa4d20e1a27cba29fb2471fc6/logo.png",
-    "priority": 3960,
+    "priority": 3959,
     "networks": [
       {
         "network": {
@@ -119023,7 +119137,7 @@
     "symbol": "SHIBX",
     "name": "Shibavax",
     "logo": "/networks/avalanche-c/tokens/SHIBX--0x440abbf18c54b2782a4917b80a1746d3a2c2cce1/logo.jpg",
-    "priority": 3961,
+    "priority": 3960,
     "networks": [
       {
         "network": {
@@ -119052,7 +119166,7 @@
     "symbol": "SLUSH",
     "name": "IceSlush Finance",
     "logo": "/networks/avalanche-c/tokens/SLUSH--0x28bf9cb0a8c0a6fb01680daaae9d6ae76234491b/logo.png",
-    "priority": 3962,
+    "priority": 3961,
     "networks": [
       {
         "network": {
@@ -119081,7 +119195,7 @@
     "symbol": "SNOB",
     "name": "Snowball",
     "logo": "/networks/avalanche-c/tokens/SNOB--0xc38f41a296a4493ff429f1238e030924a1542e50/logo.png",
-    "priority": 3963,
+    "priority": 3962,
     "networks": [
       {
         "network": {
@@ -119110,7 +119224,7 @@
     "symbol": "SNRW",
     "name": "Santrast",
     "logo": "/networks/avalanche-c/tokens/SNRW--0xe677bdc4f5ac7ef7701f4199f25abad34d41fd7f/logo.png",
-    "priority": 3964,
+    "priority": 3963,
     "networks": [
       {
         "network": {
@@ -119139,7 +119253,7 @@
     "symbol": "SPELL",
     "name": "Spell Token",
     "logo": "/networks/avalanche-c/tokens/SPELL--0xce1bffbd5374dac86a2893119683f4911a2f7814/logo.png",
-    "priority": 3965,
+    "priority": 3964,
     "networks": [
       {
         "network": {
@@ -119168,7 +119282,7 @@
     "symbol": "SPORE",
     "name": "Spore",
     "logo": "/networks/avalanche-c/tokens/SPORE--0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985/logo.png",
-    "priority": 3966,
+    "priority": 3965,
     "networks": [
       {
         "network": {
@@ -119197,7 +119311,7 @@
     "symbol": "ST",
     "name": "Simple Token",
     "logo": "/networks/avalanche-c/tokens/ST--0x7de7dfe1a594bcbab1c0cd2ae0a530a019ce14ed/logo.png",
-    "priority": 3967,
+    "priority": 3966,
     "networks": [
       {
         "network": {
@@ -119226,7 +119340,7 @@
     "symbol": "STM",
     "name": "Streamity",
     "logo": "/networks/avalanche-c/tokens/STM--0xa62cbcb4f5485ee6ef6b44083c561f9e1f2b740a/logo.png",
-    "priority": 3968,
+    "priority": 3967,
     "networks": [
       {
         "network": {
@@ -119255,7 +119369,7 @@
     "symbol": "STORM",
     "name": "Storm Token",
     "logo": "/networks/avalanche-c/tokens/STORM--0x6afd5a1ea4b793cc1526d6dc7e99a608b356ef7b/logo.png",
-    "priority": 3969,
+    "priority": 3968,
     "networks": [
       {
         "network": {
@@ -119284,7 +119398,7 @@
     "symbol": "SWIFT",
     "name": "Swift Finance",
     "logo": "/networks/avalanche-c/tokens/SWIFT--0x0aa4ef05b43700bf4b6e6dc83ea4e9c2cf6af0fa/logo.png",
-    "priority": 3970,
+    "priority": 3969,
     "networks": [
       {
         "network": {
@@ -119313,7 +119427,7 @@
     "symbol": "TBTC",
     "name": "tBTC",
     "logo": "/networks/avalanche-c/tokens/TBTC--0x1c24d4ef397f6f8c80403f52e9d11bef1d129a93/logo.png",
-    "priority": 3971,
+    "priority": 3970,
     "networks": [
       {
         "network": {
@@ -119342,7 +119456,7 @@
     "symbol": "TEDDY",
     "name": "Teddy Cash",
     "logo": "/networks/avalanche-c/tokens/TEDDY--0x094bd7b2d99711a1486fb94d4395801c6d0fddcc/logo.png",
-    "priority": 3972,
+    "priority": 3971,
     "networks": [
       {
         "network": {
@@ -119371,7 +119485,7 @@
     "symbol": "TNGLV3",
     "name": "TangleV3",
     "logo": "/networks/avalanche-c/tokens/TNGLV3--0xaf1843657f00f8c048139b7103784fdefc403702/logo.PNG",
-    "priority": 3973,
+    "priority": 3972,
     "networks": [
       {
         "network": {
@@ -119400,7 +119514,7 @@
     "symbol": "TOK",
     "name": "Tokenplace",
     "logo": "/networks/avalanche-c/tokens/TOK--0xae9d2385ff2e2951dd4fa061e74c4d3dedd24347/logo.png",
-    "priority": 3974,
+    "priority": 3973,
     "networks": [
       {
         "network": {
@@ -119429,7 +119543,7 @@
     "symbol": "TUNDRA",
     "name": "Tundra Token",
     "logo": "/networks/avalanche-c/tokens/TUNDRA--0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1/logo.png",
-    "priority": 3975,
+    "priority": 3974,
     "networks": [
       {
         "network": {
@@ -119458,7 +119572,7 @@
     "symbol": "VSO",
     "name": "Verso",
     "logo": "/networks/avalanche-c/tokens/VSO--0x846d50248baf8b7ceaa9d9b53bfd12d7d7fbb25a/logo.PNG",
-    "priority": 3976,
+    "priority": 3975,
     "networks": [
       {
         "network": {
@@ -119487,7 +119601,7 @@
     "symbol": "WISEAVAX",
     "name": "WiseAvax",
     "logo": "/networks/avalanche-c/tokens/WISEAVAX--0xb86688eb60be8c6fc09afcc32a9cf4b0b6decffd/logo.png",
-    "priority": 3977,
+    "priority": 3976,
     "networks": [
       {
         "network": {
@@ -119516,7 +119630,7 @@
     "symbol": "WSOHM",
     "name": "Wrapped Staked Olym",
     "logo": "/networks/avalanche-c/tokens/WSOHM--0x8cd309e14575203535ef120b5b0ab4dded0c2073/logo.jpg",
-    "priority": 3978,
+    "priority": 3977,
     "networks": [
       {
         "network": {
@@ -119545,7 +119659,7 @@
     "symbol": "YAK",
     "name": "Yield Yak",
     "logo": "/networks/avalanche-c/tokens/YAK--0x59414b3089ce2af0010e7523dea7e2b35d776ec7/logo.png",
-    "priority": 3979,
+    "priority": 3978,
     "networks": [
       {
         "network": {
@@ -119574,7 +119688,7 @@
     "symbol": "YAY",
     "name": "YAY Games",
     "logo": "/networks/avalanche-c/tokens/YAY--0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca/logo.png",
-    "priority": 3980,
+    "priority": 3979,
     "networks": [
       {
         "network": {
@@ -119603,7 +119717,7 @@
     "symbol": "YTS",
     "name": "YetiSwap",
     "logo": "/networks/avalanche-c/tokens/YTS--0x488f73cddda1de3664775ffd91623637383d6404/logo.png",
-    "priority": 3981,
+    "priority": 3980,
     "networks": [
       {
         "network": {
@@ -119632,7 +119746,7 @@
     "symbol": "ZABU",
     "name": "Zabu Token",
     "logo": "/networks/avalanche-c/tokens/ZABU--0xdd453dbd253fa4e5e745047d93667ce9da93bbcf/logo.png",
-    "priority": 3982,
+    "priority": 3981,
     "networks": [
       {
         "network": {
@@ -119661,7 +119775,7 @@
     "symbol": "buidl",
     "name": "dfohub",
     "logo": "/networks/avalanche-c/tokens/buidl--0x933753c297ade672d68fa3296fdaffd76db7dfa2/logo.png",
-    "priority": 3983,
+    "priority": 3982,
     "networks": [
       {
         "network": {
@@ -119690,7 +119804,7 @@
     "symbol": "eMTRG",
     "name": "Meter Governance mapped by Meter.io",
     "logo": "/networks/avalanche-c/tokens/eMTRG--0x99b1b197d53511929a082ee66e7ac7e23257a4c4/logo.png",
-    "priority": 3984,
+    "priority": 3983,
     "networks": [
       {
         "network": {
@@ -119719,7 +119833,7 @@
     "symbol": "eQUAD",
     "name": "QuadrantProtocol",
     "logo": "/networks/avalanche-c/tokens/eQUAD--0xa8990b4fa2ba67f3b14814be106b88f251397d3f/logo.png",
-    "priority": 3985,
+    "priority": 3984,
     "networks": [
       {
         "network": {
@@ -119748,7 +119862,7 @@
     "symbol": "iDAI",
     "name": "Fulcrum DAI iToken",
     "logo": "/networks/avalanche-c/tokens/iDAI--0x8a8dd8dd5639174f032877b2d6c7467d8b51d561/logo.png",
-    "priority": 3986,
+    "priority": 3985,
     "networks": [
       {
         "network": {
@@ -119777,7 +119891,7 @@
     "symbol": "kSEED",
     "name": "KUSH.FINANCE",
     "logo": "/networks/avalanche-c/tokens/kSEED--0x47e4c63922766e1b386fa7296c994ac474062bd4/logo.png",
-    "priority": 3987,
+    "priority": 3986,
     "networks": [
       {
         "network": {
@@ -119806,7 +119920,7 @@
     "symbol": "mDAI",
     "name": "DMM - DAI",
     "logo": "/networks/avalanche-c/tokens/mDAI--0x6cb5008ca0cc13862cb47906f541672e8f51a6ef/logo.png",
-    "priority": 3988,
+    "priority": 3987,
     "networks": [
       {
         "network": {
@@ -119835,7 +119949,7 @@
     "symbol": "mETH",
     "name": "DMM - ETH",
     "logo": "/networks/avalanche-c/tokens/mETH--0x6fec3a5e49748088c2b9b1ef9a6a762abdd07805/logo.png",
-    "priority": 3989,
+    "priority": 3988,
     "networks": [
       {
         "network": {
@@ -119864,7 +119978,7 @@
     "symbol": "uDOO",
     "name": "uDOO",
     "logo": "/networks/avalanche-c/tokens/uDOO--0xeaa4f0c8bdc6109c92f0a5be88a035ee11d40928/logo.png",
-    "priority": 3990,
+    "priority": 3989,
     "networks": [
       {
         "network": {
@@ -119893,7 +120007,7 @@
     "symbol": "wANATHA",
     "name": "Wrapped ANATHA",
     "logo": "/networks/avalanche-c/tokens/wANATHA--0xd3e6c7e9dc08173276a17d23546cb9c24d7cd7b0/logo.png",
-    "priority": 3991,
+    "priority": 3990,
     "networks": [
       {
         "network": {

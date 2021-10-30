@@ -3857,64 +3857,6 @@
     ]
   },
   {
-    "symbol": "BNB",
-    "name": "Binance Token",
-    "logo": "/networks/polygon/tokens/BNB--0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Token",
-            "address": "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
-            "symbol": "BNB",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/BNB--0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BNB",
-    "name": "Binance Coin",
-    "logo": "/networks/polygon/tokens/BNB--0xa649325aa7c5093d12d6f98eb4378deae68ce23f/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Polygon",
-          "slug": "polygon",
-          "logo": "/networks/polygon/coins/MATIC/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Coin",
-            "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
-            "symbol": "BNB",
-            "decimals": 18,
-            "chainId": 137,
-            "logo": "/networks/polygon/tokens/BNB--0xa649325aa7c5093d12d6f98eb4378deae68ce23f/logo.png",
-            "tags": [
-              "erc20matic"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BONE",
     "name": "Bone Token",
     "logo": "/networks/polygon/tokens/BONE--0x6bb45ceac714c52342ef73ec663479da35934bf7/logo.png",
@@ -8760,35 +8702,6 @@
     ]
   },
   {
-    "symbol": "1INCH",
-    "name": "Wrapped 1INCH (Sollet)",
-    "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Solana",
-          "slug": "solana",
-          "logo": "/networks/solana/coins/SOL/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped 1INCH (Sollet)",
-            "address": "5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US",
-            "symbol": "1INCH",
-            "decimals": 6,
-            "chainId": 101,
-            "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.png",
-            "tags": [
-              "spl"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "AAPL",
     "name": "Apple Inc.",
     "logo": "/networks/solana/tokens/AAPL--8bpRdBGPt354VfABL5xugP3pmYZ2tQjzRcqjg2kmwfbF/logo.svg",
@@ -8808,35 +8721,6 @@
             "decimals": 8,
             "chainId": 101,
             "logo": "/networks/solana/tokens/AAPL--8bpRdBGPt354VfABL5xugP3pmYZ2tQjzRcqjg2kmwfbF/logo.svg",
-            "tags": [
-              "spl"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "AAVE",
-    "name": "Wrapped Aave",
-    "logo": "/networks/solana/tokens/AAVE--dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Solana",
-          "slug": "solana",
-          "logo": "/networks/solana/coins/SOL/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Wrapped Aave",
-            "address": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
-            "symbol": "AAVE",
-            "decimals": 6,
-            "chainId": 101,
-            "logo": "/networks/solana/tokens/AAVE--dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
             "tags": [
               "spl"
             ],
@@ -9050,35 +8934,6 @@
     ]
   },
   {
-    "symbol": "AVAX",
-    "name": "AVAX (Allbridge from Avalanche)",
-    "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Solana",
-          "slug": "solana",
-          "logo": "/networks/solana/coins/SOL/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "AVAX (Allbridge from Avalanche)",
-            "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
-            "symbol": "AVAX",
-            "decimals": 9,
-            "chainId": 101,
-            "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.png",
-            "tags": [
-              "spl"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "symbol": "BEAR",
     "name": "BEAR",
     "logo": "",
@@ -9214,35 +9069,6 @@
             "decimals": 9,
             "chainId": 101,
             "logo": "/networks/solana/tokens/BLOK--4796pBun8ihiecy4unZuLWoSVRmK8sf7yQMbwkkvZDH3/logo.png",
-            "tags": [
-              "spl"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BNB",
-    "name": "BNB",
-    "logo": "",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Solana",
-          "slug": "solana",
-          "logo": "/networks/solana/coins/SOL/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "BNB",
-            "address": "EjFGGJSyp9UDS8aqafET5LX49nsG326MeNezYzpiwgpQ",
-            "symbol": "BNB",
-            "decimals": 0,
-            "chainId": 101,
-            "logo": "",
             "tags": [
               "spl"
             ],
@@ -16029,35 +15855,6 @@
             "decimals": 18,
             "chainId": 43114,
             "logo": "/networks/avalanche-c/tokens/BLZ--0x6572450e88918154b6f059aa7fcaba37f5ddc490/logo.png",
-            "tags": [
-              "erc20avax"
-            ],
-            "type": "token"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "symbol": "BNB",
-    "name": "Binance Coin",
-    "logo": "/networks/avalanche-c/tokens/BNB--0x264c1383ea520f73dd837f915ef3a732e204a493/logo.png",
-    "priority": -1,
-    "networks": [
-      {
-        "network": {
-          "name": "Avalanche C-Chain",
-          "slug": "avalanche-c",
-          "logo": "/networks/avalanche-c/coins/AVAX/logo.svg"
-        },
-        "assets": [
-          {
-            "name": "Binance Coin",
-            "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
-            "symbol": "BNB",
-            "decimals": 18,
-            "chainId": 43114,
-            "logo": "/networks/avalanche-c/tokens/BNB--0x264c1383ea520f73dd837f915ef3a732e204a493/logo.png",
             "tags": [
               "erc20avax"
             ],
