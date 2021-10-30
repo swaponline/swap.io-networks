@@ -7,6 +7,7 @@
     "/networks/avalanche-x/coins/AVAX/info.json",
     "/networks/avalanche-c/tokens/WAVAX--0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/info.json",
     "/networks/binance-smart-chain/tokens/AVAX--0x1ce0c2827e2ef14d5c4f29a091d735a204794041/info.json",
-    "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/info.json"
+    "/networks/polygon/tokens/AVAX--0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b/info.json",
+    "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/info.json"
   ]
 }

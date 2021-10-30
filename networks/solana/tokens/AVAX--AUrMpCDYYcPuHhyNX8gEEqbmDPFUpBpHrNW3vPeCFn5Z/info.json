@@ -4,8 +4,10 @@
   "symbol": "AVAX",
   "decimals": 9,
   "chainId": 101,
-  "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.png",
+  "logo": "/networks/solana/tokens/AVAX--AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z/logo.svg",
   "tags": [
-    "spl"
+    "spl",
+    "wrapped",
+    "avalanche"
   ]
 }
