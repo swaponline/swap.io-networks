@@ -4,7 +4,7 @@
   "symbol": "WBNB",
   "decimals": 18,
   "chainId": 56,
-  "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.png",
+  "logo": "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/logo.svg",
   "tags": [
     "bep20",
     "wrapped",

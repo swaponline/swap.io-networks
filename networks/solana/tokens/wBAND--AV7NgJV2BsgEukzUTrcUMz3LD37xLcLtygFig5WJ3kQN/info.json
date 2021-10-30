@@ -4,8 +4,10 @@
   "symbol": "wBAND",
   "decimals": 9,
   "chainId": 101,
-  "logo": "/networks/solana/tokens/wBAND--AV7NgJV2BsgEukzUTrcUMz3LD37xLcLtygFig5WJ3kQN/logo.png",
+  "logo": "/networks/solana/tokens/wBAND--AV7NgJV2BsgEukzUTrcUMz3LD37xLcLtygFig5WJ3kQN/logo.svg",
   "tags": [
-    "spl"
+    "spl",
+    "wrapped",
+    "band"
   ]
 }

@@ -4,8 +4,10 @@
   "symbol": "1INCH",
   "decimals": 6,
   "chainId": 101,
-  "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.png",
+  "logo": "/networks/solana/tokens/1INCH--5wihEYGca7X4gSe97C5mVcqNsfxBzhdTwpv72HKs25US/logo.svg",
   "tags": [
-    "spl"
+    "spl",
+    "wrapped",
+    "1inch"
   ]
 }

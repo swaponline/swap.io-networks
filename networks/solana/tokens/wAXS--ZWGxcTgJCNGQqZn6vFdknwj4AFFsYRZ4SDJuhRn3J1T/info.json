@@ -4,8 +4,10 @@
   "symbol": "wAXS",
   "decimals": 9,
   "chainId": 101,
-  "logo": "/networks/solana/tokens/wAXS--ZWGxcTgJCNGQqZn6vFdknwj4AFFsYRZ4SDJuhRn3J1T/logo.png",
+  "logo": "/networks/solana/tokens/wAXS--ZWGxcTgJCNGQqZn6vFdknwj4AFFsYRZ4SDJuhRn3J1T/logo.svg",
   "tags": [
-    "spl"
+    "spl",
+    "wrapped",
+    "axie-infinity"
   ]
 }

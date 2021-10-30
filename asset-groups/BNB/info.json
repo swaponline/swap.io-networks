@@ -5,6 +5,10 @@
   "asset-list": [
     "/networks/binance-smart-chain/coins/BNB/info.json",
     "/networks/binance-smart-chain/tokens/WBNB--0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/info.json",
-    "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/info.json"
+    "/networks/polygon/tokens/PBNB--0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4/info.json",
+    "/networks/polygon/tokens/BNB--0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f/info.json",
+    "/networks/polygon/tokens/BNB--0xa649325aa7c5093d12d6f98eb4378deae68ce23f/info.json",
+    "/networks/solana/tokens/WBNB--9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/info.json",
+    "/networks/avalanche-c/tokens/BNB--0x264c1383ea520f73dd837f915ef3a732e204a493/info.json"
   ]
 }

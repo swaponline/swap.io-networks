@@ -4,8 +4,10 @@
   "symbol": "wAAVE",
   "decimals": 9,
   "chainId": 101,
-  "logo": "/networks/solana/tokens/wAAVE--5DQZ14hLDxveMH7NyGmTmUTRGgVAVXADp3cP2UHeH6hM/logo.png",
+  "logo": "/networks/solana/tokens/wAAVE--5DQZ14hLDxveMH7NyGmTmUTRGgVAVXADp3cP2UHeH6hM/logo.svg",
   "tags": [
-    "spl"
+    "spl",
+    "wrapped",
+    "aave"
   ]
 }

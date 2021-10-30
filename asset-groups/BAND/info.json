@@ -4,6 +4,7 @@
   "logo": "/networks/ethereum/tokens/BAND--0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/logo.svg",
   "asset-list": [
     "/networks/ethereum/tokens/BAND--0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/info.json",
-    "/networks/binance-smart-chain/tokens/BAND--0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/info.json"
+    "/networks/binance-smart-chain/tokens/BAND--0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/info.json",
+    "/networks/solana/tokens/wBAND--AV7NgJV2BsgEukzUTrcUMz3LD37xLcLtygFig5WJ3kQN/info.json"
   ]
 }

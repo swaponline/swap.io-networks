@@ -3,8 +3,10 @@
   "name": "Axie Infinity",
   "logo": "/networks/ethereum/tokens/AXS--0xf5d669627376ebd411e34b98f19c868c8aba5ada/logo.svg",
   "asset-list": [
+    "/networks/ethereum/tokens/AXS--0xbb0e17ef65f82ab018d8edd776e8dd940327b28b/info.json",
     "/networks/ethereum/tokens/AXS--0xf5d669627376ebd411e34b98f19c868c8aba5ada/info.json",
     "/networks/binance-smart-chain/tokens/AXS--0x715d400f88c167884bbcc41c5fea407ed4d2f8a0/info.json",
+    "/networks/solana/tokens/wAXS--ZWGxcTgJCNGQqZn6vFdknwj4AFFsYRZ4SDJuhRn3J1T/info.json",
     "/networks/avalanche-c/tokens/AXS--0x860d87c4ee3bf2f001a641e32fbef8f0342ba924/info.json"
   ]
 }

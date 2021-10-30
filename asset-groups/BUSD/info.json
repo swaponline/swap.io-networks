@@ -7,6 +7,11 @@
     "/networks/ethereum/tokens/aBUSD--0xa361718326c15715591c299427c62086f69923d9/info.json",
     "/networks/ethereum/tokens/aBUSDv1--0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8/info.json",
     "/networks/binance-smart-chain/tokens/BUSD--0xe9e7cea3dedca5984780bafc599bd69add087d56/info.json",
+    "/networks/polygon/tokens/BUSD--0x9fb83c0635de2e815fd1c21b3a292277540c2e8d/info.json",
+    "/networks/polygon/tokens/WBUSD--0x87ff96aba480f1813af5c780387d8de7cf7d8261/info.json",
+    "/networks/solana/tokens/wBUSD--AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX/info.json",
+    "/networks/solana/tokens/abBUSD--6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF/info.json",
+    "/networks/solana/tokens/BUSD--33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/info.json",
     "/networks/avalanche-c/tokens/BUSD--0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98/info.json",
     "/networks/avalanche-c/tokens/BUSD--0xaeb044650278731ef3dc244692ab9f64c78ffaea/info.json"
   ]
